@@ -1,0 +1,786 @@
+[
+  {
+    "Question": "Who is known as the Father of the Indian Constitution? / भारतीय संविधान के जनक किसे कहा जाता है?",
+    "A": "Mahatma Gandhi / महात्मा गांधी",
+    "B": "Jawaharlal Nehru / जवाहरलाल नेहरू",
+    "C": "B. R. Ambedkar / बी. आर. अंबेडकर",
+    "D": "Sardar Patel / सरदार पटेल",
+    "Correct": "C"
+  },
+  {
+    "Question": "In which year did India become independent? / भारत को स्वतंत्रता किस वर्ष मिली?",
+    "A": "1945",
+    "B": "1946",
+    "C": "1947",
+    "D": "1948",
+    "Correct": "C"
+  },
+  {
+    "Question": "Capital of India is? / भारत की राजधानी क्या है?",
+    "A": "Mumbai / मुंबई",
+    "B": "Kolkata / कोलकाता",
+    "C": "New Delhi / नई दिल्ली",
+    "D": "Chennai / चेन्नई",
+    "Correct": "C"
+  },
+  {
+    "Question": "Who wrote the Indian National Anthem? / भारतीय राष्ट्रगान किसने लिखा?",
+    "A": "Bankim Chandra Chatterjee / बंकिम चंद्र चट्टोपाध्याय",
+    "B": "Rabindranath Tagore / रवींद्रनाथ टैगोर",
+    "C": "Sarojini Naidu / सरोजिनी नायडू",
+    "D": "Subhash Bose / सुभाष बोस",
+    "Correct": "B"
+  },
+  {
+    "Question": "National bird of India? / भारत का राष्ट्रीय पक्षी क्या है?",
+    "A": "Crow / कौआ",
+    "B": "Peacock / मोर",
+    "C": "Eagle / चील",
+    "D": "Sparrow / गौरैया",
+    "Correct": "B"
+  },
+  {
+    "Question": "National animal of India? / भारत का राष्ट्रीय पशु क्या है?",
+    "A": "Lion / शेर",
+    "B": "Elephant / हाथी",
+    "C": "Tiger / बाघ",
+    "D": "Leopard / तेंदुआ",
+    "Correct": "C"
+  },
+  {
+    "Question": "The Ganga river originates from? / गंगा नदी का उद्गम कहाँ से होता है?",
+    "A": "Yamunotri",
+    "B": "Gangotri Glacier / गंगोत्री ग्लेशियर",
+    "C": "Kedarnath",
+    "D": "Amarnath",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who is the President of India? (2026 context) / भारत के राष्ट्रपति कौन हैं?",
+    "A": "Droupadi Murmu / द्रौपदी मुर्मू",
+    "B": "Ram Nath Kovind / राम नाथ कोविंद",
+    "C": "Pranab Mukherjee / प्रणब मुखर्जी",
+    "D": "Narendra Modi / नरेंद्र मोदी",
+    "Correct": "A"
+  },
+  {
+    "Question": "Currency of India? / भारत की मुद्रा क्या है?",
+    "A": "Dollar / डॉलर",
+    "B": "Rupee / रुपया",
+    "C": "Yen / येन",
+    "D": "Euro / यूरो",
+    "Correct": "B"
+  },
+  {
+    "Question": "How many states are there in India? / भारत में कितने राज्य हैं?",
+    "A": "28",
+    "B": "29",
+    "C": "30",
+    "D": "31",
+    "Correct": "A"
+  },
+  {
+    "Question": "Who is known as Missile Man of India? / भारत के मिसाइल मैन कौन हैं?",
+    "A": "Homi Bhabha / होमी भाभा",
+    "B": "C. V. Raman / सी. वी. रमन",
+    "C": "A. P. J. Abdul Kalam / ए. पी. जे. अब्दुल कलाम",
+    "D": "Vikram Sarabhai / विक्रम साराभाई",
+    "Correct": "C"
+  },
+  {
+    "Question": "National flower of India? / भारत का राष्ट्रीय फूल क्या है?",
+    "A": "Rose / गुलाब",
+    "B": "Lotus / कमल",
+    "C": "Sunflower / सूरजमुखी",
+    "D": "Jasmine / चमेली",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which planet is known as Red Planet? / लाल ग्रह किसे कहा जाता है?",
+    "A": "Earth / पृथ्वी",
+    "B": "Mars / मंगल",
+    "C": "Venus / शुक्र",
+    "D": "Jupiter / बृहस्पति",
+    "Correct": "B"
+  },
+  {
+    "Question": "Largest ocean in the world? / विश्व का सबसे बड़ा महासागर कौन सा है?",
+    "A": "Atlantic / अटलांटिक",
+    "B": "Indian / भारतीय",
+    "C": "Pacific / प्रशांत",
+    "D": "Arctic / आर्कटिक",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which gas do humans inhale? / मनुष्य कौन सी गैस लेते हैं?",
+    "A": "Carbon dioxide / कार्बन डाइऑक्साइड",
+    "B": "Oxygen / ऑक्सीजन",
+    "C": "Nitrogen / नाइट्रोजन",
+    "D": "Hydrogen / हाइड्रोजन",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who is Prime Minister of India? (2026 context) / भारत के प्रधानमंत्री कौन हैं?",
+    "A": "Narendra Modi / नरेंद्र मोदी",
+    "B": "Amit Shah / अमित शाह",
+    "C": "Rahul Gandhi / राहुल गांधी",
+    "D": "Manmohan Singh / मनमोहन सिंह",
+    "Correct": "A"
+  },
+  {
+    "Question": "Largest continent? / सबसे बड़ा महाद्वीप कौन सा है?",
+    "A": "Africa / अफ्रीका",
+    "B": "Asia / एशिया",
+    "C": "Europe / यूरोप",
+    "D": "Australia / ऑस्ट्रेलिया",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the longest river in the world? / विश्व की सबसे लंबी नदी कौन सी है?",
+    "A": "Amazon / अमेज़न",
+    "B": "Nile / नील",
+    "C": "Ganga / गंगा",
+    "D": "Yangtze / यांग्त्ज़ी",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which metal is liquid at room temperature? / कौन सी धातु कमरे के तापमान पर तरल होती है?",
+    "A": "Iron / लोहा",
+    "B": "Mercury / पारा",
+    "C": "Gold / सोना",
+    "D": "Silver / चांदी",
+    "Correct": "B"
+  },
+  {
+    "Question": "First Prime Minister of India? / भारत के प्रथम प्रधानमंत्री कौन थे?",
+    "A": "Mahatma Gandhi / महात्मा गांधी",
+    "B": "Jawaharlal Nehru / जवाहरलाल नेहरू",
+    "C": "Sardar Patel / सरदार पटेल",
+    "D": "Rajendra Prasad / राजेंद्र प्रसाद",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the national game of India? / भारत का राष्ट्रीय खेल क्या है?",
+    "A": "Cricket / क्रिकेट",
+    "B": "Hockey / हॉकी",
+    "C": "Football / फुटबॉल",
+    "D": "Kabaddi / कबड्डी",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who discovered gravity? / गुरुत्वाकर्षण की खोज किसने की?",
+    "A": "Einstein / आइंस्टीन",
+    "B": "Newton / न्यूटन",
+    "C": "Galileo / गैलीलियो",
+    "D": "Tesla / टेस्ला",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the smallest planet? / सबसे छोटा ग्रह कौन सा है?",
+    "A": "Mercury / बुध",
+    "B": "Mars / मंगल",
+    "C": "Venus / शुक्र",
+    "D": "Earth / पृथ्वी",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which is the tallest mountain? / सबसे ऊँचा पर्वत कौन सा है?",
+    "A": "K2 / के2",
+    "B": "Everest / एवरेस्ट",
+    "C": "Kangchenjunga / कंचनजंघा",
+    "D": "Makalu / मकालू",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which organ purifies blood? / कौन सा अंग रक्त को शुद्ध करता है?",
+    "A": "Heart / हृदय",
+    "B": "Lungs / फेफड़े",
+    "C": "Kidney / गुर्दा",
+    "D": "Brain / मस्तिष्क",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which is the largest desert in the world? / विश्व का सबसे बड़ा रेगिस्तान कौन सा है?",
+    "A": "Sahara Desert / सहारा मरुस्थल",
+    "B": "Thar Desert / थार मरुस्थल",
+    "C": "Gobi Desert / गोबी मरुस्थल",
+    "D": "Kalahari Desert / कालाहारी मरुस्थल",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which is the smallest continent? / सबसे छोटा महाद्वीप कौन सा है?",
+    "A": "Europe / यूरोप",
+    "B": "Australia / ऑस्ट्रेलिया",
+    "C": "Antarctica / अंटार्कटिका",
+    "D": "South America / दक्षिण अमेरिका",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who wrote the book 'Discovery of India'? / 'डिस्कवरी ऑफ इंडिया' पुस्तक किसने लिखी?",
+    "A": "Mahatma Gandhi / महात्मा गांधी",
+    "B": "Jawaharlal Nehru / जवाहरलाल नेहरू",
+    "C": "B. R. Ambedkar / बी. आर. अंबेडकर",
+    "D": "Sardar Patel / सरदार पटेल",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the hardest natural substance? / सबसे कठोर प्राकृतिक पदार्थ कौन सा है?",
+    "A": "Gold / सोना",
+    "B": "Iron / लोहा",
+    "C": "Diamond / हीरा",
+    "D": "Silver / चांदी",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which gas is used in photosynthesis? / प्रकाश संश्लेषण में कौन सी गैस उपयोग होती है?",
+    "A": "Oxygen / ऑक्सीजन",
+    "B": "Nitrogen / नाइट्रोजन",
+    "C": "Carbon dioxide / कार्बन डाइऑक्साइड",
+    "D": "Hydrogen / हाइड्रोजन",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which organ is responsible for pumping blood? / रक्त पंप करने वाला अंग कौन सा है?",
+    "A": "Brain / मस्तिष्क",
+    "B": "Heart / हृदय",
+    "C": "Lungs / फेफड़े",
+    "D": "Kidney / गुर्दा",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the national tree of India? / भारत का राष्ट्रीय वृक्ष क्या है?",
+    "A": "Neem / नीम",
+    "B": "Peepal / पीपल",
+    "C": "Banyan / बरगद",
+    "D": "Mango / आम",
+    "Correct": "C"
+  },
+  {
+    "Question": "Who is known as Iron Man of India? / भारत के लौह पुरुष कौन हैं?",
+    "A": "Jawaharlal Nehru / जवाहरलाल नेहरू",
+    "B": "Sardar Vallabhbhai Patel / सरदार वल्लभभाई पटेल",
+    "C": "Subhash Chandra Bose / सुभाष चंद्र बोस",
+    "D": "B. R. Ambedkar / बी. आर. अंबेडकर",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the longest bone in human body? / मानव शरीर की सबसे लंबी हड्डी कौन सी है?",
+    "A": "Femur / फीमर",
+    "B": "Tibia / टिबिया",
+    "C": "Humerus / ह्यूमरस",
+    "D": "Radius / रेडियस",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which vitamin is produced by sunlight? / सूर्य प्रकाश से कौन सा विटामिन बनता है?",
+    "A": "Vitamin A / विटामिन A",
+    "B": "Vitamin B / विटामिन B",
+    "C": "Vitamin C / विटामिन C",
+    "D": "Vitamin D / विटामिन D",
+    "Correct": "D"
+  },
+  {
+    "Question": "Which is the national fruit of India? / भारत का राष्ट्रीय फल क्या है?",
+    "A": "Apple / सेब",
+    "B": "Banana / केला",
+    "C": "Mango / आम",
+    "D": "Orange / संतरा",
+    "Correct": "C"
+  },
+  {
+    "Question": "Who is called Father of Nation in India? / भारत में राष्ट्रपिता किसे कहा जाता है?",
+    "A": "Jawaharlal Nehru / जवाहरलाल नेहरू",
+    "B": "Mahatma Gandhi / महात्मा गांधी",
+    "C": "Subhash Bose / सुभाष बोस",
+    "D": "Bhagat Singh / भगत सिंह",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the largest gland in human body? / मानव शरीर की सबसे बड़ी ग्रंथि कौन सी है?",
+    "A": "Kidney / गुर्दा",
+    "B": "Liver / यकृत",
+    "C": "Pancreas / अग्न्याशय",
+    "D": "Spleen / प्लीहा",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the capital of USA? / अमेरिका की राजधानी क्या है?",
+    "A": "New York / न्यूयॉर्क",
+    "B": "Washington D.C. / वाशिंगटन डी.सी.",
+    "C": "Los Angeles / लॉस एंजिल्स",
+    "D": "Chicago / शिकागो",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the currency of Japan? / जापान की मुद्रा क्या है?",
+    "A": "Dollar / डॉलर",
+    "B": "Yen / येन",
+    "C": "Won / वोन",
+    "D": "Euro / यूरो",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the deepest ocean trench? / सबसे गहरी महासागरीय खाई कौन सी है?",
+    "A": "Java Trench / जावा खाई",
+    "B": "Mariana Trench / मेरियाना खाई",
+    "C": "Tonga Trench / टोंगा खाई",
+    "D": "Peru Trench / पेरू खाई",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the national aquatic animal of India? / भारत का राष्ट्रीय जलीय जीव क्या है?",
+    "A": "Shark / शार्क",
+    "B": "Dolphin / डॉल्फिन",
+    "C": "Crocodile / मगरमच्छ",
+    "D": "Whale / व्हेल",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which planet is closest to Sun? / सूर्य के सबसे निकट कौन सा ग्रह है?",
+    "A": "Venus / शुक्र",
+    "B": "Earth / पृथ्वी",
+    "C": "Mercury / बुध",
+    "D": "Mars / मंगल",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which acid is present in lemon? / नींबू में कौन सा अम्ल होता है?",
+    "A": "Acetic acid / एसीटिक अम्ल",
+    "B": "Citric acid / साइट्रिक अम्ल",
+    "C": "Lactic acid / लैक्टिक अम्ल",
+    "D": "Sulfuric acid / सल्फ्यूरिक अम्ल",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the national heritage animal of India? / भारत का राष्ट्रीय विरासत पशु क्या है?",
+    "A": "Elephant / हाथी",
+    "B": "Tiger / बाघ",
+    "C": "Cow / गाय",
+    "D": "Horse / घोड़ा",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which organ controls the human body? / मानव शरीर को नियंत्रित करने वाला अंग कौन सा है?",
+    "A": "Heart / हृदय",
+    "B": "Brain / मस्तिष्क",
+    "C": "Lungs / फेफड़े",
+    "D": "Liver / यकृत",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the largest river in India? / भारत की सबसे लंबी नदी कौन सी है?",
+    "A": "Yamuna / यमुना",
+    "B": "Brahmaputra / ब्रह्मपुत्र",
+    "C": "Ganga / गंगा",
+    "D": "Godavari / गोदावरी",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which country is called Land of Rising Sun? / उगते सूरज की भूमि किस देश को कहा जाता है?",
+    "A": "China / चीन",
+    "B": "Japan / जापान",
+    "C": "India / भारत",
+    "D": "Russia / रूस",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the largest organ in human body? / मानव शरीर का सबसे बड़ा अंग कौन सा है?",
+    "A": "Heart / हृदय",
+    "B": "Skin / त्वचा",
+    "C": "Liver / यकृत",
+    "D": "Lungs / फेफड़े",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who discovered penicillin? / पेनिसिलिन की खोज किसने की?",
+    "A": "Alexander Fleming / अलेक्जेंडर फ्लेमिंग",
+    "B": "Newton / न्यूटन",
+    "C": "Einstein / आइंस्टीन",
+    "D": "Darwin / डार्विन",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which is the national calendar of India? / भारत का राष्ट्रीय कैलेंडर कौन सा है?",
+    "A": "Gregorian calendar / ग्रेगोरियन कैलेंडर",
+    "B": "Saka calendar / शक कैलेंडर",
+    "C": "Hijri calendar / हिजरी कैलेंडर",
+    "D": "Lunar calendar / चंद्र कैलेंडर",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the study of earthquakes called? / भूकंपों के अध्ययन को क्या कहा जाता है?",
+    "A": "Seismology / भूकंप विज्ञान",
+    "B": "Geology / भूविज्ञान",
+    "C": "Meteorology / मौसम विज्ञान",
+    "D": "Astronomy / खगोल विज्ञान",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which vitamin is known as sunshine vitamin? / सूर्य विटामिन किसे कहा जाता है?",
+    "A": "Vitamin A / विटामिन A",
+    "B": "Vitamin B / विटामिन B",
+    "C": "Vitamin C / विटामिन C",
+    "D": "Vitamin D / विटामिन D",
+    "Correct": "D"
+  },
+  {
+    "Question": "Which is the capital of Maharashtra? / महाराष्ट्र की राजधानी क्या है?",
+    "A": "Pune / पुणे",
+    "B": "Nagpur / नागपुर",
+    "C": "Mumbai / मुंबई",
+    "D": "Nashik / नासिक",
+    "Correct": "C"
+  },
+  {
+    "Question": "Who is the first woman Prime Minister of India? / भारत की पहली महिला प्रधानमंत्री कौन थीं?",
+    "A": "Indira Gandhi / इंदिरा गांधी",
+    "B": "Sarojini Naidu / सरोजिनी नायडू",
+    "C": "Pratibha Patil / प्रतिभा पाटिल",
+    "D": "Sonia Gandhi / सोनिया गांधी",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which is the largest country by area? / क्षेत्रफल की दृष्टि से सबसे बड़ा देश कौन सा है?",
+    "A": "USA / अमेरिका",
+    "B": "Canada / कनाडा",
+    "C": "Russia / रूस",
+    "D": "China / चीन",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which is the smallest bone in human body? / मानव शरीर की सबसे छोटी हड्डी कौन सी है?",
+    "A": "Stapes / स्टेपीज",
+    "B": "Femur / फीमर",
+    "C": "Tibia / टिबिया",
+    "D": "Radius / रेडियस",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which is the national emblem of India based on? / भारत का राष्ट्रीय प्रतीक किस पर आधारित है?",
+    "A": "Ashoka Pillar / अशोक स्तंभ",
+    "B": "Taj Mahal / ताज महल",
+    "C": "Red Fort / लाल किला",
+    "D": "Qutub Minar / कुतुब मीनार",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which is the longest highway in India? / भारत का सबसे लंबा राजमार्ग कौन सा है?",
+    "A": "NH 44 / एनएच 44",
+    "B": "NH 1 / एनएच 1",
+    "C": "NH 7 / एनएच 7",
+    "D": "NH 8 / एनएच 8",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which is the main source of energy for Earth? / पृथ्वी पर ऊर्जा का मुख्य स्रोत क्या है?",
+    "A": "Moon / चंद्रमा",
+    "B": "Sun / सूर्य",
+    "C": "Stars / तारे",
+    "D": "Wind / हवा",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the national river of India? / भारत की राष्ट्रीय नदी कौन सी है?",
+    "A": "Yamuna / यमुना",
+    "B": "Ganga / गंगा",
+    "C": "Brahmaputra / ब्रह्मपुत्र",
+    "D": "Godavari / गोदावरी",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which gas is used in balloons? / गुब्बारों में कौन सी गैस प्रयोग होती है?",
+    "A": "Oxygen / ऑक्सीजन",
+    "B": "Hydrogen / हाइड्रोजन",
+    "C": "Helium / हीलियम",
+    "D": "Nitrogen / नाइट्रोजन",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which is the national sport of Japan? / जापान का राष्ट्रीय खेल क्या है?",
+    "A": "Karate / कराटे",
+    "B": "Sumo Wrestling / सूमो कुश्ती",
+    "C": "Judo / जूडो",
+    "D": "Taekwondo / ताइक्वांडो",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which organ helps in breathing? / सांस लेने में कौन सा अंग मदद करता है?",
+    "A": "Heart / हृदय",
+    "B": "Lungs / फेफड़े",
+    "C": "Kidney / गुर्दा",
+    "D": "Liver / यकृत",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the largest island in the world? / विश्व का सबसे बड़ा द्वीप कौन सा है?",
+    "A": "Greenland / ग्रीनलैंड",
+    "B": "Australia / ऑस्ट्रेलिया",
+    "C": "Madagascar / मेडागास्कर",
+    "D": "Iceland / आइसलैंड",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which is the main component of air? / वायु का मुख्य घटक क्या है?",
+    "A": "Oxygen / ऑक्सीजन",
+    "B": "Carbon dioxide / कार्बन डाइऑक्साइड",
+    "C": "Nitrogen / नाइट्रोजन",
+    "D": "Hydrogen / हाइड्रोजन",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which is the capital of Uttar Pradesh? / उत्तर प्रदेश की राजधानी क्या है?",
+    "A": "Kanpur / कानपुर",
+    "B": "Lucknow / लखनऊ",
+    "C": "Varanasi / वाराणसी",
+    "D": "Agra / आगरा",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who invented the telephone? / टेलीफोन का आविष्कार किसने किया?",
+    "A": "Newton / न्यूटन",
+    "B": "Alexander Graham Bell / अलेक्जेंडर ग्राहम बेल",
+    "C": "Edison / एडिसन",
+    "D": "Tesla / टेस्ला",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the deepest lake in the world? / विश्व की सबसे गहरी झील कौन सी है?",
+    "A": "Caspian Sea / कैस्पियन सागर",
+    "B": "Lake Baikal / बैकाल झील",
+    "C": "Victoria Lake / विक्टोरिया झील",
+    "D": "Superior Lake / सुपीरियर झील",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the national currency symbol of India? / भारत का मुद्रा प्रतीक क्या है?",
+    "A": "$",
+    "B": "€",
+    "C": "₹",
+    "D": "¥",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which is the study of plants called? / पौधों के अध्ययन को क्या कहा जाता है?",
+    "A": "Zoology / प्राणी विज्ञान",
+    "B": "Botany / वनस्पति विज्ञान",
+    "C": "Geology / भूविज्ञान",
+    "D": "Ecology / पारिस्थितिकी",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which country is known as Gift of Nile? / नील नदी का उपहार किस देश को कहा जाता है?",
+    "A": "Egypt / मिस्र",
+    "B": "Sudan / सूडान",
+    "C": "Kenya / केन्या",
+    "D": "Nigeria / नाइजीरिया",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which is the largest plateau in India? / भारत का सबसे बड़ा पठार कौन सा है?",
+    "A": "Malwa Plateau / मालवा पठार",
+    "B": "Deccan Plateau / दक्कन पठार",
+    "C": "Chota Nagpur Plateau / छोटा नागपुर पठार",
+    "D": "Shillong Plateau / शिलांग पठार",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which organ filters blood in human body? / मानव शरीर में रक्त को कौन सा अंग छानता है?",
+    "A": "Heart / हृदय",
+    "B": "Lungs / फेफड़े",
+    "C": "Kidney / गुर्दा",
+    "D": "Brain / मस्तिष्क",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which is the highest civilian award of India? / भारत का सर्वोच्च नागरिक सम्मान क्या है?",
+    "A": "Padma Shri / पद्म श्री",
+    "B": "Padma Bhushan / पद्म भूषण",
+    "C": "Bharat Ratna / भारत रत्न",
+    "D": "Padma Vibhushan / पद्म विभूषण",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which is the study of stars called? / तारों के अध्ययन को क्या कहा जाता है?",
+    "A": "Geology / भूविज्ञान",
+    "B": "Astronomy / खगोल विज्ञान",
+    "C": "Biology / जीव विज्ञान",
+    "D": "Botany / वनस्पति विज्ञान",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the capital of West Bengal? / पश्चिम बंगाल की राजधानी क्या है?",
+    "A": "Kolkata / कोलकाता",
+    "B": "Patna / पटना",
+    "C": "Ranchi / रांची",
+    "D": "Guwahati / गुवाहाटी",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which planet is known as Blue Planet? / नीला ग्रह किसे कहा जाता है?",
+    "A": "Mars / मंगल",
+    "B": "Earth / पृथ्वी",
+    "C": "Venus / शुक्र",
+    "D": "Neptune / नेपच्यून",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the national heritage animal of India? / भारत का राष्ट्रीय विरासत पशु कौन सा है?",
+    "A": "Elephant / हाथी",
+    "B": "Tiger / बाघ",
+    "C": "Cow / गाय",
+    "D": "Horse / घोड़ा",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which is the currency of China? / चीन की मुद्रा क्या है?",
+    "A": "Yen / येन",
+    "B": "Won / वोन",
+    "C": "Yuan / युआन",
+    "D": "Dollar / डॉलर",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which vitamin is important for blood clotting? / रक्त जमने के लिए कौन सा विटामिन जरूरी है?",
+    "A": "Vitamin A / विटामिन A",
+    "B": "Vitamin B / विटामिन B",
+    "C": "Vitamin C / विटामिन C",
+    "D": "Vitamin K / विटामिन K",
+    "Correct": "D"
+  },
+  {
+    "Question": "Which is the longest bone in human body? / मानव शरीर की सबसे लंबी हड्डी कौन सी है?",
+    "A": "Femur / फीमर",
+    "B": "Tibia / टिबिया",
+    "C": "Humerus / ह्यूमरस",
+    "D": "Radius / रेडियस",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which is the national aquatic animal of India? / भारत का राष्ट्रीय जलीय जीव क्या है?",
+    "A": "Shark / शार्क",
+    "B": "Dolphin / डॉल्फिन",
+    "C": "Whale / व्हेल",
+    "D": "Crocodile / मगरमच्छ",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the capital of Tamil Nadu? / तमिलनाडु की राजधानी क्या है?",
+    "A": "Madurai / मदुरै",
+    "B": "Chennai / चेन्नई",
+    "C": "Coimbatore / कोयंबटूर",
+    "D": "Salem / सलेम",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who wrote Vande Mataram? / वंदे मातरम् किसने लिखा?",
+    "A": "Rabindranath Tagore / रवींद्रनाथ टैगोर",
+    "B": "Bankim Chandra Chatterjee / बंकिम चंद्र चट्टोपाध्याय",
+    "C": "Sarojini Naidu / सरोजिनी नायडू",
+    "D": "Subhash Bose / सुभाष बोस",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the main source of vitamin C? / विटामिन C का मुख्य स्रोत क्या है?",
+    "A": "Milk / दूध",
+    "B": "Citrus fruits / खट्टे फल",
+    "C": "Rice / चावल",
+    "D": "Wheat / गेहूं",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the largest democracy in the world? / विश्व का सबसे बड़ा लोकतंत्र कौन सा है?",
+    "A": "USA / अमेरिका",
+    "B": "India / भारत",
+    "C": "China / चीन",
+    "D": "Russia / रूस",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which organ produces insulin? / इंसुलिन कौन सा अंग बनाता है?",
+    "A": "Liver / यकृत",
+    "B": "Pancreas / अग्न्याशय",
+    "C": "Kidney / गुर्दा",
+    "D": "Heart / हृदय",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the capital of Karnataka? / कर्नाटक की राजधानी क्या है?",
+    "A": "Mysore / मैसूर",
+    "B": "Bengaluru / बेंगलुरु",
+    "C": "Mangalore / मंगलुरु",
+    "D": "Hubli / हुबली",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the national game of India? / भारत का राष्ट्रीय खेल क्या है?",
+    "A": "Cricket / क्रिकेट",
+    "B": "Hockey / हॉकी",
+    "C": "Football / फुटबॉल",
+    "D": "Kabaddi / कबड्डी",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the largest river in the world by volume? / जल आयतन के अनुसार सबसे बड़ी नदी कौन सी है?",
+    "A": "Nile / नील",
+    "B": "Amazon / अमेज़न",
+    "C": "Ganga / गंगा",
+    "D": "Yangtze / यांग्त्ज़ी",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the hardest known natural substance? / सबसे कठोर प्राकृतिक पदार्थ क्या है?",
+    "A": "Gold / सोना",
+    "B": "Iron / लोहा",
+    "C": "Diamond / हीरा",
+    "D": "Platinum / प्लेटिनम",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which is the capital of Bihar? / बिहार की राजधानी क्या है?",
+    "A": "Patna / पटना",
+    "B": "Gaya / गया",
+    "C": "Muzaffarpur / मुजफ्फरपुर",
+    "D": "Bhagalpur / भागलपुर",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which blood group is universal donor? / सार्वभौमिक दाता रक्त समूह कौन सा है?",
+    "A": "A",
+    "B": "B",
+    "C": "AB",
+    "D": "O",
+    "Correct": "D"
+  },
+  {
+    "Question": "Which is the study of human mind called? / मानव मन के अध्ययन को क्या कहा जाता है?",
+    "A": "Sociology / समाजशास्त्र",
+    "B": "Psychology / मनोविज्ञान",
+    "C": "Geography / भूगोल",
+    "D": "History / इतिहास",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the capital of Rajasthan? / राजस्थान की राजधानी क्या है?",
+    "A": "Jodhpur / जोधपुर",
+    "B": "Udaipur / उदयपुर",
+    "C": "Jaipur / जयपुर",
+    "D": "Kota / कोटा",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which is the main gas in LPG? / LPG में मुख्य गैस कौन सी है?",
+    "A": "Methane / मीथेन",
+    "B": "Propane / प्रोपेन",
+    "C": "Hydrogen / हाइड्रोजन",
+    "D": "Oxygen / ऑक्सीजन",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the national motto of India? / भारत का राष्ट्रीय आदर्श वाक्य क्या है?",
+    "A": "Satyameva Jayate / सत्यमेव जयते",
+    "B": "Jai Hind / जय हिंद",
+    "C": "Incredible India / अतुल्य भारत",
+    "D": "Unity in Diversity / विविधता में एकता",
+    "Correct": "A"
+  }
+]
