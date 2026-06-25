@@ -1,1 +1,802 @@
-
+[
+  {
+    "Question": "Find the value of 25 × 16. / 25 × 16 का मान ज्ञात कीजिए।",
+    "A": "350",
+    "B": "400",
+    "C": "450",
+    "D": "500",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is 35% of 200? / 200 का 35% कितना है?",
+    "A": "60",
+    "B": "65",
+    "C": "70",
+    "D": "75",
+    "Correct": "C"
+  },
+  {
+    "Question": "Simplify: 144 ÷ 12 + 8 × 2. / सरल कीजिए: 144 ÷ 12 + 8 × 2",
+    "A": "20",
+    "B": "22",
+    "C": "24",
+    "D": "26",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find LCM of 12 and 18. / 12 और 18 का लघुत्तम समापवर्त्य ज्ञात कीजिए।",
+    "A": "24",
+    "B": "30",
+    "C": "36",
+    "D": "42",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find HCF of 24 and 36. / 24 और 36 का महत्तम समापवर्तक ज्ञात कीजिए।",
+    "A": "6",
+    "B": "8",
+    "C": "12",
+    "D": "18",
+    "Correct": "C"
+  },
+  {
+    "Question": "If a = 5, b = 3, find a² + b². / यदि a = 5, b = 3 हो, तो a² + b² ज्ञात कीजिए।",
+    "A": "34",
+    "B": "36",
+    "C": "38",
+    "D": "40",
+    "Correct": "A"
+  },
+  {
+    "Question": "Find value of 15 × 12. / 15 × 12 का मान ज्ञात कीजिए।",
+    "A": "160",
+    "B": "170",
+    "C": "180",
+    "D": "190",
+    "Correct": "C"
+  },
+  {
+    "Question": "Square of 15 is? / 15 का वर्ग क्या है?",
+    "A": "200",
+    "B": "225",
+    "C": "250",
+    "D": "275",
+    "Correct": "B"
+  },
+  {
+    "Question": "Cube of 4 is? / 4 का घन क्या है?",
+    "A": "16",
+    "B": "32",
+    "C": "64",
+    "D": "48",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find simple interest on 1000 at 10% for 2 years. / 1000 पर 10% वार्षिक दर से 2 वर्ष का साधारण ब्याज ज्ञात कीजिए।",
+    "A": "100",
+    "B": "150",
+    "C": "200",
+    "D": "250",
+    "Correct": "C"
+  },
+  {
+    "Question": "Compound interest formula uses which factor? / चक्रवृद्धि ब्याज किस पर आधारित होता है?",
+    "A": "Principal only / केवल मूलधन",
+    "B": "Time only / केवल समय",
+    "C": "Principal + Interest / मूलधन + ब्याज",
+    "D": "Discount / छूट",
+    "Correct": "C"
+  },
+  {
+    "Question": "Ratio of 2:3 means? / 2:3 अनुपात का अर्थ क्या है?",
+    "A": "Equal parts / समान भाग",
+    "B": "2 parts and 3 parts / 2 भाग और 3 भाग",
+    "C": "Sum 2 / योग 2",
+    "D": "Difference 3 / अंतर 3",
+    "Correct": "B"
+  },
+  {
+    "Question": "If speed = distance/time, unit of speed? / गति की इकाई क्या है?",
+    "A": "kg",
+    "B": "m/s",
+    "C": "m²",
+    "D": "litre",
+    "Correct": "B"
+  },
+  {
+    "Question": "Convert 1/2 into percentage. / 1/2 को प्रतिशत में बदलें।",
+    "A": "20%",
+    "B": "30%",
+    "C": "50%",
+    "D": "60%",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find average of 10, 20, 30. / 10, 20, 30 का औसत ज्ञात कीजिए।",
+    "A": "15",
+    "B": "20",
+    "C": "25",
+    "D": "30",
+    "Correct": "B"
+  },
+  {
+    "Question": "If 5x = 25, find x. / यदि 5x = 25 हो, तो x ज्ञात कीजिए।",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "Correct": "D"
+  },
+  {
+    "Question": "Find perimeter of square side 6 cm. / 6 सेमी भुजा वाले वर्ग का परिमाप क्या है?",
+    "A": "18 cm",
+    "B": "24 cm",
+    "C": "30 cm",
+    "D": "36 cm",
+    "Correct": "B"
+  },
+  {
+    "Question": "Area of square side 5 cm? / 5 सेमी भुजा वाले वर्ग का क्षेत्रफल?",
+    "A": "20",
+    "B": "25",
+    "C": "30",
+    "D": "35",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find 20% of 500. / 500 का 20% ज्ञात कीजिए।",
+    "A": "80",
+    "B": "90",
+    "C": "100",
+    "D": "110",
+    "Correct": "C"
+  },
+  {
+    "Question": "If price increases 10%, what is new price effect? / कीमत 10% बढ़ने पर क्या प्रभाव होगा?",
+    "A": "Decrease",
+    "B": "Increase",
+    "C": "No change",
+    "D": "Zero",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find value of 3³. / 3³ का मान क्या है?",
+    "A": "6",
+    "B": "9",
+    "C": "27",
+    "D": "81",
+    "Correct": "C"
+  },
+  {
+    "Question": "1 km = ? meters / 1 किमी = कितने मीटर?",
+    "A": "100",
+    "B": "1000",
+    "C": "10000",
+    "D": "10",
+    "Correct": "B"
+  },
+  {
+    "Question": "Simplify: 50 + 25 × 2. / सरल कीजिए: 50 + 25 × 2",
+    "A": "100",
+    "B": "125",
+    "C": "150",
+    "D": "75",
+    "Correct": "A"
+  },
+  {
+    "Question": "Find missing number: 2, 4, 8, 16, ? / लुप्त संख्या: 2, 4, 8, 16, ?",
+    "A": "18",
+    "B": "24",
+    "C": "32",
+    "D": "36",
+    "Correct": "C"
+  },
+  {
+    "Question": "If 10% of x = 50, find x. / यदि x का 10% = 50 हो, तो x ज्ञात कीजिए।",
+    "A": "400",
+    "B": "450",
+    "C": "500",
+    "D": "550",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find value of 18 × 15. / 18 × 15 का मान ज्ञात कीजिए।",
+    "A": "260",
+    "B": "270",
+    "C": "280",
+    "D": "290",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is 40% of 250? / 250 का 40% कितना है?",
+    "A": "90",
+    "B": "95",
+    "C": "100",
+    "D": "110",
+    "Correct": "C"
+  },
+  {
+    "Question": "Simplify 100 ÷ 5 + 6 × 3. / सरल कीजिए 100 ÷ 5 + 6 × 3",
+    "A": "32",
+    "B": "34",
+    "C": "36",
+    "D": "38",
+    "Correct": "B"
+  },
+  {
+    "Question": "LCM of 15 and 20. / 15 और 20 का LCM ज्ञात कीजिए।",
+    "A": "60",
+    "B": "50",
+    "C": "40",
+    "D": "30",
+    "Correct": "A"
+  },
+  {
+    "Question": "HCF of 18 and 24. / 18 और 24 का HCF ज्ञात कीजिए।",
+    "A": "4",
+    "B": "6",
+    "C": "8",
+    "D": "12",
+    "Correct": "B"
+  },
+  {
+    "Question": "If a = 6, b = 4, find a² - b². / यदि a = 6, b = 4 हो, तो a² - b² ज्ञात कीजिए।",
+    "A": "16",
+    "B": "20",
+    "C": "24",
+    "D": "28",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find 12 × 25. / 12 × 25 का मान ज्ञात कीजिए।",
+    "A": "250",
+    "B": "260",
+    "C": "300",
+    "D": "320",
+    "Correct": "C"
+  },
+  {
+    "Question": "Square of 18 is? / 18 का वर्ग क्या है?",
+    "A": "324",
+    "B": "314",
+    "C": "334",
+    "D": "344",
+    "Correct": "A"
+  },
+  {
+    "Question": "Cube of 5 is? / 5 का घन क्या है?",
+    "A": "100",
+    "B": "125",
+    "C": "150",
+    "D": "175",
+    "Correct": "B"
+  },
+  {
+    "Question": "Simple interest on 2000 at 5% for 2 years. / 2000 पर 5% दर से 2 वर्ष का साधारण ब्याज।",
+    "A": "150",
+    "B": "180",
+    "C": "200",
+    "D": "220",
+    "Correct": "C"
+  },
+  {
+    "Question": "Ratio 3:5 means? / 3:5 अनुपात का अर्थ क्या है?",
+    "A": "Equal parts",
+    "B": "3 and 5 parts",
+    "C": "Sum 8",
+    "D": "Difference 2",
+    "Correct": "B"
+  },
+  {
+    "Question": "Speed = Distance/Time unit? / गति की इकाई?",
+    "A": "m/s",
+    "B": "kg",
+    "C": "litre",
+    "D": "joule",
+    "Correct": "A"
+  },
+  {
+    "Question": "Convert 3/4 into percentage. / 3/4 को प्रतिशत में बदलें।",
+    "A": "60%",
+    "B": "70%",
+    "C": "75%",
+    "D": "80%",
+    "Correct": "C"
+  },
+  {
+    "Question": "Average of 15, 25, 35. / औसत ज्ञात कीजिए।",
+    "A": "20",
+    "B": "25",
+    "C": "30",
+    "D": "35",
+    "Correct": "B"
+  },
+  {
+    "Question": "If 7x = 42, x = ? / यदि 7x = 42 हो, तो x?",
+    "A": "5",
+    "B": "6",
+    "C": "7",
+    "D": "8",
+    "Correct": "B"
+  },
+  {
+    "Question": "Perimeter of rectangle 10 × 5. / 10 × 5 आयत का परिमाप।",
+    "A": "20",
+    "B": "25",
+    "C": "30",
+    "D": "40",
+    "Correct": "D"
+  },
+  {
+    "Question": "Area of rectangle 8 × 6. / 8 × 6 आयत का क्षेत्रफल।",
+    "A": "40",
+    "B": "46",
+    "C": "48",
+    "D": "50",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find 15% of 400. / 400 का 15% ज्ञात कीजिए।",
+    "A": "50",
+    "B": "55",
+    "C": "60",
+    "D": "65",
+    "Correct": "C"
+  },
+  {
+    "Question": "If price decreases 20%, effect? / कीमत 20% घटने पर क्या प्रभाव?",
+    "A": "Increase",
+    "B": "Decrease",
+    "C": "No change",
+    "D": "Zero",
+    "Correct": "B"
+  },
+  {
+    "Question": "Value of 4³. / 4³ का मान?",
+    "A": "16",
+    "B": "32",
+    "C": "64",
+    "D": "128",
+    "Correct": "C"
+  },
+  {
+    "Question": "1 meter = ? cm / 1 मीटर = कितने सेमी?",
+    "A": "10",
+    "B": "100",
+    "C": "1000",
+    "D": "10000",
+    "Correct": "B"
+  },
+  {
+    "Question": "50 + 30 × 2 = ?",
+    "A": "110",
+    "B": "100",
+    "C": "120",
+    "D": "130",
+    "Correct": "A"
+  },
+  {
+    "Question": "Next number: 3, 6, 12, 24, ?",
+    "A": "36",
+    "B": "42",
+    "C": "48",
+    "D": "50",
+    "Correct": "C"
+  },
+  {
+    "Question": "If 20% of x = 60, x = ?",
+    "A": "200",
+    "B": "250",
+    "C": "300",
+    "D": "350",
+    "Correct": "C"
+  },
+  {
+    "Question": "LCM of 8 and 12. / 8 और 12 का LCM?",
+    "A": "16",
+    "B": "20",
+    "C": "24",
+    "D": "28",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find value of 14 × 14. / 14 × 14 का मान ज्ञात कीजिए।",
+    "A": "176",
+    "B": "196",
+    "C": "216",
+    "D": "236",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is 30% of 300? / 300 का 30% कितना है?",
+    "A": "80",
+    "B": "90",
+    "C": "100",
+    "D": "110",
+    "Correct": "B"
+  },
+  {
+    "Question": "Simplify 81 ÷ 9 + 7 × 2. / सरल कीजिए 81 ÷ 9 + 7 × 2",
+    "A": "20",
+    "B": "21",
+    "C": "22",
+    "D": "23",
+    "Correct": "C"
+  },
+  {
+    "Question": "LCM of 9 and 12. / 9 और 12 का LCM ज्ञात कीजिए।",
+    "A": "24",
+    "B": "30",
+    "C": "36",
+    "D": "42",
+    "Correct": "C"
+  },
+  {
+    "Question": "HCF of 20 and 30. / 20 और 30 का HCF ज्ञात कीजिए।",
+    "A": "5",
+    "B": "10",
+    "C": "15",
+    "D": "20",
+    "Correct": "B"
+  },
+  {
+    "Question": "If a = 7, b = 2, find a² + b². / यदि a = 7, b = 2 हो, तो a² + b² ज्ञात कीजिए।",
+    "A": "53",
+    "B": "54",
+    "C": "55",
+    "D": "56",
+    "Correct": "A"
+  },
+  {
+    "Question": "Find 16 × 25. / 16 × 25 का मान ज्ञात कीजिए।",
+    "A": "350",
+    "B": "375",
+    "C": "400",
+    "D": "425",
+    "Correct": "C"
+  },
+  {
+    "Question": "Square of 20 is? / 20 का वर्ग क्या है?",
+    "A": "300",
+    "B": "350",
+    "C": "400",
+    "D": "450",
+    "Correct": "C"
+  },
+  {
+    "Question": "Cube of 6 is? / 6 का घन क्या है?",
+    "A": "200",
+    "B": "216",
+    "C": "232",
+    "D": "248",
+    "Correct": "B"
+  },
+  {
+    "Question": "Simple interest on 1500 at 10% for 2 years. / 1500 पर 10% दर से 2 वर्ष का साधारण ब्याज।",
+    "A": "250",
+    "B": "280",
+    "C": "300",
+    "D": "320",
+    "Correct": "C"
+  },
+  {
+    "Question": "Ratio 4:7 means? / 4:7 अनुपात का अर्थ क्या है?",
+    "A": "Equal parts",
+    "B": "4 and 7 parts",
+    "C": "Sum 11",
+    "D": "Difference 3",
+    "Correct": "B"
+  },
+  {
+    "Question": "Speed unit is? / गति की इकाई क्या है?",
+    "A": "km/hr",
+    "B": "kg",
+    "C": "litre",
+    "D": "meter²",
+    "Correct": "A"
+  },
+  {
+    "Question": "Convert 2/5 into percentage. / 2/5 को प्रतिशत में बदलें।",
+    "A": "30%",
+    "B": "35%",
+    "C": "40%",
+    "D": "45%",
+    "Correct": "C"
+  },
+  {
+    "Question": "Average of 20, 30, 40. / 20, 30, 40 का औसत ज्ञात कीजिए।",
+    "A": "25",
+    "B": "30",
+    "C": "35",
+    "D": "40",
+    "Correct": "B"
+  },
+  {
+    "Question": "If 9x = 81, x = ? / यदि 9x = 81 हो, तो x?",
+    "A": "7",
+    "B": "8",
+    "C": "9",
+    "D": "10",
+    "Correct": "C"
+  },
+  {
+    "Question": "Perimeter of square side 8 cm. / 8 सेमी भुजा वाले वर्ग का परिमाप।",
+    "A": "24",
+    "B": "28",
+    "C": "32",
+    "D": "36",
+    "Correct": "C"
+  },
+  {
+    "Question": "Area of square side 7 cm. / 7 सेमी भुजा वाले वर्ग का क्षेत्रफल।",
+    "A": "42",
+    "B": "49",
+    "C": "56",
+    "D": "64",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find 25% of 800. / 800 का 25% ज्ञात कीजिए।",
+    "A": "150",
+    "B": "180",
+    "C": "200",
+    "D": "220",
+    "Correct": "C"
+  },
+  {
+    "Question": "If price increases 25%, effect? / कीमत 25% बढ़ने पर क्या प्रभाव?",
+    "A": "Decrease",
+    "B": "Increase",
+    "C": "No change",
+    "D": "Zero",
+    "Correct": "B"
+  },
+  {
+    "Question": "Value of 5³. / 5³ का मान?",
+    "A": "100",
+    "B": "115",
+    "C": "125",
+    "D": "135",
+    "Correct": "C"
+  },
+  {
+    "Question": "1 km = ? meters / 1 किलोमीटर = कितने मीटर?",
+    "A": "100",
+    "B": "500",
+    "C": "1000",
+    "D": "1500",
+    "Correct": "C"
+  },
+  {
+    "Question": "Simplify 60 + 40 × 2. / सरल कीजिए 60 + 40 × 2",
+    "A": "120",
+    "B": "130",
+    "C": "140",
+    "D": "150",
+    "Correct": "C"
+  },
+  {
+    "Question": "Next number: 5, 10, 20, 40, ?",
+    "A": "60",
+    "B": "70",
+    "C": "80",
+    "D": "90",
+    "Correct": "C"
+  },
+  {
+    "Question": "If 25% of x = 75, x = ?",
+    "A": "250",
+    "B": "300",
+    "C": "350",
+    "D": "400",
+    "Correct": "B"
+  },
+  {
+    "Question": "LCM of 10 and 15. / 10 और 15 का LCM?",
+    "A": "20",
+    "B": "25",
+    "C": "30",
+    "D": "35",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find value of 12 × 12. / 12 × 12 का मान ज्ञात कीजिए।",
+    "A": "124",
+    "B": "134",
+    "C": "144",
+    "D": "154",
+    "Correct": "C"
+  },
+  {
+    "Question": "What is 50% of 360? / 360 का 50% कितना है?",
+    "A": "160",
+    "B": "170",
+    "C": "180",
+    "D": "190",
+    "Correct": "C"
+  },
+  {
+    "Question": "Simplify 120 ÷ 6 + 5 × 4. / सरल कीजिए 120 ÷ 6 + 5 × 4",
+    "A": "30",
+    "B": "32",
+    "C": "34",
+    "D": "36",
+    "Correct": "B"
+  },
+  {
+    "Question": "LCM of 16 and 24. / 16 और 24 का LCM ज्ञात कीजिए।",
+    "A": "32",
+    "B": "40",
+    "C": "48",
+    "D": "56",
+    "Correct": "C"
+  },
+  {
+    "Question": "HCF of 27 and 36. / 27 और 36 का HCF ज्ञात कीजिए।",
+    "A": "6",
+    "B": "9",
+    "C": "12",
+    "D": "18",
+    "Correct": "B"
+  },
+  {
+    "Question": "If a = 8, b = 3, find a² - b². / यदि a = 8, b = 3 हो, तो a² - b² ज्ञात कीजिए।",
+    "A": "55",
+    "B": "60",
+    "C": "64",
+    "D": "70",
+    "Correct": "A"
+  },
+  {
+    "Question": "Find 14 × 25. / 14 × 25 का मान ज्ञात कीजिए।",
+    "A": "300",
+    "B": "325",
+    "C": "350",
+    "D": "375",
+    "Correct": "C"
+  },
+  {
+    "Question": "Square of 25 is? / 25 का वर्ग क्या है?",
+    "A": "600",
+    "B": "625",
+    "C": "650",
+    "D": "675",
+    "Correct": "B"
+  },
+  {
+    "Question": "Cube of 7 is? / 7 का घन क्या है?",
+    "A": "320",
+    "B": "343",
+    "C": "360",
+    "D": "380",
+    "Correct": "B"
+  },
+  {
+    "Question": "Simple interest on 3000 at 5% for 3 years. / 3000 पर 5% दर से 3 वर्ष का साधारण ब्याज।",
+    "A": "350",
+    "B": "400",
+    "C": "450",
+    "D": "500",
+    "Correct": "C"
+  },
+  {
+    "Question": "Ratio 5:6 means? / 5:6 अनुपात का अर्थ क्या है?",
+    "A": "Equal parts",
+    "B": "5 and 6 parts",
+    "C": "Sum 11",
+    "D": "Difference 1",
+    "Correct": "B"
+  },
+  {
+    "Question": "Speed unit is? / गति की इकाई क्या है?",
+    "A": "km/hr",
+    "B": "kg",
+    "C": "litre",
+    "D": "joule",
+    "Correct": "A"
+  },
+  {
+    "Question": "Convert 5/8 into percentage. / 5/8 को प्रतिशत में बदलें।",
+    "A": "60%",
+    "B": "62.5%",
+    "C": "65%",
+    "D": "70%",
+    "Correct": "B"
+  },
+  {
+    "Question": "Average of 25, 35, 45. / 25, 35, 45 का औसत ज्ञात कीजिए।",
+    "A": "30",
+    "B": "35",
+    "C": "40",
+    "D": "45",
+    "Correct": "B"
+  },
+  {
+    "Question": "If 11x = 99, x = ? / यदि 11x = 99 हो, तो x?",
+    "A": "7",
+    "B": "8",
+    "C": "9",
+    "D": "10",
+    "Correct": "C"
+  },
+  {
+    "Question": "Perimeter of square side 9 cm. / 9 सेमी भुजा वाले वर्ग का परिमाप।",
+    "A": "30",
+    "B": "32",
+    "C": "34",
+    "D": "36",
+    "Correct": "D"
+  },
+  {
+    "Question": "Area of square side 9 cm. / 9 सेमी भुजा वाले वर्ग का क्षेत्रफल।",
+    "A": "72",
+    "B": "81",
+    "C": "90",
+    "D": "99",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find 10% of 900. / 900 का 10% ज्ञात कीजिए।",
+    "A": "80",
+    "B": "85",
+    "C": "90",
+    "D": "95",
+    "Correct": "C"
+  },
+  {
+    "Question": "If price decreases 30%, effect? / कीमत 30% घटने पर क्या प्रभाव?",
+    "A": "Increase",
+    "B": "Decrease",
+    "C": "No change",
+    "D": "Zero",
+    "Correct": "B"
+  },
+  {
+    "Question": "Value of 6³. / 6³ का मान?",
+    "A": "200",
+    "B": "210",
+    "C": "216",
+    "D": "220",
+    "Correct": "C"
+  },
+  {
+    "Question": "1 litre = ? ml / 1 लीटर = कितने मिलीलीटर?",
+    "A": "100",
+    "B": "500",
+    "C": "1000",
+    "D": "1500",
+    "Correct": "C"
+  },
+  {
+    "Question": "Simplify 80 + 20 × 3. / सरल कीजिए 80 + 20 × 3",
+    "A": "120",
+    "B": "130",
+    "C": "140",
+    "D": "150",
+    "Correct": "C"
+  },
+  {
+    "Question": "Next number: 4, 8, 16, 32, ?",
+    "A": "48",
+    "B": "56",
+    "C": "64",
+    "D": "72",
+    "Correct": "C"
+  },
+  {
+    "Question": "If 30% of x = 90, x = ?",
+    "A": "250",
+    "B": "280",
+    "C": "300",
+    "D": "320",
+    "Correct": "C"
+  },
+  {
+    "Question": "LCM of 12 and 18. / 12 और 18 का LCM?",
+    "A": "30",
+    "B": "32",
+    "C": "36",
+    "D": "40",
+    "Correct": "C"
+  }
+]
