@@ -1,0 +1,202 @@
+[
+  {
+    "Question": "Simplify: 25% of 200 / सरल कीजिए: 200 का 25%",
+    "A": "25",
+    "B": "50",
+    "C": "75",
+    "D": "100",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find the value of 12 × 15 / 12 × 15 का मान ज्ञात कीजिए",
+    "A": "160",
+    "B": "170",
+    "C": "180",
+    "D": "190",
+    "Correct": "C"
+  },
+  {
+    "Question": "What is the square of 18? / 18 का वर्ग क्या है?",
+    "A": "324",
+    "B": "256",
+    "C": "144",
+    "D": "196",
+    "Correct": "A"
+  },
+  {
+    "Question": "Find the cube root of 27 / 27 का घनमूल ज्ञात कीजिए",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "Correct": "B"
+  },
+  {
+    "Question": "If x = 5, find x² + 2x / यदि x = 5, तो x² + 2x का मान",
+    "A": "35",
+    "B": "25",
+    "C": "30",
+    "D": "40",
+    "Correct": "A"
+  },
+  {
+    "Question": "Find HCF of 12 and 18 / 12 और 18 का महत्तम समापवर्तक (HCF)",
+    "A": "3",
+    "B": "6",
+    "C": "9",
+    "D": "12",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find LCM of 4 and 6 / 4 और 6 का लघुत्तम समापवर्तक (LCM)",
+    "A": "10",
+    "B": "12",
+    "C": "14",
+    "D": "16",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is 15% of 300? / 300 का 15% कितना है?",
+    "A": "30",
+    "B": "40",
+    "C": "45",
+    "D": "50",
+    "Correct": "C"
+  },
+  {
+    "Question": "Solve: 144 ÷ 12 / हल कीजिए: 144 ÷ 12",
+    "A": "10",
+    "B": "11",
+    "C": "12",
+    "D": "13",
+    "Correct": "C"
+  },
+  {
+    "Question": "What is the value of 9²? / 9² का मान क्या है?",
+    "A": "72",
+    "B": "81",
+    "C": "91",
+    "D": "99",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find average of 10, 20, 30 / 10, 20, 30 का औसत",
+    "A": "15",
+    "B": "20",
+    "C": "25",
+    "D": "30",
+    "Correct": "B"
+  },
+  {
+    "Question": "If 3x = 27, find x / यदि 3x = 27, तो x",
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9",
+    "Correct": "D"
+  },
+  {
+    "Question": "Find perimeter of square with side 5 cm / 5 सेमी भुजा वाले वर्ग का परिमाप",
+    "A": "10 cm",
+    "B": "15 cm",
+    "C": "20 cm",
+    "D": "25 cm",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find area of square with side 4 cm / 4 सेमी भुजा वाले वर्ग का क्षेत्रफल",
+    "A": "12",
+    "B": "14",
+    "C": "16",
+    "D": "18",
+    "Correct": "C"
+  },
+  {
+    "Question": "What is 50% of 80? / 80 का 50%",
+    "A": "30",
+    "B": "40",
+    "C": "50",
+    "D": "60",
+    "Correct": "B"
+  },
+  {
+    "Question": "Simplify: 1000 ÷ 10 / सरल कीजिए: 1000 ÷ 10",
+    "A": "10",
+    "B": "50",
+    "C": "100",
+    "D": "200",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find value of 7 × 8 / 7 × 8 का मान",
+    "A": "54",
+    "B": "56",
+    "C": "58",
+    "D": "60",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is 1/2 of 60? / 60 का 1/2 क्या है?",
+    "A": "20",
+    "B": "30",
+    "C": "40",
+    "D": "50",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find next prime number after 7 / 7 के बाद अगली अभाज्य संख्या",
+    "A": "9",
+    "B": "10",
+    "C": "11",
+    "D": "12",
+    "Correct": "C"
+  },
+  {
+    "Question": "Solve: 45 + 55 / हल कीजिए: 45 + 55",
+    "A": "90",
+    "B": "95",
+    "C": "100",
+    "D": "105",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find 10% of 500 / 500 का 10%",
+    "A": "40",
+    "B": "50",
+    "C": "60",
+    "D": "70",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find value of 11 × 11 / 11 × 11 का मान",
+    "A": "111",
+    "B": "121",
+    "C": "131",
+    "D": "141",
+    "Correct": "B"
+  },
+  {
+    "Question": "If 5x = 25, find x / यदि 5x = 25, तो x",
+    "A": "3",
+    "B": "4",
+    "C": "5",
+    "D": "6",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find sum of angles in triangle / त्रिभुज के कोणों का योग",
+    "A": "90°",
+    "B": "180°",
+    "C": "270°",
+    "D": "360°",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find square root of 49 / 49 का वर्गमूल",
+    "A": "5",
+    "B": "6",
+    "C": "7",
+    "D": "8",
+    "Correct": "C"
+  }
+]
