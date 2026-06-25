@@ -198,5 +198,206 @@
     "C": "7",
     "D": "8",
     "Correct": "C"
+  },
+  [
+  {
+    "Question": "Simplify: 36% of 250 / सरल कीजिए: 250 का 36%",
+    "A": "80",
+    "B": "85",
+    "C": "90",
+    "D": "95",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find the value of 18 × 12 / 18 × 12 का मान ज्ञात कीजिए",
+    "A": "196",
+    "B": "206",
+    "C": "216",
+    "D": "226",
+    "Correct": "C"
+  },
+  {
+    "Question": "What is the square of 25? / 25 का वर्ग क्या है?",
+    "A": "525",
+    "B": "600",
+    "C": "625",
+    "D": "650",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find the cube of 4 / 4 का घन ज्ञात कीजिए",
+    "A": "32",
+    "B": "48",
+    "C": "64",
+    "D": "72",
+    "Correct": "C"
+  },
+  {
+    "Question": "If x = 7, find x² − x / यदि x = 7, तो x² − x का मान",
+    "A": "35",
+    "B": "42",
+    "C": "49",
+    "D": "56",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find HCF of 24 and 36 / 24 और 36 का HCF",
+    "A": "6",
+    "B": "8",
+    "C": "12",
+    "D": "18",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find LCM of 8 and 12 / 8 और 12 का LCM",
+    "A": "16",
+    "B": "24",
+    "C": "32",
+    "D": "48",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is 20% of 450? / 450 का 20% कितना है?",
+    "A": "80",
+    "B": "90",
+    "C": "100",
+    "D": "110",
+    "Correct": "B"
+  },
+  {
+    "Question": "Solve: 225 ÷ 15 / हल कीजिए: 225 ÷ 15",
+    "A": "10",
+    "B": "12",
+    "C": "15",
+    "D": "18",
+    "Correct": "C"
+  },
+  {
+    "Question": "What is the value of 12²? / 12² का मान क्या है?",
+    "A": "124",
+    "B": "134",
+    "C": "144",
+    "D": "154",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find average of 15, 25, 35 / 15, 25, 35 का औसत",
+    "A": "20",
+    "B": "25",
+    "C": "30",
+    "D": "35",
+    "Correct": "B"
+  },
+  {
+    "Question": "If 4x = 32, find x / यदि 4x = 32, तो x",
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find perimeter of rectangle 10 × 5 / 10 × 5 आयत का परिमाप",
+    "A": "20",
+    "B": "25",
+    "C": "30",
+    "D": "35",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find area of rectangle 8 × 6 / 8 × 6 आयत का क्षेत्रफल",
+    "A": "40",
+    "B": "44",
+    "C": "48",
+    "D": "52",
+    "Correct": "C"
+  },
+  {
+    "Question": "What is 75% of 200? / 200 का 75% कितना है?",
+    "A": "125",
+    "B": "150",
+    "C": "175",
+    "D": "180",
+    "Correct": "B"
+  },
+  {
+    "Question": "Simplify: 900 ÷ 30 / सरल कीजिए: 900 ÷ 30",
+    "A": "20",
+    "B": "25",
+    "C": "30",
+    "D": "35",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find value of 9 × 7 / 9 × 7 का मान",
+    "A": "56",
+    "B": "63",
+    "C": "72",
+    "D": "81",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is 1/4 of 80? / 80 का 1/4 क्या है?",
+    "A": "15",
+    "B": "20",
+    "C": "25",
+    "D": "30",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find next prime number after 11 / 11 के बाद अगली अभाज्य संख्या",
+    "A": "12",
+    "B": "13",
+    "C": "14",
+    "D": "15",
+    "Correct": "B"
+  },
+  {
+    "Question": "Solve: 60 + 45 / हल कीजिए: 60 + 45",
+    "A": "100",
+    "B": "105",
+    "C": "110",
+    "D": "115",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find 12% of 500 / 500 का 12%",
+    "A": "50",
+    "B": "55",
+    "C": "60",
+    "D": "65",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find value of 13 × 13 / 13 × 13 का मान",
+    "A": "156",
+    "B": "169",
+    "C": "182",
+    "D": "195",
+    "Correct": "B"
+  },
+  {
+    "Question": "If 6x = 36, find x / यदि 6x = 36, तो x",
+    "A": "4",
+    "B": "5",
+    "C": "6",
+    "D": "7",
+    "Correct": "C"
+  },
+  {
+    "Question": "Sum of angles in a straight line / सीधी रेखा में कोणों का योग",
+    "A": "90°",
+    "B": "180°",
+    "C": "270°",
+    "D": "360°",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find square root of 64 / 64 का वर्गमूल",
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9",
+    "Correct": "C"
   }
 ]
