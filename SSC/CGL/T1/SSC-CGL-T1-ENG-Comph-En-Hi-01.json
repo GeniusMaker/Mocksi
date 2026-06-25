@@ -1,1 +1,795 @@
 
+[
+  {
+    "Question": "Select the most appropriate option to substitute the underlined segment in the given sentence. If there is no need to substitute it, select 'No substitution required'.\n\nThe repetitive nature of his job made him **bored out of his mind**, so he decided to look for a more challenging role.",
+    "A": "bored to tears",
+    "B": "boring to death",
+    "C": "No substitution required",
+    "D": "bored with his mind",
+    "Correct": "C"
+  },
+  {
+    "Question": "Select the correct passive form of the given sentence.\n\nThe municipal corporation is constructing a new flyover near the railway station.",
+    "A": "A new flyover was being constructed near the railway station by the municipal corporation.",
+    "B": "A new flyover is being constructed near the railway station by the municipal corporation.",
+    "C": "A new flyover has been constructed near the railway station by the municipal corporation.",
+    "D": "A new flyover is constructed near the railway station by the municipal corporation.",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the most appropriate antonym of the given word.\n\nSQUANDER",
+    "A": "Waste",
+    "B": "Skimp",
+    "C": "Hoard",
+    "D": "Spend",
+    "Correct": "C"
+  },
+  {
+    "Question": "Select the most appropriate option to fill in the blank.\n\nThe committee decided to ________ the meeting until next Monday due to a lack of quorum.",
+    "A": "adjourn",
+    "B": "cancel",
+    "C": "defer",
+    "D": "protract",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the correct indirect form of the given sentence.\n\nRahul said to his sister, \"Please help me with my project tonight.\"",
+    "A": "Rahul requested his sister to help him with his project that night.",
+    "B": "Rahul told his sister to please help him with his project tonight.",
+    "C": "Rahul requested his sister to help me with my project that night.",
+    "D": "Rahul asked his sister that she should help him with his project that night.",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the option that expresses the given sentence in active voice.\n\nThe dynamic presentation was thoroughly enjoyed by the corporate clients.",
+    "A": "The corporate clients thoroughly enjoyed the dynamic presentation.",
+    "B": "The corporate clients are thoroughly enjoying the dynamic presentation.",
+    "C": "The corporate clients have thoroughly enjoyed the dynamic presentation.",
+    "D": "The corporate clients thoroughly enjoy the dynamic presentation.",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the most appropriate meaning of the given idiom.\n\nTo leave no stone unturned",
+    "A": "To try every possible course of action in order to achieve something",
+    "B": "To do a half-hearted job",
+    "C": "To create unnecessary trouble or chaos",
+    "D": "To look for hidden treasures",
+    "Correct": "A"
+  },
+  {
+    "Question": "Parts of the following sentence are given as options. Identify the segment that contains a grammatical error.\n\nNeither the teacher nor the students / was present / at the orientation program / yesterday.",
+    "A": "Neither the teacher nor the students",
+    "B": "was present",
+    "C": "at the orientation program",
+    "D": "yesterday",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the most appropriate synonym of the given word.\n\nAMBIGUOUS",
+    "A": "Vague",
+    "B": "Clear",
+    "C": "Definite",
+    "D": "Determined",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the option that can be used as a one-word substitute for the given group of words.\n\nA person who helps a helpless person or stranger in trouble",
+    "A": "Samaritan",
+    "B": "Mercenary",
+    "C": "Altruist",
+    "D": "Patriot",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the correctly spelt word.",
+    "A": "Inconvenience",
+    "B": "Inconveiniance",
+    "C": "Inconveniance",
+    "D": "Inconvinience",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the most appropriate meaning of the given idiom.\n\nAt the eleventh hour",
+    "A": "At the very last moment",
+    "B": "Too early in the morning",
+    "C": "At an auspicious time",
+    "D": "In the middle of the night",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the most appropriate synonym of the given word.\n\nMETICULOUS",
+    "A": "Careless",
+    "B": "Scrupulous",
+    "C": "Hasty",
+    "D": "Ignorant",
+    "Correct": "B"
+  },
+  {
+    "Question": "Identify the segment in the sentence which contains a grammatical error.\n\nSupposing if it rains, what shall we do about the outdoor garden party?",
+    "A": "Supposing if it rains",
+    "B": "what shall we do",
+    "C": "about the outdoor",
+    "D": "garden party?",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the most appropriate option to substitute the underlined segment in the given sentence.\n\nHe is senior **than me** in terms of service length in this department.",
+    "A": "senior to me",
+    "B": "senior than I",
+    "C": "more senior than me",
+    "D": "No substitution required",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the correct passive form of the given sentence.\n\nThe chef prepared a sumptuous meal for the guests.",
+    "A": "A sumptuous meal is prepared by the chef for the guests.",
+    "B": "A sumptuous meal was prepared by the chef for the guests.",
+    "C": "A sumptuous meal was being prepared by the chef for the guests.",
+    "D": "A sumptuous meal has been prepared by the chef for the guests.",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the most appropriate antonym of the given word.\n\nBENEVOLENT",
+    "A": "Kind",
+    "B": "Malevolent",
+    "C": "Generous",
+    "D": "Friendly",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the most appropriate option to fill in the blank.\n\nThe new economic policy is expected to ________ growth in the manufacturing sector.",
+    "A": "stifle",
+    "B": "stimulate",
+    "C": "simulate",
+    "D": "curtail",
+    "Correct": "B"
+  },
+  {
+    "Question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\nP. This network of tracks permits trains to move safely from one destination to another.\nQ. A railway track consists of two parallel steel rails anchored perpendicular to members called ties.\nR. The ties are usually made of wood or concrete to provide solid structural support.\nS. Together, these tracks form an intricate network across the country.",
+    "A": "QSPR",
+    "B": "QRSP",
+    "C": "RSPQ",
+    "D": "QPSR",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the option that can be used as a one-word substitute for the given group of words.\n\nAn extreme fear of confined or small spaces",
+    "A": "Acrophobia",
+    "B": "Hydrophobia",
+    "C": "Claustrophobia",
+    "D": "Agoraphobia",
+    "Correct": "C"
+  },
+  {
+    "Question": "Identify the option that rectifies the spelling error in the given sentence.\n\nThe management gave its final aproval for the budget.",
+    "A": "The management gave its final approwal for the budget.",
+    "B": "The management gave its final approval for the budget.",
+    "C": "The management gave its final approvel for the budget.",
+    "D": "The management gave its final approvall for the budget.",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the correct indirect form of the given sentence.\n\nThe teacher said to the students, \"The Earth revolves around the Sun.\"",
+    "A": "The teacher told the students that the Earth revolved around the Sun.",
+    "B": "The teacher told the students that the Earth revolves around the Sun.",
+    "C": "The teacher said to the students that the Earth is revolving around the Sun.",
+    "D": "The teacher informed the students that the Earth was revolving around the Sun.",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the most appropriate meaning of the given idiom.\n\nSpill the beans",
+    "A": "To reveal a secret prematurely or unintentionally",
+    "B": "To waste valuable resources",
+    "C": "To cook a delicious meal",
+    "D": "To make a mess on the floor",
+    "Correct": "A"
+  },
+  {
+    "Question": "Identify the segment in the sentence which contains a grammatical error.\n\nThe furniture in the living room / are made of / high-quality teak wood / imported from Myanmar.",
+    "A": "The furniture in the living room",
+    "B": "are made of",
+    "C": "high-quality teak wood",
+    "D": "imported from Myanmar",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the most appropriate option to fill in the blank.\n\nDespite facing numerous challenges, she managed to ________ her calm demeanor.",
+    "A": "maintain",
+    "B": "contain",
+    "C": "detain",
+    "D": "sustain",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the most appropriate synonym of the given word.\n\nTRANSIENT",
+    "A": "Permanent",
+    "B": "Temporary",
+    "C": "Enduring",
+    "D": "Perpetual",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the option that expresses the given sentence in passive voice.\n\nThey are playing an intense chess match in the common room.",
+    "A": "An intense chess match is played by them in the common room.",
+    "B": "An intense chess match is being played by them in the common room.",
+    "C": "An intense chess match was being played by them in the common room.",
+    "D": "An intense chess match has been played by them in the common room.",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the option that can be used as a one-word substitute for the given group of words.\n\nSomething that can be easily broken or damaged",
+    "A": "Fragile",
+    "B": "Ductile",
+    "C": "Malleable",
+    "D": "Flexible",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the most appropriate antonym of the given word.\n\nOBSTINATE",
+    "A": "Stubborn",
+    "B": "Pliable",
+    "C": "Rigid",
+    "D": "Inflexible",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the most appropriate option to substitute the underlined segment in the given sentence.\n\nIf I **was you**, I would accept the job offer immediately.",
+    "A": "if I am you",
+    "B": "if I were you",
+    "C": "if I had been you",
+    "D": "No substitution required",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the correctly spelt word.",
+    "A": "Maintenance",
+    "B": "Maintainance",
+    "C": "Maintanence",
+    "D": "Maintenence",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the most appropriate meaning of the given idiom.\n\nBurn the midnight oil",
+    "A": "To work or study late into the night",
+    "B": "To waste fuel unnecessarily",
+    "C": "To create a fire hazard",
+    "D": "To wake up early in the morning",
+    "Correct": "A"
+  },
+  {
+    "Question": "Identify the segment in the sentence which contains a grammatical error.\n\nUnless you do not work hard, / you will not be able to / clear the upcoming / competitive examination.",
+    "A": "Unless you do not work hard,",
+    "B": "you will not be able to",
+    "C": "clear the upcoming",
+    "D": "competitive examination.",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the correct indirect form of the given sentence.\n\nHe said, \"I have been working on this mechanical project for two weeks.\"",
+    "A": "He said that he had been working on that mechanical project for two weeks.",
+    "B": "He said that he has been working on this mechanical project for two weeks.",
+    "C": "He said that he was working on that mechanical project for two weeks.",
+    "D": "He said that I had been working on this mechanical project for two weeks.",
+    "Correct": "A"
+  },
+  {
+    "Question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\nP. These honeybees collect nectar from various vibrant flowers.\nQ. Honey is a sweet, viscous liquid food substance produced by bees.\nR. The nectar is then converted into honey through enzymatic activity and evaporation within the hive.\nS. It is stored in wax structures called honeycombs for future consumption.",
+    "A": "QPRS",
+    "B": "QPSR",
+    "C": "PRSQ",
+    "D": "RSPQ",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the most appropriate synonym of the given word.\n\nREDUNDANT",
+    "A": "Essential",
+    "B": "Superfluous",
+    "C": "Scant",
+    "D": "Deficient",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the most appropriate option to fill in the blank.\n\nThe unexpected heavy rainfall caused severe ________ to the standing wheat crops.",
+    "A": "destruction",
+    "B": "damage",
+    "C": "dilapidation",
+    "D": "detriment",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the option that can be used as a one-word substitute for the given group of words.\n\nOne who knows or can speak many distinct languages",
+    "A": "Polyglot",
+    "B": "Linguist",
+    "C": "Translator",
+    "D": "Omniscient",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the most appropriate antonym of the given word.\n\nEPHEMERAL",
+    "A": "Transient",
+    "B": "Eternal",
+    "C": "Fleeting",
+    "D": "Short-lived",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the option that expresses the given sentence in active voice.\n\nThe national anthem was beautifully sung by the school choir group.",
+    "A": "The school choir group beautifully sang the national anthem.",
+    "B": "The school choir group is beautifully singing the national anthem.",
+    "C": "The school choir group had beautifully sung the national anthem.",
+    "D": "The school choir group beautifully sings the national anthem.",
+    "Correct": "A"
+  },
+  {
+    "Question": "Identify the segment in the sentence which contains a grammatical error.\n\nThe dynamic captain along with his dedicated team members / were given a warm welcome / at the domestic airport / this morning.",
+    "A": "The dynamic captain along with his dedicated team members",
+    "B": "were given a warm welcome",
+    "C": "at the domestic airport",
+    "D": "this morning.",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the most appropriate option to substitute the underlined segment in the given sentence.\n\nShe prefers tea **than coffee** for her morning beverage routine.",
+    "A": "to coffee",
+    "B": "over coffee",
+    "C": "against coffee",
+    "D": "No substitution required",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the correctly spelt word.",
+    "A": "Occurred",
+    "B": "Ocured",
+    "C": "Occured",
+    "D": "Occurrd",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the most appropriate meaning of the given idiom.\n\nBlessing in disguise",
+    "A": "An apparent misfortune that eventually has good results",
+    "B": "A genuine curse hidden as a temporary gift",
+    "C": "A religious blessing given by a holy priest",
+    "D": "An unexpected reward that causes severe problems",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the correct passive form of the given sentence.\n\nThe mechanic has repaired the broken engine of the luxury car.",
+    "A": "The broken engine of the luxury car was repaired by the mechanic.",
+    "B": "The broken engine of the luxury car has been repaired by the mechanic.",
+    "C": "The broken engine of the luxury car is being repaired by the mechanic.",
+    "D": "The broken engine of the luxury car had been repaired by the mechanic.",
+    "Correct": "B"
+  },
+  {
+    "Question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\nP. Over time, these fine sediments build up layers and form sedimentary rocks.\nQ. Rivers carry sand, mud, and small pebbles downstream as they flow.\nR. These materials are deposited at the river mouth or on the banks.\nS. The intense pressure from upper layers eventually compacts them into solid stone.",
+    "A": "QRPS",
+    "B": "QSPR",
+    "C": "RPQS",
+    "D": "PRSQ",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the most appropriate synonym of the given word.\n\nADVERSITY",
+    "A": "Prosperity",
+    "B": "Misfortune",
+    "C": "Fortune",
+    "D": "Capacity",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the option that can be used as a one-word substitute for the given group of words.\n\nA dynamic collection of historical documents or records providing information about a place, institution, or group of people",
+    "A": "Archive",
+    "B": "Museum",
+    "C": "Library",
+    "D": "Asylum",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the most appropriate option to fill in the blank.\n\nThe young artist's painting was so life-like that it drew praise from all the ________.",
+    "A": "spectators",
+    "B": "onlookers",
+    "C": "viewers",
+    "D": "connoisseurs",
+    "Correct": "D"
+  },
+  {
+    "Question": "Select the most appropriate antonym of the given word.\n\nCONCISE",
+    "A": "Brief",
+    "B": "Wordy",
+    "C": "Short",
+    "D": "Pithy",
+    "Correct": "B"
+  },
+  {
+    "Question": "Identify the segment in the sentence which contains a grammatical error.\n\nThe cost of essential commodities / have risen sharply / during the last few months / affecting the common man.",
+    "A": "The cost of essential commodities",
+    "B": "have risen sharply",
+    "C": "during the last few months",
+    "D": "affecting the common man.",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the correct indirect form of the given sentence.\n\nShe said, \"Will you attend the corporate conference tomorrow?\"",
+    "A": "She asked whether I would attend the corporate conference the next day.",
+    "B": "She asked if I will attend the corporate conference tomorrow.",
+    "C": "She said that whether I would attend the corporate conference the next day.",
+    "D": "She asked if you would attend the corporate conference tomorrow.",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the most appropriate meaning of the given idiom.\n\nTo cry wolf",
+    "A": "To give a false alarm or warning of danger when none exists",
+    "B": "To mourn deeply for a lost pet",
+    "C": "To act bravely in a terrifying situation",
+    "D": "To shout loudly at someone in intense anger",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the option that can be used as a one-word substitute for the given group of words.\n\nAn administrative system where most of the critical decisions are taken by state officials rather than by elected representatives",
+    "A": "Autocracy",
+    "B": "Bureaucracy",
+    "C": "Democracy",
+    "D": "Oligarchy",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the most appropriate option to substitute the underlined segment in the given sentence.\n\nHardly had he arrived at the station **than** the express train whistled and departed.",
+    "A": "when",
+    "B": "then",
+    "C": "before",
+    "D": "No substitution required",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the correct passive form of the given sentence.\n\nSomeone stole my leather wallet from my backpack during the busy commute.",
+    "A": "My leather wallet is stolen from my backpack during the busy commute.",
+    "B": "My leather wallet was stolen from my backpack during the busy commute.",
+    "C": "My leather wallet had been stolen from my backpack during the busy commute.",
+    "D": "My leather wallet was being stolen from my backpack during the busy commute.",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the correctly spelt word.",
+    "A": "Acknowledge",
+    "B": "Aknowledg",
+    "C": "Acknowledgee",
+    "D": "Acknolwedge",
+    "Correct": "A"
+  },
+  {
+    "Question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\nP. This basic instinct drives them to migrate long distances twice every year.\nQ. Animals have distinct behavioral adaptations that help them survive severe winter months.\nR. Some preferred species choose to hibernate in deep burrows during this period.\nS. Others choose to travel to warmer geographical regions where food source is abundant.",
+    "A": "QSRP",
+    "B": "QRSP",
+    "C": "RSQP",
+    "D": "SPRQ",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the most appropriate synonym of the given word.\n\nAUTHENTIC",
+    "A": "Genuine",
+    "B": "False",
+    "C": "Counterfeit",
+    "D": "Dubious",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the most appropriate antonym of the given word.\n\nFORTITUDE",
+    "A": "Courage",
+    "B": "Cowardice",
+    "C": "Resilience",
+    "D": "Bravery",
+    "Correct": "B"
+  },
+  {
+    "Question": "Identify the segment in the sentence which contains a grammatical error.\n\nOne of the most important feature / of this premium smartphone / is its exceptionally long / battery life.",
+    "A": "One of the most important feature",
+    "B": "of this premium smartphone",
+    "C": "is its exceptionally long",
+    "D": "battery life.",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the most appropriate option to fill in the blank.\n\nThe police managed to ________ the tense situation before it could turn violent.",
+    "A": "defuse",
+    "B": "diffuse",
+    "C": "refuse",
+    "D": "infuse",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the option that can be used as a one-word substitute for the given group of words.\n\nA doctor who specializes in treating skin diseases and ailments",
+    "A": "Cardiologist",
+    "B": "Dermatologist",
+    "C": "Neurologist",
+    "D": "Pediatrician",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the option that expresses the given sentence in active voice.\n\nThe historical monument is visited by thousands of international tourists every year.",
+    "A": "Thousands of international tourists visit the historical monument every year.",
+    "B": "Thousands of international tourists are visiting the historical monument every year.",
+    "C": "Thousands of international tourists visited the historical monument every year.",
+    "D": "Thousands of international tourists have visited the historical monument every year.",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the most appropriate meaning of the given idiom.\n\nBite the bullet",
+    "A": "To face a painful or difficult situation with courage and stoicism",
+    "B": "To get severely injured in a practical joke",
+    "C": "To act in a reckless and self-destructive manner",
+    "D": "To show extreme anger toward an innocent person",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the most appropriate option to substitute the underlined segment in the given sentence.\n\nThe historical novel is **too interesting that** I cannot put it down until I finish reading it.",
+    "A": "so interesting that",
+    "B": "very interesting that",
+    "C": "much interesting that",
+    "D": "No substitution required",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the correctly spelt word.",
+    "A": "Grievance",
+    "B": "Greivance",
+    "C": "Grievence",
+    "D": "Greivence",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the correct indirect form of the given sentence.\n\nMy father said to me, \"Don't waste your precious time on social media apps.\"",
+    "A": "My father advised me not to waste my precious time on social media apps.",
+    "B": "My father told to me not to waste your precious time on social media apps.",
+    "C": "My father forbade me to not waste my precious time on social media apps.",
+    "D": "My father advised me that I should not waste your precious time on social media apps.",
+    "Correct": "A"
+  },
+  {
+    "Question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\nP. This modern form of literacy opens up unprecedented educational opportunities.\nQ. Computer literacy involves learning how to use basic software and navigate the internet.\nR. In today's digital age, it has become as essential as traditional reading and writing.\nS. Many industries now require applicants to possess high-level digital technical skills.",
+    "A": "QRPS",
+    "B": "QSPR",
+    "C": "RSPQ",
+    "D": "PRSQ",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the most appropriate synonym of the given word.\n\nINDOLENT",
+    "A": "Lazy",
+    "B": "Active",
+    "C": "Energetic",
+    "D": "Diligent",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the most appropriate antonym of the given word.\n\nPRECARIOUS",
+    "A": "Safe",
+    "B": "Dangerous",
+    "C": "Uncertain",
+    "D": "Perilous",
+    "Correct": "A"
+  },
+  {
+    "Question": "Identify the segment in the sentence which contains a grammatical error.\n\nScarcely had the matches started / than it began to rain heavily / causing a long delay / in the play.",
+    "A": "Scarcely had the matches started",
+    "B": "than it began to rain heavily",
+    "C": "causing a long delay",
+    "D": "in the play.",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the most appropriate option to fill in the blank.\n\nThe defense minister praised the soldiers for their ________ bravery during the border operation.",
+    "A": "exemplary",
+    "B": "explanative",
+    "C": "exaggerated",
+    "D": "extravagant",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the option that can be used as a one-word substitute for the given group of words.\n\nA dynamic speech or piece of writing that praises someone or something highly, typically someone who has just died",
+    "A": "Eulogy",
+    "B": "Elegy",
+    "C": "Epitaph",
+    "D": "Epilogue",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the correct passive form of the given sentence.\n\nThe creative design team will launch the new corporate website next month.",
+    "A": "The new corporate website will be launched by the creative design team next month.",
+    "B": "The new corporate website would be launched by the creative design team next month.",
+    "C": "The new corporate website is being launched by the creative design team next month.",
+    "D": "The new corporate website will have been launched by the creative design team next month.",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the most appropriate meaning of the given idiom.\n\nTo see eye to eye",
+    "A": "To agree fully with someone on a matter",
+    "B": "To stare angrily at a person",
+    "C": "To avoid looking at each other directly",
+    "D": "To look closely at an interesting object",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the most appropriate option to substitute the underlined segment in the given sentence.\n\nEach of the clear candidates **have to fill** the online verification form individually.",
+    "A": "has to fill",
+    "B": "have filled",
+    "C": "are having to fill",
+    "D": "No substitution required",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the correctly spelt word.",
+    "A": "Superintendent",
+    "B": "Superintendant",
+    "C": "Suprintendent",
+    "D": "Superitendent",
+    "Correct": "A"
+  },
+  {
+    "Question": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.\n\nP. Regular physical exercise is vital for maintaining a healthy mind and body balance.\nQ. It helps in burning excess body calories and strengthening cardiovascular muscles.\nR. Furthermore, exercise releases healthy endorphins that significantly reduce mental stress.\nS. Therefore, incorporating a short daily workout plan is highly recommended.",
+    "A": "PQRS",
+    "B": "PQSR",
+    "C": "RSPQ",
+    "D": "QPRS",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the most appropriate synonym of the given word.\n\nSOPHISTICATED",
+    "A": "Advanced",
+    "B": "Simple",
+    "C": "Primitive",
+    "D": "Naive",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the most appropriate antonym of the given word.\n\nTRANSPARENT",
+    "A": "Opaque",
+    "B": "Clear",
+    "C": "Lucid",
+    "D": "Translucent",
+    "Correct": "A"
+  },
+  {
+    "Question": "Identify the segment in the sentence which contains a grammatical error.\n\nThe small children enjoyed / playing on the sandy beach / with their toys / despite of the cold wind.",
+    "A": "The small children enjoyed",
+    "B": "playing on the sandy beach",
+    "C": "with their toys",
+    "D": "despite of the cold wind.",
+    "Correct": "D"
+  },
+  {
+    "Question": "Select the most appropriate option to fill in the blank.\n\nThe company’s revenue saw a ________ increase following the global marketing campaign.",
+    "A": "substantial",
+    "B": "subsequent",
+    "C": "subservient",
+    "D": "subsidiary",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the option that can be used as a one-word substitute for the given group of words.\n\nA detailed list of items or property found in a specific location, or a list of goods in stock",
+    "A": "Inventory",
+    "B": "Directory",
+    "C": "Itinerary",
+    "D": "Glossary",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the correct indirect form of the given sentence.\n\n\"What a beautiful view!\" said the enthusiastic traveler.",
+    "A": "The enthusiastic traveler exclaimed with joy that it was a very beautiful view.",
+    "B": "The enthusiastic traveler said that what a beautiful view it was.",
+    "C": "The enthusiastic traveler exclaimed that it is a beautiful view.",
+    "D": "The enthusiastic traveler told that the view was beautiful.",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the option that expresses the given sentence in passive voice.\n\nOur class teacher conducts weekly revision tests every Friday afternoon.",
+    "A": "Weekly revision tests are conducted by our class teacher every Friday afternoon.",
+    "B": "Weekly revision tests were conducted by our class teacher every Friday afternoon.",
+    "C": "Weekly revision tests are being conducted by our class teacher every Friday afternoon.",
+    "D": "Weekly revision tests have been conducted by our class teacher every Friday afternoon.",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the most appropriate meaning of the given idiom.\n\nA wild goose chase",
+    "A": "A foolish, useless, or hopeless search for something unobtainable",
+    "B": "A thrilling and successful hunting expedition in a forest",
+    "C": "A rapid race across a difficult countryside terrain",
+    "D": "An organized effort to solve an environmental issue",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the most appropriate option to substitute the underlined segment in the given sentence.\n\nThe experienced lawyer argued the complex case **with absolute confident** before the judge.",
+    "A": "with absolute confidence",
+    "B": "with absolutely confident",
+    "C": "in absolute confidently",
+    "D": "No substitution required",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the correctly spelt word.",
+    "A": "Bureaucracy",
+    "B": "Burocracy",
+    "C": "Bureaucracye",
+    "D": "Bureacracy",
+    "Correct": "A"
+  },
+  {
+    "Question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in blank No. 90.\n\nClimate change is one of the most critical global challenges facing humanity today. The rising global temperatures are primarily caused by human activities, ________ the burning of fossil fuels and extensive deforestation.",
+    "A": "including",
+    "B": "excluding",
+    "C": "ignoring",
+    "D": "neglecting",
+    "Correct": "A"
+  },
+  {
+    "Question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in blank No. 91.\n\nThese hazardous activities release massive amounts of greenhouse gases into the atmosphere, creating a greenhouse effect that traps heat. Consequently, we are witnessing severe weather patterns, melting polar ice caps, and ________ sea levels worldwide.",
+    "A": "rising",
+    "B": "falling",
+    "C": "stabilizing",
+    "D": "fluctuating",
+    "Correct": "A"
+  },
+  {
+    "Question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in blank No. 92.\n\nTo combat this growing crisis, nations around the world must come together to adopt sustainable energy alternatives. Shifting towards solar and wind energy can ________ carbon emissions drastically.",
+    "A": "reduce",
+    "B": "increase",
+    "C": "enhance",
+    "D": "accumulate",
+    "Correct": "A"
+  },
+  {
+    "Question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in blank No. 93.\n\nAdditionally, preserving and planting forests acts as a natural carbon sink, which helps clean our atmosphere. Individual contributions, such as reducing waste and conserving power, also play a ________ role in environmental protection.",
+    "A": "significant",
+    "B": "negligible",
+    "C": "trivial",
+    "D": "minor",
+    "Correct": "A"
+  },
+  {
+    "Question": "In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in blank No. 94.\n\nOnly through collective effort and immediate global policy intervention can we ensure a safe, green, and stable planet for our future generations to ________.",
+    "A": "inherit",
+    "B": "destroy",
+    "C": "abandon",
+    "D": "forfeit",
+    "Correct": "A"
+  },
+  {
+    "Question": "Read the passage carefully and select the most appropriate answer to the question based on the passage.\n\nPassage:\nAutomation and Artificial Intelligence (AI) are rapidly transforming the global job landscape. While these technologies enhance efficiency and eliminate hazardous tasks, they also raise concerns about mass displacement of workers. Experts suggest that routine, repetitive tasks are the most vulnerable to automation. However, fields requiring high emotional intelligence, critical thinking, and creativity—such as teaching, healthcare, and artistic professions—are likely to remain resilient against automation.\n\nQuestion:\nAccording to the passage, which types of professions are less likely to be automated?",
+    "A": "Professions that involve routine and repetitive data entry tasks",
+    "B": "Professions requiring high emotional intelligence, critical thinking, and creativity",
+    "C": "Professions that deal solely with mechanical factory assembly operations",
+    "D": "Professions that have been recently introduced in financial accounting",
+    "Correct": "B"
+  },
+  {
+    "Question": "Read the passage carefully and select the most appropriate answer to the question based on the passage.\n\nPassage:\nAutomation and Artificial Intelligence (AI) are rapidly transforming the global job landscape. While these technologies enhance efficiency and eliminate hazardous tasks, they also raise concerns about mass displacement of workers. Experts suggest that routine, repetitive tasks are the most vulnerable to automation. However, fields requiring high emotional intelligence, critical thinking, and creativity—such as teaching, healthcare, and artistic professions—are likely to remain resilient against automation.\n\nQuestion:\nWhat is a potential negative impact of automation highlighted in the text?",
+    "A": "Mass displacement of workers from their current occupations",
+    "B": "An increase in hazardous tasks given to manual laborers",
+    "C": "A complete decline in organizational productivity and efficiency",
+    "D": "A drop in the quality of creative and artistic performances",
+    "Correct": "A"
+  },
+  {
+    "Question": "Read the passage carefully and select the most appropriate answer to the question based on the passage.\n\nPassage:\nAutomation and Artificial Intelligence (AI) are rapidly transforming the global job landscape. While these technologies enhance efficiency and eliminate hazardous tasks, they also raise concerns about mass displacement of workers. Experts suggest that routine, repetitive tasks are the most vulnerable to automation. However, fields requiring high emotional intelligence, critical thinking, and creativity—such as teaching, healthcare, and artistic professions—are likely to remain resilient against automation.\n\nQuestion:\nWhich of the following tasks is considered most vulnerable to being automated by AI?",
+    "A": "Routine and repetitive tasks",
+    "B": "Complex medical procedures requiring empathy",
+    "C": "Creative painting and musical composition",
+    "D": "Advanced classroom teaching and student mentoring",
+    "Correct": "A"
+  },
+  {
+    "Question": "Read the passage carefully and select the most appropriate answer to the question based on the passage.\n\nPassage:\nAutomation and Artificial Intelligence (AI) are rapidly transforming the global job landscape. While these technologies enhance efficiency and eliminate hazardous tasks, they also raise concerns about mass displacement of workers. Experts suggest that routine, repetitive tasks are the most vulnerable to automation. However, fields requiring high emotional intelligence, critical thinking, and creativity—such as teaching, healthcare, and artistic professions—are likely to remain resilient against automation.\n\nQuestion:\nIdentify a suitable title for the passage based on its contents.",
+    "A": "The History of Industrialization in Developing Economies",
+    "B": "AI and Automation: Reshaping the Future Job Landscape",
+    "C": "The Complete Decline of Healthcare and Education Sectors",
+    "D": "Why Mechanical Work is Superior to Creative Endeavors",
+    "Correct": "B"
+  },
+  {
+    "Question": "Read the passage carefully and select the most appropriate answer to the question based on the passage.\n\nPassage:\nAutomation and Artificial Intelligence (AI) are rapidly transforming the global job landscape. While these technologies enhance efficiency and eliminate hazardous tasks, they also raise concerns about mass displacement of workers. Experts suggest that routine, repetitive tasks are the most vulnerable to automation. However, fields requiring high emotional intelligence, critical thinking, and creativity—such as teaching, healthcare, and artistic professions—are likely to remain resilient against automation.\n\nQuestion:\nWhat positive benefit of technology is mentioned in the passage?",
+    "A": "It enhances operational efficiency and eliminates hazardous tasks.",
+    "B": "It replaces human teachers entirely to cut education costs.",
+    "C": "It removes the need for critical thinking in complex situations.",
+    "D": "It stops the growth of competitive modern corporate environments.",
+    "Correct": "A"
+  }
+]
