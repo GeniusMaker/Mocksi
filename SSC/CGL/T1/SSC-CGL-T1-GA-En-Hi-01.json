@@ -1,1 +1,234 @@
-
+[
+  {
+    "Question": "What is the capital of India? / भारत की राजधानी क्या है?",
+    "A": "Mumbai / मुंबई",
+    "B": "New Delhi / नई दिल्ली",
+    "C": "Chennai / चेन्नई",
+    "D": "Kolkata / कोलकाता",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the largest planet in our solar system? / हमारे सौरमंडल का सबसे बड़ा ग्रह कौन सा है?",
+    "A": "Earth / पृथ्वी",
+    "B": "Mars / मंगल",
+    "C": "Jupiter / बृहस्पति",
+    "D": "Venus / शुक्र",
+    "Correct": "C"
+  },
+  {
+    "Question": "Who is known as the Father of the Nation in India? / भारत में राष्ट्रपिता किसे कहा जाता है?",
+    "A": "Jawaharlal Nehru / जवाहरलाल नेहरू",
+    "B": "Mahatma Gandhi / महात्मा गांधी",
+    "C": "Subhash Chandra Bose / सुभाष चंद्र बोस",
+    "D": "Bhagat Singh / भगत सिंह",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the national animal of India? / भारत का राष्ट्रीय पशु कौन है?",
+    "A": "Lion / शेर",
+    "B": "Elephant / हाथी",
+    "C": "Tiger / बाघ",
+    "D": "Leopard / तेंदुआ",
+    "Correct": "C"
+  },
+  {
+    "Question": "How many days are there in a leap year? / एक लीप वर्ष में कितने दिन होते हैं?",
+    "A": "365",
+    "B": "366",
+    "C": "364",
+    "D": "367",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the largest ocean on Earth? / पृथ्वी का सबसे बड़ा महासागर कौन सा है?",
+    "A": "Atlantic Ocean / अटलांटिक महासागर",
+    "B": "Indian Ocean / हिंद महासागर",
+    "C": "Pacific Ocean / प्रशांत महासागर",
+    "D": "Arctic Ocean / आर्कटिक महासागर",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which gas do plants absorb from the atmosphere? / पौधे वायुमंडल से कौन सी गैस लेते हैं?",
+    "A": "Oxygen / ऑक्सीजन",
+    "B": "Carbon Dioxide / कार्बन डाइऑक्साइड",
+    "C": "Nitrogen / नाइट्रोजन",
+    "D": "Hydrogen / हाइड्रोजन",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the fastest land animal? / सबसे तेज़ ज़मीनी जानवर कौन सा है?",
+    "A": "Lion / शेर",
+    "B": "Tiger / बाघ",
+    "C": "Cheetah / चीता",
+    "D": "Leopard / तेंदुआ",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which is the national bird of India? / भारत का राष्ट्रीय पक्षी कौन है?",
+    "A": "Crow / कौआ",
+    "B": "Peacock / मोर",
+    "C": "Parrot / तोता",
+    "D": "Sparrow / गौरैया",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is H2O commonly known as? / H2O को आमतौर पर क्या कहा जाता है?",
+    "A": "Salt / नमक",
+    "B": "Water / पानी",
+    "C": "Oxygen / ऑक्सीजन",
+    "D": "Hydrogen / हाइड्रोजन",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the longest river in the world? / दुनिया की सबसे लंबी नदी कौन सी है?",
+    "A": "Amazon River / अमेज़न नदी",
+    "B": "Nile River / नील नदी",
+    "C": "Ganga River / गंगा नदी",
+    "D": "Yangtze River / यांग्त्ज़ी नदी",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which planet is known as the Red Planet? / किस ग्रह को लाल ग्रह कहा जाता है?",
+    "A": "Mars / मंगल",
+    "B": "Venus / शुक्र",
+    "C": "Mercury / बुध",
+    "D": "Jupiter / बृहस्पति",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which is the national flower of India? / भारत का राष्ट्रीय फूल कौन सा है?",
+    "A": "Rose / गुलाब",
+    "B": "Lotus / कमल",
+    "C": "Sunflower / सूरजमुखी",
+    "D": "Marigold / गेंदा",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is the boiling point of water? / पानी का क्वथनांक क्या है?",
+    "A": "90°C",
+    "B": "80°C",
+    "C": "100°C",
+    "D": "120°C",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which country is known as the Land of the Rising Sun? / किस देश को उगते सूर्य की भूमि कहा जाता है?",
+    "A": "China / चीन",
+    "B": "Japan / जापान",
+    "C": "India / भारत",
+    "D": "Russia / रूस",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which organ purifies blood in the human body? / मानव शरीर में कौन सा अंग रक्त को शुद्ध करता है?",
+    "A": "Heart / हृदय",
+    "B": "Lungs / फेफड़े",
+    "C": "Kidneys / गुर्दे",
+    "D": "Liver / यकृत",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which is the smallest continent? / सबसे छोटा महाद्वीप कौन सा है?",
+    "A": "Europe / यूरोप",
+    "B": "Australia / ऑस्ट्रेलिया",
+    "C": "Africa / अफ्रीका",
+    "D": "Antarctica / अंटार्कटिका",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is the square root of 64? / 64 का वर्गमूल क्या है?",
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which is the national game of India? / भारत का राष्ट्रीय खेल कौन सा है?",
+    "A": "Cricket / क्रिकेट",
+    "B": "Hockey / हॉकी",
+    "C": "Football / फुटबॉल",
+    "D": "Kabaddi / कबड्डी",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which vitamin is produced in sunlight? / धूप से कौन सा विटामिन बनता है?",
+    "A": "Vitamin A",
+    "B": "Vitamin B",
+    "C": "Vitamin C",
+    "D": "Vitamin D",
+    "Correct": "D"
+  },
+  {
+    "Question": "How many states are there in India (2026)? / भारत में कितने राज्य हैं (2026)?",
+    "A": "28",
+    "B": "29",
+    "C": "30",
+    "D": "31",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which is the currency of India? / भारत की मुद्रा क्या है?",
+    "A": "Dollar / डॉलर",
+    "B": "Rupee / रुपया",
+    "C": "Euro / यूरो",
+    "D": "Yen / येन",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which planet is closest to the Sun? / सूर्य के सबसे निकट कौन सा ग्रह है?",
+    "A": "Earth / पृथ्वी",
+    "B": "Venus / शुक्र",
+    "C": "Mercury / बुध",
+    "D": "Mars / मंगल",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which is the largest desert in the world? / दुनिया का सबसे बड़ा रेगिस्तान कौन सा है?",
+    "A": "Sahara Desert / सहारा रेगिस्तान",
+    "B": "Thar Desert / थार रेगिस्तान",
+    "C": "Gobi Desert / गोबी रेगिस्तान",
+    "D": "Kalahari Desert / कालाहारी रेगिस्तान",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which part of the plant conducts photosynthesis? / पौधे का कौन सा भाग प्रकाश संश्लेषण करता है?",
+    "A": "Root / जड़",
+    "B": "Stem / तना",
+    "C": "Leaf / पत्ती",
+    "D": "Flower / फूल",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which is the largest country in the world? / दुनिया का सबसे बड़ा देश कौन सा है?",
+    "A": "Canada / कनाडा",
+    "B": "USA / अमेरिका",
+    "C": "Russia / रूस",
+    "D": "China / चीन",
+    "Correct": "C"
+  },
+  {
+    "Question": "What is the chemical symbol of gold? / सोने का रासायनिक प्रतीक क्या है?",
+    "A": "Ag",
+    "B": "Au",
+    "C": "Go",
+    "D": "Gd",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the highest mountain in the world? / दुनिया का सबसे ऊँचा पर्वत कौन सा है?",
+    "A": "K2",
+    "B": "Mount Everest / माउंट एवरेस्ट",
+    "C": "Kangchenjunga / कंचनजंगा",
+    "D": "Makalu / मकालू",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which festival is known as the Festival of Lights in India? / भारत में रोशनी का त्योहार कौन सा है?",
+    "A": "Holi / होली",
+    "B": "Diwali / दिवाली",
+    "C": "Eid / ईद",
+    "D": "Christmas / क्रिसमस",
+    "Correct": "B"
+  }
+]
