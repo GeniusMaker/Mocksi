@@ -1,1 +1,802 @@
-
+[
+  {
+    "Question": "What is 25% of 320? / 320 का 25% कितना है?",
+    "A": "60 / 60",
+    "B": "70 / 70",
+    "C": "80 / 80",
+    "D": "90 / 90",
+    "Correct": "C"
+  },
+  {
+    "Question": "The HCF of 24 and 36 is? / 24 और 36 का महत्तम समापवर्तक (HCF) क्या है?",
+    "A": "6 / 6",
+    "B": "8 / 8",
+    "C": "12 / 12",
+    "D": "18 / 18",
+    "Correct": "C"
+  },
+  {
+    "Question": "The LCM of 12 and 18 is? / 12 और 18 का लघुत्तम समापवर्त्य (LCM) क्या है?",
+    "A": "24 / 24",
+    "B": "30 / 30",
+    "C": "36 / 36",
+    "D": "48 / 48",
+    "Correct": "C"
+  },
+  {
+    "Question": "15% of 400 is? / 400 का 15% कितना है?",
+    "A": "50 / 50",
+    "B": "60 / 60",
+    "C": "70 / 70",
+    "D": "80 / 80",
+    "Correct": "B"
+  },
+  {
+    "Question": "If CP = ₹500 and SP = ₹550, the profit percentage is? / यदि क्रय मूल्य ₹500 और विक्रय मूल्य ₹550 है, तो लाभ प्रतिशत कितना है?",
+    "A": "8% / 8%",
+    "B": "10% / 10%",
+    "C": "12% / 12%",
+    "D": "15% / 15%",
+    "Correct": "B"
+  },
+  {
+    "Question": "Simple Interest on ₹1000 at 10% p.a. for 2 years is? / ₹1000 पर 10% वार्षिक दर से 2 वर्षों का साधारण ब्याज कितना होगा?",
+    "A": "₹100",
+    "B": "₹150",
+    "C": "₹200",
+    "D": "₹250",
+    "Correct": "C"
+  },
+  {
+    "Question": "Average of 12, 18, 20 and 30 is? / 12, 18, 20 और 30 का औसत क्या है?",
+    "A": "18",
+    "B": "20",
+    "C": "22",
+    "D": "25",
+    "Correct": "B"
+  },
+  {
+    "Question": "A train travels 180 km in 3 hours. Its speed is? / एक ट्रेन 3 घंटे में 180 किमी चलती है। उसकी गति क्या है?",
+    "A": "50 km/h",
+    "B": "55 km/h",
+    "C": "60 km/h",
+    "D": "65 km/h",
+    "Correct": "C"
+  },
+  {
+    "Question": "If x = 7, then x² = ? / यदि x = 7 है, तो x² कितना होगा?",
+    "A": "42",
+    "B": "47",
+    "C": "49",
+    "D": "56",
+    "Correct": "C"
+  },
+  {
+    "Question": "Area of a square of side 9 cm is? / 9 सेमी भुजा वाले वर्ग का क्षेत्रफल कितना है?",
+    "A": "72 cm²",
+    "B": "81 cm²",
+    "C": "90 cm²",
+    "D": "99 cm²",
+    "Correct": "B"
+  },
+  {
+    "Question": "Perimeter of a rectangle with length 12 cm and breadth 8 cm is? / 12 सेमी लंबाई और 8 सेमी चौड़ाई वाले आयत का परिमाप कितना है?",
+    "A": "36 cm",
+    "B": "40 cm",
+    "C": "42 cm",
+    "D": "48 cm",
+    "Correct": "B"
+  },
+  {
+    "Question": "Value of √144 is? / √144 का मान क्या है?",
+    "A": "10",
+    "B": "11",
+    "C": "12",
+    "D": "14",
+    "Correct": "C"
+  },
+  {
+    "Question": "If 5 men complete a work in 12 days, then 10 men will complete it in? / यदि 5 व्यक्ति किसी कार्य को 12 दिनों में पूरा करते हैं, तो 10 व्यक्ति उसे कितने दिनों में पूरा करेंगे?",
+    "A": "4",
+    "B": "5",
+    "C": "6",
+    "D": "8",
+    "Correct": "C"
+  },
+  {
+    "Question": "What is 40% of 250? / 250 का 40% कितना है?",
+    "A": "80",
+    "B": "90",
+    "C": "100",
+    "D": "110",
+    "Correct": "C"
+  },
+  {
+    "Question": "If a number is divisible by both 3 and 4, it must also be divisible by? / यदि कोई संख्या 3 और 4 दोनों से विभाज्य है, तो वह किससे अवश्य विभाज्य होगी?",
+    "A": "6",
+    "B": "8",
+    "C": "12",
+    "D": "24",
+    "Correct": "C"
+  },
+  {
+    "Question": "The value of 8³ is? / 8³ का मान क्या है?",
+    "A": "256",
+    "B": "512",
+    "C": "576",
+    "D": "640",
+    "Correct": "B"
+  },
+  {
+    "Question": "Circumference of a circle with radius 7 cm (π = 22/7) is? / 7 सेमी त्रिज्या वाले वृत्त की परिधि (π = 22/7) क्या होगी?",
+    "A": "22 cm",
+    "B": "44 cm",
+    "C": "49 cm",
+    "D": "56 cm",
+    "Correct": "B"
+  },
+  {
+    "Question": "The median of 2, 5, 7, 8, 10 is? / 2, 5, 7, 8, 10 का माध्यिका क्या है?",
+    "A": "5",
+    "B": "6",
+    "C": "7",
+    "D": "8",
+    "Correct": "C"
+  },
+  {
+    "Question": "If the ratio of boys to girls is 3:2 and total students are 50, number of girls is? / यदि लड़कों और लड़कियों का अनुपात 3:2 है तथा कुल विद्यार्थी 50 हैं, तो लड़कियों की संख्या कितनी होगी?",
+    "A": "20",
+    "B": "25",
+    "C": "30",
+    "D": "35",
+    "Correct": "A"
+  },
+  {
+    "Question": "What is 3/4 of 200? / 200 का 3/4 कितना है?",
+    "A": "120",
+    "B": "140",
+    "C": "150",
+    "D": "160",
+    "Correct": "C"
+  },
+  {
+    "Question": "The sum of angles in a triangle is? / त्रिभुज के कोणों का योग कितना होता है?",
+    "A": "90°",
+    "B": "180°",
+    "C": "270°",
+    "D": "360°",
+    "Correct": "B"
+  },
+  {
+    "Question": "If the selling price is ₹900 and loss is 10%, the cost price is? / यदि विक्रय मूल्य ₹900 है तथा 10% हानि हुई है, तो क्रय मूल्य कितना होगा?",
+    "A": "₹950",
+    "B": "₹1000",
+    "C": "₹1100",
+    "D": "₹1200",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is the value of 9 × 11? / 9 × 11 का मान क्या है?",
+    "A": "89",
+    "B": "99",
+    "C": "101",
+    "D": "111",
+    "Correct": "B"
+  },
+  {
+    "Question": "The cube root of 216 is? / 216 का घनमूल क्या है?",
+    "A": "4",
+    "B": "5",
+    "C": "6",
+    "D": "7",
+    "Correct": "C"
+  },
+  {
+    "Question": "A shopkeeper gives 20% discount on an item marked ₹500. Selling price is? / एक दुकानदार ₹500 अंकित मूल्य वाली वस्तु पर 20% छूट देता है। विक्रय मूल्य कितना होगा?",
+    "A": "₹350",
+    "B": "₹375",
+    "C": "₹400",
+    "D": "₹425",
+    "Correct": "C"
+  },
+  {
+    "Question": "If 20% of a number is 80, then the number is? / यदि किसी संख्या का 20% = 80 है, तो संख्या क्या है?",
+    "A": "320 / 320",
+    "B": "360 / 360",
+    "C": "400 / 400",
+    "D": "420 / 420",
+    "Correct": "C"
+  },
+  {
+    "Question": "The value of (15 × 8) ÷ 6 is? / (15 × 8) ÷ 6 का मान क्या है?",
+    "A": "18 / 18",
+    "B": "20 / 20",
+    "C": "22 / 22",
+    "D": "24 / 24",
+    "Correct": "B"
+  },
+  {
+    "Question": "A sum becomes ₹1210 in 2 years at 10% simple interest. The principal is? / 10% वार्षिक साधारण ब्याज पर 2 वर्षों में राशि ₹1210 हो जाती है। मूलधन कितना है?",
+    "A": "₹1000",
+    "B": "₹1050",
+    "C": "₹1100",
+    "D": "₹1200",
+    "Correct": "A"
+  },
+  {
+    "Question": "The average of first 10 natural numbers is? / प्रथम 10 प्राकृतिक संख्याओं का औसत क्या है?",
+    "A": "5",
+    "B": "5.5",
+    "C": "6",
+    "D": "6.5",
+    "Correct": "B"
+  },
+  {
+    "Question": "If x + 8 = 21, then x = ? / यदि x + 8 = 21 है, तो x = ?",
+    "A": "11",
+    "B": "12",
+    "C": "13",
+    "D": "14",
+    "Correct": "C"
+  },
+  {
+    "Question": "Area of a rectangle of length 15 cm and breadth 12 cm is? / 15 सेमी लंबाई तथा 12 सेमी चौड़ाई वाले आयत का क्षेत्रफल कितना है?",
+    "A": "150 cm²",
+    "B": "160 cm²",
+    "C": "170 cm²",
+    "D": "180 cm²",
+    "Correct": "D"
+  },
+  {
+    "Question": "The perimeter of a square of side 16 cm is? / 16 सेमी भुजा वाले वर्ग का परिमाप कितना है?",
+    "A": "48 cm",
+    "B": "56 cm",
+    "C": "64 cm",
+    "D": "72 cm",
+    "Correct": "C"
+  },
+  {
+    "Question": "A car travels 240 km in 4 hours. Its speed is? / एक कार 4 घंटे में 240 किमी चलती है। उसकी गति क्या है?",
+    "A": "50 km/h",
+    "B": "55 km/h",
+    "C": "60 km/h",
+    "D": "65 km/h",
+    "Correct": "C"
+  },
+  {
+    "Question": "The value of 13² is? / 13² का मान क्या है?",
+    "A": "159",
+    "B": "169",
+    "C": "179",
+    "D": "189",
+    "Correct": "B"
+  },
+  {
+    "Question": "The HCF of 18, 24 and 30 is? / 18, 24 और 30 का HCF क्या है?",
+    "A": "3",
+    "B": "4",
+    "C": "5",
+    "D": "6",
+    "Correct": "D"
+  },
+  {
+    "Question": "The LCM of 8 and 14 is? / 8 और 14 का LCM क्या है?",
+    "A": "48",
+    "B": "52",
+    "C": "56",
+    "D": "64",
+    "Correct": "C"
+  },
+  {
+    "Question": "If CP = ₹800 and SP = ₹720, the loss percentage is? / यदि क्रय मूल्य ₹800 तथा विक्रय मूल्य ₹720 है, तो हानि प्रतिशत कितना है?",
+    "A": "8%",
+    "B": "10%",
+    "C": "12%",
+    "D": "15%",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is 35% of 200? / 200 का 35% कितना है?",
+    "A": "60",
+    "B": "65",
+    "C": "70",
+    "D": "75",
+    "Correct": "C"
+  },
+  {
+    "Question": "The cube of 5 is? / 5 का घन क्या है?",
+    "A": "100",
+    "B": "125",
+    "C": "150",
+    "D": "175",
+    "Correct": "B"
+  },
+  {
+    "Question": "The square root of 225 is? / 225 का वर्गमूल क्या है?",
+    "A": "13",
+    "B": "14",
+    "C": "15",
+    "D": "16",
+    "Correct": "C"
+  },
+  {
+    "Question": "If 8 men complete a work in 15 days, then 12 men will complete it in? / यदि 8 व्यक्ति किसी कार्य को 15 दिनों में पूरा करते हैं, तो 12 व्यक्ति उसे कितने दिनों में पूरा करेंगे?",
+    "A": "8 days",
+    "B": "10 days",
+    "C": "12 days",
+    "D": "14 days",
+    "Correct": "B"
+  },
+  {
+    "Question": "The sum of exterior angles of a polygon is? / किसी भी बहुभुज के बाह्य कोणों का योग कितना होता है?",
+    "A": "180°",
+    "B": "270°",
+    "C": "360°",
+    "D": "540°",
+    "Correct": "C"
+  },
+  {
+    "Question": "If tan θ = 1, then θ = ? / यदि tan θ = 1 है, तो θ = ?",
+    "A": "30°",
+    "B": "45°",
+    "C": "60°",
+    "D": "90°",
+    "Correct": "B"
+  },
+  {
+    "Question": "The mode of 2, 3, 3, 5, 7 is? / 2, 3, 3, 5, 7 का बहुलक क्या है?",
+    "A": "2",
+    "B": "3",
+    "C": "5",
+    "D": "7",
+    "Correct": "B"
+  },
+  {
+    "Question": "If the ratio of two numbers is 7:9 and their sum is 64, the smaller number is? / यदि दो संख्याओं का अनुपात 7:9 है तथा उनका योग 64 है, तो छोटी संख्या क्या है?",
+    "A": "26",
+    "B": "28",
+    "C": "30",
+    "D": "36",
+    "Correct": "B"
+  },
+  {
+    "Question": "The value of 7 × 14 is? / 7 × 14 का मान क्या है?",
+    "A": "84",
+    "B": "91",
+    "C": "98",
+    "D": "104",
+    "Correct": "C"
+  },
+  {
+    "Question": "The volume of a cube of side 5 cm is? / 5 सेमी भुजा वाले घन का आयतन कितना है?",
+    "A": "100 cm³",
+    "B": "125 cm³",
+    "C": "150 cm³",
+    "D": "175 cm³",
+    "Correct": "B"
+  },
+  {
+    "Question": "The value of sin 90° is? / sin 90° का मान क्या है?",
+    "A": "0",
+    "B": "1/2",
+    "C": "√3/2",
+    "D": "1",
+    "Correct": "D"
+  },
+  {
+    "Question": "A discount of 15% on ₹800 is? / ₹800 पर 15% की छूट कितनी होगी?",
+    "A": "₹100",
+    "B": "₹110",
+    "C": "₹120",
+    "D": "₹140",
+    "Correct": "C"
+  },
+  {
+    "Question": "The probability of getting a head in one toss of a fair coin is? / एक निष्पक्ष सिक्के को एक बार उछालने पर हेड आने की प्रायिकता क्या है?",
+    "A": "0",
+    "B": "1/4",
+    "C": "1/2",
+    "D": "1",
+    "Correct": "C"
+  },
+  {
+    "Question": "Solve: 3x + 7 = 22. Find x. / हल करें: 3x + 7 = 22. x का मान ज्ञात करें।",
+    "A": "3",
+    "B": "4",
+    "C": "5",
+    "D": "6",
+    "Correct": "C"
+  },
+  {
+    "Question": "The value of x² − 9 when x = 5 is? / x = 5 होने पर x² − 9 का मान क्या है?",
+    "A": "14",
+    "B": "16",
+    "C": "18",
+    "D": "20",
+    "Correct": "B"
+  },
+  {
+    "Question": "The sum of the angles of a quadrilateral is? / चतुर्भुज के सभी कोणों का योग कितना होता है?",
+    "A": "180°",
+    "B": "270°",
+    "C": "360°",
+    "D": "540°",
+    "Correct": "C"
+  },
+  {
+    "Question": "Area of a triangle with base 12 cm and height 8 cm is? / 12 सेमी आधार और 8 सेमी ऊँचाई वाले त्रिभुज का क्षेत्रफल कितना है?",
+    "A": "36 cm²",
+    "B": "42 cm²",
+    "C": "48 cm²",
+    "D": "54 cm²",
+    "Correct": "C"
+  },
+  {
+    "Question": "The circumference of a circle of radius 14 cm (π = 22/7) is? / 14 सेमी त्रिज्या वाले वृत्त की परिधि (π = 22/7) क्या होगी?",
+    "A": "44 cm",
+    "B": "66 cm",
+    "C": "88 cm",
+    "D": "96 cm",
+    "Correct": "C"
+  },
+  {
+    "Question": "The volume of a cuboid of dimensions 8 cm × 6 cm × 5 cm is? / 8 × 6 × 5 सेमी आयाम वाले घनाभ का आयतन कितना है?",
+    "A": "220 cm³",
+    "B": "240 cm³",
+    "C": "250 cm³",
+    "D": "260 cm³",
+    "Correct": "B"
+  },
+  {
+    "Question": "The value of cos 0° is? / cos 0° का मान क्या है?",
+    "A": "0",
+    "B": "1/2",
+    "C": "1",
+    "D": "√3/2",
+    "Correct": "C"
+  },
+  {
+    "Question": "The value of tan 45° is? / tan 45° का मान क्या है?",
+    "A": "0",
+    "B": "1",
+    "C": "√3",
+    "D": "2",
+    "Correct": "B"
+  },
+  {
+    "Question": "Compound Interest on ₹1000 at 10% per annum for 2 years is? / ₹1000 पर 10% वार्षिक दर से 2 वर्षों का चक्रवृद्धि ब्याज कितना होगा?",
+    "A": "₹200",
+    "B": "₹210",
+    "C": "₹220",
+    "D": "₹230",
+    "Correct": "B"
+  },
+  {
+    "Question": "A number is increased by 20% and then decreased by 20%. The net change is? / किसी संख्या को पहले 20% बढ़ाया और फिर 20% घटाया गया। कुल परिवर्तन क्या होगा?",
+    "A": "No change",
+    "B": "4% decrease",
+    "C": "4% increase",
+    "D": "2% decrease",
+    "Correct": "B"
+  },
+  {
+    "Question": "A train moving at 72 km/h crosses a pole in 20 seconds. The length of the train is? / 72 किमी/घंटा की गति से चलने वाली ट्रेन 20 सेकंड में एक खंभा पार करती है। ट्रेन की लंबाई कितनी है?",
+    "A": "360 m",
+    "B": "400 m",
+    "C": "420 m",
+    "D": "450 m",
+    "Correct": "B"
+  },
+  {
+    "Question": "12 workers complete a work in 15 days. How many workers are needed to complete it in 9 days? / 12 मजदूर 15 दिनों में एक कार्य पूरा करते हैं। वही कार्य 9 दिनों में पूरा करने के लिए कितने मजदूर चाहिए?",
+    "A": "18",
+    "B": "20",
+    "C": "22",
+    "D": "24",
+    "Correct": "B"
+  },
+  {
+    "Question": "If the ratio of two numbers is 5:7 and their difference is 18, the larger number is? / यदि दो संख्याओं का अनुपात 5:7 है तथा उनका अंतर 18 है, तो बड़ी संख्या क्या है?",
+    "A": "45",
+    "B": "54",
+    "C": "63",
+    "D": "72",
+    "Correct": "C"
+  },
+  {
+    "Question": "The mean of 10, 20, 30, 40 and 50 is? / 10, 20, 30, 40 और 50 का माध्य क्या है?",
+    "A": "25",
+    "B": "30",
+    "C": "35",
+    "D": "40",
+    "Correct": "B"
+  },
+  {
+    "Question": "The median of 8, 12, 15, 20, 25 is? / 8, 12, 15, 20, 25 की माध्यिका क्या है?",
+    "A": "12",
+    "B": "15",
+    "C": "18",
+    "D": "20",
+    "Correct": "B"
+  },
+  {
+    "Question": "The probability of getting an even number on a fair die is? / एक निष्पक्ष पासे पर सम संख्या आने की प्रायिकता क्या है?",
+    "A": "1/6",
+    "B": "1/3",
+    "C": "1/2",
+    "D": "2/3",
+    "Correct": "C"
+  },
+  {
+    "Question": "The value of √625 is? / √625 का मान क्या है?",
+    "A": "15",
+    "B": "20",
+    "C": "25",
+    "D": "30",
+    "Correct": "C"
+  },
+  {
+    "Question": "If 40% of a number is 96, then the number is? / यदि किसी संख्या का 40% = 96 है, तो संख्या क्या है?",
+    "A": "220",
+    "B": "230",
+    "C": "240",
+    "D": "250",
+    "Correct": "C"
+  },
+  {
+    "Question": "The value of (18 × 25) ÷ 15 is? / (18 × 25) ÷ 15 का मान क्या है?",
+    "A": "28",
+    "B": "30",
+    "C": "32",
+    "D": "35",
+    "Correct": "B"
+  },
+  {
+    "Question": "A shopkeeper marks an article at ₹1000 and allows a 10% discount. The selling price is? / एक दुकानदार किसी वस्तु का अंकित मूल्य ₹1000 रखता है तथा 10% छूट देता है। विक्रय मूल्य कितना होगा?",
+    "A": "₹850",
+    "B": "₹880",
+    "C": "₹900",
+    "D": "₹950",
+    "Correct": "C"
+  },
+  {
+    "Question": "The sum of the first 20 natural numbers is? / प्रथम 20 प्राकृतिक संख्याओं का योग कितना है?",
+    "A": "190",
+    "B": "200",
+    "C": "210",
+    "D": "220",
+    "Correct": "C"
+  },
+  {
+    "Question": "If sec θ = 2, then cos θ = ? / यदि sec θ = 2 है, तो cos θ का मान क्या होगा?",
+    "A": "1/4",
+    "B": "1/2",
+    "C": "√3/2",
+    "D": "2",
+    "Correct": "B"
+  },
+  {
+    "Question": "The diagonal of a square of side 10 cm is? / 10 सेमी भुजा वाले वर्ग का विकर्ण क्या होगा?",
+    "A": "5√2 cm",
+    "B": "10√2 cm",
+    "C": "20√2 cm",
+    "D": "15√2 cm",
+    "Correct": "B"
+  },
+  {
+    "Question": "The curved surface area of a cylinder is? / बेलन का वक्र पृष्ठीय क्षेत्रफल क्या होता है?",
+    "A": "πr²",
+    "B": "2πr²",
+    "C": "2πrh",
+    "D": "πrh",
+    "Correct": "C"
+  },
+  {
+    "Question": "A bag contains 5 red, 3 blue and 2 green balls. The probability of drawing a blue ball is? / एक थैले में 5 लाल, 3 नीली और 2 हरी गेंदें हैं। नीली गेंद निकलने की प्रायिकता क्या है?",
+    "A": "1/5",
+    "B": "3/10",
+    "C": "2/5",
+    "D": "1/2",
+    "Correct": "B"
+  },
+  {
+    "Question": "If x² − 13x + 40 = 0, one value of x is? / यदि x² − 13x + 40 = 0 है, तो x का एक मान क्या है?",
+    "A": "4",
+    "B": "5",
+    "C": "6",
+    "D": "7",
+    "Correct": "B"
+  },
+  {
+    "Question": "The area of a circle of radius 7 cm (π = 22/7) is? / 7 सेमी त्रिज्या वाले वृत्त का क्षेत्रफल (π = 22/7) कितना है?",
+    "A": "144 cm²",
+    "B": "154 cm²",
+    "C": "164 cm²",
+    "D": "176 cm²",
+    "Correct": "B"
+  },
+  {
+    "Question": "The total surface area of a cube of side 6 cm is? / 6 सेमी भुजा वाले घन का कुल पृष्ठीय क्षेत्रफल कितना है?",
+    "A": "180 cm²",
+    "B": "196 cm²",
+    "C": "216 cm²",
+    "D": "256 cm²",
+    "Correct": "C"
+  },
+  {
+    "Question": "If sin θ = 3/5, then cos θ = ? / यदि sin θ = 3/5 है, तो cos θ का मान क्या होगा?",
+    "A": "3/5",
+    "B": "4/5",
+    "C": "5/4",
+    "D": "2/5",
+    "Correct": "B"
+  },
+  {
+    "Question": "The value of tan 60° is? / tan 60° का मान क्या है?",
+    "A": "1",
+    "B": "√2",
+    "C": "√3",
+    "D": "2",
+    "Correct": "C"
+  },
+  {
+    "Question": "The mean of 15, 20, 25, 30 and 35 is? / 15, 20, 25, 30 और 35 का माध्य क्या है?",
+    "A": "23",
+    "B": "24",
+    "C": "25",
+    "D": "26",
+    "Correct": "C"
+  },
+  {
+    "Question": "The mode of 4, 6, 6, 8, 10 is? / 4, 6, 6, 8, 10 का बहुलक क्या है?",
+    "A": "4",
+    "B": "6",
+    "C": "8",
+    "D": "10",
+    "Correct": "B"
+  },
+  {
+    "Question": "The probability of getting an ace from a pack of 52 cards is? / 52 पत्तों की गड्डी से एक इक्का मिलने की प्रायिकता क्या है?",
+    "A": "1/13",
+    "B": "1/26",
+    "C": "1/52",
+    "D": "4/13",
+    "Correct": "A"
+  },
+  {
+    "Question": "A train covers 360 km in 5 hours. Its speed is? / एक ट्रेन 5 घंटे में 360 किमी चलती है। उसकी गति क्या है?",
+    "A": "70 km/h",
+    "B": "72 km/h",
+    "C": "75 km/h",
+    "D": "80 km/h",
+    "Correct": "B"
+  },
+  {
+    "Question": "If 15 men complete a work in 20 days, then 25 men will complete it in? / यदि 15 व्यक्ति किसी कार्य को 20 दिनों में पूरा करते हैं, तो 25 व्यक्ति उसे कितने दिनों में पूरा करेंगे?",
+    "A": "10 days",
+    "B": "12 days",
+    "C": "15 days",
+    "D": "18 days",
+    "Correct": "B"
+  },
+  {
+    "Question": "A sum doubles itself in 10 years at simple interest. The rate of interest is? / कोई धनराशि साधारण ब्याज पर 10 वर्षों में दोगुनी हो जाती है। ब्याज दर क्या होगी?",
+    "A": "8%",
+    "B": "10%",
+    "C": "12%",
+    "D": "15%",
+    "Correct": "B"
+  },
+  {
+    "Question": "A person purchases an article for ₹800 and sells it for ₹920. The profit percentage is? / एक व्यक्ति ₹800 में वस्तु खरीदकर ₹920 में बेचता है। लाभ प्रतिशत कितना है?",
+    "A": "10%",
+    "B": "12%",
+    "C": "15%",
+    "D": "20%",
+    "Correct": "C"
+  },
+  {
+    "Question": "The ratio of two numbers is 4:9. If their sum is 91, the larger number is? / दो संख्याओं का अनुपात 4:9 है। यदि उनका योग 91 है, तो बड़ी संख्या क्या है?",
+    "A": "56",
+    "B": "63",
+    "C": "70",
+    "D": "72",
+    "Correct": "B"
+  },
+  {
+    "Question": "The value of (24 × 15) ÷ 12 is? / (24 × 15) ÷ 12 का मान क्या है?",
+    "A": "28",
+    "B": "30",
+    "C": "32",
+    "D": "36",
+    "Correct": "B"
+  },
+  {
+    "Question": "The square root of 961 is? / 961 का वर्गमूल क्या है?",
+    "A": "29",
+    "B": "30",
+    "C": "31",
+    "D": "32",
+    "Correct": "C"
+  },
+  {
+    "Question": "If 75% of a number is 150, then the number is? / यदि किसी संख्या का 75% = 150 है, तो संख्या क्या है?",
+    "A": "180",
+    "B": "190",
+    "C": "200",
+    "D": "220",
+    "Correct": "C"
+  },
+  {
+    "Question": "The value of sec 60° is? / sec 60° का मान क्या है?",
+    "A": "1",
+    "B": "2",
+    "C": "√2",
+    "D": "√3",
+    "Correct": "B"
+  },
+  {
+    "Question": "The volume of a sphere of radius r is? / त्रिज्या r वाले गोले का आयतन क्या होता है?",
+    "A": "4πr²",
+    "B": "(4/3)πr³",
+    "C": "πr²h",
+    "D": "2πrh",
+    "Correct": "B"
+  },
+  {
+    "Question": "The median of 5, 7, 9, 12, 15, 18 is? / 5, 7, 9, 12, 15, 18 की माध्यिका क्या है?",
+    "A": "9",
+    "B": "10.5",
+    "C": "11",
+    "D": "12",
+    "Correct": "B"
+  },
+  {
+    "Question": "A bag contains 6 white and 4 black balls. The probability of drawing a black ball is? / एक थैले में 6 सफेद और 4 काली गेंदें हैं। काली गेंद निकलने की प्रायिकता क्या है?",
+    "A": "1/5",
+    "B": "2/5",
+    "C": "3/5",
+    "D": "4/5",
+    "Correct": "B"
+  },
+  {
+    "Question": "The value of cos 60° is? / cos 60° का मान क्या है?",
+    "A": "0",
+    "B": "1/2",
+    "C": "√3/2",
+    "D": "1",
+    "Correct": "B"
+  },
+  {
+    "Question": "The diagonal of a rectangle of length 9 cm and breadth 12 cm is? / 9 सेमी लंबाई तथा 12 सेमी चौड़ाई वाले आयत का विकर्ण कितना होगा?",
+    "A": "13 cm",
+    "B": "14 cm",
+    "C": "15 cm",
+    "D": "16 cm",
+    "Correct": "C"
+  },
+  {
+    "Question": "If the average of 8 numbers is 24, then their sum is? / यदि 8 संख्याओं का औसत 24 है, तो उनका योग कितना होगा?",
+    "A": "182",
+    "B": "188",
+    "C": "192",
+    "D": "196",
+    "Correct": "C"
+  },
+  {
+    "Question": "A trader gives successive discounts of 10% and 20% on an article marked ₹1000. The selling price is? / एक व्यापारी ₹1000 अंकित मूल्य वाली वस्तु पर क्रमशः 10% और 20% की छूट देता है। विक्रय मूल्य कितना होगा?",
+    "A": "₹700",
+    "B": "₹720",
+    "C": "₹750",
+    "D": "₹800",
+    "Correct": "B"
+  },
+  {
+    "Question": "The sum of the interior angles of a hexagon is? / षट्भुज के आंतरिक कोणों का योग कितना होता है?",
+    "A": "540°",
+    "B": "600°",
+    "C": "720°",
+    "D": "900°",
+    "Correct": "C"
+  }
+]
