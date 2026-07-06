@@ -1,10 +1,162 @@
 [
   {
-  "Question": "If TRAIN is coded as USBJO, then PLANE is coded as? / यदि TRAIN को USBJO लिखा जाता है, तो PLANE को कैसे लिखा जाएगा?",
-  "A": "QMBOF",
-  "B": "QMBOE",
-  "C": "RNCPF",
-  "D": "QNBOF",
-  "Correct": "A"
-},
+    "Question": "Who is known as the Father of the Indian Constitution? / भारतीय संविधान के जनक किसे कहा जाता है?",
+    "A": "Mahatma Gandhi / महात्मा गांधी",
+    "B": "Dr. B. R. Ambedkar / डॉ. बी. आर. अंबेडकर",
+    "C": "Jawaharlal Nehru / जवाहरलाल नेहरू",
+    "D": "Sardar Patel / सरदार पटेल",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the largest planet in our Solar System? / हमारे सौरमंडल का सबसे बड़ा ग्रह कौन-सा है?",
+    "A": "Earth / पृथ्वी",
+    "B": "Mars / मंगल",
+    "C": "Jupiter / बृहस्पति",
+    "D": "Saturn / शनि",
+    "Correct": "C"
+  },
+  {
+    "Question": "Who wrote the National Anthem of India? / भारत का राष्ट्रगान किसने लिखा?",
+    "A": "Bankim Chandra Chattopadhyay / बंकिम चंद्र चट्टोपाध्याय",
+    "B": "Rabindranath Tagore / रवीन्द्रनाथ टैगोर",
+    "C": "Subramania Bharati / सुब्रमण्यम भारती",
+    "D": "Sarojini Naidu / सरोजिनी नायडू",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which Article of the Indian Constitution deals with the Right to Equality? / भारतीय संविधान का कौन-सा अनुच्छेद समानता के अधिकार से संबंधित है?",
+    "A": "Article 14 / अनुच्छेद 14",
+    "B": "Article 19 / अनुच्छेद 19",
+    "C": "Article 21 / अनुच्छेद 21",
+    "D": "Article 32 / अनुच्छेद 32",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which river is known as the 'Sorrow of Bihar'? / किस नदी को 'बिहार का शोक' कहा जाता है?",
+    "A": "Ganga / गंगा",
+    "B": "Kosi / कोसी",
+    "C": "Yamuna / यमुना",
+    "D": "Godavari / गोदावरी",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who discovered the Law of Gravitation? / गुरुत्वाकर्षण का नियम किसने खोजा था?",
+    "A": "Albert Einstein / अल्बर्ट आइंस्टीन",
+    "B": "Galileo Galilei / गैलीलियो गैलिली",
+    "C": "Isaac Newton / आइज़ैक न्यूटन",
+    "D": "Nikola Tesla / निकोला टेस्ला",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which vitamin is mainly obtained from sunlight? / सूर्य के प्रकाश से मुख्यतः कौन-सा विटामिन प्राप्त होता है?",
+    "A": "Vitamin A / विटामिन A",
+    "B": "Vitamin B12 / विटामिन B12",
+    "C": "Vitamin C / विटामिन C",
+    "D": "Vitamin D / विटामिन D",
+    "Correct": "D"
+  },
+  {
+    "Question": "Who is known as the Iron Man of India? / भारत का लौह पुरुष किसे कहा जाता है?",
+    "A": "Subhas Chandra Bose / सुभाष चंद्र बोस",
+    "B": "Sardar Vallabhbhai Patel / सरदार वल्लभभाई पटेल",
+    "C": "Lal Bahadur Shastri / लाल बहादुर शास्त्री",
+    "D": "Bal Gangadhar Tilak / बाल गंगाधर तिलक",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which gas is most abundant in Earth's atmosphere? / पृथ्वी के वायुमंडल में सर्वाधिक मात्रा में कौन-सी गैस पाई जाती है?",
+    "A": "Oxygen / ऑक्सीजन",
+    "B": "Nitrogen / नाइट्रोजन",
+    "C": "Carbon Dioxide / कार्बन डाइऑक्साइड",
+    "D": "Hydrogen / हाइड्रोजन",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the highest civilian award in India? / भारत का सर्वोच्च नागरिक सम्मान कौन-सा है?",
+    "A": "Padma Shri / पद्म श्री",
+    "B": "Padma Bhushan / पद्म भूषण",
+    "C": "Padma Vibhushan / पद्म विभूषण",
+    "D": "Bharat Ratna / भारत रत्न",
+    "Correct": "D"
+  },
+  {
+    "Question": "The headquarters of UNESCO is located in which city? / यूनेस्को का मुख्यालय किस शहर में स्थित है?",
+    "A": "New York / न्यूयॉर्क",
+    "B": "Paris / पेरिस",
+    "C": "Geneva / जिनेवा",
+    "D": "London / लंदन",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which Mughal emperor built the Taj Mahal? / ताजमहल का निर्माण किस मुगल सम्राट ने करवाया था?",
+    "A": "Akbar / अकबर",
+    "B": "Jahangir / जहांगीर",
+    "C": "Shah Jahan / शाहजहाँ",
+    "D": "Aurangzeb / औरंगज़ेब",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which organ purifies blood in the human body? / मानव शरीर में रक्त को शुद्ध करने का कार्य कौन-सा अंग करता है?",
+    "A": "Heart / हृदय",
+    "B": "Liver / यकृत",
+    "C": "Kidney / गुर्दा",
+    "D": "Lungs / फेफड़े",
+    "Correct": "C"
+  },
+  {
+    "Question": "Who gave the slogan 'Jai Jawan Jai Kisan'? / 'जय जवान जय किसान' का नारा किसने दिया था?",
+    "A": "Indira Gandhi / इंदिरा गांधी",
+    "B": "Lal Bahadur Shastri / लाल बहादुर शास्त्री",
+    "C": "Mahatma Gandhi / महात्मा गांधी",
+    "D": "Jawaharlal Nehru / जवाहरलाल नेहरू",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the longest river in India? / भारत की सबसे लंबी नदी कौन-सी है?",
+    "A": "Yamuna / यमुना",
+    "B": "Godavari / गोदावरी",
+    "C": "Ganga / गंगा",
+    "D": "Krishna / कृष्णा",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which planet is known as the Red Planet? / लाल ग्रह किसे कहा जाता है?",
+    "A": "Venus / शुक्र",
+    "B": "Mars / मंगल",
+    "C": "Mercury / बुध",
+    "D": "Jupiter / बृहस्पति",
+    "Correct": "B"
+  },
+  {
+    "Question": "The Battle of Plassey was fought in which year? / प्लासी का युद्ध किस वर्ष लड़ा गया था?",
+    "A": "1757 / 1757",
+    "B": "1761 / 1761",
+    "C": "1857 / 1857",
+    "D": "1526 / 1526",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which Fundamental Duty was added by the 86th Constitutional Amendment? / 86वें संविधान संशोधन द्वारा कौन-सा मौलिक कर्तव्य जोड़ा गया?",
+    "A": "To protect public property / सार्वजनिक संपत्ति की रक्षा करना",
+    "B": "To provide education to children aged 6–14 years / 6–14 वर्ष के बच्चों को शिक्षा दिलाना",
+    "C": "To safeguard national heritage / राष्ट्रीय धरोहर की रक्षा करना",
+    "D": "To develop scientific temper / वैज्ञानिक दृष्टिकोण विकसित करना",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which metal is liquid at room temperature? / कमरे के तापमान पर कौन-सी धातु द्रव अवस्था में होती है?",
+    "A": "Iron / लोहा",
+    "B": "Mercury / पारा",
+    "C": "Aluminium / एल्युमिनियम",
+    "D": "Copper / तांबा",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who was the first President of independent India? / स्वतंत्र भारत के प्रथम राष्ट्रपति कौन थे?",
+    "A": "Dr. Rajendra Prasad / डॉ. राजेंद्र प्रसाद",
+    "B": "Dr. S. Radhakrishnan / डॉ. एस. राधाकृष्णन",
+    "C": "Zakir Husain / जाकिर हुसैन",
+    "D": "V. V. Giri / वी. वी. गिरि",
+    "Correct": "A"
+  }
 ]
