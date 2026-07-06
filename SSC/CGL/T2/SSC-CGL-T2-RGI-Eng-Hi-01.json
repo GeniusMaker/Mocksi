@@ -423,15 +423,7 @@
     "D": "42",
     "Correct": "C"
   },
-  {
-    "Question": "If TRAIN is coded as USBJO, then PLANE is coded as? / यदि TRAIN को USBJO लिखा जाता है, तो PLANE को कैसे लिखा जाएगा?",
-    "A": "QMBOF",
-    "B": "QMBOE",
-    "C": "RNCPF",
-    "D": "QNBOF",
-    "Correct": "A"
-  },
-  {
+   {
     "Question": "Which shape has no sides? / किस आकृति की कोई भुजा नहीं होती?",
     "A": "Square / वर्ग",
     "B": "Circle / वृत्त",
