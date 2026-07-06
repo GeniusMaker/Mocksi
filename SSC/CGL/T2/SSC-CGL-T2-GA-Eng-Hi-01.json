@@ -1,1 +1,2 @@
-
+[ 
+  { "Question": "All engineers are graduates. Some graduates are teachers. Therefore, some engineers are teachers. / सभी इंजीनियर स्नातक हैं। कुछ स्नातक शिक्षक हैं। अतः कुछ इंजीनियर शिक्षक हैं।", "A": "True / सत्य", "B": "False / असत्य", "C": "Cannot be concluded / निष्कर्ष नहीं निकाला जा सकता", "D": "None", "Correct": "C" } ]
