@@ -1,1 +1,763 @@
-
+[
+  {
+    "Question": "What is the primary function of CPU? / CPU का मुख्य कार्य क्या है?",
+    "A": "To store files permanently / फाइलों को स्थायी रूप से संग्रहीत करना",
+    "B": "To process instructions and control operations / निर्देशों को संसाधित करना और कार्यों को नियंत्रित करना",
+    "C": "To display output on screen / स्क्रीन पर आउटपुट दिखाना",
+    "D": "To connect internet devices / इंटरनेट उपकरणों को जोड़ना",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which of the following is a volatile memory? / निम्न में से कौन-सी अस्थायी मेमोरी है?",
+    "A": "ROM / रॉम",
+    "B": "Hard Disk / हार्ड डिस्क",
+    "C": "RAM / रैम",
+    "D": "DVD / डीवीडी",
+    "Correct": "C"
+  },
+  {
+    "Question": "What is the full form of ALU? / ALU का पूर्ण रूप क्या है?",
+    "A": "Arithmetic Logic Unit / अंकगणितीय तर्क इकाई",
+    "B": "Automatic Logic Unit / स्वचालित तर्क इकाई",
+    "C": "Application Logic Unit / एप्लिकेशन तर्क इकाई",
+    "D": "Arithmetic Link Unit / अंकगणितीय लिंक इकाई",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which device is used to convert hard copy into digital form? / हार्ड कॉपी को डिजिटल रूप में बदलने के लिए किस उपकरण का उपयोग किया जाता है?",
+    "A": "Printer / प्रिंटर",
+    "B": "Scanner / स्कैनर",
+    "C": "Monitor / मॉनिटर",
+    "D": "Speaker / स्पीकर",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which of the following is an operating system? / निम्न में से कौन-सा ऑपरेटिंग सिस्टम है?",
+    "A": "MS Excel / एमएस एक्सेल",
+    "B": "Google Chrome / गूगल क्रोम",
+    "C": "Windows 11 / विंडोज 11",
+    "D": "Adobe Photoshop / एडोब फोटोशॉप",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which shortcut key is used to save a document? / दस्तावेज़ सेव करने के लिए कौन-सी शॉर्टकट कुंजी प्रयोग होती है?",
+    "A": "Ctrl + P / Ctrl + P",
+    "B": "Ctrl + S / Ctrl + S",
+    "C": "Ctrl + X / Ctrl + X",
+    "D": "Ctrl + Z / Ctrl + Z",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is the full form of RAM? / RAM का पूर्ण रूप क्या है?",
+    "A": "Random Access Memory / रैंडम एक्सेस मेमोरी",
+    "B": "Read Access Memory / रीड एक्सेस मेमोरी",
+    "C": "Rapid Access Machine / रैपिड एक्सेस मशीन",
+    "D": "Random Active Memory / रैंडम एक्टिव मेमोरी",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which protocol is mainly used for sending emails? / ईमेल भेजने के लिए मुख्य रूप से किस प्रोटोकॉल का उपयोग किया जाता है?",
+    "A": "FTP / एफटीपी",
+    "B": "SMTP / एसएमटीपी",
+    "C": "HTTP / एचटीटीपी",
+    "D": "DNS / डीएनएस",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which unit is used to measure computer processing speed? / कंप्यूटर की प्रोसेसिंग गति को मापने के लिए किस इकाई का उपयोग किया जाता है?",
+    "A": "Bytes / बाइट्स",
+    "B": "Pixels / पिक्सेल",
+    "C": "Hertz / हर्ट्ज",
+    "D": "Meters / मीटर",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which of the following is an example of application software? / निम्न में से कौन एप्लिकेशन सॉफ्टवेयर का उदाहरण है?",
+    "A": "Linux / लिनक्स",
+    "B": "Windows / विंडोज",
+    "C": "MS Word / एमएस वर्ड",
+    "D": "BIOS / बायोस",
+    "Correct": "C"
+  },
+  {
+    "Question": "What does URL stand for? / URL का पूर्ण रूप क्या है?",
+    "A": "Uniform Resource Locator / यूनिफॉर्म रिसोर्स लोकेटर",
+    "B": "Universal Record Link / यूनिवर्सल रिकॉर्ड लिंक",
+    "C": "User Resource Language / यूजर रिसोर्स लैंग्वेज",
+    "D": "Unified Remote Link / यूनिफाइड रिमोट लिंक",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which memory is faster than RAM? / कौन-सी मेमोरी RAM से तेज होती है?",
+    "A": "Hard Disk / हार्ड डिस्क",
+    "B": "Cache Memory / कैश मेमोरी",
+    "C": "DVD / डीवीडी",
+    "D": "Pen Drive / पेन ड्राइव",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which key is used to refresh a webpage? / वेबपेज को रिफ्रेश करने के लिए कौन-सी कुंजी उपयोग होती है?",
+    "A": "F2",
+    "B": "F5",
+    "C": "F8",
+    "D": "F12",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is the full form of USB? / USB का पूर्ण रूप क्या है?",
+    "A": "Universal Serial Bus / यूनिवर्सल सीरियल बस",
+    "B": "United System Board / यूनाइटेड सिस्टम बोर्ड",
+    "C": "Universal System Backup / यूनिवर्सल सिस्टम बैकअप",
+    "D": "User Serial Board / यूजर सीरियल बोर्ड",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which of the following is an input device? / निम्न में से कौन-सा इनपुट डिवाइस है?",
+    "A": "Monitor / मॉनिटर",
+    "B": "Printer / प्रिंटर",
+    "C": "Keyboard / कीबोर्ड",
+    "D": "Speaker / स्पीकर",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which type of software controls hardware resources of a computer? / कौन-सा सॉफ्टवेयर कंप्यूटर के हार्डवेयर संसाधनों को नियंत्रित करता है?",
+    "A": "Operating System / ऑपरेटिंग सिस्टम",
+    "B": "Application Software / एप्लिकेशन सॉफ्टवेयर",
+    "C": "Utility Software / यूटिलिटी सॉफ्टवेयर",
+    "D": "Programming Language / प्रोग्रामिंग भाषा",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which of the following is a non-volatile memory? / निम्न में से कौन-सी स्थायी मेमोरी है?",
+    "A": "RAM / रैम",
+    "B": "Cache / कैश",
+    "C": "ROM / रॉम",
+    "D": "Register / रजिस्टर",
+    "Correct": "C"
+  },
+  {
+    "Question": "What is the full form of WWW? / WWW का पूर्ण रूप क्या है?",
+    "A": "World Wide Web / वर्ल्ड वाइड वेब",
+    "B": "World Web Window / वर्ल्ड वेब विंडो",
+    "C": "Wide World Web / वाइड वर्ल्ड वेब",
+    "D": "Web World Wide / वेब वर्ल्ड वाइड",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which device is used to produce a hard copy? / हार्ड कॉपी प्राप्त करने के लिए किस उपकरण का उपयोग किया जाता है?",
+    "A": "Scanner / स्कैनर",
+    "B": "Printer / प्रिंटर",
+    "C": "Keyboard / कीबोर्ड",
+    "D": "Mouse / माउस",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which number system is used internally by computers? / कंप्यूटर आंतरिक रूप से किस संख्या प्रणाली का उपयोग करते हैं?",
+    "A": "Decimal / दशमलव",
+    "B": "Binary / बाइनरी",
+    "C": "Octal / ऑक्टल",
+    "D": "Hexadecimal / हेक्साडेसिमल",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is the extension of a Microsoft Word file? / Microsoft Word फाइल का एक्सटेंशन क्या होता है?",
+    "A": ".xlsx",
+    "B": ".pptx",
+    "C": ".docx",
+    "D": ".exe",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which shortcut key is used to copy selected text? / चयनित टेक्स्ट को कॉपी करने के लिए कौन-सी शॉर्टकट कुंजी प्रयोग होती है?",
+    "A": "Ctrl + V / Ctrl + V",
+    "B": "Ctrl + C / Ctrl + C",
+    "C": "Ctrl + X / Ctrl + X",
+    "D": "Ctrl + A / Ctrl + A",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which network covers a small geographical area? / कौन-सा नेटवर्क छोटे भौगोलिक क्षेत्र को कवर करता है?",
+    "A": "WAN / वैन",
+    "B": "MAN / मैन",
+    "C": "LAN / लैन",
+    "D": "PAN / पैन",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which of the following is a web browser? / निम्न में से कौन-सा वेब ब्राउज़र है?",
+    "A": "Google Chrome / गूगल क्रोम",
+    "B": "Windows / विंडोज",
+    "C": "Linux / लिनक्स",
+    "D": "MS Excel / एमएस एक्सेल",
+    "Correct": "A"
+  },
+  {
+    "Question": "What is the full form of PDF? / PDF का पूर्ण रूप क्या है?",
+    "A": "Portable Document Format / पोर्टेबल डॉक्यूमेंट फॉर्मेट",
+    "B": "Personal Data File / पर्सनल डेटा फाइल",
+    "C": "Public Document Folder / पब्लिक डॉक्यूमेंट फोल्डर",
+    "D": "Printed Data Format / प्रिंटेड डेटा फॉर्मेट",
+    "Correct": "A"
+  },
+  {
+    "Question": "Who is known as the father of computers? / कंप्यूटर का जनक किसे कहा जाता है?",
+    "A": "Alan Turing / एलन ट्यूरिंग",
+    "B": "Charles Babbage / चार्ल्स बैबेज",
+    "C": "Bill Gates / बिल गेट्स",
+    "D": "Steve Jobs / स्टीव जॉब्स",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is the full form of BIOS? / BIOS का पूर्ण रूप क्या है?",
+    "A": "Basic Input Output System / बेसिक इनपुट आउटपुट सिस्टम",
+    "B": "Binary Input Operating System / बाइनरी इनपुट ऑपरेटिंग सिस्टम",
+    "C": "Basic Internal Operating Software / बेसिक इंटरनल ऑपरेटिंग सॉफ्टवेयर",
+    "D": "Backup Input Output Service / बैकअप इनपुट आउटपुट सर्विस",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which of the following is a storage device? / निम्न में से कौन-सा स्टोरेज डिवाइस है?",
+    "A": "Mouse / माउस",
+    "B": "Keyboard / कीबोर्ड",
+    "C": "Hard Disk / हार्ड डिस्क",
+    "D": "Monitor / मॉनिटर",
+    "Correct": "C"
+  },
+  {
+    "Question": "1 Byte is equal to how many bits? / 1 बाइट में कितने बिट होते हैं?",
+    "A": "4 bits / 4 बिट",
+    "B": "8 bits / 8 बिट",
+    "C": "16 bits / 16 बिट",
+    "D": "32 bits / 32 बिट",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which of the following is a programming language? / निम्न में से कौन-सी प्रोग्रामिंग भाषा है?",
+    "A": "Python / पायथन",
+    "B": "Windows / विंडोज",
+    "C": "Chrome / क्रोम",
+    "D": "Printer / प्रिंटर",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which shortcut key is used for paste operation? / पेस्ट करने के लिए कौन-सी शॉर्टकट कुंजी प्रयोग होती है?",
+    "A": "Ctrl + C",
+    "B": "Ctrl + X",
+    "C": "Ctrl + V",
+    "D": "Ctrl + Z",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which device connects different networks? / विभिन्न नेटवर्कों को जोड़ने वाला उपकरण कौन-सा है?",
+    "A": "Router / राउटर",
+    "B": "Scanner / स्कैनर",
+    "C": "Printer / प्रिंटर",
+    "D": "Keyboard / कीबोर्ड",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which protocol is used for secure communication on the web? / वेब पर सुरक्षित संचार के लिए किस प्रोटोकॉल का उपयोग किया जाता है?",
+    "A": "HTTP",
+    "B": "HTTPS",
+    "C": "FTP",
+    "D": "SMTP",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which company developed the Windows operating system? / Windows ऑपरेटिंग सिस्टम किस कंपनी ने विकसित किया?",
+    "A": "Google / गूगल",
+    "B": "Apple / एप्पल",
+    "C": "Microsoft / माइक्रोसॉफ्ट",
+    "D": "IBM / आईबीएम",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which of the following is an output device? / निम्न में से कौन-सा आउटपुट डिवाइस है?",
+    "A": "Scanner / स्कैनर",
+    "B": "Monitor / मॉनिटर",
+    "C": "Keyboard / कीबोर्ड",
+    "D": "Mouse / माउस",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is the full form of LAN? / LAN का पूर्ण रूप क्या है?",
+    "A": "Local Area Network / लोकल एरिया नेटवर्क",
+    "B": "Large Access Network / लार्ज एक्सेस नेटवर्क",
+    "C": "Long Area Node / लॉन्ग एरिया नोड",
+    "D": "Local Access Node / लोकल एक्सेस नोड",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which of the following is used for video conferencing? / वीडियो कॉन्फ्रेंसिंग के लिए किसका उपयोग किया जाता है?",
+    "A": "Webcam / वेबकैम",
+    "B": "Hard Disk / हार्ड डिस्क",
+    "C": "RAM / रैम",
+    "D": "CPU / सीपीयू",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which shortcut key is used to select all text? / सभी टेक्स्ट चुनने के लिए कौन-सी शॉर्टकट कुंजी प्रयोग होती है?",
+    "A": "Ctrl + A",
+    "B": "Ctrl + S",
+    "C": "Ctrl + F",
+    "D": "Ctrl + N",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which of the following is an example of cloud storage? / निम्न में से कौन-सा क्लाउड स्टोरेज का उदाहरण है?",
+    "A": "Google Drive / गूगल ड्राइव",
+    "B": "RAM / रैम",
+    "C": "CPU / सीपीयू",
+    "D": "Keyboard / कीबोर्ड",
+    "Correct": "A"
+  },
+  {
+    "Question": "What is the full form of HTML? / HTML का पूर्ण रूप क्या है?",
+    "A": "Hyper Text Markup Language / हाइपर टेक्स्ट मार्कअप लैंग्वेज",
+    "B": "High Text Machine Language / हाई टेक्स्ट मशीन लैंग्वेज",
+    "C": "Hyper Transfer Markup Link / हाइपर ट्रांसफर मार्कअप लिंक",
+    "D": "Home Tool Markup Language / होम टूल मार्कअप लैंग्वेज",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which of the following is an antivirus software? / निम्न में से कौन-सा एंटीवायरस सॉफ्टवेयर है?",
+    "A": "MS Word / एमएस वर्ड",
+    "B": "Quick Heal / क्विक हील",
+    "C": "PowerPoint / पावरपॉइंट",
+    "D": "Paint / पेंट",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which memory is directly accessed by CPU? / CPU द्वारा सीधे किस मेमोरी को एक्सेस किया जाता है?",
+    "A": "Primary Memory / प्राथमिक मेमोरी",
+    "B": "Pen Drive / पेन ड्राइव",
+    "C": "DVD / डीवीडी",
+    "D": "External Hard Disk / बाहरी हार्ड डिस्क",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which of the following is a search engine? / निम्न में से कौन-सा सर्च इंजन है?",
+    "A": "Google / गूगल",
+    "B": "Windows / विंडोज",
+    "C": "Linux / लिनक्स",
+    "D": "Excel / एक्सेल",
+    "Correct": "A"
+  },
+  {
+    "Question": "What does VPN stand for? / VPN का पूर्ण रूप क्या है?",
+    "A": "Virtual Private Network / वर्चुअल प्राइवेट नेटवर्क",
+    "B": "Visual Public Network / विजुअल पब्लिक नेटवर्क",
+    "C": "Virtual Program Node / वर्चुअल प्रोग्राम नोड",
+    "D": "Verified Private Node / वेरिफाइड प्राइवेट नोड",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which device is used to input voice into a computer? / कंप्यूटर में आवाज इनपुट करने के लिए किस उपकरण का उपयोग किया जाता है?",
+    "A": "Speaker / स्पीकर",
+    "B": "Microphone / माइक्रोफोन",
+    "C": "Monitor / मॉनिटर",
+    "D": "Printer / प्रिंटर",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which of the following is NOT an operating system? / निम्न में से कौन-सा ऑपरेटिंग सिस्टम नहीं है?",
+    "A": "Linux / लिनक्स",
+    "B": "Windows / विंडोज",
+    "C": "MS Excel / एमएस एक्सेल",
+    "D": "Android / एंड्रॉयड",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which key is used to delete text after the cursor? / कर्सर के बाद का टेक्स्ट हटाने के लिए कौन-सी कुंजी उपयोग होती है?",
+    "A": "Delete / डिलीट",
+    "B": "Backspace / बैकस्पेस",
+    "C": "Shift / शिफ्ट",
+    "D": "Enter / एंटर",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which type of network connects devices within a person's range? / व्यक्ति के सीमित क्षेत्र में उपकरणों को जोड़ने वाला नेटवर्क कौन-सा है?",
+    "A": "PAN / पैन",
+    "B": "WAN / वैन",
+    "C": "MAN / मैन",
+    "D": "LAN / लैन",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which file extension is used for PowerPoint presentations? / PowerPoint प्रस्तुति के लिए कौन-सा फाइल एक्सटेंशन प्रयोग होता है?",
+    "A": ".docx",
+    "B": ".pptx",
+    "C": ".xlsx",
+    "D": ".txt",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which technology is used for wireless communication over short distances? / कम दूरी की वायरलेस संचार तकनीक कौन-सी है?",
+    "A": "Bluetooth / ब्लूटूथ",
+    "B": "FTP / एफटीपी",
+    "C": "SMTP / एसएमटीपी",
+    "D": "HTML / एचटीएमएल",
+    "Correct": "A"
+  },
+  {
+    "Question": "What is the full form of DBMS? / DBMS का पूर्ण रूप क्या है?",
+    "A": "Database Management System / डेटाबेस मैनेजमेंट सिस्टम",
+    "B": "Data Backup Management Service / डेटा बैकअप मैनेजमेंट सर्विस",
+    "C": "Digital Base Management System / डिजिटल बेस मैनेजमेंट सिस्टम",
+    "D": "Database Monitoring Service / डेटाबेस मॉनिटरिंग सर्विस",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which software is used to create databases? / डेटाबेस बनाने के लिए किस सॉफ्टवेयर का उपयोग किया जाता है?",
+    "A": "MS Paint / एमएस पेंट",
+    "B": "MS Access / एमएस एक्सेस",
+    "C": "Notepad / नोटपैड",
+    "D": "Calculator / कैलकुलेटर",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which of the following is a secondary storage device? / निम्न में से कौन-सा द्वितीयक स्टोरेज डिवाइस है?",
+    "A": "RAM / रैम",
+    "B": "Cache Memory / कैश मेमोरी",
+    "C": "Hard Disk / हार्ड डिस्क",
+    "D": "Register / रजिस्टर",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which component performs mathematical calculations in a computer? / कंप्यूटर में गणितीय गणना कौन करता है?",
+    "A": "ALU / एएलयू",
+    "B": "Monitor / मॉनिटर",
+    "C": "Keyboard / कीबोर्ड",
+    "D": "Scanner / स्कैनर",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which shortcut key is used for undo operation? / Undo करने के लिए कौन-सी शॉर्टकट कुंजी प्रयोग होती है?",
+    "A": "Ctrl + Y",
+    "B": "Ctrl + Z",
+    "C": "Ctrl + P",
+    "D": "Ctrl + B",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which of the following is an example of an optical storage device? / निम्न में से कौन-सा ऑप्टिकल स्टोरेज डिवाइस है?",
+    "A": "SSD / एसएसडी",
+    "B": "RAM / रैम",
+    "C": "DVD / डीवीडी",
+    "D": "Cache / कैश",
+    "Correct": "C"
+  },
+  {
+    "Question": "What is the full form of IP? / IP का पूर्ण रूप क्या है?",
+    "A": "Internet Protocol / इंटरनेट प्रोटोकॉल",
+    "B": "Internal Program / इंटरनल प्रोग्राम",
+    "C": "Internet Program / इंटरनेट प्रोग्राम",
+    "D": "Input Protocol / इनपुट प्रोटोकॉल",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which of the following is used to identify a computer on a network? / नेटवर्क पर कंप्यूटर की पहचान के लिए किसका उपयोग होता है?",
+    "A": "IP Address / आईपी एड्रेस",
+    "B": "File Name / फाइल नाम",
+    "C": "Folder Name / फोल्डर नाम",
+    "D": "Password / पासवर्ड",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which company developed Android? / Android किस कंपनी द्वारा विकसित किया गया?",
+    "A": "Microsoft / माइक्रोसॉफ्ट",
+    "B": "Google / गूगल",
+    "C": "IBM / आईबीएम",
+    "D": "Intel / इंटेल",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which type of software is MS Excel? / MS Excel किस प्रकार का सॉफ्टवेयर है?",
+    "A": "Spreadsheet Software / स्प्रेडशीट सॉफ्टवेयर",
+    "B": "Operating System / ऑपरेटिंग सिस्टम",
+    "C": "Antivirus Software / एंटीवायरस सॉफ्टवेयर",
+    "D": "Browser / ब्राउज़र",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which key combination opens Task Manager in Windows? / Windows में Task Manager खोलने के लिए कौन-सा संयोजन प्रयोग होता है?",
+    "A": "Ctrl + Shift + Esc",
+    "B": "Ctrl + C",
+    "C": "Alt + Tab",
+    "D": "Ctrl + S",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which of the following is a cloud computing service? / निम्न में से कौन-सी क्लाउड कंप्यूटिंग सेवा है?",
+    "A": "Google Cloud / गूगल क्लाउड",
+    "B": "Keyboard / कीबोर्ड",
+    "C": "Printer / प्रिंटर",
+    "D": "Scanner / स्कैनर",
+    "Correct": "A"
+  },
+  {
+    "Question": "What is the full form of AI? / AI का पूर्ण रूप क्या है?",
+    "A": "Automatic Information / ऑटोमेटिक इंफॉर्मेशन",
+    "B": "Artificial Intelligence / आर्टिफिशियल इंटेलिजेंस",
+    "C": "Advanced Internet / एडवांस्ड इंटरनेट",
+    "D": "Artificial Interface / आर्टिफिशियल इंटरफेस",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which of the following is a type of malware? / निम्न में से कौन-सा मैलवेयर का प्रकार है?",
+    "A": "Ransomware / रैनसमवेयर",
+    "B": "Windows / विंडोज",
+    "C": "Excel / एक्सेल",
+    "D": "Chrome / क्रोम",
+    "Correct": "A"
+  },
+  {
+    "Question": "What is the main purpose of a firewall? / फायरवॉल का मुख्य उद्देश्य क्या है?",
+    "A": "Increase typing speed / टाइपिंग गति बढ़ाना",
+    "B": "Protect network from unauthorized access / नेटवर्क को अनधिकृत पहुंच से बचाना",
+    "C": "Create documents / दस्तावेज बनाना",
+    "D": "Play videos / वीडियो चलाना",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which of the following is a search engine? / निम्न में से कौन-सा सर्च इंजन है?",
+    "A": "Google / गूगल",
+    "B": "Windows / विंडोज",
+    "C": "Linux / लिनक्स",
+    "D": "PowerPoint / पावरपॉइंट",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which device is used to connect a computer to the internet? / कंप्यूटर को इंटरनेट से जोड़ने के लिए किस उपकरण का उपयोग होता है?",
+    "A": "Modem / मॉडेम",
+    "B": "Printer / प्रिंटर",
+    "C": "Speaker / स्पीकर",
+    "D": "Scanner / स्कैनर",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which of the following is an example of a database language? / निम्न में से कौन-सी डेटाबेस भाषा का उदाहरण है?",
+    "A": "SQL / एसक्यूएल",
+    "B": "HTML / एचटीएमएल",
+    "C": "CSS / सीएसएस",
+    "D": "XML / एक्सएमएल",
+    "Correct": "A"
+  },
+  {
+    "Question": "What does SSD stand for? / SSD का पूर्ण रूप क्या है?",
+    "A": "Solid State Drive / सॉलिड स्टेट ड्राइव",
+    "B": "System Storage Device / सिस्टम स्टोरेज डिवाइस",
+    "C": "Secure Software Disk / सिक्योर सॉफ्टवेयर डिस्क",
+    "D": "Serial Storage Drive / सीरियल स्टोरेज ड्राइव",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which of the following is used to browse websites? / वेबसाइट ब्राउज़ करने के लिए किसका उपयोग किया जाता है?",
+    "A": "Web Browser / वेब ब्राउज़र",
+    "B": "Compiler / कंपाइलर",
+    "C": "Antivirus / एंटीवायरस",
+    "D": "Database / डेटाबेस",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which of the following is a video file format? / निम्न में से कौन-सा वीडियो फाइल प्रारूप है?",
+    "A": ".mp4",
+    "B": ".docx",
+    "C": ".xlsx",
+    "D": ".txt",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which generation of computers used integrated circuits? / किस पीढ़ी के कंप्यूटरों में इंटीग्रेटेड सर्किट का उपयोग हुआ?",
+    "A": "First Generation / पहली पीढ़ी",
+    "B": "Second Generation / दूसरी पीढ़ी",
+    "C": "Third Generation / तीसरी पीढ़ी",
+    "D": "Fourth Generation / चौथी पीढ़ी",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which language is mainly used for web page styling? / वेब पेज की स्टाइलिंग के लिए किस भाषा का उपयोग होता है?",
+    "A": "CSS / सीएसएस",
+    "B": "SQL / एसक्यूएल",
+    "C": "Python / पायथन",
+    "D": "C++ / सी++",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which of the following is a portable storage device? / निम्न में से कौन-सा पोर्टेबल स्टोरेज डिवाइस है?",
+    "A": "Pen Drive / पेन ड्राइव",
+    "B": "CPU / सीपीयू",
+    "C": "Monitor / मॉनिटर",
+    "D": "Motherboard / मदरबोर्ड",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which shortcut key is used to print a document? / दस्तावेज प्रिंट करने के लिए कौन-सी शॉर्टकट कुंजी प्रयोग होती है?",
+    "A": "Ctrl + P",
+    "B": "Ctrl + R",
+    "C": "Ctrl + T",
+    "D": "Ctrl + L",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which of the following is a computer network topology? / निम्न में से कौन-सा कंप्यूटर नेटवर्क टोपोलॉजी है?",
+    "A": "Star / स्टार",
+    "B": "File / फाइल",
+    "C": "Folder / फोल्डर",
+    "D": "Window / विंडो",
+    "Correct": "A"
+  },
+  {
+    "Question": "What is the full form of WAN? / WAN का पूर्ण रूप क्या है?",
+    "A": "Wide Area Network / वाइड एरिया नेटवर्क",
+    "B": "Wireless Access Network / वायरलेस एक्सेस नेटवर्क",
+    "C": "World Area Node / वर्ल्ड एरिया नोड",
+    "D": "Web Access Network / वेब एक्सेस नेटवर्क",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which of the following is an example of an open-source operating system? / निम्न में से कौन-सा ओपन-सोर्स ऑपरेटिंग सिस्टम है?",
+    "A": "Linux / लिनक्स",
+    "B": "Windows / विंडोज",
+    "C": "MS Office / एमएस ऑफिस",
+    "D": "iTunes / आईट्यून्स",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which part of the computer is called the brain of the computer? / कंप्यूटर का मस्तिष्क किस भाग को कहा जाता है?",
+    "A": "CPU / सीपीयू",
+    "B": "Monitor / मॉनिटर",
+    "C": "Keyboard / कीबोर्ड",
+    "D": "Mouse / माउस",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which of the following is a communication device? / निम्न में से कौन-सा संचार उपकरण है?",
+    "A": "Modem / मॉडेम",
+    "B": "RAM / रैम",
+    "C": "CPU / सीपीयू",
+    "D": "Hard Disk / हार्ड डिस्क",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which shortcut key is used to cut selected text? / चयनित टेक्स्ट को काटने के लिए कौन-सी शॉर्टकट कुंजी प्रयोग होती है?",
+    "A": "Ctrl + C",
+    "B": "Ctrl + X",
+    "C": "Ctrl + V",
+    "D": "Ctrl + Z",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which of the following stores data permanently? / निम्न में से कौन डेटा को स्थायी रूप से संग्रहीत करता है?",
+    "A": "RAM / रैम",
+    "B": "Cache / कैश",
+    "C": "Hard Disk / हार्ड डिस्क",
+    "D": "Register / रजिस्टर",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which technology is used for making payments through mobile phones? / मोबाइल फोन से भुगतान करने के लिए किस तकनीक का उपयोग किया जाता है?",
+    "A": "UPI / यूपीआई",
+    "B": "VGA / वीजीए",
+    "C": "BIOS / बायोस",
+    "D": "FTP / एफटीपी",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which of the following is a spreadsheet application? / निम्न में से कौन-सा स्प्रेडशीट एप्लिकेशन है?",
+    "A": "MS Excel / एमएस एक्सेल",
+    "B": "MS Paint / एमएस पेंट",
+    "C": "Notepad / नोटपैड",
+    "D": "VLC Player / वीएलसी प्लेयर",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which device is used for pointing and selecting objects on screen? / स्क्रीन पर वस्तुओं को चुनने और पॉइंट करने के लिए किस उपकरण का उपयोग होता है?",
+    "A": "Mouse / माउस",
+    "B": "Printer / प्रिंटर",
+    "C": "Scanner / स्कैनर",
+    "D": "Speaker / स्पीकर",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which of the following is used to store temporary data while a computer is running? / कंप्यूटर चलने के दौरान अस्थायी डेटा को स्टोर करने के लिए किसका उपयोग किया जाता है?",
+    "A": "ROM / रॉम",
+    "B": "RAM / रैम",
+    "C": "Hard Disk / हार्ड डिस्क",
+    "D": "DVD / डीवीडी",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is the full form of OCR? / OCR का पूर्ण रूप क्या है?",
+    "A": "Optical Character Recognition / ऑप्टिकल कैरेक्टर रिकग्निशन",
+    "B": "Online Character Reader / ऑनलाइन कैरेक्टर रीडर",
+    "C": "Optical Code Reader / ऑप्टिकल कोड रीडर",
+    "D": "Output Character Recognition / आउटपुट कैरेक्टर रिकग्निशन",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which of the following is a presentation software? / निम्न में से कौन-सा प्रेजेंटेशन सॉफ्टवेयर है?",
+    "A": "MS PowerPoint / एमएस पावरपॉइंट",
+    "B": "MS Access / एमएस एक्सेस",
+    "C": "Notepad / नोटपैड",
+    "D": "Calculator / कैलकुलेटर",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which of the following is a cyber security threat? / निम्न में से कौन-सा साइबर सुरक्षा खतरा है?",
+    "A": "Phishing / फिशिंग",
+    "B": "Formatting / फॉर्मेटिंग",
+    "C": "Printing / प्रिंटिंग",
+    "D": "Scanning / स्कैनिंग",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which key is used to move to the next line in a document? / दस्तावेज में अगली लाइन पर जाने के लिए कौन-सी कुंजी प्रयोग होती है?",
+    "A": "Shift / शिफ्ट",
+    "B": "Enter / एंटर",
+    "C": "Ctrl / कंट्रोल",
+    "D": "Alt / ऑल्ट",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which of the following is an example of artificial intelligence? / निम्न में से कौन-सा आर्टिफिशियल इंटेलिजेंस का उदाहरण है?",
+    "A": "Voice Assistant / वॉइस असिस्टेंट",
+    "B": "Keyboard / कीबोर्ड",
+    "C": "Printer / प्रिंटर",
+    "D": "Hard Disk / हार्ड डिस्क",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which file extension represents an executable file in Windows? / Windows में निष्पादन योग्य फाइल का एक्सटेंशन क्या होता है?",
+    "A": ".txt",
+    "B": ".jpg",
+    "C": ".exe",
+    "D": ".docx",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which of the following is a video conferencing application? / निम्न में से कौन-सा वीडियो कॉन्फ्रेंसिंग एप्लिकेशन है?",
+    "A": "Zoom / ज़ूम",
+    "B": "Paint / पेंट",
+    "C": "Excel / एक्सेल",
+    "D": "Notepad / नोटपैड",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which technology is used to connect devices without cables over short distances? / कम दूरी पर बिना केबल उपकरणों को जोड़ने के लिए किस तकनीक का उपयोग किया जाता है?",
+    "A": "Bluetooth / ब्लूटूथ",
+    "B": "FTP / एफटीपी",
+    "C": "SMTP / एसएमटीपी",
+    "D": "HTTP / एचटीटीपी",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which of the following is a unit of computer memory? / निम्न में से कौन-सी कंप्यूटर मेमोरी की इकाई है?",
+    "A": "Byte / बाइट",
+    "B": "Meter / मीटर",
+    "C": "Liter / लीटर",
+    "D": "Volt / वोल्ट",
+    "Correct": "A"
+  }
+]
+  
