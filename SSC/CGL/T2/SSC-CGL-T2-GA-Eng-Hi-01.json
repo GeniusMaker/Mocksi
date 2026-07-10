@@ -158,5 +158,165 @@
     "C": "Zakir Husain / जाकिर हुसैन",
     "D": "V. V. Giri / वी. वी. गिरि",
     "Correct": "A"
+  },
+  {
+    "Question": "Who founded the Maurya Empire? / मौर्य साम्राज्य की स्थापना किसने की थी?",
+    "A": "Ashoka / अशोक",
+    "B": "Chandragupta Maurya / चंद्रगुप्त मौर्य",
+    "C": "Bindusara / बिंदुसार",
+    "D": "Harshavardhana / हर्षवर्धन",
+    "Correct": "B"
+  },
+  {
+    "Question": "The Battle of Plassey was fought in which year? / प्लासी का युद्ध किस वर्ष लड़ा गया था?",
+    "A": "1757 / 1757",
+    "B": "1764 / 1764",
+    "C": "1857 / 1857",
+    "D": "1773 / 1773",
+    "Correct": "A"
+  },
+  {
+    "Question": "Who wrote the book 'Discovery of India'? / 'डिस्कवरी ऑफ इंडिया' पुस्तक किसने लिखी?",
+    "A": "Mahatma Gandhi / महात्मा गांधी",
+    "B": "Sardar Patel / सरदार पटेल",
+    "C": "Jawaharlal Nehru / जवाहरलाल नेहरू",
+    "D": "B. R. Ambedkar / बी. आर. अंबेडकर",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which Article of the Indian Constitution deals with Fundamental Rights? / भारतीय संविधान में मौलिक अधिकार किस अनुच्छेद में दिए गए हैं?",
+    "A": "Article 12-35 / अनुच्छेद 12-35",
+    "B": "Article 36-51 / अनुच्छेद 36-51",
+    "C": "Article 52-78 / अनुच्छेद 52-78",
+    "D": "Article 79-122 / अनुच्छेद 79-122",
+    "Correct": "A"
+  },
+  {
+    "Question": "Who is the constitutional head of India? / भारत का संवैधानिक प्रमुख कौन होता है?",
+    "A": "Prime Minister / प्रधानमंत्री",
+    "B": "President / राष्ट्रपति",
+    "C": "Chief Justice of India / भारत के मुख्य न्यायाधीश",
+    "D": "Governor / राज्यपाल",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the longest river in India? / भारत की सबसे लंबी नदी कौन-सी है?",
+    "A": "Yamuna / यमुना",
+    "B": "Ganga / गंगा",
+    "C": "Godavari / गोदावरी",
+    "D": "Narmada / नर्मदा",
+    "Correct": "B"
+  },
+  {
+    "Question": "The Tropic of Cancer passes through how many Indian states? / कर्क रेखा भारत के कितने राज्यों से होकर गुजरती है?",
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which is the largest planet of the Solar System? / सौरमंडल का सबसे बड़ा ग्रह कौन-सा है?",
+    "A": "Earth / पृथ्वी",
+    "B": "Saturn / शनि",
+    "C": "Mars / मंगल",
+    "D": "Jupiter / बृहस्पति",
+    "Correct": "D"
+  },
+  {
+    "Question": "What is the chemical formula of water? / जल का रासायनिक सूत्र क्या है?",
+    "A": "CO₂",
+    "B": "H₂O",
+    "C": "O₂",
+    "D": "NaCl",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which vitamin is produced in human skin in sunlight? / सूर्य के प्रकाश में मानव त्वचा में कौन-सा विटामिन बनता है?",
+    "A": "Vitamin A / विटामिन A",
+    "B": "Vitamin B / विटामिन B",
+    "C": "Vitamin C / विटामिन C",
+    "D": "Vitamin D / विटामिन D",
+    "Correct": "D"
+  },
+  {
+    "Question": "Which organ purifies blood in the human body? / मानव शरीर में रक्त को शुद्ध करने वाला अंग कौन-सा है?",
+    "A": "Heart / हृदय",
+    "B": "Kidney / गुर्दा",
+    "C": "Lungs / फेफड़े",
+    "D": "Liver / यकृत",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who is known as the Father of the Indian Constitution? / भारतीय संविधान के जनक किसे कहा जाता है?",
+    "A": "Mahatma Gandhi / महात्मा गांधी",
+    "B": "B. R. Ambedkar / बी. आर. अंबेडकर",
+    "C": "Rajendra Prasad / राजेंद्र प्रसाद",
+    "D": "Jawaharlal Nehru / जवाहरलाल नेहरू",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the largest state of India by area? / क्षेत्रफल की दृष्टि से भारत का सबसे बड़ा राज्य कौन-सा है?",
+    "A": "Madhya Pradesh / मध्य प्रदेश",
+    "B": "Uttar Pradesh / उत्तर प्रदेश",
+    "C": "Rajasthan / राजस्थान",
+    "D": "Maharashtra / महाराष्ट्र",
+    "Correct": "C"
+  },
+  {
+    "Question": "The Reserve Bank of India was established in which year? / भारतीय रिजर्व बैंक की स्थापना किस वर्ष हुई?",
+    "A": "1935",
+    "B": "1947",
+    "C": "1950",
+    "D": "1965",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which sector contributes most to India's GDP? / भारत के GDP में सबसे अधिक योगदान किस क्षेत्र का है?",
+    "A": "Agriculture / कृषि",
+    "B": "Industry / उद्योग",
+    "C": "Services / सेवा",
+    "D": "Mining / खनन",
+    "Correct": "C"
+  },
+  {
+    "Question": "Who was the first President of India? / भारत के प्रथम राष्ट्रपति कौन थे?",
+    "A": "Dr. Rajendra Prasad / डॉ. राजेंद्र प्रसाद",
+    "B": "S. Radhakrishnan / एस. राधाकृष्णन",
+    "C": "Zakir Hussain / जाकिर हुसैन",
+    "D": "V. V. Giri / वी. वी. गिरि",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which metal is liquid at room temperature? / कमरे के तापमान पर कौन-सी धातु द्रव होती है?",
+    "A": "Iron / लोहा",
+    "B": "Copper / तांबा",
+    "C": "Mercury / पारा",
+    "D": "Aluminium / एल्युमिनियम",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which Indian festival is known as the Festival of Lights? / कौन-सा भारतीय त्योहार रोशनी के त्योहार के रूप में जाना जाता है?",
+    "A": "Holi / होली",
+    "B": "Diwali / दीपावली",
+    "C": "Eid / ईद",
+    "D": "Pongal / पोंगल",
+    "Correct": "B"
+  },
+  {
+    "Question": "The Green Revolution is related to which field? / हरित क्रांति किस क्षेत्र से संबंधित है?",
+    "A": "Agriculture / कृषि",
+    "B": "Industry / उद्योग",
+    "C": "Transport / परिवहन",
+    "D": "Banking / बैंकिंग",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which is the national animal of India? / भारत का राष्ट्रीय पशु कौन-सा है?",
+    "A": "Lion / सिंह",
+    "B": "Tiger / बाघ",
+    "C": "Elephant / हाथी",
+    "D": "Peacock / मोर",
+    "Correct": "B"
   }
 ]
