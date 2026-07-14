@@ -958,13 +958,5 @@
     "C": "19 cm / सेमी",
     "D": "16 cm / सेमी",
     "Correct": "A"
-  },
-  {
-    "Question": "If sin θ + cos θ = √2 sin (90° - θ), find the value of cot θ. / यदि sin θ + cos θ = √2 sin (90° - θ) है, तो cot θ का मान ज्ञात कीजिए।",
-    "A": "√2 + 1",
-    "B": "√2 - 1",
-    "C": "1",
-    "D": "√3",
-    "Correct": "A"
   }
 ]
