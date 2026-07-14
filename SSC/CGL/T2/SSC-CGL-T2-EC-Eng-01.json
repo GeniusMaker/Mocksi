@@ -1,18 +1,18 @@
 [
   {
     "Question": "Choose the correct synonym of the given word. / दिए गए शब्द का सही पर्यायवाची चुनिए। Word: ABUNDANT",
-    "A": "Plentiful / प्रचुर",
-    "B": "Scarce / दुर्लभ",
-    "C": "Tiny / छोटा",
-    "D": "Weak / कमजोर",
+    "A": "Plentiful",
+    "B": "Scarce",
+    "C": "Tinyा",
+    "D": "Weakर",
     "Correct": "A"
   },
   {
     "Question": "Choose the correct antonym of the given word. / दिए गए शब्द का सही विलोम चुनिए। Word: ANCIENT",
-    "A": "Historic / ऐतिहासिक",
-    "B": "Modern / आधुनिक",
-    "C": "Old / पुराना",
-    "D": "Traditional / पारंपरिक",
+    "A": "Historic",
+    "B": "Modern",
+    "C": "Old",
+    "D": "Traditional",
     "Correct": "B"
   },
   {
