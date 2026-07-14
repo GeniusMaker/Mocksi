@@ -1,163 +1,1003 @@
+```json
 [
   {
-    "Question": "Find the next number: 3, 7, 13, 21, 31, ? / अगली संख्या ज्ञात कीजिए: 3, 7, 13, 21, 31, ?",
-    "A": "41 / 41",
-    "B": "43 / 43",
-    "C": "45 / 45",
-    "D": "47 / 47",
-    "Correct": "B"
-  },
-  {
-    "Question": "If MANGO is coded as NBOHP, then APPLE is coded as? / यदि MANGO को NBOHP लिखा जाता है, तो APPLE को कैसे लिखा जाएगा?",
-    "A": "BQQMF / BQQMF",
-    "B": "BQQNG / BQQNG",
-    "C": "CPQMF / CPQMF",
-    "D": "BQPMF / BQPMF",
+    "Question": "Choose the correct synonym of the given word. / दिए गए शब्द का सही पर्यायवाची चुनिए। Word: ABUNDANT",
+    "A": "Plentiful / प्रचुर",
+    "B": "Scarce / दुर्लभ",
+    "C": "Tiny / छोटा",
+    "D": "Weak / कमजोर",
     "Correct": "A"
   },
   {
-    "Question": "Fish : Water :: Bird : ? / मछली : पानी :: पक्षी : ?",
-    "A": "Nest / घोंसला",
-    "B": "Air / वायु",
-    "C": "Tree / पेड़",
-    "D": "Sky / आकाश",
+    "Question": "Choose the correct antonym of the given word. / दिए गए शब्द का सही विलोम चुनिए। Word: ANCIENT",
+    "A": "Historic / ऐतिहासिक",
+    "B": "Modern / आधुनिक",
+    "C": "Old / पुराना",
+    "D": "Traditional / पारंपरिक",
     "Correct": "B"
   },
   {
-    "Question": "Which one is different? / निम्न में से कौन-सा भिन्न है?",
-    "A": "Rose / गुलाब",
-    "B": "Lotus / कमल",
-    "C": "Lily / लिली",
-    "D": "Neem / नीम",
-    "Correct": "D"
-  },
-  {
-    "Question": "P is the father of Q. Q is the sister of R. How is P related to R? / P, Q का पिता है। Q, R की बहन है। P, R से किस प्रकार संबंधित है?",
-    "A": "Father / पिता",
-    "B": "Brother / भाई",
-    "C": "Uncle / चाचा",
-    "D": "Grandfather / दादा",
-    "Correct": "A"
-  },
-  {
-    "Question": "A person walks 12 m west and then 5 m south. In which direction is he from the starting point? / एक व्यक्ति 12 मीटर पश्चिम और फिर 5 मीटर दक्षिण चलता है। वह प्रारंभिक बिंदु से किस दिशा में है?",
-    "A": "North-West / उत्तर-पश्चिम",
-    "B": "South-West / दक्षिण-पश्चिम",
-    "C": "South-East / दक्षिण-पूर्व",
-    "D": "North-East / उत्तर-पूर्व",
-    "Correct": "B"
-  },
-  {
-    "Question": "Arrange alphabetically: Orange, Apple, Grapes, Banana / वर्णक्रमानुसार व्यवस्थित करें: Orange, Apple, Grapes, Banana",
-    "A": "Apple, Banana, Grapes, Orange",
-    "B": "Apple, Grapes, Banana, Orange",
-    "C": "Banana, Apple, Grapes, Orange",
-    "D": "Grapes, Apple, Banana, Orange",
-    "Correct": "A"
-  },
-  {
-    "Question": "If '+' means '−' and '−' means '+', then 18 + 6 − 4 = ? / यदि '+' का अर्थ '−' तथा '−' का अर्थ '+' है, तो 18 + 6 − 4 = ?",
-    "A": "8",
-    "B": "16",
-    "C": "20",
-    "D": "28",
-    "Correct": "B"
-  },
-  {
-    "Question": "How many days are there in April? / अप्रैल महीने में कितने दिन होते हैं?",
-    "A": "28",
-    "B": "29",
-    "C": "30",
-    "D": "31",
+    "Question": "Choose the correctly spelled word. / सही वर्तनी वाला शब्द चुनिए।",
+    "A": "Accomodate",
+    "B": "Acommodate",
+    "C": "Accommodate",
+    "D": "Acomodate",
     "Correct": "C"
   },
   {
-    "Question": "If today is Wednesday, what day will it be after 9 days? / यदि आज बुधवार है, तो 9 दिन बाद कौन-सा दिन होगा?",
-    "A": "Thursday / गुरुवार",
-    "B": "Friday / शुक्रवार",
-    "C": "Saturday / शनिवार",
-    "D": "Sunday / रविवार",
+    "Question": "Choose the correctly spelled word. / सही वर्तनी वाला शब्द चुनिए।",
+    "A": "Embarras",
+    "B": "Embarrass",
+    "C": "Embarass",
+    "D": "Embarrass",
     "Correct": "B"
   },
   {
-    "Question": "All pens are stationery items. Some stationery items are costly. Which conclusion definitely follows? / सभी पेन स्टेशनरी हैं। कुछ स्टेशनरी वस्तुएँ महंगी हैं। कौन-सा निष्कर्ष निश्चित है?",
-    "A": "All pens are costly.",
-    "B": "Some pens are costly.",
-    "C": "Some stationery items are costly.",
-    "D": "No pens are costly.",
-    "Correct": "C"
-  },
-  {
-    "Question": "Complete the series: D, H, M, S, Z, ? / श्रेणी पूर्ण करें: D, H, M, S, Z, ?",
-    "A": "H",
-    "B": "I",
-    "C": "J",
-    "D": "K",
+    "Question": "Choose the correct one-word substitution. / सही एक शब्द चुनिए। 'A person who cannot read or write.'",
+    "A": "Scholar",
+    "B": "Illiterate",
+    "C": "Graduate",
+    "D": "Literate",
     "Correct": "B"
   },
   {
-    "Question": "Find the missing number: 8, 27, 64, 125, ?, 343 / लुप्त संख्या ज्ञात करें: 8, 27, 64, 125, ?, 343",
-    "A": "196",
-    "B": "216",
-    "C": "225",
-    "D": "256",
-    "Correct": "B"
-  },
-  {
-    "Question": "If HOUSE is coded as IPVTF, then TABLE is coded as? / यदि HOUSE को IPVTF लिखा जाता है, तो TABLE को कैसे लिखा जाएगा?",
-    "A": "UBCMF",
-    "B": "UCBMF",
-    "C": "VCDNG",
-    "D": "UBDMF",
+    "Question": "Choose the correct one-word substitution. / सही एक शब्द चुनिए। 'A person who loves mankind.'",
+    "A": "Philanthropist",
+    "B": "Pessimist",
+    "C": "Atheist",
+    "D": "Traitor",
     "Correct": "A"
   },
   {
-    "Question": "Which figure has four equal sides and four right angles? / किस आकृति की चारों भुजाएँ समान तथा चारों कोण समकोण होते हैं?",
-    "A": "Rectangle / आयत",
-    "B": "Square / वर्ग",
-    "C": "Rhombus / समचतुर्भुज",
-    "D": "Parallelogram / समांतर चतुर्भुज",
+    "Question": "Choose the correct idiom meaning. / मुहावरे का सही अर्थ चुनिए। 'Hit the nail on the head'",
+    "A": "Miss the point",
+    "B": "Do the exact right thing",
+    "C": "Work hard",
+    "D": "Break something",
     "Correct": "B"
   },
   {
-    "Question": "Amit is taller than Bharat but shorter than Chetan. Who is the shortest? / अमित, भारत से लंबा लेकिन चेतन से छोटा है। सबसे छोटा कौन है?",
-    "A": "Amit",
-    "B": "Bharat",
-    "C": "Chetan",
-    "D": "Cannot be determined",
+    "Question": "Choose the correct idiom meaning. / मुहावरे का सही अर्थ चुनिए। 'Once in a blue moon'",
+    "A": "Very frequently",
+    "B": "Very rarely",
+    "C": "At night",
+    "D": "Twice a month",
     "Correct": "B"
   },
   {
-    "Question": "Find the odd one out. / विषम का चयन करें।",
-    "A": "Car / कार",
-    "B": "Bus / बस",
-    "C": "Train / रेलगाड़ी",
-    "D": "Bicycle / साइकिल",
-    "Correct": "D"
+    "Question": "Choose the correct synonym of the given word. / दिए गए शब्द का सही पर्यायवाची चुनिए। Word: BRIEF",
+    "A": "Short",
+    "B": "Long",
+    "C": "Heavy",
+    "D": "Wide",
+    "Correct": "A"
   },
   {
-    "Question": "A mirror image exchanges which sides? / दर्पण प्रतिबिंब में कौन-सी दिशाएँ बदल जाती हैं?",
-    "A": "Top and Bottom / ऊपर और नीचे",
-    "B": "Left and Right / बायाँ और दायाँ",
-    "C": "North and South / उत्तर और दक्षिण",
-    "D": "East and West / पूर्व और पश्चिम",
-    "Correct": "B"
-  },
-  {
-    "Question": "How many letters are there between C and P in the English alphabet? / अंग्रेजी वर्णमाला में C और P के बीच कितने अक्षर हैं?",
-    "A": "11",
-    "B": "12",
-    "C": "13",
-    "D": "14",
-    "Correct": "B"
-  },
-  {
-    "Question": "All engineers are graduates. Some graduates are teachers. Therefore, some engineers are teachers. / सभी इंजीनियर स्नातक हैं। कुछ स्नातक शिक्षक हैं। अतः कुछ इंजीनियर शिक्षक हैं।",
-    "A": "True / सत्य",
-    "B": "False / असत्य",
-    "C": "Cannot be concluded / निष्कर्ष नहीं निकाला जा सकता",
-    "D": "None",
+    "Question": "Choose the correct antonym of the given word. / दिए गए शब्द का सही विलोम चुनिए। Word: GENEROUS",
+    "A": "Kind",
+    "B": "Noble",
+    "C": "Selfish",
+    "D": "Honest",
     "Correct": "C"
+  },
+  {
+    "Question": "Choose the correct passive form. / सही Passive Voice चुनिए। 'She writes a letter.'",
+    "A": "A letter is written by her.",
+    "B": "A letter was written by her.",
+    "C": "A letter has written by her.",
+    "D": "A letter wrote by her.",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct active form. / सही Active Voice चुनिए। 'The work was completed by Ravi.'",
+    "A": "Ravi completes the work.",
+    "B": "Ravi completed the work.",
+    "C": "Ravi has completed the work.",
+    "D": "Ravi will complete the work.",
+    "Correct": "B"
+  },
+  {
+    "Question": "Fill in the blank with the correct preposition. / सही Preposition चुनिए। 'He is good ___ Mathematics.'",
+    "A": "at",
+    "B": "on",
+    "C": "in",
+    "D": "with",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank with the correct preposition. / सही Preposition चुनिए। 'She arrived ___ the station on time.'",
+    "A": "at",
+    "B": "in",
+    "C": "on",
+    "D": "into",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct article. / सही Article चुनिए। 'He is ___ honest man.'",
+    "A": "a",
+    "B": "an",
+    "C": "the",
+    "D": "no article",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct article. / सही Article चुनिए। '___ Ganga is a sacred river.'",
+    "A": "A",
+    "B": "An",
+    "C": "The",
+    "D": "No article",
+    "Correct": "C"
+  },
+  {
+    "Question": "Choose the correct synonym. / सही पर्यायवाची चुनिए। Word: RAPID",
+    "A": "Fast",
+    "B": "Slow",
+    "C": "Late",
+    "D": "Weak",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct antonym. / सही विलोम चुनिए। Word: VICTORY",
+    "A": "Success",
+    "B": "Triumph",
+    "C": "Defeat",
+    "D": "Achievement",
+    "Correct": "C"
+  },
+  {
+    "Question": "Choose the correctly spelled word. / सही वर्तनी वाला शब्द चुनिए।",
+    "A": "Recieve",
+    "B": "Receive",
+    "C": "Receeve",
+    "D": "Receve",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correctly spelled word. / सही वर्तनी वाला शब्द चुनिए।",
+    "A": "Separate",
+    "B": "Seperate",
+    "C": "Seperete",
+    "D": "Seperat",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct one-word substitution. / सही एक शब्द चुनिए। 'A speech delivered without preparation.'",
+    "A": "Extempore",
+    "B": "Lecture",
+    "C": "Debate",
+    "D": "Dialogue",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct one-word substitution. / सही एक शब्द चुनिए। 'One who studies birds.'",
+    "A": "Botanist",
+    "B": "Ornithologist",
+    "C": "Geologist",
+    "D": "Zoologist",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct idiom meaning. / सही अर्थ चुनिए। 'A blessing in disguise'",
+    "A": "A hidden enemy",
+    "B": "Something good that seemed bad at first",
+    "C": "A false promise",
+    "D": "A lucky person",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct idiom meaning. / सही अर्थ चुनिए। 'Burn the midnight oil'",
+    "A": "Waste electricity",
+    "B": "Study or work late into the night",
+    "C": "Cook food",
+    "D": "Light a lamp",
+    "Correct": "B"
+  },
+  {
+    "Question": "Fill in the blank. / रिक्त स्थान भरिए। 'Neither Ram nor Shyam ___ present.'",
+    "A": "are",
+    "B": "were",
+    "C": "is",
+    "D": "have",
+    "Correct": "C"
+  },
+  {
+    "Question": "Fill in the blank. / रिक्त स्थान भरिए। 'The police ___ investigating the case.'",
+    "A": "is",
+    "B": "are",
+    "C": "was",
+    "D": "has",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct error-free sentence. / सही वाक्य चुनिए।",
+    "A": "He don't like tea.",
+    "B": "He doesn't likes tea.",
+    "C": "He doesn't like tea.",
+    "D": "He not like tea.",
+    "Correct": "C"
+  },
+  {
+    "Question": "Choose the correct error-free sentence. / सही वाक्य चुनिए।",
+    "A": "She have completed the work.",
+    "B": "She has completed the work.",
+    "C": "She had completes the work.",
+    "D": "She completed has the work.",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the synonym. / पर्यायवाची चुनिए। Word: CALM",
+    "A": "Peaceful",
+    "B": "Angry",
+    "C": "Loud",
+    "D": "Rough",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the antonym. / विलोम चुनिए। Word: EXPAND",
+    "A": "Increase",
+    "B": "Stretch",
+    "C": "Contract",
+    "D": "Develop",
+    "Correct": "C"
+  },
+  {
+    "Question": "Choose the correct meaning of the idiom. / सही अर्थ चुनिए। 'At sixes and sevens'",
+    "A": "Well organized",
+    "B": "In confusion",
+    "C": "Very happy",
+    "D": "Extremely rich",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct meaning of the idiom. / सही अर्थ चुनिए। 'Cry over spilt milk'",
+    "A": "Regret something that cannot be changed",
+    "B": "Drink milk",
+    "C": "Waste money",
+    "D": "Become angry",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank. / रिक्त स्थान भरिए। 'He insisted ___ paying the bill.'",
+    "A": "on",
+    "B": "at",
+    "C": "for",
+    "D": "with",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank. / रिक्त स्थान भरिए। 'She is interested ___ music.'",
+    "A": "in",
+    "B": "at",
+    "C": "on",
+    "D": "by",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct indirect speech. / सही Indirect Speech चुनिए। 'He said, \"I am busy.\"'",
+    "A": "He said that he was busy.",
+    "B": "He said that I am busy.",
+    "C": "He says he was busy.",
+    "D": "He said he is busy.",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct indirect speech. / सही Indirect Speech चुनिए। 'She said, \"I have finished my work.\"'",
+    "A": "She said that she had finished her work.",
+    "B": "She said that she has finished her work.",
+    "C": "She says she had finished her work.",
+    "D": "She said she finish her work.",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct synonym. / सही पर्यायवाची चुनिए। Word: COURAGE",
+    "A": "Bravery",
+    "B": "Fear",
+    "C": "Weakness",
+    "D": "Cowardice",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the antonym. / सही विलोम चुनिए। Word: OPTIMISTIC",
+    "A": "Hopeful",
+    "B": "Positive",
+    "C": "Pessimistic",
+    "D": "Cheerful",
+    "Correct": "C"
+  },
+  {
+    "Question": "Choose the correctly spelled word. / सही वर्तनी चुनिए।",
+    "A": "Pronounciation",
+    "B": "Pronunciation",
+    "C": "Pronounciaton",
+    "D": "Pronuncation",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correctly spelled word. / सही वर्तनी चुनिए।",
+    "A": "Occasion",
+    "B": "Ocassion",
+    "C": "Occassion",
+    "D": "Ocasion",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the one-word substitution. / सही एक शब्द चुनिए। 'A person who knows many languages.'",
+    "A": "Linguist",
+    "B": "Polyglot",
+    "C": "Scientist",
+    "D": "Historian",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the one-word substitution. / सही एक शब्द चुनिए। 'One who looks at the bright side of things.'",
+    "A": "Optimist",
+    "B": "Pessimist",
+    "C": "Realist",
+    "D": "Artist",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct article. / सही Article चुनिए। 'She bought ___ umbrella.'",
+    "A": "a",
+    "B": "an",
+    "C": "the",
+    "D": "no article",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct article. / सही Article चुनिए। 'Mount Everest is ___ highest peak in the world.'",
+    "A": "a",
+    "B": "an",
+    "C": "the",
+    "D": "no article",
+    "Correct": "C"
+  },
+  {
+    "Question": "Choose the error-free sentence. / सही वाक्य चुनिए।",
+    "A": "Each of the boys have a book.",
+    "B": "Each of the boys has a book.",
+    "C": "Each of the boys having a book.",
+    "D": "Each boys has a book.",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the error-free sentence. / सही वाक्य चुनिए।",
+    "A": "No sooner had he arrived than it started raining.",
+    "B": "No sooner he had arrived than it started raining.",
+    "C": "No sooner had he arrived when it started raining.",
+    "D": "No sooner did he arrived than it started raining.",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank. / रिक्त स्थान भरिए। 'He succeeded ___ solving the problem.'",
+    "A": "at",
+    "B": "in",
+    "C": "on",
+    "D": "for",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the synonym. / पर्यायवाची चुनिए। Word: DILIGENT",
+    "A": "Hardworking",
+    "B": "Lazy",
+    "C": "Careless",
+    "D": "Weak",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the antonym. / विलोम चुनिए। Word: HUMBLE",
+    "A": "Modest",
+    "B": "Arrogant",
+    "C": "Gentle",
+    "D": "Simple",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct idiom meaning. / सही अर्थ चुनिए। 'The last straw'",
+    "A": "The final problem that makes a situation unbearable",
+    "B": "A farming tool",
+    "C": "The first attempt",
+    "D": "A happy event",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct synonym of the given word. / दिए गए शब्द का सही पर्यायवाची चुनिए। Word: VAST",
+    "A": "Huge",
+    "B": "Tiny",
+    "C": "Short",
+    "D": "Weak",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct antonym of the given word. / दिए गए शब्द का सही विलोम चुनिए। Word: MINOR",
+    "A": "Small",
+    "B": "Major",
+    "C": "Little",
+    "D": "Tiny",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correctly spelled word. / सही वर्तनी वाला शब्द चुनिए।",
+    "A": "Millenium",
+    "B": "Millennium",
+    "C": "Millennium",
+    "D": "Milennium",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correctly spelled word. / सही वर्तनी वाला शब्द चुनिए।",
+    "A": "Conscious",
+    "B": "Conscous",
+    "C": "Conscious",
+    "D": "Concios",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct one-word substitution. / सही एक शब्द चुनिए। 'A person who collects stamps.'",
+    "A": "Philatelist",
+    "B": "Numismatist",
+    "C": "Biologist",
+    "D": "Linguist",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct one-word substitution. / सही एक शब्द चुनिए। 'One who studies insects.'",
+    "A": "Entomologist",
+    "B": "Botanist",
+    "C": "Geologist",
+    "D": "Zoologist",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct idiom meaning. / सही अर्थ चुनिए। 'Bite the bullet'",
+    "A": "Accept a difficult situation bravely",
+    "B": "Eat quickly",
+    "C": "Fight with someone",
+    "D": "Lose courage",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct idiom meaning. / सही अर्थ चुनिए। 'Break the ice'",
+    "A": "Start a conversation",
+    "B": "Break frozen water",
+    "C": "Damage something",
+    "D": "Become angry",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank. / रिक्त स्थान भरिए। 'She is married ___ a doctor.'",
+    "A": "to",
+    "B": "with",
+    "C": "at",
+    "D": "by",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank. / रिक्त स्थान भरिए। 'The train arrived ___ time.'",
+    "A": "on",
+    "B": "in",
+    "C": "at",
+    "D": "by",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct article. / सही Article चुनिए। 'He waited for ___ hour.'",
+    "A": "a",
+    "B": "an",
+    "C": "the",
+    "D": "no article",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct article. / सही Article चुनिए। '___ Himalayas are in Asia.'",
+    "A": "A",
+    "B": "An",
+    "C": "The",
+    "D": "No article",
+    "Correct": "C"
+  },
+  {
+    "Question": "Choose the correct passive voice. / सही Passive Voice चुनिए। 'They are building a bridge.'",
+    "A": "A bridge is being built by them.",
+    "B": "A bridge was built by them.",
+    "C": "A bridge has been built by them.",
+    "D": "A bridge builds by them.",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct active voice. / सही Active Voice चुनिए। 'The match was won by India.'",
+    "A": "India wins the match.",
+    "B": "India won the match.",
+    "C": "India has won the match.",
+    "D": "India had won the match.",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the synonym. / पर्यायवाची चुनिए। Word: HONEST",
+    "A": "Truthful",
+    "B": "Dishonest",
+    "C": "Lazy",
+    "D": "Cruel",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the antonym. / विलोम चुनिए। Word: FLEXIBLE",
+    "A": "Elastic",
+    "B": "Rigid",
+    "C": "Soft",
+    "D": "Loose",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correctly spelled word. / सही वर्तनी चुनिए।",
+    "A": "Questionnaire",
+    "B": "Questionare",
+    "C": "Questionnair",
+    "D": "Questionaire",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correctly spelled word. / सही वर्तनी चुनिए।",
+    "A": "Privilege",
+    "B": "Priviledge",
+    "C": "Privilage",
+    "D": "Privelege",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the one-word substitution. / सही एक शब्द चुनिए। 'Government by the people.'",
+    "A": "Monarchy",
+    "B": "Democracy",
+    "C": "Autocracy",
+    "D": "Oligarchy",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the one-word substitution. / सही एक शब्द चुनिए। 'One who cannot hear.'",
+    "A": "Blind",
+    "B": "Mute",
+    "C": "Deaf",
+    "D": "Lame",
+    "Correct": "C"
+  },
+  {
+    "Question": "Choose the idiom meaning. / सही अर्थ चुनिए। 'A piece of cake'",
+    "A": "Very difficult",
+    "B": "Very easy",
+    "C": "Very expensive",
+    "D": "Very tasty",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the idiom meaning. / सही अर्थ चुनिए। 'Under the weather'",
+    "A": "Feeling ill",
+    "B": "Standing outside",
+    "C": "Enjoying rain",
+    "D": "Travelling",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank. / रिक्त स्थान भरिए। 'He is fond ___ reading.'",
+    "A": "of",
+    "B": "at",
+    "C": "for",
+    "D": "with",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank. / रिक्त स्थान भरिए। 'She suffers ___ asthma.'",
+    "A": "from",
+    "B": "with",
+    "C": "by",
+    "D": "at",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct indirect speech. / सही Indirect Speech चुनिए। 'He said, \"I will come tomorrow.\"'",
+    "A": "He said that he would come the next day.",
+    "B": "He said that he will come tomorrow.",
+    "C": "He says that he would come tomorrow.",
+    "D": "He said he comes tomorrow.",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct indirect speech. / सही Indirect Speech चुनिए। 'She said, \"We are happy.\"'",
+    "A": "She said that they were happy.",
+    "B": "She said they are happy.",
+    "C": "She says they were happy.",
+    "D": "She said they had happy.",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the error-free sentence. / सही वाक्य चुनिए।",
+    "A": "The news are interesting.",
+    "B": "The news is interesting.",
+    "C": "The news were interesting.",
+    "D": "The news have interesting.",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the error-free sentence. / सही वाक्य चुनिए।",
+    "A": "One of my friends live here.",
+    "B": "One of my friends lives here.",
+    "C": "One of my friends living here.",
+    "D": "One of my friends are here.",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the synonym. / पर्यायवाची चुनिए। Word: RELIABLE",
+    "A": "Dependable",
+    "B": "Uncertain",
+    "C": "Weak",
+    "D": "Careless",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the antonym. / विलोम चुनिए। Word: PERMANENT",
+    "A": "Lasting",
+    "B": "Temporary",
+    "C": "Fixed",
+    "D": "Stable",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correctly spelled word. / सही वर्तनी चुनिए।",
+    "A": "Recommend",
+    "B": "Reccomend",
+    "C": "Recomend",
+    "D": "Reccmend",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correctly spelled word. / सही वर्तनी चुनिए।",
+    "A": "Committee",
+    "B": "Comittee",
+    "C": "Committe",
+    "D": "Commitee",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the one-word substitution. / सही एक शब्द चुनिए। 'One who writes dictionaries.'",
+    "A": "Biographer",
+    "B": "Lexicographer",
+    "C": "Calligrapher",
+    "D": "Poet",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the one-word substitution. / सही एक शब्द चुनिए। 'One who cannot pay his debts.'",
+    "A": "Bankrupt",
+    "B": "Millionaire",
+    "C": "Creditor",
+    "D": "Debtor",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the idiom meaning. / सही अर्थ चुनिए। 'Call it a day'",
+    "A": "Stop working",
+    "B": "Celebrate",
+    "C": "Wake up early",
+    "D": "Travel",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the idiom meaning. / सही अर्थ चुनिए। 'Spill the beans'",
+    "A": "Cook food",
+    "B": "Reveal a secret",
+    "C": "Waste money",
+    "D": "Grow vegetables",
+    "Correct": "B"
+  },
+  {
+    "Question": "Fill in the blank. / रिक्त स्थान भरिए। 'He apologized ___ his mistake.'",
+    "A": "for",
+    "B": "to",
+    "C": "with",
+    "D": "at",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank. / रिक्त स्थान भरिए। 'She believes ___ hard work.'",
+    "A": "in",
+    "B": "on",
+    "C": "at",
+    "D": "with",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the synonym. / पर्यायवाची चुनिए। Word: GENEROUS",
+    "A": "Kind",
+    "B": "Cruel",
+    "C": "Greedy",
+    "D": "Harsh",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the antonym. / विलोम चुनिए। Word: RARE",
+    "A": "Scarce",
+    "B": "Common",
+    "C": "Unusual",
+    "D": "Unique",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the article. / सही Article चुनिए। 'She is ___ MBA graduate.'",
+    "A": "a",
+    "B": "an",
+    "C": "the",
+    "D": "no article",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the article. / सही Article चुनिए। '___ Pacific Ocean is the largest ocean.'",
+    "A": "A",
+    "B": "An",
+    "C": "The",
+    "D": "No article",
+    "Correct": "C"
+  },
+  {
+    "Question": "Choose the correct passive voice. / सही Passive Voice चुनिए। 'The teacher praised the student.'",
+    "A": "The student was praised by the teacher.",
+    "B": "The student is praised by the teacher.",
+    "C": "The student has praised by the teacher.",
+    "D": "The student praised by the teacher.",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct active voice. / सही Active Voice चुनिए। 'The prize was awarded to Meena.'",
+    "A": "The prize awarded Meena.",
+    "B": "Someone awarded the prize to Meena.",
+    "C": "Meena awarding the prize.",
+    "D": "Meena award the prize.",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the error-free sentence. / सही वाक्य चुनिए।",
+    "A": "Everyone have done their work.",
+    "B": "Everyone has done his or her work.",
+    "C": "Everyone have did the work.",
+    "D": "Everyone has do the work.",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the synonym. / पर्यायवाची चुनिए। Word: ANXIOUS",
+    "A": "Eager",
+    "B": "Lazy",
+    "C": "Calm",
+    "D": "Silent",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the antonym. / विलोम चुनिए। Word: DANGER",
+    "A": "Threat",
+    "B": "Risk",
+    "C": "Safety",
+    "D": "Fear",
+    "Correct": "C"
+  },
+  {
+    "Question": "Choose the one-word substitution. / सही एक शब्द चुनिए। 'A speech in praise of a deceased person.'",
+    "A": "Elegy",
+    "B": "Eulogy",
+    "C": "Monologue",
+    "D": "Dialogue",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the idiom meaning. / सही अर्थ चुनिए। 'Keep an eye on'",
+    "A": "Ignore",
+    "B": "Watch carefully",
+    "C": "Close your eyes",
+    "D": "Look away",
+    "Correct": "B"
+  },
+  {
+    "Question": "Fill in the blank. / रिक्त स्थान भरिए। 'The manager is responsible ___ the project.'",
+    "A": "for",
+    "B": "to",
+    "C": "with",
+    "D": "on",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct synonym of the given word. / दिए गए शब्द का सही पर्यायवाची चुनिए। Word: AMIABLE",
+    "A": "Friendly",
+    "B": "Cruel",
+    "C": "Silent",
+    "D": "Careless",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct antonym of the given word. / दिए गए शब्द का सही विलोम चुनिए। Word: LIBERTY",
+    "A": "Freedom",
+    "B": "Independence",
+    "C": "Captivity",
+    "D": "Choice",
+    "Correct": "C"
+  },
+  {
+    "Question": "Choose the correctly spelled word. / सही वर्तनी वाला शब्द चुनिए।",
+    "A": "Entrepreneur",
+    "B": "Enterpreneur",
+    "C": "Entreprenuer",
+    "D": "Entreprenuar",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correctly spelled word. / सही वर्तनी वाला शब्द चुनिए।",
+    "A": "Existance",
+    "B": "Existence",
+    "C": "Exsistence",
+    "D": "Existense",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct one-word substitution. / सही एक शब्द चुनिए। 'One who walks in sleep.'",
+    "A": "Insomniac",
+    "B": "Somnambulist",
+    "C": "Pedestrian",
+    "D": "Nightwatchman",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct one-word substitution. / सही एक शब्द चुनिए। 'A person who loves books.'",
+    "A": "Bibliophile",
+    "B": "Philanthropist",
+    "C": "Autocrat",
+    "D": "Cartographer",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct meaning of the idiom. / मुहावरे का सही अर्थ चुनिए। 'In hot water'",
+    "A": "Taking a bath",
+    "B": "In trouble",
+    "C": "Feeling warm",
+    "D": "Swimming",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct meaning of the idiom. / मुहावरे का सही अर्थ चुनिए। 'Make both ends meet'",
+    "A": "Save enough money to live",
+    "B": "Become rich",
+    "C": "Travel abroad",
+    "D": "Win a competition",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank with the correct preposition. / सही Preposition चुनिए। 'He abstained ___ alcohol.'",
+    "A": "from",
+    "B": "of",
+    "C": "at",
+    "D": "with",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank with the correct preposition. / सही Preposition चुनिए। 'She congratulated me ___ my success.'",
+    "A": "for",
+    "B": "on",
+    "C": "with",
+    "D": "at",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct article. / सही Article चुनिए। 'He is ___ European citizen.'",
+    "A": "a",
+    "B": "an",
+    "C": "the",
+    "D": "no article",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct article. / सही Article चुनिए। '___ Earth revolves around the Sun.'",
+    "A": "A",
+    "B": "An",
+    "C": "The",
+    "D": "No article",
+    "Correct": "C"
+  },
+  {
+    "Question": "Choose the correct passive voice. / सही Passive Voice चुनिए। 'Someone has stolen my wallet.'",
+    "A": "My wallet has been stolen.",
+    "B": "My wallet was stolen.",
+    "C": "My wallet is stolen.",
+    "D": "My wallet had stolen.",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct indirect speech. / सही Indirect Speech चुनिए। 'Rita said, \"I can solve this problem.\"'",
+    "A": "Rita said that she could solve that problem.",
+    "B": "Rita said she can solve this problem.",
+    "C": "Rita says that she could solve this problem.",
+    "D": "Rita said she solved the problem.",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct synonym of the given word. / दिए गए शब्द का सही पर्यायवाची चुनिए। Word: CEASE",
+    "A": "Begin",
+    "B": "Stop",
+    "C": "Continue",
+    "D": "Increase",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct antonym of the given word. / दिए गए शब्द का सही विलोम चुनिए। Word: DILIGENT",
+    "A": "Hardworking",
+    "B": "Careful",
+    "C": "Lazy",
+    "D": "Active",
+    "Correct": "C"
+  },
+  {
+    "Question": "Choose the correctly spelled word. / सही वर्तनी वाला शब्द चुनिए।",
+    "A": "Restaurant",
+    "B": "Restaurent",
+    "C": "Restorant",
+    "D": "Restarant",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the one-word substitution. / सही एक शब्द चुनिए। 'One who hates women.'",
+    "A": "Misogynist",
+    "B": "Misanthrope",
+    "C": "Patriot",
+    "D": "Optimist",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the meaning of the idiom. / मुहावरे का सही अर्थ चुनिए। 'Through thick and thin'",
+    "A": "In every situation",
+    "B": "Only in difficult times",
+    "C": "Only in happy times",
+    "D": "Very slowly",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank. / रिक्त स्थान भरिए। 'He is capable ___ solving difficult problems.'",
+    "A": "for",
+    "B": "of",
+    "C": "at",
+    "D": "to",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the error-free sentence. / सही वाक्य चुनिए।",
+    "A": "Neither of the answers are correct.",
+    "B": "Neither of the answers is correct.",
+    "C": "Neither of the answer are correct.",
+    "D": "Neither answers is correct.",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the synonym of the given word. / दिए गए शब्द का सही पर्यायवाची चुनिए। Word: FRAGILE",
+    "A": "Strong",
+    "B": "Delicate",
+    "C": "Heavy",
+    "D": "Firm",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the antonym of the given word. / दिए गए शब्द का सही विलोम चुनिए। Word: PERMIT",
+    "A": "Allow",
+    "B": "Approve",
+    "C": "Forbid",
+    "D": "Accept",
+    "Correct": "C"
+  },
+  {
+    "Question": "Choose the correct active voice. / सही Active Voice चुनिए। 'The meeting will be attended by all members.'",
+    "A": "All members will attend the meeting.",
+    "B": "All members attend the meeting.",
+    "C": "All members attended the meeting.",
+    "D": "All members have attended the meeting.",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct spelling. / सही वर्तनी वाला शब्द चुनिए।",
+    "A": "Maintenance",
+    "B": "Maintainance",
+    "C": "Maintanance",
+    "D": "Maintenence",
+    "Correct": "A"
   }
 ]
-
