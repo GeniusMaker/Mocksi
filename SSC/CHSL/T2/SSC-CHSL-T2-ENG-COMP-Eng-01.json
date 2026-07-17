@@ -1,1 +1,332 @@
-
+[
+  {
+    "Passage": "The rapid expansion of digital banking has completely revolutionized the modern financial landscape. While accessibility has reached record highs, it has also brought along sophisticated cybersecurity threats, making robust network firewalls absolutely essential for institutions. / डिजिटल बैंकिंग के तीव्र विस्तार ने आधुनिक वित्तीय परिदृश्य में पूरी तरह से क्रांति ला दी है। हालांकि पहुंच रिकॉर्ड ऊंचाई पर पहुंच गई है, लेकिन यह अपने साथ परिष्कृत साइबर सुरक्षा खतरे भी लाया है, जिससे संस्थानों के लिए मजबूत नेटवर्क फायरवॉल अत्यंत आवश्यक हो गए हैं।",
+    "Question": "According to the passage, what is a direct consequence of digital banking growth? / गद्यांश के अनुसार, डिजिटल बैंकिंग के विकास का प्रत्यक्ष परिणाम क्या है?",
+    "A": "Decrease in smartphone adoption / स्मार्टफोन अपनाने में कमी",
+    "B": "Sophisticated cybersecurity threats / परिष्कृत साइबर सुरक्षा खतरे",
+    "C": "Complete shutdown of physical branches / भौतिक शाखाओं का पूर्ण रूप से बंद होना",
+    "D": "Elimination of transaction fees / लेनदेन शुल्क की समाप्ति",
+    "Correct": "B"
+  },
+  {
+    "Passage": "The rapid expansion of digital banking has completely revolutionized the modern financial landscape. While accessibility has reached record highs, it has also brought along sophisticated cybersecurity threats, making robust network firewalls absolutely essential for institutions. / डिजिटल बैंकिंग के तीव्र विस्तार ने आधुनिक वित्तीय परिदृश्य में पूरी तरह से क्रांति ला दी है। हालांकि पहुंच रिकॉर्ड ऊंचाई पर पहुंच गई है, लेकिन यह अपने साथ परिष्कृत साइबर सुरक्षा खतरे भी लाया है, जिससे संस्थानों के लिए मजबूत नेटवर्क फायरवॉल अत्यंत आवश्यक हो गए हैं।",
+    "Question": "What infrastructure has become essential based on the text? / पाठ के आधार पर कौन सा बुनियादी ढांचा आवश्यक हो गया है?",
+    "A": "Robust network firewalls / मजबूत नेटवर्क फायरवॉल",
+    "B": "Paper ledger sheets / कागजी बहीखाता पत्रक",
+    "C": "Dial-up internet connections / डायल-अप इंटरनेट कनेक्शन",
+    "D": "Larger corporate headquarters / बड़े कॉर्पोरेट मुख्यालय",
+    "Correct": "A"
+  },
+  {
+    "Passage": "The rapid expansion of digital banking has completely revolutionized the modern financial landscape. While accessibility has reached record highs, it has also brought along sophisticated cybersecurity threats, making robust network firewalls absolutely essential for institutions. / डिजिटल बैंकिंग के तीव्र विस्तार ने आधुनिक वित्तीय परिदृश्य में पूरी तरह से क्रांति ला दी है। हालांकि पहुंच रिकॉर्ड ऊंचाई पर पहुंच गई है, लेकिन यह अपने साथ परिष्कृत साइबर सुरक्षा खतरे भी लाया है, जिससे संस्थानों के लिए मजबूत नेटवर्क फायरवॉल अत्यंत आवश्यक हो गए हैं।",
+    "Question": "Which word in the text means 'advanced or highly developed'? / पाठ में किस शब्द का अर्थ 'उन्नत या अत्यधिक विकसित' है?",
+    "A": "Rapid / तीव्र",
+    "B": "Sophisticated / परिष्कृत",
+    "C": "Essential / आवश्यक",
+    "D": "Robust / मजबूत",
+    "Correct": "B"
+  },
+  {
+    "Passage": "The rapid expansion of digital banking has completely revolutionized the modern financial landscape. While accessibility has reached record highs, it has also brought along sophisticated cybersecurity threats, making robust network firewalls absolutely essential for institutions. / डिजिटल बैंकिंग के तीव्र विस्तार ने आधुनिक वित्तीय परिदृश्य में पूरी तरह से क्रांति ला दी है। हालांकि पहुंच रिकॉर्ड ऊंचाई पर पहुंच गई है, लेकिन यह अपने साथ परिष्कृत साइबर सुरक्षा खतरे भी लाया है, जिससे संस्थानों के लिए मजबूत नेटवर्क फायरवॉल अत्यंत आवश्यक हो गए हैं।",
+    "Question": "What field has seen a revolutionary change according to the author? / लेखक के अनुसार किस क्षेत्र में क्रांतिकारी बदलाव देखा गया है?",
+    "A": "The financial landscape / वित्तीय परिदृश्य",
+    "B": "Agricultural farming / कृषि खेती",
+    "C": "Heavy machinery production / भारी मशीनरी उत्पादन",
+    "D": "Automobile logistics / ऑटोमोबाइल लॉजिस्टिक्स",
+    "Correct": "A"
+  },
+  {
+    "Passage": "The rapid expansion of digital banking has completely revolutionized the modern financial landscape. While accessibility has reached record highs, it has also brought along sophisticated cybersecurity threats, making robust network firewalls absolutely essential for institutions. / डिजिटल बैंकिंग के तीव्र विस्तार ने आधुनिक वित्तीय परिदृश्य में पूरी तरह से क्रांति ला दी है। हालांकि पहुंच रिकॉर्ड ऊंचाई पर पहुंच गई है, लेकिन यह अपने साथ परिष्कृत साइबर सुरक्षा खतरे भी लाया है, जिससे संस्थानों के लिए मजबूत नेटवर्क फायरवॉल अत्यंत आवश्यक हो गए हैं।",
+    "Question": "What has reached record highs? / क्या रिकॉर्ड ऊंचाई पर पहुंच गया है?",
+    "A": "Accessibility / पहुंच",
+    "B": "Interest rates / ब्याज दरें",
+    "C": "Security setups / सुरक्षा सेटअप",
+    "D": "Cash transactions / नकद लेनदेन",
+    "Correct": "A"
+  },
+  {
+    "Passage": "The rapid expansion of digital banking has completely revolutionized the modern financial landscape. While accessibility has reached record highs, it has also brought along sophisticated cybersecurity threats, making robust network firewalls absolutely essential for institutions. / डिजिटल बैंकिंग के तीव्र विस्तार ने आधुनिक वित्तीय परिदृश्य में पूरी तरह से क्रांति ला दी है। हालांकि पहुंच रिकॉर्ड ऊंचाई पर पहुंच गई है, लेकिन यह अपने साथ परिष्कृत साइबर सुरक्षा खतरे भी लाया है, जिससे संस्थानों के लिए मजबूत नेटवर्क फायरवॉल अत्यंत आवश्यक हो गए हैं।",
+    "Question": "The tone of the passage can best be described as: / गद्यांश के स्वर को सबसे अच्छी तरह वर्णित किया जा सकता है:",
+    "A": "Informative / सूचनात्मक",
+    "B": "Sarcastic / व्यंग्यात्मक",
+    "C": "Aggressive / आक्रामक",
+    "D": "Fictional / काल्पनिक",
+    "Correct": "A"
+  },
+  {
+    "Passage": "The rapid expansion of digital banking has completely revolutionized the modern financial landscape. While accessibility has reached record highs, it has also brought along sophisticated cybersecurity threats, making robust network firewalls absolutely essential for institutions. / डिजिटल बैंकिंग के तीव्र विस्तार ने आधुनिक वित्तीय परिदृश्य में पूरी तरह से क्रांति ला दी है। हालांकि पहुंच रिकॉर्ड ऊंचाई पर पहुंच गई है, लेकिन यह अपने साथ परिष्कृत साइबर सुरक्षा खतरे भी लाया है, जिससे संस्थानों के लिए मजबूत नेटवर्क फायरवॉल अत्यंत आवश्यक हो गए हैं।",
+    "Question": "Which institutions are implied to need robust firewalls? / किन संस्थानों के लिए मजबूत फायरवॉल की आवश्यकता का संकेत दिया गया है?",
+    "A": "Financial institutions / वित्तीय संस्थान",
+    "B": "Educational campuses / शैक्षणिक परिसर",
+    "C": "Agricultural hubs / कृषि केंद्र",
+    "D": "Manufacturing plants / विनिर्माण संयंत्र",
+    "Correct": "A"
+  },
+  {
+    "Passage": "The rapid expansion of digital banking has completely revolutionized the modern financial landscape. While accessibility has reached record highs, it has also brought along sophisticated cybersecurity threats, making robust network firewalls absolutely essential for institutions. / डिजिटल बैंकिंग के तीव्र विस्तार ने आधुनिक वित्तीय परिदृश्य में पूरी तरह से क्रांति ला दी है। हालांकि पहुंच रिकॉर्ड ऊंचाई पर पहुंच गई है, लेकिन यह अपने साथ परिष्कृत साइबर सुरक्षा खतरे भी लाया है, जिससे संस्थानों के लिए मजबूत नेटवर्क फायरवॉल अत्यंत आवश्यक हो गए हैं।",
+    "Question": "What type of threats are highlighted by the author? / लेखक द्वारा किस प्रकार के खतरों पर प्रकाश डाला गया है?",
+    "A": "Cybersecurity threats / साइबर सुरक्षा खतरे",
+    "B": "Physical robbery threats / शारीरिक लूट के खतरे",
+    "C": "Economic inflation threats / आर्थिक मुद्रास्फीति के खतरे",
+    "D": "Market valuation threats / बाजार मूल्यांकन के खतरे",
+    "Correct": "A"
+  },
+  {
+    "Passage": "The rapid expansion of digital banking has completely revolutionized the modern financial landscape. While accessibility has reached record highs, it has also brought along sophisticated cybersecurity threats, making robust network firewalls absolutely essential for institutions. / डिजिटल बैंकिंग के तीव्र विस्तार ने आधुनिक वित्तीय परिदृश्य में पूरी तरह से क्रांति ला दी है। हालांकि पहुंच रिकॉर्ड ऊंचाई पर पहुंच गई है, लेकिन यह अपने साथ परिष्कृत साइबर सुरक्षा खतरे भी लाया है, जिससे संस्थानों के लिए मजबूत नेटवर्क फायरवॉल अत्यंत आवश्यक हो गए हैं।",
+    "Question": "Neglecting firewall infrastructure would likely lead to: / फायरवॉल बुनियादी ढांचे की उपेक्षा करने से संभावित रूप से यह होगा:",
+    "A": "Severe security vulnerabilities / गंभीर सुरक्षा कमजोरियां",
+    "B": "Higher profit margins / उच्च लाभ मार्जिन",
+    "C": "Reduced system runtime / कम सिस्टम रनटाइम",
+    "D": "Easier system configuration / आसान सिस्टम कॉन्फ़िगरेशन",
+    "Correct": "A"
+  },
+  {
+    "Passage": "The rapid expansion of digital banking has completely revolutionized the modern financial landscape. While accessibility has reached record highs, it has also brought along sophisticated cybersecurity threats, making robust network firewalls absolutely essential for institutions. / डिजिटल बैंकिंग के तीव्र विस्तार ने आधुनिक वित्तीय परिदृश्य में पूरी तरह से क्रांति ला दी है। हालांकि पहुंच रिकॉर्ड ऊंचाई पर पहुंच गई है, लेकिन यह अपने साथ परिष्कृत साइबर सुरक्षा खतरे भी लाया है, जिससे संस्थानों के लिए मजबूत नेटवर्क फायरवॉल अत्यंत आवश्यक हो गए हैं।",
+    "Question": "Select a suitable title for this passage: / इस गद्यांश के लिए एक उपयुक्त शीर्षक चुनिए:",
+    "A": "Modern Banking and Cybersecurity / आधुनिक बैंकिंग और साइबर सुरक्षा",
+    "B": "The Demise of Hard Cash / हार्ड कैश का पतन",
+    "C": "Building Traditional Brick Banks / पारंपरिक ईंट बैंकों का निर्माण",
+    "D": "Global Trade Routes / वैश्विक व्यापार मार्ग",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the option that expresses the given sentence in passive voice: The chef prepared a delicious meal. / उस विकल्प का चयन करें जो दिए गए वाक्य को पैसिव वॉइस में व्यक्त करता है: The chef prepared a delicious meal.",
+    "A": "A delicious meal is prepared by the chef. / A delicious meal is prepared by the chef.",
+    "B": "A delicious meal was prepared by the chef. / A delicious meal was prepared by the chef.",
+    "C": "A delicious meal has been prepared by the chef. / A delicious meal has been prepared by the chef.",
+    "D": "A delicious meal was being prepared by the chef. / A delicious meal was being prepared by the chef.",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the most appropriate synonym of the given word: OBSCURE / दिए गए शब्द का सबसे उपयुक्त पर्यायवाची चुनिए: OBSCURE",
+    "A": "Clear / स्पष्ट",
+    "B": "Vague / अस्पष्ट",
+    "C": "Famous / प्रसिद्ध",
+    "D": "Apparent / प्रत्यक्ष",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the most appropriate antonym of the given word: ABSURD / दिए गए शब्द का सबसे उपयुक्त विलोम शब्द चुनिए: ABSURD",
+    "A": "Rational / तर्कसंगत",
+    "B": "Foolish / मूर्खतापूर्ण",
+    "C": "Crazy / पागल",
+    "D": "Ridiculous / हास्यास्पद",
+    "Correct": "A"
+  },
+  {
+    "Question": "Identify the segment that contains a grammatical error: She did not wanted to join the team. / उस खंड की पहचान करें जिसमें व्याकरण की त्रुटि है: She did not wanted to join the team.",
+    "A": "She did not / She did not",
+    "B": "wanted to join / wanted to join",
+    "C": "the team / the team",
+    "D": "No error / कोई त्रुटि नहीं",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correctly spelled word to fill in the blank: The management gave its ______ approval. / रिक्त स्थान भरने के लिए सही वर्तनी वाले शब्द का चयन करें: The management gave its ______ approval.",
+    "A": "Definite / Definite",
+    "B": "Definite / Definite",
+    "C": "Defenit / Defenit",
+    "D": "Definight / Definight",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank with the appropriate preposition: He is deeply interested ______ ancient Indian history. / उपयुक्त प्रीपोजीशन से रिक्त स्थान भरें: He is deeply interested ______ ancient Indian history.",
+    "A": "in / in",
+    "B": "on / on",
+    "C": "at / at",
+    "D": "with / with",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the alternative that best expresses the idiom: 'Bite the bullet' / उस विकल्प का चयन करें जो मुहावरे को सबसे अच्छी तरह व्यक्त करता है: 'Bite the bullet'",
+    "A": "To face a difficult situation with courage / साहस के साथ कठिन परिस्थिति का सामना करना",
+    "B": "To start a fight unnecessarily / अनावश्यक रूप से लड़ाई शुरू करना",
+    "C": "To buy expensive ammunition / महंगी बारूद खरीदना",
+    "D": "To change ones opinion completely / अपनी राय पूरी तरह बदल देना",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the option that can be used as a one-word substitute for: 'A person who writes books' / उस विकल्प का चयन करें जिसे इसके लिए एक-शब्द प्रतिस्थापन के रूप में उपयोग किया जा सकता है: 'A person who writes books'",
+    "A": "Author / लेखक",
+    "B": "Publisher / प्रकाशक",
+    "C": "Editor / संपादक",
+    "D": "Reader / पाठक",
+    "Correct": "A"
+  },
+  {
+    "Question": "Change the sentence into Indirect speech: Rohan said, \"I am writing a letter.\" / वाक्य को इनडायरेक्ट स्पीच में बदलें: Rohan said, \"I am writing a letter.\"",
+    "A": "Rohan said that he was writing a letter. / Rohan said that he was writing a letter.",
+    "B": "Rohan said that he is writing a letter. / Rohan said that he is writing a letter.",
+    "C": "Rohan says that he was writing a letter. / Rohan says that he was writing a letter.",
+    "D": "Rohan told that he wrote a letter. / Rohan told that he wrote a letter.",
+    "Correct": "A"
+  },
+  {
+    "Question": "Identify the part of speech of the underlined word: The old man walked very slowly. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: The old man walked very slowly.",
+    "A": "Adverb / क्रियाविशेषण",
+    "B": "Adjective / विशेषण",
+    "C": "Noun / संज्ञा",
+    "D": "Verb / क्रिया",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the most appropriate option to substitute the bracketed segment: If it rains, we (will cancel) the picnic. / कोष्ठक वाले खंड को प्रतिस्थापित करने के लिए सबसे उपयुक्त विकल्प का चयन करें: If it rains, we (will cancel) the picnic.",
+    "A": "would cancel / would cancel",
+    "B": "will cancel / will cancel",
+    "C": "cancelled / cancelled",
+    "D": "had cancelled / had cancelled",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the correct collective noun for birds: A ______ of birds flew high in the sky. / पक्षियों के लिए सही कलेक्टिव नाउन चुनें: A ______ of birds flew high in the sky.",
+    "A": "flock / flock",
+    "B": "herd / herd",
+    "C": "pack / pack",
+    "D": "swarm / swarm",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the option that contains a spelling error. / उस विकल्प का चयन करें जिसमें वर्तनी की त्रुटि है।",
+    "A": "Receive / Receive",
+    "B": "Believe / Believe",
+    "C": "Receipt / Receipt",
+    "D": "Concieve / Concieve",
+    "Correct": "D"
+  },
+  {
+    "Question": "Select the alternative that best expresses the idiom: 'Break a leg' / उस विकल्प का चयन करें जो मुहावरे को सबसे अच्छी तरह व्यक्त करता है: 'Break a leg'",
+    "A": "Good luck / सौभाग्य",
+    "B": "Bad luck / दुर्भाग्य",
+    "C": "To meet with an accident / दुर्घटना का शिकार होना",
+    "D": "To run fast / तेज़ दौड़ना",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the word that is opposite in meaning to: 'GENEROUS' / उस शब्द का चयन करें जो इसके विपरीत अर्थ रखता हो: 'GENEROUS'",
+    "A": "Stingy / कंजूस",
+    "B": "Kind / दयालु",
+    "C": "Helpful / मददगार",
+    "D": "Benevolent / परोपकारी",
+    "Correct": "A"
+  },
+  {
+    "Question": "Find the error part: Neither of the two paths / are safe / for travel. / त्रुटि भाग खोजें: Neither of the two paths / are safe / for travel.",
+    "A": "Neither of the two paths / Neither of the two paths",
+    "B": "are safe / are safe",
+    "C": "for travel / for travel",
+    "D": "No error / कोई त्रुटि नहीं",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the correct active voice statement for: The glass was broken by Amit. / इसके लिए सही एक्टिव वॉइस स्टेटमेंट चुनें: The glass was broken by Amit.",
+    "A": "Amit broke the glass. / Amit broke the glass.",
+    "B": "Amit breaks the glass. / Amit breaks the glass.",
+    "C": "Amit has broken the glass. / Amit has broken the glass.",
+    "D": "Amit was breaking the glass. / Amit was breaking the glass.",
+    "Correct": "A"
+  },
+  {
+    "Question": "One word substitution for: 'A sound that cannot be heard' / इसके लिए एक शब्द प्रतिस्थापन: 'A sound that cannot be heard'",
+    "A": "Inaudible / अश्रव्य",
+    "B": "Audible / श्रव्य",
+    "C": "Edible / खाद्य",
+    "D": "Illegible / अपठनीय",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank with the correct form of verb: She ______ her homework before going out to play. / क्रिया के सही रूप से रिक्त स्थान भरें: She ______ her homework before going out to play.",
+    "A": "had completed / had completed",
+    "B": "has complete / has complete",
+    "C": "completes / completes",
+    "D": "completing / completing",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the synonym of the given word: FORMIDABLE / दिए गए शब्द का पर्यायवाची चुनिए: FORMIDABLE",
+    "A": "Intimidating / डरावना",
+    "B": "Weak / कमजोर",
+    "C": "Friendly / अनुकूल",
+    "D": "Trivial / तुच्छ",
+    "Correct": "A"
+  },
+  {
+    "Question": "Identify the incorrect spelling in the options given below: / नीचे दिए गए विकल्पों में से गलत वर्तनी की पहचान करें:",
+    "A": "Accommodation / Accommodation",
+    "B": "Beginning / Beginning",
+    "C": "Tommorow / Tommorow",
+    "D": "Necessary / Necessary",
+    "Correct": "C"
+  },
+  {
+    "Question": "Substitute the underlined idiom: The business transaction was all 'above board'. / रेखांकित मुहावरे को प्रतिस्थापित करें: The business transaction was all 'above board'.",
+    "A": "Honest and open / ईमानदार और खुला",
+    "B": "Secret and illegal / गुप्त और अवैध",
+    "C": "Highly profitable / अत्यधिक लाभदायक",
+    "D": "Incomplete / अधूरा",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank: The airplane flew ______ the heavy clouds. / रिक्त स्थान भरें: The airplane flew ______ the heavy clouds.",
+    "A": "through / through",
+    "B": "across / across",
+    "C": "between / between",
+    "D": "along / along",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the passive form of: Shut the window. / इसका पैसिव रूप चुनें: Shut the window.",
+    "A": "Let the window be shut. / Let the window be shut.",
+    "B": "The window is shutted. / The window is shutted.",
+    "C": "Let window shut. / Let window shut.",
+    "D": "Window should close. / Window should close.",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the appropriate article to fill in the blank: He is ______ honorable member of the community. / रिक्त स्थान भरने के लिए उपयुक्त आर्टिकल चुनें: He is ______ honorable member of the community.",
+    "A": "an / an",
+    "B": "a / a",
+    "C": "the / the",
+    "D": "No article / कोई आर्टिकल नहीं",
+    "Correct": "A"
+  },
+  {
+    "Question": "Find the grammatical error: Each of the students / have submitted / the assignments on time. / व्याकरण की त्रुटि खोजें: Each of the students / have submitted / the assignments on time.",
+    "A": "Each of the students / Each of the students",
+    "B": "have submitted / have submitted",
+    "C": "the assignments on time / the assignments on time",
+    "D": "No error / कोई त्रुटि नहीं",
+    "Correct": "B"
+  },
+  {
+    "Question": "One word substitute for: 'A place where wild animals live' / इसके लिए एक शब्द प्रतिस्थापन: 'A place where wild animals live'",
+    "A": "Lair / मांद",
+    "B": "Cage / पिंजरा",
+    "C": "Stable / अस्तबल",
+    "D": "Kennel / कुत्ताघर",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the correct synonym of: TRANSIENT / इसका सही पर्यायवाची चुनें: TRANSIENT",
+    "A": "Temporary / अस्थायी",
+    "B": "Permanent / स्थायी",
+    "C": "Endless / अनंत",
+    "D": "Stable / स्थिर",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the correct indirect version: He said, \"I will visit Delhi next week.\" / सही इनडायरेक्ट संस्करण चुनें: He said, \"I will visit Delhi next week.\"",
+    "A": "He said that he would visit Delhi the following week. / He said that he would visit Delhi the following week.",
+    "B": "He said that he will visit Delhi next week. / He said that he will visit Delhi next week.",
+    "C": "He told that he would visit Delhi next week. / He told that he would visit Delhi next week.",
+    "D": "He says that he should visit Delhi the following week. / He says that he should visit Delhi the following week.",
+    "Correct": "A"
+  },
+  {
+    "Question": "Complete the phrase logically: Industry is the key ______ success. / वाक्यांश को तार्किक रूप से पूरा करें: Industry is the key ______ success.",
+    "A": "to / to",
+    "B": "for / for",
+    "C": "of / of",
+    "D": "in / in",
+    "Correct": "A"
+  }
+]
