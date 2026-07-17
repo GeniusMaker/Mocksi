@@ -328,5 +328,450 @@
     "C": "of / of",
     "D": "in / in",
     "Correct": "A"
-  }
+  },
+ {
+"Question":"Identify the part of speech of the underlined word: She sings beautifully. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: She sings beautifully.",
+"A":"Adverb / क्रियाविशेषण",
+"B":"Adjective / विशेषण",
+"C":"Noun / संज्ञा",
+"D":"Verb / क्रिया",
+"Correct":"A"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: The brave soldier fought the enemy. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: The brave soldier fought the enemy.",
+"A":"Adjective / विशेषण",
+"B":"Adverb / क्रियाविशेषण",
+"C":"Pronoun / सर्वनाम",
+"D":"Verb / क्रिया",
+"Correct":"A"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: Honesty is the best policy. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: Honesty is the best policy.",
+"A":"Verb / क्रिया",
+"B":"Noun / संज्ञा",
+"C":"Adjective / विशेषण",
+"D":"Adverb / क्रियाविशेषण",
+"Correct":"B"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: They arrived before sunset. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: They arrived before sunset.",
+"A":"Preposition / संबंधबोधक",
+"B":"Conjunction / संयोजक",
+"C":"Adverb / क्रियाविशेषण",
+"D":"Noun / संज्ञा",
+"Correct":"A"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: Wow! That is an amazing performance. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: Wow! That is an amazing performance.",
+"A":"Interjection / विस्मयादिबोधक",
+"B":"Adjective / विशेषण",
+"C":"Noun / संज्ञा",
+"D":"Verb / क्रिया",
+"Correct":"A"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: He and his brother are doctors. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: He and his brother are doctors.",
+"A":"Conjunction / संयोजक",
+"B":"Pronoun / सर्वनाम",
+"C":"Adverb / क्रियाविशेषण",
+"D":"Preposition / संबंधबोधक",
+"Correct":"A"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: She is an intelligent girl. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: She is an intelligent girl.",
+"A":"Noun / संज्ञा",
+"B":"Adjective / विशेषण",
+"C":"Verb / क्रिया",
+"D":"Pronoun / सर्वनाम",
+"Correct":"B"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: The baby cried loudly. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: The baby cried loudly.",
+"A":"Adjective / विशेषण",
+"B":"Adverb / क्रियाविशेषण",
+"C":"Noun / संज्ञा",
+"D":"Preposition / संबंधबोधक",
+"Correct":"B"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: We went to the market. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: We went to the market.",
+"A":"Pronoun / सर्वनाम",
+"B":"Verb / क्रिया",
+"C":"Preposition / संबंधबोधक",
+"D":"Adjective / विशेषण",
+"Correct":"C"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: Knowledge gives us confidence. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: Knowledge gives us confidence.",
+"A":"Adjective / विशेषण",
+"B":"Noun / संज्ञा",
+"C":"Verb / क्रिया",
+"D":"Adverb / क्रियाविशेषण",
+"Correct":"B"
+},
+{
+"Question":"Identify the part of speech of the underlined word: He runs fast in the race. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: He runs fast in the race.",
+"A":"Adjective / विशेषण",
+"B":"Adverb / क्रियाविशेषण",
+"C":"Noun / संज्ञा",
+"D":"Pronoun / सर्वनाम",
+"Correct":"B"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: The girl with a blue dress is my sister. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: The girl with a blue dress is my sister.",
+"A":"Conjunction / संयोजक",
+"B":"Preposition / संबंधबोधक",
+"C":"Adverb / क्रियाविशेषण",
+"D":"Verb / क्रिया",
+"Correct":"B"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: My father works in a bank. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: My father works in a bank.",
+"A":"Pronoun / सर्वनाम",
+"B":"Noun / संज्ञा",
+"C":"Verb / क्रिया",
+"D":"Adjective / विशेषण",
+"Correct":"B"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: The children are playing outside. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: The children are playing outside.",
+"A":"Adverb / क्रियाविशेषण",
+"B":"Adjective / विशेषण",
+"C":"Noun / संज्ञा",
+"D":"Preposition / संबंधबोधक",
+"Correct":"A"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: Neither Ram nor Shyam attended the meeting. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: Neither Ram nor Shyam attended the meeting.",
+"A":"Conjunction / संयोजक",
+"B":"Pronoun / सर्वनाम",
+"C":"Adverb / क्रियाविशेषण",
+"D":"Preposition / संबंधबोधक",
+"Correct":"A"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: Alas! The old man died yesterday. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: Alas! The old man died yesterday.",
+"A":"Interjection / विस्मयादिबोधक",
+"B":"Adjective / विशेषण",
+"C":"Noun / संज्ञा",
+"D":"Verb / क्रिया",
+"Correct":"A"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: This book belongs to me. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: This book belongs to me.",
+"A":"Adjective / विशेषण",
+"B":"Pronoun / सर्वनाम",
+"C":"Verb / क्रिया",
+"D":"Adverb / क्रियाविशेषण",
+"Correct":"B"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: The train arrived late. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: The train arrived late.",
+"A":"Adverb / क्रियाविशेषण",
+"B":"Adjective / विशेषण",
+"C":"Noun / संज्ञा",
+"D":"Conjunction / संयोजक",
+"Correct":"A"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: Honesty always wins respect. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: Honesty always wins respect.",
+"A":"Adjective / विशेषण",
+"B":"Noun / संज्ञा",
+"C":"Verb / क्रिया",
+"D":"Preposition / संबंधबोधक",
+"Correct":"B"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: He is a very clever student. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: He is a very clever student.",
+"A":"Adverb / क्रियाविशेषण",
+"B":"Adjective / विशेषण",
+"C":"Noun / संज्ञा",
+"D":"Verb / क्रिया",
+"Correct":"B"
+},
+{
+"Question":"Identify the part of speech of the underlined word: The dog barked loudly at the stranger. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: The dog barked loudly at the stranger.",
+"A":"Adverb / क्रियाविशेषण",
+"B":"Adjective / विशेषण",
+"C":"Noun / संज्ञा",
+"D":"Preposition / संबंधबोधक",
+"Correct":"A"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: The beautiful flowers bloom in spring. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: The beautiful flowers bloom in spring.",
+"A":"Verb / क्रिया",
+"B":"Adjective / विशेषण",
+"C":"Adverb / क्रियाविशेषण",
+"D":"Pronoun / सर्वनाम",
+"Correct":"B"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: She completed her work quickly. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: She completed her work quickly.",
+"A":"Noun / संज्ञा",
+"B":"Adjective / विशेषण",
+"C":"Adverb / क्रियाविशेषण",
+"D":"Conjunction / संयोजक",
+"Correct":"C"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: The teacher explained the lesson clearly. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: The teacher explained the lesson clearly.",
+"A":"Verb / क्रिया",
+"B":"Adverb / क्रियाविशेषण",
+"C":"Adjective / विशेषण",
+"D":"Pronoun / सर्वनाम",
+"Correct":"B"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: I bought a new laptop yesterday. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: I bought a new laptop yesterday.",
+"A":"Adjective / विशेषण",
+"B":"Adverb / क्रियाविशेषण",
+"C":"Noun / संज्ञा",
+"D":"Verb / क्रिया",
+"Correct":"A"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: We should respect our elders. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: We should respect our elders.",
+"A":"Verb / क्रिया",
+"B":"Noun / संज्ञा",
+"C":"Adjective / विशेषण",
+"D":"Adverb / क्रियाविशेषण",
+"Correct":"A"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: He is standing near the door. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: He is standing near the door.",
+"A":"Conjunction / संयोजक",
+"B":"Preposition / संबंधबोधक",
+"C":"Adverb / क्रियाविशेषण",
+"D":"Adjective / विशेषण",
+"Correct":"B"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: Everyone likes honest people. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: Everyone likes honest people.",
+"A":"Adjective / विशेषण",
+"B":"Pronoun / सर्वनाम",
+"C":"Verb / क्रिया",
+"D":"Adverb / क्रियाविशेषण",
+"Correct":"B"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: The sun shines brightly. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: The sun shines brightly.",
+"A":"Noun / संज्ञा",
+"B":"Verb / क्रिया",
+"C":"Adverb / क्रियाविशेषण",
+"D":"Adjective / विशेषण",
+"Correct":"C"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: Oh! I forgot my keys. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: Oh! I forgot my keys.",
+"A":"Interjection / विस्मयादिबोधक",
+"B":"Conjunction / संयोजक",
+"C":"Preposition / संबंधबोधक",
+"D":"Adjective / विशेषण",
+"Correct":"A"
+},
+{
+"Question":"Identify the part of speech of the underlined word: The poor man helped the injured child. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: The poor man helped the injured child.",
+"A":"Adjective / विशेषण",
+"B":"Noun / संज्ञा",
+"C":"Verb / क्रिया",
+"D":"Adverb / क्रियाविशेषण",
+"Correct":"A"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: She spoke softly to the baby. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: She spoke softly to the baby.",
+"A":"Adjective / विशेषण",
+"B":"Adverb / क्रियाविशेषण",
+"C":"Noun / संज्ञा",
+"D":"Pronoun / सर्वनाम",
+"Correct":"B"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: The book is on the table. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: The book is on the table.",
+"A":"Conjunction / संयोजक",
+"B":"Preposition / संबंधबोधक",
+"C":"Adverb / क्रियाविशेषण",
+"D":"Verb / क्रिया",
+"Correct":"B"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: Reading improves our knowledge. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: Reading improves our knowledge.",
+"A":"Noun / संज्ञा",
+"B":"Verb / क्रिया",
+"C":"Adjective / विशेषण",
+"D":"Adverb / क्रियाविशेषण",
+"Correct":"A"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: He is too weak to walk. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: He is too weak to walk.",
+"A":"Adverb / क्रियाविशेषण",
+"B":"Adjective / विशेषण",
+"C":"Noun / संज्ञा",
+"D":"Pronoun / सर्वनाम",
+"Correct":"A"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: The little girl won the prize. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: The little girl won the prize.",
+"A":"Verb / क्रिया",
+"B":"Adverb / क्रियाविशेषण",
+"C":"Adjective / विशेषण",
+"D":"Conjunction / संयोजक",
+"Correct":"C"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: They arrived after the meeting. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: They arrived after the meeting.",
+"A":"Preposition / संबंधबोधक",
+"B":"Adjective / विशेषण",
+"C":"Noun / संज्ञा",
+"D":"Interjection / विस्मयादिबोधक",
+"Correct":"A"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: He and I went to the park. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: He and I went to the park.",
+"A":"Adverb / क्रियाविशेषण",
+"B":"Conjunction / संयोजक",
+"C":"Preposition / संबंधबोधक",
+"D":"Verb / क्रिया",
+"Correct":"B"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: The child laughed happily. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: The child laughed happily.",
+"A":"Adjective / विशेषण",
+"B":"Noun / संज्ञा",
+"C":"Adverb / क्रियाविशेषण",
+"D":"Pronoun / सर्वनाम",
+"Correct":"C"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: Courage is a great quality. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: Courage is a great quality.",
+"A":"Noun / संज्ञा",
+"B":"Verb / क्रिया",
+"C":"Adjective / विशेषण",
+"D":"Adverb / क्रियाविशेषण",
+"Correct":"A"
+},
+  [
+{
+"Question":"Identify the part of speech of the underlined word: The teacher spoke politely with the students. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: The teacher spoke politely with the students.",
+"A":"Adverb / क्रियाविशेषण",
+"B":"Adjective / विशेषण",
+"C":"Noun / संज्ञा",
+"D":"Verb / क्रिया",
+"Correct":"A"
+},
+{
+"Question":"Identify the part of speech of the underlined word: The young boy won the competition. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: The young boy won the competition.",
+"A":"Adjective / विशेषण",
+"B":"Adverb / क्रियाविशेषण",
+"C":"Pronoun / सर्वनाम",
+"D":"Conjunction / संयोजक",
+"Correct":"A"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: She always helps the poor. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: She always helps the poor.",
+"A":"Adverb / क्रियाविशेषण",
+"B":"Adjective / विशेषण",
+"C":"Noun / संज्ञा",
+"D":"Verb / क्रिया",
+"Correct":"A"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: The team played well today. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: The team played well today.",
+"A":"Adjective / विशेषण",
+"B":"Adverb / क्रियाविशेषण",
+"C":"Noun / संज्ञा",
+"D":"Preposition / संबंधबोधक",
+"Correct":"B"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: Mumbai is a crowded city. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: Mumbai is a crowded city.",
+"A":"Proper Noun / व्यक्तिवाचक संज्ञा",
+"B":"Adjective / विशेषण",
+"C":"Verb / क्रिया",
+"D":"Adverb / क्रियाविशेषण",
+"Correct":"A"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: The girl who won the prize is my friend. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: The girl who won the prize is my friend.",
+"A":"Relative Pronoun / संबंधवाचक सर्वनाम",
+"B":"Adjective / विशेषण",
+"C":"Conjunction / संयोजक",
+"D":"Preposition / संबंधबोधक",
+"Correct":"A"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: He cannot solve this difficult problem. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: He cannot solve this difficult problem.",
+"A":"Adjective / विशेषण",
+"B":"Adverb / क्रियाविशेषण",
+"C":"Noun / संज्ञा",
+"D":"Interjection / विस्मयादिबोधक",
+"Correct":"A"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: They have completed their work. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: They have completed their work.",
+"A":"Pronoun / सर्वनाम",
+"B":"Adverb / क्रियाविशेषण",
+"C":"Adjective / विशेषण",
+"D":"Preposition / संबंधबोधक",
+"Correct":"A"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: The river flows through the valley. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: The river flows through the valley.",
+"A":"Verb / क्रिया",
+"B":"Preposition / संबंधबोधक",
+"C":"Adjective / विशेषण",
+"D":"Adverb / क्रियाविशेषण",
+"Correct":"B"
+},
+
+{
+"Question":"Identify the part of speech of the underlined word: Unfortunately, he missed the train. / रेखांकित शब्द के पार्ट ऑफ़ स्पीच की पहचान करें: Unfortunately, he missed the train.",
+"A":"Adverb / क्रियाविशेषण",
+"B":"Noun / संज्ञा",
+"C":"Verb / क्रिया",
+"D":"Adjective / विशेषण",
+"Correct":"A"
+}
 ]
