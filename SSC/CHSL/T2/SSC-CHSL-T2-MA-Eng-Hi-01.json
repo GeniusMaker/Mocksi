@@ -399,5 +399,366 @@
     "C": "8",
     "D": "9",
     "Correct": "C"
-  }
-]
+  },
+{
+"Question": "If x⁴ + 1/x⁴ = 194, find the value of x³ + 1/x³ where x > 0. / यदि x⁴ + 1/x⁴ = 194 है, तो x³ + 1/x³ का मान ज्ञात कीजिए जहाँ x > 0 है।",
+"A": "52 / 52",
+"B": "76 / 76",
+"C": "64 / 64",
+"D": "18 / 18",
+"Correct": "A"
+},
+{
+"Question": "If sec θ + tan θ = 5, find the value of sin θ. / यदि sec θ + tan θ = 5 है, तो sin θ का मान ज्ञात कीजिए।",
+"A": "5/13 / 5/13",
+"B": "12/13 / 12/13",
+"C": "12/5 / 12/5",
+"D": "5/12 / 5/12",
+"Correct": "B"
+},
+{
+"Question": "In a circle with centre O and radius 13 cm, a chord AB is at a distance of 5 cm from the centre. What is the length of chord AB? / 13 सेमी त्रिज्या और O केंद्र वाले एक वृत्त में, एक जीवा AB केंद्र से 5 सेमी की दूरी पर है। जीवा AB की लंबाई क्या है?",
+"A": "12 cm / 12 सेमी",
+"B": "24 cm / 24 सेमी",
+"C": "10 cm / 10 सेमी",
+"D": "26 cm / 26 सेमी",
+"Correct": "B"
+},
+{
+"Question": "The ratio of the curved surface area to the total surface area of a right circular cylinder is 1:2. If the total surface area is 616 cm², find its volume. / एक लंब वृत्तीय बेलन के वक्र पृष्ठीय क्षेत्रफल का उसके कुल पृष्ठीय क्षेत्रफल से अनुपात 1:2 है। यदि कुल पृष्ठीय क्षेत्रफल 616 वर्ग सेमी है, तो इसका आयतन ज्ञात कीजिए।",
+"A": "1078 cm³ / 1078 घन सेमी",
+"B": "1540 cm³ / 1540 घन सेमी",
+"C": "539 cm³ / 539 घन सेमी",
+"D": "2156 cm³ / 2156 घन सेमी",
+"Correct": "A"
+},
+{
+"Question": "A is 40% more efficient than B. If B alone can complete a work in 14 days, in how many days can they together complete the same work? / A, B से 40% अधिक कुशल है। यदि B अकेला किसी कार्य को 14 दिनों में पूरा कर सकता है, तो वे दोनों मिलकर उसी कार्य को कितने दिनों में पूरा कर सकते हैं?",
+"A": "5 5/6 days / 5 5/6 दिन",
+"B": "6 days / 6 दिन",
+"C": "5 days / 5 दिन",
+"D": "4 1/6 days / 4 1/6 दिन",
+"Correct": "A"
+},
+{
+"Question": "A shopkeeper marks his goods 30% above the cost price and allows a discount of 10% to the customer. What is his net profit percentage? / एक दुकानदार अपनी वस्तुओं पर क्रय मूल्य से 30% अधिक मूल्य अंकित करता है और ग्राहक को 10% की छूट देता है। उसका शुद्ध लाभ प्रतिशत क्या है?",
+"A": "20% / 20%",
+"B": "17% / 17%",
+"C": "15% / 15%",
+"D": "18% / 18%",
+"Correct": "B"
+},
+{
+"Question": "The difference between the compound interest (compounded annually) and the simple interest on a certain sum of money at 10% per annum for 3 years is Rs. 155. Find the sum. / एक निश्चित धनराशि पर 10% प्रति वर्ष की दर से 3 वर्षों के लिए चक्रवृद्धि ब्याज (वार्षिक रूप से संयोजित) और साधारण ब्याज के बीच का अंतर Rs. 155 है। धनराशि ज्ञात कीजिए।",
+"A": "Rs. 4000 / 4000 रुपये",
+"B": "Rs. 5000 / 5000 रुपये",
+"C": "Rs. 6000 / 6000 रुपये",
+"D": "Rs. 4500 / 4500 रुपये",
+"Correct": "B"
+},
+{
+"Question": "The average of 11 numbers is 50. If the average of the first 6 numbers is 49 and that of the last 6 numbers is 52, then what is the 6th number? / 11 संख्याओं का औसत 50 है। यदि पहली 6 संख्याओं का औसत 49 है और अंतिम 6 संख्याओं का औसत 52 है, तो छठी संख्या क्या है?",
+"A": "56 / 56",
+"B": "50 / 50",
+"C": "52 / 52",
+"D": "48 / 48",
+"Correct": "A"
+},
+{
+"Question": "Two numbers are in the ratio 3:5. If 9 is subtracted from each, then they are in the ratio 12:23. Find the smaller number. / दो संख्याएँ 3:5 के अनुपात में हैं। यदि प्रत्येक में से 9 घटा दिया जाए, तो वे 12:23 के अनुपात में हो जाती हैं। छोटी संख्या ज्ञात कीजिए।",
+"A": "33 / 33",
+"B": "55 / 55",
+"C": "27 / 27",
+"D": "44 / 44",
+"Correct": "A"
+},
+{
+"Question": "Evaluate: sin² 25° + sin² 65° + √3(tan 10° tan 30° tan 80°). / मान ज्ञात कीजिए: sin² 25° + sin² 65° + √3(tan 10° tan 30° tan 80°)।",
+"A": "1 / 1",
+"B": "2 / 2",
+"C": "1 + √3 / 1 + √3",
+"D": "3 / 3",
+"Correct": "B"
+},
+/\* STREAMING_CHUNK: Adding questions 11 to 20 ... */*
+{
+"Question": "Find the greatest 5-digit number which when divided by 3, 5, 8, and 12 leaves 2 as remainder in each case. / 5 अंकों की वह सबसे बड़ी संख्या ज्ञात कीजिए जिसे 3, 5, 8 और 12 से भाग देने पर प्रत्येक स्थिति में शेषफल 2 बचता है।",
+"A": "99962 / 99962",
+"B": "99958 / 99958",
+"C": "99982 / 99982",
+"D": "99942 / 99942",
+"Correct": "A"
+},
+{
+"Question": "A train running at a speed of 72 km/h crosses a pole in 15 seconds. How much time will it take to cross a bridge of length 360 m? / 72 किमी/घंटा की गति से चलने वाली एक ट्रेन 15 सेकंड में एक खंभे को पार करती है। 360 मीटर लंबे पुल को पार करने में इसे कितना समय लगेगा?",
+"A": "33 seconds / 33 सेकंड",
+"B": "30 seconds / 30 सेकंड",
+"C": "28 seconds / 28 सेकंड",
+"D": "35 seconds / 35 सेकंड",
+"Correct": "A"
+},
+{
+"Question": "A bag contains 5 red, 7 blue, and 8 green balls. If two balls are drawn at random, what is the probability that both are blue? / एक बैग में 5 लाल, 7 नीली और 8 हरी गेंदें हैं। यदि दो गेंदें यादृच्छिक रूप से निकाली जाती हैं, तो दोनों के नीले होने की क्या प्रायिकता है?",
+"A": "21/190 / 21/190",
+"B": "7/20 / 7/20",
+"C": "3/38 / 3/38",
+"D": "1/10 / 1/10",
+"Correct": "A"
+},
+{
+"Question": "If a + b + c = 6 and ab + bc + ca = 11, find the value of a³ + b³ + c³ - 3abc. / यदि a + b + c = 6 और ab + bc + ca = 11 है, तो a³ + b³ + c³ - 3abc का मान ज्ञात कीजिए।",
+"A": "18 / 18",
+"B": "36 / 36",
+"C": "54 / 54",
+"D": "9 / 9",
+"Correct": "A"
+},
+{
+"Question": "The total surface area of a solid hemisphere is 462 cm². What is its volume? (Use π = 22/7) / एक ठोस अर्धगोले का कुल पृष्ठीय क्षेत्रफल 462 वर्ग सेमी है। इसका आयतन क्या है? (π = 22/7 का उपयोग करें)",
+"A": "718 2/3 cm³ / 718 2/3 घन सेमी",
+"B": "1437 1/3 cm³ / 1437 1/3 घन सेमी",
+"C": "486 2/3 cm³ / 486 2/3 घन सेमी",
+"D": "612 cm³ / 612 घन सेमी",
+"Correct": "A"
+},
+{
+"Question": "The angles of a triangle are in the ratio 2:3:5. The triangle is a/an: / एक त्रिभुज के कोण 2:3:5 के अनुपात में हैं। वह त्रिभुज एक है:",
+"A": "Right-angled triangle / समकोण त्रिभुज",
+"B": "Acute-angled triangle / न्यूनकोण त्रिभुज",
+"C": "Obtuse-angled triangle / अधिककोण त्रिभुज",
+"D": "Equilateral triangle / समबाहु त्रिभुज",
+"Correct": "A"
+},
+{
+"Question": "A and B enter into a partnership with capitals in the ratio 5:6. At the end of 8 months, A withdraws his capital. If they receive profits in the ratio 5:9, for how long was B's capital used? / A और B क्रमशः 5:6 के अनुपात में पूंजी निवेश करके एक साझेदारी में प्रवेश करते हैं। 8 महीने के अंत में, A अपनी पूंजी वापस ले लेता है। यदि वे 5:9 के अनुपात में लाभ प्राप्त करते हैं, तो B की पूंजी का उपयोग कितने समय के लिए किया गया था?",
+"A": "12 months / 12 महीने",
+"B": "10 months / 10 महीने",
+"C": "9 months / 9 महीने",
+"D": "8 months / 8 महीने",
+"Correct": "A"
+},
+{
+"Question": "Find the value of x if √(x+5) + √x = 5. / यदि √(x+5) + √x = 5 है, तो x का मान ज्ञात कीजिए।",
+"A": "4 / 4",
+"B": "9 / 9",
+"C": "16 / 16",
+"D": "1 / 1",
+"Correct": "A"
+},
+{
+"Question": "Two concentric circles are of *radii 10 cm and 6 cm. Find the length of the chord of the larger circle which touches the smaller circle. / दो संकेंद्रीय वृत्तों की त्रिज्याएँ 10 सेमी और 6 सेमी हैं। बड़े वृत्त की उस जीवा की लंबाई ज्ञात कीजिए जो छोटे वृत्त को स्पर्श करती है।",* STREAMING_CHUNK: Adding questions 21 to 30 ... */
+{
+"Question": "The price of petrol is increased by 25%. By how much percentage should a consumer reduce the consumption of petrol so that his expenditure on it remains constant? / पेट्रोल की कीमत में 25% की वृद्धि की जाती है। एक उपभोक्ता को पेट्रोल की खपत में कितने प्रतिशत की कमी करनी चाहिए ताकि उस पर होने वाला उसका व्यय अपरिवर्तित रहे?",
+"A": "20% / 20%",
+"B": "25% / 25%",
+"C": "16 2/3% / 16 2/3%",
+"D": "15% / 15%",
+"Correct": "A"
+},
+{
+"Question": "What is the unit digit of 3⁶⁵ \* 6⁵⁹ \* 7⁷¹? / 3⁶⁵ \* 6⁵⁹ \* 7⁷¹ का इकाई अंक क्या है?",
+"A": "4 / 4",
+"B": "6 / 6",
+"C": "2 / 2",
+"D": "8 / 8",
+"Correct": "A"
+},
+{
+"Question": "In what ratio must a grocer mix tea at Rs. 60 per kg and Rs. 65 per kg so that by selling the mixture at Rs. 68.20 per kg he may gain 10%? / एक पंसारी को 60 रुपये प्रति किलोग्राम और 65 रुपये प्रति किलोग्राम वाली चाय को किस अनुपात में मिलाना चाहिए ताकि मिश्रण को 68.20 रुपये प्रति किलोग्राम पर बेचने पर उसे 10% का लाभ हो?",
+"A": "3:2 / 3:2",
+"B": "3:5 / 3:5",
+"C": "4:5 / 4:5",
+"D": "2:3 / 2:3",
+"Correct": "A"
+},
+{
+"Question": "In ΔABC, G is the centroid and AD is the median. If AD = 12 cm, then find the length of AG. / ΔABC में, G केंद्रक है और AD माध्यिका है। यदि AD = 12 सेमी है, तो AG की लंबाई ज्ञात कीजिए।",
+"A": "8 cm / 8 सेमी",
+"B": "4 cm / 4 सेमी",
+"C": "6 cm / 6 सेमी",
+"D": "10 cm / 10 सेमी",
+"Correct": "A"
+},
+{
+"Question": "If the mean of the data 5, 7, x, 10, 15, 20 is 12, find the value of x. / यदि आंकड़ों 5, 7, x, 10, 15, 20 का माध्य 12 है, तो x का मान ज्ञात कीजिए।",
+"A": "15 / 15",
+"B": "12 / 12",
+"C": "10 / 10",
+"D": "14 / 14",
+"Correct": "A"
+},
+{
+"Question": "The radius of the base of a right circular cone is 6 cm and its height is 8 cm. Find its total surface area. (Take π = 3.14) / एक लंब वृत्तीय शंकु के आधार की त्रिज्या 6 सेमी और इसकी ऊंचाई 8 सेमी है। इसका कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए। (π = 3.14 लें)",
+"A": "301.44 cm² / 301.44 वर्ग सेमी",
+"B": "188.4 cm² / 188.4 वर्ग सेमी",
+"C": "263.76 cm² / 263.76 वर्ग सेमी",
+"D": "376.8 cm² / 376.8 वर्ग सेमी",
+"Correct": "A"
+},
+{
+"Question": "If tan θ = 4/3, find the value of (3sin θ + 2cos θ)/(3sin θ - 2cos θ). / यदि tan θ = 4/3 है, तो (3sin θ + 2cos θ)/(3sin θ - 2cos θ) का मान ज्ञात कीजिए।",
+"A": "3 / 3",
+"B": "5 / 5",
+"C": "2 / 2",
+"D": "4 / 4",
+"Correct": "A"
+},
+{
+"Question": "Simplify: 16^(0.16) \* 2^(0.36). / सरल कीजिए: 16^(0.16) \* 2^(0.36)।",
+"A": "2 / 2",
+"B": "4 / 4",
+"C": "1 / 1",
+"D": "8 / 8",
+"Correct": "A"
+},
+{
+"Question": "A man goes uphill at 12 km/h and comes downhill at 18 km/h. Find his average speed for the entire journey. / एक व्यक्ति 12 किमी/घंटा की गति से चढ़ाई पर जाता है और 18 किमी/घंटा की गति से उतरता है। पूरी यात्रा के लिए उसकी औसत गति ज्ञात कीजिए।",
+"A": "14.4 km/h / 14.4 किमी/घंटा",
+"B": "15 km/h / 15 किमी/घंटा",
+"C": "14.8 km/h / 14.8 किमी/घंटा",
+"D": "13.6 km/h / 13.6 किमी/घंटा",
+"Correct": "A"
+},
+{
+"Question": "The HCF and LCM of two numbers are 12 and 240 respectively. If one of the numbers is 48, find the other number. / दो संख्याओं का HCF और LCM क्रमशः 12 और 240 हैं। यदि उनमें से एक संख्या 48 है, तो दूसरी संख्या ज्ञात कीजिए।",
+"A": "60 / 60",
+"B": "48 / 48",
+"C": "72 / 72",
+"D": "80 / 80",
+"Correct": "A"
+},
+/* STREAMING_CHUNK: Adding questions 31 to 40 ... */*
+{
+"Question": "If x + 1/x = 5, find the value of x² + 1/x². / यदि x + 1/x = 5 है, तो x² + 1/x² का मान ज्ञात कीजिए।",
+"A": "23 / 23",
+"B": "25 / 25",
+"C": "27 / 27",
+"D": "21 / 21",
+"Correct": "A"
+},
+{
+"Question": "In a cyclic quadrilateral ABCD, ∠A = 4x and ∠C = 2x. Find the value of x. / एक चक्रीय चतुर्भुज ABCD में, ∠A = 4x और ∠C = 2x है। x का मान ज्ञात कीजिए।",
+"A": "30° / 30°",
+"B": "45° / 45°",
+"C": "15° / 15°",
+"D": "60° / 60°",
+"Correct": "A"
+},
+{
+"Question": "If sin θ + cos θ = √2 cos θ, find the value of cos θ - sin θ. / यदि sin θ + cos θ = √2 cos θ है, तो cos θ - sin θ का मान ज्ञात कीजिए।",
+"A": "√2 sin θ / √2 sin θ",
+"B": "√2 cos θ / √2 cos θ",
+"C": "1/√2 sin θ / 1/√2 sin θ",
+"D": "1 / 1",
+"Correct": "A"
+},
+{
+"Question": "The volume of a sphere is 38808 cm³. Find its radius. (Use π = 22/7) / एक गोले का आयतन 38808 घन सेमी है। इसकी त्रिज्या ज्ञात कीजिए। (π = 22/7 का उपयोग करें)",
+"A": "21 cm / 21 सेमी",
+"B": "14 cm / 14 सेमी",
+"C": "28 cm / 28 सेमी",
+"D": "7 cm / 7 सेमी",
+"Correct": "A"
+},
+{
+"Question": "A thief is spotted by a policeman from a distance of 200 m. The thief starts running at 10 km/h and the cop chases him at 11 km/h. Distance between them after 6 minutes is? / एक चोर को एक पुलिसकर्मी द्वारा 200 मीटर की दूरी से देखा जाता है। चोर 10 किमी/घंटा की गति से दौड़ना शुरू करता है और पुलिसकर्मी 11 किमी/घंटा की गति से उसका पीछा करता है। 6 मिनट के बाद उनके बीच की दूरी क्या होगी?",
+"A": "100 m / 100 मीटर",
+"B": "150 m / 150 मीटर",
+"C": "120 m / 120 मीटर",
+"D": "80 m / 80 मीटर",
+"Correct": "A"
+},
+{
+"Question": "An article is sold at a loss of 10%. If it was sold for Rs. 90 more, there would have been a gain of 5%. Find its Cost Price. / एक वस्तु को 10% की हानि पर बेचा जाता है। यदि इसे 90 रुपये अधिक में बेचा जाता, तो 5% का लाभ होता। इसका क्रय मूल्य ज्ञात कीजिए।",
+"A": "Rs. 600 / 600 रुपये",
+"B": "Rs. 500 / 500 रुपये",
+"C": "Rs. 800 / 800 रुपये",
+"D": "Rs. 750 / 750 रुपये",
+"Correct": "A"
+},
+{
+"Question": "The population of a town increases by 10% annually. If its current population is 10000, what will it be after 2 years? / एक कस्बे की जनसंख्या में प्रति वर्ष 10% की वृद्धि होती है। यदि इसकी वर्तमान जनसंख्या 10000 है, तो 2 वर्ष बाद यह कितनी होगी?",
+"A": "12100 / 12100",
+"B": "12000 / 12000",
+"C": "11000 / 11000",
+"D": "12500 / 12500",
+"Correct": "A"
+},
+{
+"Question": "Find the third proportional to 9 and 12. / 9 और 12 का तृतीय आनुपातिक ज्ञात कीजिए।",
+"A": "16 / 16",
+"B": "18 / 18",
+"C": "15 / 15",
+"D": "20 / 20",
+"Correct": "A"
+},
+{
+"Question": "12 men can complete a work in 8 days. In how many days can 16 men complete the same work? / 12 पुरुष किसी कार्य को 8 दिनों में पूरा कर सकते हैं। 16 पुरुष उसी कार्य को कितने दिनों में पूरा कर सकते हैं?",
+"A": "6 days / 6 दिन",
+"B": "8 days / 8 दिन",
+"C": "5 days / 5 दिन",
+"D": "4 days / 4 दिन",
+"Correct": "A"
+},
+{
+"Question": "The compound interest on Rs. 10000 for 2 years at 10% per annum compounded annually is? / 10000 रुपये पर 10% प्रति वर्ष की दर से 2 वर्ष के लिए वार्षिक रूप से संयोजित चक्रवृद्धि ब्याज कितना है?",
+"A": "Rs. 2100 / 2100 रुपये",
+"B": "Rs. 2000 / 2000 रुपये",
+"C": *"Rs. 2200 / 2200 रुपये",* STREAMING_CHUNK: Adding final questions 41 to 50 ... \*/
+{
+"Question": "Which of the following is a prime number? / निम्नलिखित में से कौन सी एक अभाज्य संख्या है?",
+"A": "373 / 373",
+"B": "161 / 161",
+"C": "221 / 221",
+"D": "437 / 437",
+"Correct": "A"
+},
+{
+"Question": "A single card is drawn from a well-shuffled deck of 52 cards. What is the probability of getting a king or a queen? / 52 ताश के पत्तों की अच्छी तरह से फेंटी गई गड्डी में से एक पत्ता निकाला जाता है। एक बादशाह या बेगम मिलने की क्या प्रायिकता है?",
+"A": "2/13 / 2/13",
+"B": "1/13 / 1/13",
+"C": "4/13 / 4/13",
+"D": "1/26 / 1/26",
+"Correct": "A"
+},
+{
+"Question": "If x = 3 + 2√2, find the value of x + 1/x. / यदि x = 3 + 2√2 है, तो x + 1/x का मान ज्ञात कीजिए।",
+"A": "6 / 6",
+"B": "3 / 3",
+"C": "4√2 / 4√2",
+"D": "5 / 5",
+"Correct": "A"
+},
+{
+"Question": "The lengths of three sides of a triangle are 6 cm, 8 cm, and 10 cm. Find the radius of its circumcircle. / एक त्रिभुज की तीन भुजाओं की लंबाई 6 सेमी, 8 सेमी और 10 सेमी है। इसके परिवृत्त की त्रिज्या ज्ञात कीजिए।",
+"A": "5 cm / 5 सेमी",
+"B": "10 cm / 10 सेमी",
+"C": "4 cm / 4 सेमी",
+"D": "3 cm / 3 सेमी",
+"Correct": "A"
+},
+{
+"Question": "If tan θ = 1, find the value of sin² θ - cos² θ. / यदि tan θ = 1 है, तो sin² θ - cos² θ का मान ज्ञात कीजिए।",
+"A": "0 / 0",
+"B": "1 / 1",
+"C": "1/2 / 1/2",
+"D": "-1 / -1",
+"Correct": "A"
+},
+{
+"Question": "The area of a square is equal to the area of a circle. The ratio of the side of the square to the radius of the circle is? / एक वर्ग का क्षेत्रफल एक वृत्त के क्षेत्रफल के बराबर है। वर्ग की भुजा का वृत्त की त्रिज्या से अनुपात क्या है?",
+"A": "√π:1 / √π:1",
+"B": "π:1 / π:1",
+"C": "1:√π / 1:√π",
+"D": "1:π / 1:π",
+"Correct": "A"
+},
+{
+"Question": "Find the median of the following observations: 15, 22, 18, 27, 31, 20, 25. / निम्नलिखित प्रेक्षणों की माध्यिका ज्ञात कीजिए: 15, 22, 18, 27, 31, 20, 25।",
+"A": "22 / 22",
+"B": "20 / 20",
+"C": "25 / 25",
+"D": "18 / 18",
+"Correct": "A"
+}
+  ]
