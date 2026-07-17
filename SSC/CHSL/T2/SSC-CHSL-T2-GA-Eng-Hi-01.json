@@ -1,1 +1,802 @@
-
+[
+{
+"Question": "Who among the following was the first Viceroy of India? / निम्नलिखित में से कौन भारत का पहला वायसराय था?",
+"A": "Lord Dalhousie / लॉर्ड डलहौजी",
+"B": "Lord Canning / लॉर्ड कैनिंग",
+"C": "Lord William Bentinck / लॉर्ड विलियम बेंटिक",
+"D": "Lord Mountbatten / लॉर्ड माउंटबेटन",
+"Correct": "B"
+},
+{
+"Question": "Which Article of the Indian Constitution deals with the 'Abolition of Untouchability'? / भारतीय संविधान का कौन सा अनुच्छेद 'अस्पृश्यता के उन्मूलन' से संबंधित है?",
+"A": "Article 14 / अनुच्छेद 14",
+"B": "Article 15 / अनुच्छेद 15",
+"C": "Article 17 / अनुच्छेद 17",
+"D": "Article 18 / अनुच्छेद 18",
+"Correct": "C"
+},
+{
+"Question": "The 'Fundamental Duties' were added to the Indian Constitution by which Amendment? / 'मौलिक कर्तव्यों' को किस संशोधन द्वारा भारतीय संविधान में जोड़ा गया था?",
+"A": "42nd Amendment / 42वां संशोधन",
+"B": "44th Amendment / 44वां संशोधन",
+"C": "52nd Amendment / 52वां संशोधन",
+"D": "73rd Amendment / 73वां संशोधन",
+"Correct": "A"
+},
+{
+"Question": "Which layer of the atmosphere contains the Ozone layer? / वायुमंडल की किस परत में ओजोन परत स्थित है?",
+"A": "Troposphere / क्षोभमंडल",
+"B": "Stratosphere / समतापमंडल",
+"C": "Mesosphere / मध्यमंडल",
+"D": "Ionosphere / आयनमंडल",
+"Correct": "B"
+},
+{
+"Question": "What is the unit of measure for the 'Power of Lens'? / 'लेंस की शक्ति' को मापने की इकाई क्या है?",
+"A": "Watt / वाट",
+"B": "Dioptre / डायोप्टर",
+"C": "Lumen / लुमेन",
+"D": "Candela / कैंडेला",
+"Correct": "B"
+},
+{
+"Question": "Who is known as the 'Father of Indian Macroeconomics'? / 'भारतीय समष्टि अर्थशास्त्र के जनक' के रूप में किसे जाना जाता है?",
+"A": "Amartya Sen / अमर्त्य सेन",
+"B": "P.C. Mahalanobis / पी.सी. महालनोबिस",
+"C": "Dadabhai Naoroji / दादाभाई नौरोजी",
+"D": "Raja Chelliah / राजा चेलैया",
+"Correct": "B"
+},
+{
+"Question": "The 'Dandiya Raas' is a popular folk dance of which state? / 'डांडिया रास' किस राज्य का लोकप्रिय लोक नृत्य है?",
+"A": "Rajasthan / राजस्थान",
+"B": "Maharashtra / महाराष्ट्र",
+"C": "Gujarat / गुजरात",
+"D": "Madhya Pradesh / मध्य प्रदेश",
+"Correct": "C"
+},
+{
+"Question": "Which part of the computer is considered its 'Brain'? / कंप्यूटर के किस भाग को उसका 'मस्तिष्क' माना जाता है?",
+"A": "RAM / रैम",
+"B": "Hard Disk / हार्ड डिस्क",
+"C": "CPU / सीपीयू",
+"D": "Monitor / मॉनिटर",
+"Correct": "C"
+},
+{
+"Question": "Which gas is most abundant in the Earth's atmosphere? / पृथ्वी के वायुमंडल में कौन सी गैस सर्वाधिक मात्रा में पाई जाती है?",
+"A": "Oxygen / ऑक्सीजन",
+"B": "Carbon Dioxide / कार्बन डाइऑक्साइड",
+"C": "Nitrogen / नाइट्रोजन",
+"D": "Hydrogen / हाइड्रोजन",
+"Correct": "C"
+},
+{
+"Question": "Who founded the 'Brahmo Samaj'? / 'ब्रह्म समाज' की स्थापना किसने की थी?",
+"A": "Swami Dayanand Saraswati / स्वामी दयानंद सरस्वती",
+"B": "Raja Ram Mohan Roy / राजा राम मोहन राय",
+"C": "Keshab Chandra Sen / केशव चंद्र सेन",
+"D": "Ishwar Chandra Vidyasagar / ईश्वर चंद्र विद्यासागर",
+"Correct": "B"
+},
+{
+"Question": "What is the chemical name of Vitamin C? / विटामिन सी का रासायनिक नाम क्या है?",
+"A": "Retinol / रेटिनॉल",
+"B": "Ascorbic Acid / एस्कॉर्बिक एसिड",
+"C": "Calciferol / कैल्सीफेरॉल",
+"D": "Tocopherol / टोकोफेरॉल",
+"Correct": "B"
+},
+{
+"Question": "The 'Silent Valley National Park' is located in which state? / 'साइलेंट वैली नेशनल पार्क' किस राज्य में स्थित है?",
+"A": "Karnataka / कर्नाटक",
+"B": "Tamil Nadu / तमिलनाडु",
+"C": "Kerala / केरल",
+"D": "Andhra Pradesh / आंध्र प्रदेश",
+"Correct": "C"
+},
+{
+"Question": "Who was the first woman President of the Indian National Congress? / भारतीय राष्ट्रीय कांग्रेस की पहली महिला अध्यक्ष कौन थीं?",
+"A": "Sarojini Naidu / सरोजिनी नायडू",
+"B": "Annie Besant / एनी बेसेंट",
+"C": "Nellie Sengupta / नलिनी सेनगुप्ता",
+"D": "Indira Gandhi / इंदिरा गांधी",
+"Correct": "B"
+},
+{
+"Question": "In MS Excel, which symbol is used to start a formula? / MS Excel में, सूत्र शुरू करने के लिए किस प्रतीक का उपयोग किया जाता है?",
+"A": "#",
+"B": "@",
+"C": "=",
+"D": "+",
+"Correct": "C"
+},
+{
+"Question": "Which blood group is known as the 'Universal Donor'? / किस रक्त समूह को 'सार्वभौमिक दाता' के रूप में जाना जाता है?",
+"A": "A+",
+"B": "B+",
+"C": "AB+",
+"D": "O-",
+"Correct": "D"
+},
+{
+"Question": "The 'Panchayati Raj System' was first adopted by which state? / 'पंचायती राज व्यवस्था' सबसे पहले किस राज्य द्वारा अपनाई गई थी?",
+"A": "Rajasthan / राजस्थान",
+"B": "Gujarat / गुजरात",
+"C": "Bihar / बिहार",
+"D": "Uttar Pradesh / उत्तर प्रदेश",
+"Correct": "A"
+},
+{
+"Question": "Who wrote the book 'The Discovery of India'? / 'द डिस्कवरी ऑफ इंडिया' पुस्तक किसने लिखी थी?",
+"A": "Mahatma Gandhi / महात्मा गांधी",
+"B": "Jawaharlal Nehru / जवाहरलाल नेहरू",
+"C": "Sardar Patel / सरदार पटेल",
+"D": "Subhash Chandra Bose / सुभाष चंद्र बोस",
+"Correct": "B"
+},
+{
+"Question": "Which river is known as the 'Sorrow of Bengal'? / किस नदी को 'बंगाल का शोक' कहा जाता है?",
+"A": "Kosi / कोसी",
+"B": "Damodar / दामोदर",
+"C": "Hooghly / हुगली",
+"D": "Yamuna / यमुना",
+"Correct": "B"
+},
+{
+"Question": "What is the shortcut key to 'Undo' an action in Windows? / विंडोज में किसी क्रिया को 'पूर्ववत' (Undo) करने के लिए शॉर्टकट कुंजी क्या है?",
+"A": "Ctrl + Y",
+"B": "Ctrl + X",
+"C": "Ctrl + Z",
+"D": "Ctrl + V",
+"Correct": "C"
+},
+{
+"Question": "Which gland is known as the 'Master Gland' in the human body? / मानव शरीर में किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?",
+"A": "Thyroid / थायराइड",
+"B": "Pituitary / पीयूषिका",
+"C": "Adrenal / अधिवृक्क",
+"D": "Pancreas / अग्न्याशय",
+"Correct": "B"
+},
+{
+"Question": "The 'Battle of Haldighati' was fought in which year? / 'हल्दीघाटी का युद्ध' किस वर्ष लड़ा गया था?",
+"A": "1526",
+"B": "1556",
+"C": "1576",
+"D": "1761",
+"Correct": "C"
+},
+{
+"Question": "Which planet is known as the 'Red Planet'? / किस ग्रह को 'लाल ग्रह' कहा जाता है?",
+"A": "Venus / शुक्र",
+"B": "Mars / मंगल",
+"C": "Jupiter / बृहस्पति",
+"D": "Saturn / शनि",
+"Correct": "B"
+},
+{
+"Question": "The concept of 'Concurrent List' in India was borrowed from? / भारत में 'समवर्ती सूची' की अवधारणा कहाँ से ली गई थी?",
+"A": "USA / अमेरिका",
+"B": "Canada / कनाडा",
+"C": "Australia / ऑस्ट्रेलिया",
+"D": "UK / ब्रिटेन",
+"Correct": "C"
+},
+{
+"Question": "What does HTTP stand for? / HTTP का पूर्ण रूप क्या है?",
+"A": "Hypertext Transfer Protocol / हाइपरटेक्स्ट ट्रांसफर प्रोटोकॉल",
+"B": "High Transfer Text Protocol / हाई ट्रांसफर टेक्स्ट प्रोटोकॉल",
+"C": "Hyper Transfer Text Processor / हाइपर ट्रांसफर टेक्स्ट प्रोसेसर",
+"D": "Hyperlink Text Transfer Protocol / हाइपरलिंक टेक्स्ट ट्रांसफर प्रोटोकॉल",
+"Correct": "A"
+},
+{
+"Question": "Who won the first Nobel Prize in Physics for India? / भारत के लिए भौतिकी में पहला नोबेल पुरस्कार किसने जीता?",
+"A": "Homi J. Bhabha / होमी जे. भाभा",
+"B": "C.V. Raman / सी.वी. रमन",
+"C": "S. Chandrasekhar / एस. चंद्रशेखर",
+"D": "Satyendra Nath Bose / सत्येंद्र नाथ बोस",
+"Correct": "B"
+},
+{
+"Question": "Which city is known as the 'Pink City' of India? / भारत के किस शहर को 'गुलाबी शहर' कहा जाता है?",
+"A": "Udaipur / उदयपुर",
+"B": "Jodhpur / जोधपुर",
+"C": "Jaipur / जयपुर",
+"D": "Bikaner / बीकानेर",
+"Correct": "C"
+},
+{
+"Question": "The 'Reserve Bank of India' was established in which year? / 'भारतीय रिजर्व बैंक' की स्थापना किस वर्ष हुई थी?",
+"A": "1935",
+"B": "1947",
+"C": "1949",
+"D": "1950",
+"Correct": "A"
+},
+{
+"Question": "Which part of the Indian Constitution deals with Fundamental Rights? / भारतीय संविधान का कौन सा भाग मौलिक अधिकारों से संबंधित है?",
+"A": "Part I / भाग I",
+"B": "Part II / भाग II",
+"C": "Part III / भाग III",
+"D": "Part IV / भाग IV",
+"Correct": "C"
+},
+{
+"Question": "A byte consists of how many bits? / एक बाइट में कितने बिट्स होते हैं?",
+"A": "4 bits / 4 बिट्स",
+"B": "8 bits / 8 बिट्स",
+"C": "16 bits / 16 बिट्स",
+"D": "32 bits / 32 बिट्स",
+"Correct": "B"
+},
+{
+"Question": "Who was the last Mughal Emperor of India? / भारत का अंतिम मुगल सम्राट कौन था?",
+"A": "Aurangzeb / औरंगजेब",
+"B": "Bahadur Shah Zafar / बहादुर शाह जफर",
+"C": "Shah Alam II / शाह आलम द्वितीय",
+"D": "Akbar II / अकबर द्वितीय",
+"Correct": "B"
+},
+{
+"Question": "In which state is the 'Kaziranga National Park' located? / 'काजीरंगा नेशनल पार्क' किस राज्य में स्थित है?",
+"A": "Assam / असम",
+"B": "Manipur / मणिपुर",
+"C": "Arunachal Pradesh / अरुणाचल प्रदेश",
+"D": "Sikkim / सिक्किम",
+"Correct": "A"
+},
+{
+"Question": "Which vitamin is synthesized in the skin when exposed to sunlight? / सूर्य के प्रकाश के संपर्क में आने पर त्वचा में कौन सा विटामिन संश्लेषित होता है?",
+"A": "Vitamin A / विटामिन ए",
+"B": "Vitamin B / विटामिन बी",
+"C": "Vitamin C / विटामिन सी",
+"D": "Vitamin D / विटामिन डी",
+"Correct": "D"
+},
+{
+"Question": "What is the SI unit of Pressure? / दबाव की SI इकाई क्या है?",
+"A": "Joule / जूल",
+"B": "Pascal / पास्कल",
+"C": "Newton / न्यूटन",
+"D": "Watt / वाट",
+"Correct": "B"
+},
+{
+"Question": "The 'Tashkent Agreement' was signed in which year? / 'ताशकंद समझौता' किस वर्ष हस्ताक्षरित किया गया था?",
+"A": "1965",
+"B": "1966",
+"C": "1971",
+"D": "1972",
+"Correct": "B"
+},
+{
+"Question": "Which acid is present in an ant sting? / चींटी के डंक में कौन सा अम्ल होता है?",
+"A": "Citric Acid / साइट्रिक एसिड",
+"B": "Formic Acid / फॉर्मिक एसिड",
+"C": "Lactic Acid / लैक्टिक एसिड",
+"D": "Oxalic Acid / ऑक्जेलिक एसिड",
+"Correct": "B"
+},
+{
+"Question": "Who is the Chairman of NITI Aayog? / नीति आयोग का अध्यक्ष कौन होता है?",
+"A": "President of India / भारत के राष्ट्रपति",
+"B": "Finance Minister / वित्त मंत्री",
+"C": "Prime Minister / प्रधानमंत्री",
+"D": "Vice President / उपराष्ट्रपति",
+"Correct": "C"
+},
+{
+"Question": "Which of the following is not an output device? / निम्नलिखित में से कौन एक आउटपुट डिवाइस नहीं है?",
+"A": "Monitor / मॉनिटर",
+"B": "Printer / प्रिंटर",
+"C": "Scanner / स्कैनर",
+"D": "Speaker / स्पीकर",
+"Correct": "C"
+},
+{
+"Question": "The 'Bhitarkanika National Park' is famous for which animal? / 'भितरकनिका नेशनल पार्क' किस जानवर के लिए प्रसिद्ध है?",
+"A": "Tiger / टाइगर",
+"B": "Elephant / हाथी",
+"C": "Saltwater Crocodile / खारे पानी का मगरमच्छ",
+"D": "One-horned Rhino / एक सींग वाला गेंडा",
+"Correct": "C"
+},
+{
+"Question": "Who built the Sanchi Stupa? / सांची स्तूप का निर्माण किसने करवाया था?",
+"A": "Chandragupta Maurya / चंद्रगुप्त मौर्य",
+"B": "Ashoka / अशोक",
+"C": "Kanishka / कनिष्क",
+"D": "Harshavardhana / हर्षवर्धन",
+"Correct": "B"
+},
+{
+"Question": "Which state has the longest coastline in India? / भारत के किस राज्य की तटरेखा सबसे लंबी है?",
+"A": "Maharashtra / महाराष्ट्र",
+"B": "Tamil Nadu / तमिलनाडु",
+"C": "Gujarat / गुजरात",
+"D": "Andhra Pradesh / आंध्र प्रदेश",
+"Correct": "C"
+},
+{
+"Question": "The 'Quit India Movement' was launched in which year? / 'भारत छोड़ो आंदोलन' किस वर्ष शुरू किया गया था?",
+"A": "1920",
+"B": "1930",
+"C": "1942",
+"D": "1946",
+"Correct": "C"
+},
+{
+"Question": "What is the chemical formula for common salt? / साधारण नमक का रासायनिक सूत्र क्या है?",
+"A": "KCl",
+"B": "NaCl",
+"C": "NaOH",
+"D": "HCl",
+"Correct": "B"
+},
+{
+"Question": "The 'Minimum Needs Programme' was introduced in which Five Year Plan? / 'न्यूनतम आवश्यकता कार्यक्रम' किस पंचवर्षीय योजना में शुरू किया गया था?",
+"A": "Third Plan / तीसरी योजना",
+"B": "Fourth Plan / चौथी योजना",
+"C": "Fifth Plan / पांचवीं योजना",
+"D": "Sixth Plan / छठी योजना",
+"Correct": "C"
+},
+{
+"Question": "Which country is the largest producer of Coffee in the world? / दुनिया में कॉफी का सबसे बड़ा उत्पादक देश कौन सा है?",
+"A": "India / भारत",
+"B": "Brazil / ब्राजील",
+"C": "Vietnam / वियतनाम",
+"D": "Colombia / कोलंबिया",
+"Correct": "B"
+},
+{
+"Question": "The 'Cripps Mission' visited India in which year? / 'क्रिप्स मिशन' किस वर्ष भारत आया था?",
+"A": "1940",
+"B": "1942",
+"C": "1945",
+"D": "1946",
+"Correct": "B"
+},
+{
+"Question": "Which software is used for creating presentations? / प्रेजेंटेशन बनाने के लिए किस सॉफ्टवेयर का उपयोग किया जाता है?",
+"A": "MS Word",
+"B": "MS Excel",
+"C": "MS PowerPoint",
+"D": "MS Access",
+"Correct": "C"
+},
+{
+"Question": "The 'Kunchikal Falls' are located in which state? / 'कुंचिकल जलप्रपात' किस राज्य में स्थित है?",
+"A": "Kerala / केरल",
+"B": "Karnataka / कर्नाटक",
+"C": "Maharashtra / महाराष्ट्र",
+"D": "Goa / गोवा",
+"Correct": "B"
+},
+{
+"Question": "Which hormone is known as the 'Emergency Hormone'? / किस हार्मोन को 'आपातकालीन हार्मोन' के रूप में जाना जाता है?",
+"A": "Insulin / इंसुलिन",
+"B": "Thyroxine / थायरोक्सिन",
+"C": "Adrenaline / एड्रेनालाईन",
+"D": "Estrogen / एस्ट्रोजन",
+"Correct": "C"
+},
+{
+"Question": "Who gave the slogan 'Swaraj is my birthright'? / 'स्वराज मेरा जन्मसिद्ध अधिकार है' का नारा किसने दिया था?",
+"A": "Lala Lajpat Rai / लाला लाजपत राय",
+"B": "Bal Gangadhar Tilak / बाल गंगाधर तिलक",
+"C": "Bipin Chandra Pal / बिपिन चंद्र पाल",
+"D": "Bhagat Singh / भगत सिंह",
+"Correct": "B"
+},
+{
+"Question": "The 'National Science Day' is celebrated on which date? / 'राष्ट्रीय विज्ञान दिवस' किस तारीख को मनाया जाता है?",
+"A": "28 February / 28 फरवरी",
+"B": "15 August / 15 अगस्त",
+"C": "2 October / 2 अक्टूबर",
+"D": "14 November / 14 नवंबर",
+"Correct": "A"
+},
+{
+"Question": "Which Article allows the President to declare a National Emergency? / कौन सा अनुच्छेद राष्ट्रपति को राष्ट्रीय आपातकाल घोषित करने की अनुमति देता है?",
+"A": "Article 352 / अनुच्छेद 352",
+"B": "Article 356 / अनुच्छेद 356",
+"C": "Article 360 / अनुच्छेद 360",
+"D": "Article 368 / अनुच्छेद 368",
+"Correct": "A"
+},
+{
+"Question": "What is the primary function of the 'ALU' in a computer? / कंप्यूटर में 'ALU' का प्राथमिक कार्य क्या है?",
+"A": "Data Storage / डेटा संग्रहण",
+"B": "Arithmetic operations / अंकगणितीय संचालन",
+"C": "Control signals / नियंत्रण संकेत",
+"D": "Internet connection / इंटरनेट कनेक्शन",
+"Correct": "B"
+},
+{
+"Question": "The 'Hiraud Dam' is built on which river? / 'हीराकुंड बांध' किस नदी पर बना है?",
+"A": "Ganga / गंगा",
+"B": "Yamuna / यमुना",
+"C": "Mahanadi / महानदी",
+"D": "Krishna / कृष्णा",
+"Correct": "C"
+},
+{
+"Question": "Which part of the flower produces pollen grains? / फूल का कौन सा भाग परागकण उत्पन्न करता है?",
+"A": "Sepal / बाह्यदल",
+"B": "Petal / पंखुड़ी",
+"C": "Anther / परागकोष",
+"D": "Stigma / वर्तिकाग्र",
+"Correct": "C"
+},
+{
+"Question": "Who founded the 'Maurya Dynasty'? / 'मौर्य वंश' की स्थापना किसने की थी?",
+"A": "Bimbisara / बिंबिसार",
+"B": "Chandragupta Maurya / चंद्रगुप्त मौर्य",
+"C": "Bindusara / बिंदुसार",
+"D": "Ashoka / अशोक",
+"Correct": "B"
+},
+{
+"Question": "Which of the following is a greenhouse gas? / निम्नलिखित में से कौन सी एक ग्रीनहाउस गैस है?",
+"A": "Oxygen / ऑक्सीजन",
+"B": "Methane / मीथेन",
+"C": "Nitrogen / नाइट्रोजन",
+"D": "Argon / आर्गन",
+"Correct": "B"
+},
+{
+"Question": "The 'Statue of Unity' is dedicated to which leader? / 'स्टैच्यू ऑफ यूनिटी' किस नेता को समर्पित है?",
+"A": "Mahatma Gandhi / महात्मा गांधी",
+"B": "B.R. Ambedkar / बी.आर. अंबेडकर",
+"C": "Sardar Vallabhbhai Patel / सरदार वल्लभभाई पटेल",
+"D": "Jawaharlal Nehru / जवाहरलाल नेहरू",
+"Correct": "C"
+},
+{
+"Question": "Which organization calculates the GDP of India? / भारत की जीडीपी (GDP) की गणना कौन सा संगठन करता है?",
+"A": "RBI / आरबीआई",
+"B": "NITI Aayog / नीति आयोग",
+"C": "National Statistical Office (NSO) / राष्ट्रीय सांख्यिकी कार्यालय (NSO)",
+"D": "Ministry of Finance / वित्त मंत्रालय",
+"Correct": "C"
+},
+{
+"Question": "The 'Lothal' dockyard was part of which civilization? / 'लोथल' बंदरगाह किस सभ्यता का हिस्सा था?",
+"A": "Mesopotamian / मेसोपोटामिया",
+"B": "Egyptian / मिस्र",
+"C": "Indus Valley / सिंधु घाटी",
+"D": "Chinese / चीनी",
+"Correct": "C"
+},
+{
+"Question": "In computer terms, what is 'Malware'? / कंप्यूटर की शब्दावली में 'मैलवेयर' (Malware) क्या है?",
+"A": "Helpful software / सहायक सॉफ्टवेयर",
+"B": "Malicious software / दुर्भावनापूर्ण सॉफ्टवेयर",
+"C": "Hardware component / हार्डवेयर घटक",
+"D": "Operating System / ऑपरेटिंग सिस्टम",
+"Correct": "B"
+},
+{
+"Question": "The 'Equinox' occurs when the Sun is directly over the? / 'विषुव' (Equinox) तब होता है जब सूर्य सीधे किसके ऊपर होता है?",
+"A": "Tropic of Cancer / कर्क रेखा",
+"B": "Tropic of Capricorn / मकर रेखा",
+"C": "Equator / भूमध्य रेखा",
+"D": "North Pole / उत्तरी ध्रुव",
+"Correct": "C"
+},
+{
+"Question": "Which tissue transports water in plants? / पौधों में जल का परिवहन कौन सा ऊतक करता है?",
+"A": "Phloem / फ्लोएम",
+"B": "Xylem / जाइलम",
+"C": "Parenchyma / पैरेन्काइमा",
+"D": "Sclerenchyma / स्क्लेरेन्काइमा",
+"Correct": "B"
+},
+{
+"Question": "Who was the founder of the 'Servants of India Society'? / 'सर्वेंट्स ऑफ इंडिया सोसाइटी' के संस्थापक कौन थे?",
+"A": "Gopal Krishna Gokhale / गोपाल कृष्ण गोखले",
+"B": "Jyotiba Phule / ज्योतिबा फुले",
+"C": "M.G. Ranade / एम.जी. रानाडे",
+"D": "Annie Besant / एनी बेसेंट",
+"Correct": "A"
+},
+{
+"Question": "Which state has the highest literacy rate in India? / भारत के किस राज्य में साक्षरता दर सबसे अधिक है?",
+"A": "Tamil Nadu / तमिलनाडु",
+"B": "Kerala / केरल",
+"C": "Mizoram / मिजोरम",
+"D": "Goa / गोवा",
+"Correct": "B"
+},
+{
+"Question": "The 'Dronacharya Award' is given to? / 'द्रोणाचार्य पुरस्कार' किसे दिया जाता है?",
+"A": "Athletes / एथलीट",
+"B": "Coaches / कोच",
+"C": "Umpires / अंपायर",
+"D": "Sports Journalists / खेल पत्रकार",
+"Correct": "B"
+},
+{
+"Question": "What is the full form of 'URL' in internet technology? / इंटरनेट तकनीक में 'URL' का पूर्ण रूप क्या है?",
+"A": "Uniform Resource Locator / यूनिफॉर्म रिसोर्स लोकेटर",
+"B": "Universal Resource Link / यूनिवर्सल रिसोर्स लिंक",
+"C": "Uniform Registered Link / यूनिफॉर्म रजिस्टर्ड लिंक",
+"D": "Unified Resource Locator / यूनिफाइड रिसोर्स लोकेटर",
+"Correct": "A"
+},
+{
+"Question": "Which instrument is used to measure 'Relative Humidity'? / 'सापेक्ष आर्द्रता' को मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+"A": "Barometer / बैरोमीटर",
+"B": "Hygrometer / हाइग्रोमीटर",
+"C": "Hydrometer / हाइड्रोमीटर",
+"D": "Anemometer / एनीमोमीटर",
+"Correct": "B"
+},
+{
+"Question": "The 'Khajuraho Temples' were built by which dynasty? / 'खजुराहो के मंदिर' किस राजवंश द्वारा बनवाए गए थे?",
+"A": "Chola / चोल",
+"B": "Chandela / चंदेल",
+"C": "Pallava / पल्लव",
+"D": "Rashtrakuta / राष्ट्रकूट",
+"Correct": "B"
+},
+{
+"Question": "Which planet is known as 'Earth's Twin'? / किस ग्रह को 'पृथ्वी की जुड़वां बहन' कहा जाता है?",
+"A": "Mars / मंगल",
+"B": "Venus / शुक्र",
+"C": "Mercury / बुध",
+"D": "Neptune / नेपच्यून",
+"Correct": "B"
+},
+{
+"Question": "The 'Planning Commission' was replaced by which body in 2015? / 2015 में योजना आयोग की जगह किस निकाय ने ले ली?",
+"A": "Finance Commission / वित्त आयोग",
+"B": "NITI Aayog / नीति आयोग",
+"C": "National Development Council / राष्ट्रीय विकास परिषद",
+"D": "GST Council / जीएसटी परिषद",
+"Correct": "B"
+},
+{
+"Question": "In MS Word, which key is used for 'Find and Replace'? / MS Word में, 'Find and Replace' के लिए किस कुंजी का उपयोग किया जाता है?",
+"A": "Ctrl + F",
+"B": "Ctrl + H",
+"C": "Ctrl + R",
+"D": "Ctrl + G",
+"Correct": "B"
+},
+{
+"Question": "The 'Sundarbans' are primarily which type of forests? / 'सुंदरबन' मुख्य रूप से किस प्रकार के वन हैं?",
+"A": "Coniferous / शंकुधारी",
+"B": "Mangrove / मैंग्रोव",
+"C": "Deciduous / पर्णपाती",
+"D": "Evergreen / सदाबहार",
+"Correct": "B"
+},
+{
+"Question": "Which part of the human eye controls the amount of light entering? / मानव आँख का कौन सा भाग प्रवेश करने वाले प्रकाश की मात्रा को नियंत्रित करता है?",
+"A": "Cornea / कॉर्निया",
+"B": "Retina / रेटिना",
+"C": "Iris / आईरिस",
+"D": "Lens / लेंस",
+"Correct": "C"
+},
+{
+"Question": "Who was the leader of the 'Champaran Satyagraha'? / 'चंपारण सत्याग्रह' के नेता कौन थे?",
+"A": "Rajendra Prasad / राजेंद्र प्रसाद",
+"B": "Mahatma Gandhi / महात्मा गांधी",
+"C": "Jawaharlal Nehru / जवाहरलाल नेहरू",
+"D": "Sardar Patel / सरदार पटेल",
+"Correct": "B"
+},
+{
+"Question": "Which acid is found in vinegar? / सिरके में कौन सा अम्ल पाया जाता है?",
+"A": "Acetic Acid / एसिटिक एसिड",
+"B": "Tartaric Acid / टार्टरिक एसिड",
+"C": "Lactic Acid / लैक्टिक एसिड",
+"D": "Citric Acid / साइट्रिक एसिड",
+"Correct": "A"
+},
+{
+"Question": "What is the maximum strength of the Lok Sabha? / लोकसभा की अधिकतम सदस्य संख्या कितनी हो सकती है?",
+"A": "545",
+"B": "550",
+"C": "552",
+"D": "250",
+"Correct": "C"
+},
+{
+"Question": "Which shortcut key is used to refresh a web page? / वेब पेज को रिफ्रेश करने के लिए किस शॉर्टकट की का उपयोग किया जाता है?",
+"A": "F2",
+"B": "F5",
+"C": "F10",
+"D": "F12",
+"Correct": "B"
+},
+{
+"Question": "The 'Kanha National Park' is located in which state? / 'कान्हा नेशनल पार्क' किस राज्य में स्थित है?",
+"A": "Chhattisgarh / छत्तीसगढ़",
+"B": "Madhya Pradesh / मध्य प्रदेश",
+"C": "Rajasthan / राजस्थान",
+"D": "Uttar Pradesh / उत्तर प्रदेश",
+"Correct": "B"
+},
+{
+"Question": "Which element is the most abundant in the Earth's crust? / पृथ्वी की पपड़ी (crust) में कौन सा तत्व सर्वाधिक प्रचुर मात्रा में पाया जाता है?",
+"A": "Silicon / सिलिकॉन",
+"B": "Iron / लोहा",
+"C": "Oxygen / ऑक्सीजन",
+"D": "Aluminium / एल्युमिनियम",
+"Correct": "C"
+},
+{
+"Question": "Who was the first woman Judge of the Supreme Court of India? / भारत के सर्वोच्च न्यायालय की पहली महिला न्यायाधीश कौन थीं?",
+"A": "Leila Seth / लीला सेठ",
+"B": "M. Fathima Beevi / एम. फातिमा बीवी",
+"C": "Indu Malhotra / इंदु मल्होत्रा",
+"D": "Ruma Pal / रूमा पाल",
+"Correct": "B"
+},
+{
+"Question": "The 'Bandipur National Park' is in which state? / 'बांदीपुर नेशनल पार्क' किस राज्य में है?",
+"A": "Karnataka / कर्नाटक",
+"B": "Tamil Nadu / तमिलनाडु",
+"C": "Kerala / केरल",
+"D": "Andhra Pradesh / आंध्र प्रदेश",
+"Correct": "A"
+},
+{
+"Question": "What is the SI unit of Electric Current? / विद्युत धारा की SI इकाई क्या है?",
+"A": "Volt / वोल्ट",
+"B": "Ampere / एम्पीयर",
+"C": "Ohm / ओम",
+"D": "Watt / वाट",
+"Correct": "B"
+},
+{
+"Question": "Which Mughal emperor abolished the Jizya tax? / किस मुगल सम्राट ने जजिया कर को समाप्त कर दिया था?",
+"A": "Babur / बाबर",
+"B": "Humayun / हुमायूँ",
+"C": "Akbar / अकबर",
+"D": "Jahangir / जहाँगीर",
+"Correct": "C"
+},
+{
+"Question": "Which metal is liquid at room temperature? / कौन सी धातु कमरे के तापमान पर तरल होती है?",
+"A": "Sodium / सोडियम",
+"B": "Mercury / पारा",
+"C": "Gallium / गैलियम",
+"D": "Bromine / ब्रोमीन",
+"Correct": "B"
+},
+{
+"Question": "The 'Kailasa Temple' at Ellora was built by? / एलोरा का 'कैलाश मंदिर' किसके द्वारा बनवाया गया था?",
+"A": "Krishna I / कृष्ण प्रथम",
+"B": "Dantidurga / दंतीदुर्ग",
+"C": "Amoghavarsha / अमोघवर्ष",
+"D": "Vikramaditya / विक्रमादित्य",
+"Correct": "A"
+},
+{
+"Question": "What is the full form of 'VPN'? / 'VPN' का पूर्ण रूप क्या है?",
+"A": "Virtual Private Network / वर्चुअल प्राइवेट नेटवर्क",
+"B": "Visual Private Network / विजुअल प्राइवेट नेटवर्क",
+"C": "Virtual Public Network / वर्चुअल पब्लिक नेटवर्क",
+"D": "Variable Private Network / वेरिएबल प्राइवेट नेटवर्क",
+"Correct": "A"
+},
+{
+"Question": "The 'Nagarjuna Sagar Dam' is built on which river? / 'नागार्जुन सागर बांध' किस नदी पर बना है?",
+"A": "Godavari / गोदावरी",
+"B": "Krishna / कृष्णा",
+"C": "Cauvery / कावेरी",
+"D": "Tungabhadra / तुंगभद्रा",
+"Correct": "B"
+},
+{
+"Question": "Which component of blood helps in clotting? / रक्त का कौन सा घटक थक्का जमने में मदद करता है?",
+"A": "RBC / आरबीसी",
+"B": "WBC / डब्ल्यूबीसी",
+"C": "Platelets / प्लेटलेट्स",
+"D": "Plasma / प्लाज्मा",
+"Correct": "C"
+},
+{
+"Question": "Who was the first Governor-General of Free India? / स्वतंत्र भारत के पहले गवर्नर-जनरल कौन थे?",
+"A": "Lord Mountbatten / लॉर्ड माउंटबेटन",
+"B": "C. Rajagopalachari / सी. राजगोपालाचारी",
+"C": "Dr. Rajendra Prasad / डॉ. राजेंद्र प्रसाद",
+"D": "S. Radhakrishnan / एस. राधाकृष्णन",
+"Correct": "A"
+},
+{
+"Question": "Which island is known as the 'Pearl of the Indian Ocean'? / किस द्वीप को 'हिंद महासागर का मोती' कहा जाता है?",
+"A": "Madagascar / मेडागास्कर",
+"B": "Maldives / मालदीव",
+"C": "Sri Lanka / श्रीलंका",
+"D": "Mauritius / मॉरीशस",
+"Correct": "C"
+},
+{
+"Question": "The 'Ramsar Convention' is related to the conservation of? / 'रामसर सम्मेलन' किसके संरक्षण से संबंधित है?",
+"A": "Forests / वन",
+"B": "Wetlands / आर्द्रभूमि",
+"C": "Endangered species / लुप्तप्राय प्रजातियां",
+"D": "Ozone layer / ओजोन परत",
+"Correct": "B"
+},
+{
+"Question": "What is the maximum number of rows in an MS Excel 2010 worksheet? / MS Excel 2010 वर्कशीट में पंक्तियों (rows) की अधिकतम संख्या क्या है?",
+"A": "65,536",
+"B": "2,56,000",
+"C": "10,48,576",
+"D": "1,00,000",
+"Correct": "C"
+},
+{
+"Question": "Which state celebrates the 'Hornbill Festival'? / कौन सा राज्य 'हॉर्नबिल महोत्सव' मनाता है?",
+"A": "Arunachal Pradesh / अरुणाचल प्रदेश",
+"B": "Nagaland / नागालैंड",
+"C": "Mizoram / मिजोरम",
+"D": "Meghalaya / मेघालय",
+"Correct": "B"
+},
+{
+"Question": "Who discovered the 'Law of Gravitation'? / 'गुरुत्वाकर्षण के नियम' की खोज किसने की थी?",
+"A": "Galileo Galilei / गैलीलियो गैलीली",
+"B": "Isaac Newton / आइजैक न्यूटन",
+"C": "Albert Einstein / अल्बर्ट आइंस्टीन",
+"D": "Johannes Kepler / जोहान्स केप्लर",
+"Correct": "B"
+},
+{
+"Question": "Which Article defines the 'Money Bill' in India? / कौन सा अनुच्छेद भारत में 'धन विधेयक' को परिभाषित करता है?",
+"A": "Article 110 / अनुच्छेद 110",
+"B": "Article 112 / अनुच्छेद 112",
+"C": "Article 123 / अनुच्छेद 123",
+"D": "Article 360 / अनुच्छेद 360",
+"Correct": "A"
+},
+{
+"Question": "In networking, what is the full form of 'LAN'? / नेटवर्किंग में 'LAN' का पूर्ण रूप क्या है?",
+"A": "Local Area Network / लोकल एरिया नेटवर्क",
+"B": "Long Area Network / लॉन्ग एरिया नेटवर्क",
+"C": "Link Area Network / लिंक एरिया नेटवर्क",
+"D": "Large Area Network / लार्ज एरिया नेटवर्क",
+"Correct": "A"
+},
+{
+"Question": "Which city is situated on the banks of river Gomti? / कौन सा शहर गोमती नदी के तट पर स्थित है?",
+"A": "Varanasi / वाराणसी",
+"B": "Lucknow / लखनऊ",
+"C": "Kanpur / कानपुर",
+"D": "Agra / आगरा",
+"Correct": "B"
+},
+{
+"Question": "What is the function of 'Ribosomes' in a cell? / कोशिका में 'राइबोसोम' का क्या कार्य है?",
+"A": "Energy production / ऊर्जा उत्पादन",
+"B": "Protein synthesis / प्रोटीन संश्लेषण",
+"C": "Waste management / अपशिष्ट प्रबंधन",
+"D": "Cell division / कोशिका विभाजन",
+"Correct": "B"
+},
+{
+"Question": "The 'Simon Commission' was sent to India in which year? / 'साइमन कमीशन' किस वर्ष भारत भेजा गया था?",
+"A": "1927",
+"B": "1928",
+"C": "1930",
+"D": "1932",
+"Correct": "B"
+},
+{
+"Question": "Who is known as the 'Nightingale of India'? / 'नाइटिंगेल ऑफ इंडिया' के रूप में किसे जाना जाता है?",
+"A": "Lata Mangeshkar / लता मंगेशकर",
+"B": "Sarojini Naidu / सरोजिनी नायडू",
+"C": "M.S. Subbulakshmi / एम.एस. सुब्बुलक्ष्मी",
+"D": "Indira Gandhi / इंदिरा गांधी",
+"Correct": "B"
+}
+]
