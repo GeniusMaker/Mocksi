@@ -208,15 +208,15 @@
 "Correct": "B"
 },
 {
-    "Question": "Select the related word from the given alternatives. / दिए गए विकल्पों में से संबंधित शब्द को चुनिए।\n\nPainter : Brush :: Chef : ? / चित्रकार : ब्रश :: शेफ : ?",
-    "A": "Knife / चाकू",
-    "B": "Spoon / चम्मच",
-    "C": "Spatula / पलटा",
-    "D": "Food / भोजन",
-    "Correct": "C"
-  },
-  {
-    "Question": "Select the related number. / संबंधित संख्या चुनिए।\n\n5 : 25 :: 6 : ?",
+"Question": "Select the related word from the given alternatives. / दिए गए विकल्पों में से संबंधित शब्द को चुनिए।\n\nPainter : Brush :: Chef : ? / चित्रकार : ब्रश :: शेफ : ?",
+"A": "Knife / चाकू",
+"B": "Spoon / चम्मच",
+"C": "Spatula / पलटा",
+"D": "Food / भोजन",
+"Correct": "C"
+},
+{
+"Question": "Select the related number. / संबंधित संख्या चुनिए।\n\n5 : 25 :: 6 : ?",
     "A": "30",
     "B": "36",
     "C": "40",
@@ -406,7 +406,7 @@
     "C": "10",
     "D": "12",
     "Correct": "C"
-  }
+  },
   {
     "Question": "Select the related word. / संबंधित शब्द चुनिए।\n\nBook : Library :: Medicine : ?",
     "A": "Hospital / अस्पताल",
@@ -606,7 +606,7 @@
     "C": "120",
     "D": "124",
     "Correct": "B"
-  }
+  },
   {
     "Question": "Select the related word. / संबंधित शब्द चुनिए।\n\nHammer : Nail :: Pen : ?",
     "A": "Ink / स्याही",
