@@ -1,1 +1,804 @@
 
+[
+  {
+    "Question": "Choose the correct synonym of 'Ancient'",
+    "A": "Modern",
+    "B": "Old",
+    "C": "New",
+    "D": "Fresh",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct antonym of 'Success'",
+    "A": "Failure",
+    "B": "Win",
+    "C": "Achievement",
+    "D": "Gain",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank: She ___ not like tea.",
+    "A": "do",
+    "B": "does",
+    "C": "is",
+    "D": "are",
+    "Correct": "B"
+  },
+  {
+    "Question": "Identify the correct spelling",
+    "A": "Occassion",
+    "B": "Ocassion",
+    "C": "Occasion",
+    "D": "Ocasian",
+    "Correct": "C"
+  },
+  {
+    "Question": "Choose the correctly formed sentence",
+    "A": "He go to school daily",
+    "B": "He goes to school daily",
+    "C": "He going school daily",
+    "D": "He gone to school daily",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the synonym of 'Courage'",
+    "A": "Fear",
+    "B": "Bravery",
+    "C": "Weakness",
+    "D": "Cowardice",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the antonym of 'Victory'",
+    "A": "Win",
+    "B": "Defeat",
+    "C": "Success",
+    "D": "Gain",
+    "Correct": "B"
+  },
+  {
+    "Question": "Fill in the blank: They ___ playing in the park.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose correct article: He is ___ honest man.",
+    "A": "a",
+    "B": "an",
+    "C": "the",
+    "D": "no article",
+    "Correct": "B"
+  },
+  {
+    "Question": "Identify the verb: The baby is crying loudly.",
+    "A": "baby",
+    "B": "crying",
+    "C": "loudly",
+    "D": "the",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose synonym of 'Bright'",
+    "A": "Dull",
+    "B": "Shining",
+    "C": "Dark",
+    "D": "Weak",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose antonym of 'Rich'",
+    "A": "Wealthy",
+    "B": "Poor",
+    "C": "Strong",
+    "D": "Big",
+    "Correct": "B"
+  },
+  {
+    "Question": "Fill in the blank: I ___ finished my homework.",
+    "A": "has",
+    "B": "have",
+    "C": "is",
+    "D": "are",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose correct spelling",
+    "A": "Enviroment",
+    "B": "Environment",
+    "C": "Environmant",
+    "D": "Enviornment",
+    "Correct": "B"
+  },
+  {
+    "Question": "Identify pronoun: She is very intelligent.",
+    "A": "She",
+    "B": "is",
+    "C": "intelligent",
+    "D": "very",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose synonym of 'Rapid'",
+    "A": "Slow",
+    "B": "Fast",
+    "C": "Weak",
+    "D": "Late",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose antonym of 'Deep'",
+    "A": "Low",
+    "B": "Shallow",
+    "C": "High",
+    "D": "Wide",
+    "Correct": "B"
+  },
+  {
+    "Question": "Fill in the blank: He ___ a car.",
+    "A": "have",
+    "B": "has",
+    "C": "had",
+    "D": "having",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose correct sentence",
+    "A": "She do not like coffee",
+    "B": "She does not like coffee",
+    "C": "She not likes coffee",
+    "D": "She did not likes coffee",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose synonym of 'Strong'",
+    "A": "Weak",
+    "B": "Powerful",
+    "C": "Tiny",
+    "D": "Soft",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose antonym of 'Early'",
+    "A": "Late",
+    "B": "Soon",
+    "C": "Fast",
+    "D": "Quick",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank: The sun ___ in the east.",
+    "A": "rise",
+    "B": "rises",
+    "C": "rising",
+    "D": "rose",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose correct spelling",
+    "A": "Neccessary",
+    "B": "Necessary",
+    "C": "Nessary",
+    "D": "Necessay",
+    "Correct": "B"
+  },
+  {
+    "Question": "Identify adjective: It is a cold day.",
+    "A": "It",
+    "B": "is",
+    "C": "cold",
+    "D": "day",
+    "Correct": "C"
+  },
+  {
+    "Question": "Choose synonym of 'Happy'",
+    "A": "Sad",
+    "B": "Joyful",
+    "C": "Angry",
+    "D": "Tired",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct synonym of 'Difficult'",
+    "A": "Easy",
+    "B": "Hard",
+    "C": "Simple",
+    "D": "Light",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct antonym of 'Victory'",
+    "A": "Win",
+    "B": "Defeat",
+    "C": "Success",
+    "D": "Gain",
+    "Correct": "B"
+  },
+  {
+    "Question": "Fill in the blank: He ___ a letter yesterday.",
+    "A": "write",
+    "B": "writes",
+    "C": "wrote",
+    "D": "written",
+    "Correct": "C"
+  },
+  {
+    "Question": "Identify the correct spelling",
+    "A": "Responsable",
+    "B": "Responsible",
+    "C": "Responsibel",
+    "D": "Responcible",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose correct sentence",
+    "A": "They was playing cricket",
+    "B": "They were playing cricket",
+    "C": "They is playing cricket",
+    "D": "They are played cricket",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose synonym of 'Anger'",
+    "A": "Calm",
+    "B": "Fury",
+    "C": "Peace",
+    "D": "Joy",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose antonym of 'Increase'",
+    "A": "Grow",
+    "B": "Rise",
+    "C": "Decrease",
+    "D": "Add",
+    "Correct": "C"
+  },
+  {
+    "Question": "Fill in the blank: She ___ singing a song.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose correct article: He is ___ European citizen.",
+    "A": "a",
+    "B": "an",
+    "C": "the",
+    "D": "no article",
+    "Correct": "A"
+  },
+  {
+    "Question": "Identify verb: They are running fast.",
+    "A": "They",
+    "B": "are",
+    "C": "running",
+    "D": "fast",
+    "Correct": "C"
+  },
+  {
+    "Question": "Choose synonym of 'Begin'",
+    "A": "Start",
+    "B": "End",
+    "C": "Close",
+    "D": "Stop",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose antonym of 'Full'",
+    "A": "Empty",
+    "B": "Large",
+    "C": "Big",
+    "D": "Heavy",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank: I ___ never seen such a view.",
+    "A": "have",
+    "B": "has",
+    "C": "had",
+    "D": "am",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose correct spelling",
+    "A": "Occurence",
+    "B": "Occurrence",
+    "C": "Ocurrence",
+    "D": "Occurrance",
+    "Correct": "B"
+  },
+  {
+    "Question": "Identify pronoun: They are my friends.",
+    "A": "They",
+    "B": "friends",
+    "C": "my",
+    "D": "are",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose synonym of 'Large'",
+    "A": "Small",
+    "B": "Big",
+    "C": "Tiny",
+    "D": "Weak",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose antonym of 'Love'",
+    "A": "Hate",
+    "B": "Care",
+    "C": "Like",
+    "D": "Affection",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank: The train ___ arrived.",
+    "A": "has",
+    "B": "have",
+    "C": "had",
+    "D": "is",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose correct sentence",
+    "A": "He do his work properly",
+    "B": "He does his work properly",
+    "C": "He doing his work properly",
+    "D": "He done his work properly",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose synonym of 'Bright'",
+    "A": "Dull",
+    "B": "Smart",
+    "C": "Weak",
+    "D": "Dark",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose antonym of 'Hard'",
+    "A": "Difficult",
+    "B": "Soft",
+    "C": "Strong",
+    "D": "Heavy",
+    "Correct": "B"
+  },
+  {
+    "Question": "Fill in the blank: She ___ to school every day.",
+    "A": "go",
+    "B": "goes",
+    "C": "gone",
+    "D": "going",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose correct spelling",
+    "A": "Existance",
+    "B": "Existence",
+    "C": "Existen",
+    "D": "Exsistence",
+    "Correct": "B"
+  },
+  {
+    "Question": "Identify adjective: The red car is fast.",
+    "A": "car",
+    "B": "red",
+    "C": "is",
+    "D": "fast",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose synonym of 'Correct'",
+    "A": "Wrong",
+    "B": "Right",
+    "C": "False",
+    "D": "Bad",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct synonym of 'Happy'",
+    "A": "Sad",
+    "B": "Joyful",
+    "C": "Angry",
+    "D": "Tired",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct antonym of 'Accept'",
+    "A": "Receive",
+    "B": "Take",
+    "C": "Reject",
+    "D": "Allow",
+    "Correct": "C"
+  },
+  {
+    "Question": "Fill in the blank: He ___ to the market yesterday.",
+    "A": "go",
+    "B": "goes",
+    "C": "went",
+    "D": "going",
+    "Correct": "C"
+  },
+  {
+    "Question": "Identify the correct spelling",
+    "A": "Priviledge",
+    "B": "Privilege",
+    "C": "Privilage",
+    "D": "Privlege",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose correct sentence",
+    "A": "She don't like tea",
+    "B": "She doesn't like tea",
+    "C": "She not like tea",
+    "D": "She didn't likes tea",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose synonym of 'Fear'",
+    "A": "Courage",
+    "B": "Dread",
+    "C": "Joy",
+    "D": "Peace",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose antonym of 'True'",
+    "A": "Real",
+    "B": "False",
+    "C": "Correct",
+    "D": "Right",
+    "Correct": "B"
+  },
+  {
+    "Question": "Fill in the blank: They ___ completed the work.",
+    "A": "has",
+    "B": "have",
+    "C": "had",
+    "D": "is",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose correct article: She is ___ honest girl.",
+    "A": "a",
+    "B": "an",
+    "C": "the",
+    "D": "no article",
+    "Correct": "B"
+  },
+  {
+    "Question": "Identify verb: He is eating food.",
+    "A": "He",
+    "B": "is",
+    "C": "eating",
+    "D": "food",
+    "Correct": "C"
+  },
+  {
+    "Question": "Choose synonym of 'Rapid'",
+    "A": "Slow",
+    "B": "Fast",
+    "C": "Weak",
+    "D": "Late",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose antonym of 'Hot'",
+    "A": "Cold",
+    "B": "Warm",
+    "C": "Boiling",
+    "D": "Heat",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank: I ___ seen that movie.",
+    "A": "has",
+    "B": "have",
+    "C": "had",
+    "D": "am",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose correct spelling",
+    "A": "Definately",
+    "B": "Definitely",
+    "C": "Definetely",
+    "D": "Definatly",
+    "Correct": "B"
+  },
+  {
+    "Question": "Identify pronoun: He is very tall.",
+    "A": "He",
+    "B": "very",
+    "C": "tall",
+    "D": "is",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose synonym of 'Small'",
+    "A": "Big",
+    "B": "Tiny",
+    "C": "Large",
+    "D": "Huge",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose antonym of 'Begin'",
+    "A": "Start",
+    "B": "Open",
+    "C": "End",
+    "D": "Go",
+    "Correct": "C"
+  },
+  {
+    "Question": "Fill in the blank: She ___ reading a book now.",
+    "A": "is",
+    "B": "are",
+    "C": "am",
+    "D": "be",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose correct sentence",
+    "A": "He go to school daily",
+    "B": "He goes to school daily",
+    "C": "He going to school daily",
+    "D": "He gone school daily",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose synonym of 'Strong'",
+    "A": "Weak",
+    "B": "Powerful",
+    "C": "Soft",
+    "D": "Small",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose antonym of 'Love'",
+    "A": "Care",
+    "B": "Hate",
+    "C": "Like",
+    "D": "Affection",
+    "Correct": "B"
+  },
+  {
+    "Question": "Fill in the blank: The sun ___ rises in the east.",
+    "A": "always",
+    "B": "never",
+    "C": "rarely",
+    "D": "sometimes",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose correct spelling",
+    "A": "Enviroment",
+    "B": "Environment",
+    "C": "Environmant",
+    "D": "Enviornment",
+    "Correct": "B"
+  },
+  {
+    "Question": "Identify adjective: It is a beautiful flower.",
+    "A": "It",
+    "B": "is",
+    "C": "beautiful",
+    "D": "flower",
+    "Correct": "C"
+  },
+  {
+    "Question": "Choose synonym of 'Correct'",
+    "A": "Wrong",
+    "B": "Right",
+    "C": "False",
+    "D": "Bad",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct synonym of 'Abundant'",
+    "A": "Scarce",
+    "B": "Plenty",
+    "C": "Empty",
+    "D": "Weak",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct antonym of 'Bright'",
+    "A": "Shining",
+    "B": "Dark",
+    "C": "Smart",
+    "D": "Clear",
+    "Correct": "B"
+  },
+  {
+    "Question": "Fill in the blank: She ___ finished her work before time.",
+    "A": "has",
+    "B": "have",
+    "C": "had",
+    "D": "is",
+    "Correct": "A"
+  },
+  {
+    "Question": "Identify the correct spelling",
+    "A": "Achieve",
+    "B": "Acheive",
+    "C": "Achive",
+    "D": "Acheve",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose correct sentence",
+    "A": "He does not knows me",
+    "B": "He do not know me",
+    "C": "He does not know me",
+    "D": "He not know me",
+    "Correct": "C"
+  },
+  {
+    "Question": "Choose synonym of 'Rapid'",
+    "A": "Slow",
+    "B": "Fast",
+    "C": "Weak",
+    "D": "Late",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose antonym of 'Victory'",
+    "A": "Win",
+    "B": "Defeat",
+    "C": "Success",
+    "D": "Gain",
+    "Correct": "B"
+  },
+  {
+    "Question": "Fill in the blank: They ___ been waiting for hours.",
+    "A": "has",
+    "B": "have",
+    "C": "had",
+    "D": "is",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose correct article: It is ___ unique opportunity.",
+    "A": "a",
+    "B": "an",
+    "C": "the",
+    "D": "no article",
+    "Correct": "A"
+  },
+  {
+    "Question": "Identify verb: The cat is sleeping on the mat.",
+    "A": "cat",
+    "B": "is",
+    "C": "sleeping",
+    "D": "mat",
+    "Correct": "C"
+  },
+  {
+    "Question": "Choose synonym of 'Happy'",
+    "A": "Sad",
+    "B": "Joyful",
+    "C": "Angry",
+    "D": "Tired",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose antonym of 'Empty'",
+    "A": "Full",
+    "B": "Blank",
+    "C": "Clear",
+    "D": "Open",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank: I ___ to school every day.",
+    "A": "go",
+    "B": "goes",
+    "C": "gone",
+    "D": "going",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose correct spelling",
+    "A": "Enviroment",
+    "B": "Environment",
+    "C": "Environmant",
+    "D": "Enviornment",
+    "Correct": "B"
+  },
+  {
+    "Question": "Identify pronoun: They are playing football.",
+    "A": "They",
+    "B": "playing",
+    "C": "football",
+    "D": "are",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose synonym of 'Quick'",
+    "A": "Slow",
+    "B": "Fast",
+    "C": "Late",
+    "D": "Weak",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose antonym of 'Strong'",
+    "A": "Powerful",
+    "B": "Weak",
+    "C": "Hard",
+    "D": "Bold",
+    "Correct": "B"
+  },
+  {
+    "Question": "Fill in the blank: She ___ not attend the meeting.",
+    "A": "do",
+    "B": "does",
+    "C": "did",
+    "D": "is",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose correct spelling",
+    "A": "Definately",
+    "B": "Definitely",
+    "C": "Definetely",
+    "D": "Definatly",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose correct sentence",
+    "A": "She go to office daily",
+    "B": "She goes to office daily",
+    "C": "She going office daily",
+    "D": "She gone office daily",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose synonym of 'Angry'",
+    "A": "Calm",
+    "B": "Furious",
+    "C": "Happy",
+    "D": "Peaceful",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose antonym of 'Begin'",
+    "A": "Start",
+    "B": "Open",
+    "C": "End",
+    "D": "Go",
+    "Correct": "C"
+  },
+  {
+    "Question": "Fill in the blank: He ___ already left.",
+    "A": "has",
+    "B": "have",
+    "C": "had",
+    "D": "is",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose correct article: She is ___ honest girl.",
+    "A": "a",
+    "B": "an",
+    "C": "the",
+    "D": "no article",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose synonym of 'Small'",
+    "A": "Huge",
+    "B": "Tiny",
+    "C": "Large",
+    "D": "Big",
+    "Correct": "B"
+  }
+]
+
