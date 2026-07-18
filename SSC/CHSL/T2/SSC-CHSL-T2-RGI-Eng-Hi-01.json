@@ -1,1 +1,803 @@
-
+[
+{
+"Question":"Complete the series: 3, 8, 15, 24, 35, ? / श्रेणी पूर्ण करें: 3, 8, 15, 24, 35, ?",
+"A":"46 / 46",
+"B":"48 / 48",
+"C":"50 / 50",
+"D":"52 / 52",
+"Correct":"B"
+},
+{
+"Question":"If CAT is coded as DBU, then DOG will be coded as? / यदि CAT को DBU लिखा जाता है, तो DOG को कैसे लिखा जाएगा?",
+"A":"EPH / ईपीएच",
+"B":"EPH / EPH",
+"C":"FQI / एफक्यूआई",
+"D":"DNG / डीएनजी",
+"Correct":"A"
+},
+{
+"Question":"Find the odd one out. / विषम शब्द चुनिए।",
+"A":"Square / वर्ग",
+"B":"Rectangle / आयत",
+"C":"Circle / वृत्त",
+"D":"Triangle / त्रिभुज",
+"Correct":"C"
+},
+{
+"Question":"Pointing to a woman, Raj said, 'She is the daughter of my grandfather's only son.' How is the woman related to Raj? / एक महिला की ओर इशारा करते हुए राज ने कहा, 'वह मेरे दादा के इकलौते पुत्र की बेटी है।' महिला राज से कैसे संबंधित है?",
+"A":"Sister / बहन",
+"B":"Mother / माता",
+"C":"Cousin / चचेरी बहन",
+"D":"Aunt / बुआ",
+"Correct":"A"
+},
+{
+"Question":"Which number comes next? 2, 6, 12, 20, 30, ? / अगली संख्या ज्ञात करें: 2, 6, 12, 20, 30, ?",
+"A":"40 / 40",
+"B":"42 / 42",
+"C":"44 / 44",
+"D":"46 / 46",
+"Correct":"B"
+},
+{
+"Question":"If SOUTH is coded as TPVUI, then NORTH is coded as? / यदि SOUTH को TPVUI लिखा जाता है, तो NORTH को कैसे लिखा जाएगा?",
+"A":"OPSUI / ओपीएसयूआई",
+"B":"OPSUI / OPSUI",
+"C":"OPSUI / OPSUI",
+"D":"OPSUI / OPSUI",
+"Correct":"A"
+},
+{
+"Question":"A man walks 5 km north, then turns right and walks 3 km. In which direction is he now from the starting point? / एक व्यक्ति 5 किमी उत्तर जाता है, फिर दाएँ मुड़कर 3 किमी चलता है। वह प्रारंभिक बिंदु से किस दिशा में है?",
+"A":"North-East / उत्तर-पूर्व",
+"B":"South-East / दक्षिण-पूर्व",
+"C":"North-West / उत्तर-पश्चिम",
+"D":"East / पूर्व",
+"Correct":"A"
+},
+{
+"Question":"Choose the correct Venn diagram relationship: Apple, Mango, Fruit / सही वेन आरेख संबंध चुनिए: सेब, आम, फल",
+"A":"Apple and Mango inside Fruit / सेब और आम, फल के भीतर",
+"B":"Fruit inside Apple / फल, सेब के भीतर",
+"C":"Apple inside Mango / सेब, आम के भीतर",
+"D":"All separate / सभी अलग",
+"Correct":"A"
+},
+{
+"Question":"Arrange in dictionary order. 1. Mango 2. Market 3. Mark 4. Man / शब्दकोश क्रम में व्यवस्थित करें। 1. Mango 2. Market 3. Mark 4. Man",
+"A":"4,1,3,2",
+"B":"4,3,2,1",
+"C":"4,1,2,3",
+"D":"1,4,3,2",
+"Correct":"A"
+},
+{
+"Question":"If '+' means '−', '−' means '×', '×' means '÷' and '÷' means '+', then 18 − 3 + 2 = ? / यदि '+' का अर्थ '−', '−' का अर्थ '×', '×' का अर्थ '÷' तथा '÷' का अर्थ '+' है, तो 18 − 3 + 2 = ?",
+"A":"52 / 52",
+"B":"54 / 54",
+"C":"56 / 56",
+"D":"60 / 60",
+"Correct":"A"
+},
+{
+"Question":"Find the missing number: 5, 10, 20, 40, ? / लुप्त संख्या ज्ञात करें: 5, 10, 20, 40, ?",
+"A":"60 / 60",
+"B":"70 / 70",
+"C":"80 / 80",
+"D":"90 / 90",
+"Correct":"C"
+},
+{
+"Question":"If all roses are flowers and some flowers are red, then which conclusion is definitely true? / यदि सभी गुलाब फूल हैं और कुछ फूल लाल हैं, तो कौन-सा निष्कर्ष निश्चित रूप से सत्य है?",
+"A":"Some roses are red / कुछ गुलाब लाल हैं",
+"B":"All flowers are roses / सभी फूल गुलाब हैं",
+"C":"All roses are flowers / सभी गुलाब फूल हैं",
+"D":"No flower is red / कोई फूल लाल नहीं है",
+"Correct":"C"
+},
+{
+"Question":"Mirror image of the English letter 'F' will face towards? / अंग्रेजी अक्षर 'F' की दर्पण छवि किस ओर होगी?",
+"A":"Left / बायाँ",
+"B":"Right / दायाँ",
+"C":"Up / ऊपर",
+"D":"Down / नीचे",
+"Correct":"B"
+},
+{
+"Question":"Which word cannot be formed using the letters of 'EDUCATION'? / 'EDUCATION' के अक्षरों से कौन-सा शब्द नहीं बनाया जा सकता?",
+"A":"ACTION / ACTION",
+"B":"DONATE / DONATE",
+"C":"EDITION / EDITION",
+"D":"CAUTION / CAUTION",
+"Correct":"C"
+},
+{
+"Question":"If Monday is the 1st day of a month, what will be the 13th day? / यदि किसी महीने की पहली तारीख सोमवार है, तो 13वीं तारीख कौन-सा दिन होगी?",
+"A":"Friday / शुक्रवार",
+"B":"Saturday / शनिवार",
+"C":"Sunday / रविवार",
+"D":"Wednesday / बुधवार",
+"Correct":"B"
+},
+{
+"Question":"Choose the odd number. / विषम संख्या चुनिए।",
+"A":"16",
+"B":"25",
+"C":"36",
+"D":"45",
+"Correct":"D"
+},
+{
+"Question":"A is taller than B, B is taller than C, and C is taller than D. Who is the tallest? / A, B से लंबा है, B, C से लंबा है और C, D से लंबा है। सबसे लंबा कौन है?",
+"A":"A",
+"B":"B",
+"C":"C",
+"D":"D",
+"Correct":"A"
+},
+{
+"Question":"How many meaningful English words can be formed using the letters 'ATE' using each letter once? / 'ATE' के अक्षरों से प्रत्येक अक्षर का एक बार प्रयोग करके कितने अर्थपूर्ण अंग्रेजी शब्द बनाए जा सकते हैं?",
+"A":"2",
+"B":"3",
+"C":"4",
+"D":"5",
+"Correct":"A"
+},
+{
+"Question":"In a row of 30 students, Ravi is 12th from the left. What is his position from the right? / 30 विद्यार्थियों की पंक्ति में रवि बाएँ से 12वें स्थान पर है। दाएँ से उसका स्थान क्या होगा?",
+"A":"18th / 18वाँ",
+"B":"19th / 19वाँ",
+"C":"20th / 20वाँ",
+"D":"21st / 21वाँ",
+"Correct":"B"
+},
+{
+"Question":"Find the next alphabet in the series: A, C, F, J, O, ? / श्रेणी में अगला अक्षर ज्ञात करें: A, C, F, J, O, ?",
+"A":"S",
+"B":"T",
+"C":"U",
+"D":"V",
+"Correct":"C"
+},
+{
+"Question":"Complete the series: 7, 14, 28, 56, ? / श्रेणी पूर्ण करें: 7, 14, 28, 56, ?",
+"A":"98 / 98",
+"B":"112 / 112",
+"C":"84 / 84",
+"D":"120 / 120",
+"Correct":"B"
+},
+{
+"Question":"If BOOK is coded as CPPL, then PEN is coded as? / यदि BOOK को CPPL लिखा जाता है, तो PEN को कैसे लिखा जाएगा?",
+"A":"QFO / क्यूएफओ",
+"B":"QEM / क्यूईएम",
+"C":"QFN / क्यूएफएन",
+"D":"RFO / आरएफओ",
+"Correct":"A"
+},
+{
+"Question":"Find the odd one out. / विषम शब्द चुनिए।",
+"A":"January / जनवरी",
+"B":"March / मार्च",
+"C":"April / अप्रैल",
+"D":"Monday / सोमवार",
+"Correct":"D"
+},
+{
+"Question":"Pointing to a boy, Seema said, 'He is the son of my mother's only son.' How is the boy related to Seema? / एक लड़के की ओर इशारा करते हुए सीमा ने कहा, 'वह मेरी माँ के इकलौते पुत्र का बेटा है।' लड़का सीमा से कैसे संबंधित है?",
+"A":"Son / पुत्र",
+"B":"Nephew / भतीजा",
+"C":"Brother / भाई",
+"D":"Cousin / चचेरा भाई",
+"Correct":"A"
+},
+{
+"Question":"Find the missing number: 4, 9, 16, 25, 36, ? / लुप्त संख्या ज्ञात करें: 4, 9, 16, 25, 36, ?",
+"A":"42 / 42",
+"B":"47 / 47",
+"C":"49 / 49",
+"D":"64 / 64",
+"Correct":"C"
+},
+{
+"Question":"A person walks 10 km East, then 10 km South. In which direction is he from the starting point? / एक व्यक्ति 10 किमी पूर्व और फिर 10 किमी दक्षिण चलता है। वह प्रारंभिक बिंदु से किस दिशा में है?",
+"A":"South-East / दक्षिण-पूर्व",
+"B":"North-East / उत्तर-पूर्व",
+"C":"South-West / दक्षिण-पश्चिम",
+"D":"East / पूर्व",
+"Correct":"A"
+},
+{
+"Question":"Which number will replace the question mark? 3 : 9 :: 7 : ? / प्रश्नवाचक चिन्ह के स्थान पर कौन-सी संख्या आएगी? 3 : 9 :: 7 : ?",
+"A":"21",
+"B":"49",
+"C":"14",
+"D":"28",
+"Correct":"B"
+},
+{
+"Question":"Choose the correct order: Bud, Flower, Fruit, Seed / सही क्रम चुनिए: कली, फूल, फल, बीज",
+"A":"Bud → Flower → Fruit → Seed",
+"B":"Flower → Bud → Seed → Fruit",
+"C":"Fruit → Flower → Seed → Bud",
+"D":"Seed → Bud → Flower → Fruit",
+"Correct":"A"
+},
+{
+"Question":"If '+' means '÷', '−' means '+', '×' means '−' and '÷' means '×', then 24 + 6 = ? / यदि '+' का अर्थ '÷', '−' का अर्थ '+', '×' का अर्थ '−' तथा '÷' का अर्थ '×' है, तो 24 + 6 = ?",
+"A":"4",
+"B":"18",
+"C":"30",
+"D":"144",
+"Correct":"A"
+},
+{
+"Question":"Find the next term: AZ, BY, CX, DW, ? / अगला पद ज्ञात करें: AZ, BY, CX, DW, ?",
+"A":"EV",
+"B":"FU",
+"C":"EW",
+"D":"DU",
+"Correct":"A"
+},
+{
+"Question":"If all pens are books and all books are bags, then all pens are bags. This statement is: / यदि सभी पेन पुस्तक हैं तथा सभी पुस्तकें बैग हैं, तो सभी पेन बैग हैं। यह कथन है:",
+"A":"True / सत्य",
+"B":"False / असत्य",
+"C":"Cannot be determined / निर्धारित नहीं किया जा सकता",
+"D":"None / कोई नहीं",
+"Correct":"A"
+},
+{
+"Question":"Which is the mirror image of the number 269? / संख्या 269 की दर्पण छवि कौन-सी होगी?",
+"A":"962",
+"B":"Mirror reversed form / दर्पण में उल्टा रूप",
+"C":"296",
+"D":"629",
+"Correct":"B"
+},
+{
+"Question":"How many triangles are there in a pentagon? / पंचभुज में कितने त्रिभुज होते हैं?",
+"A":"3",
+"B":"4",
+"C":"5",
+"D":"Depends on division / विभाजन पर निर्भर",
+"Correct":"D"
+},
+{
+"Question":"Find the odd pair. / विषम युग्म चुनिए।",
+"A":"Doctor : Hospital / डॉक्टर : अस्पताल",
+"B":"Teacher : School / शिक्षक : विद्यालय",
+"C":"Pilot : Airport / पायलट : हवाई अड्डा",
+"D":"Farmer : Court / किसान : न्यायालय",
+"Correct":"D"
+},
+{
+"Question":"If yesterday was Friday, what day will be the day after tomorrow? / यदि कल शुक्रवार था, तो परसों कौन-सा दिन होगा?",
+"A":"Sunday / रविवार",
+"B":"Monday / सोमवार",
+"C":"Saturday / शनिवार",
+"D":"Tuesday / मंगलवार",
+"Correct":"A"
+},
+{
+"Question":"Arrange in dictionary order: 1. Bat 2. Ball 3. Bank 4. Banana / शब्दकोश क्रम में व्यवस्थित करें।",
+"A":"2,4,3,1",
+"B":"4,2,3,1",
+"C":"2,3,4,1",
+"D":"1,2,3,4",
+"Correct":"A"
+},
+{
+"Question":"A is the brother of B. B is the sister of C. C is the father of D. How is A related to D? / A, B का भाई है। B, C की बहन है। C, D का पिता है। A, D से कैसे संबंधित है?",
+"A":"Uncle / चाचा",
+"B":"Father / पिता",
+"C":"Brother / भाई",
+"D":"Grandfather / दादा",
+"Correct":"A"
+},
+{
+"Question":"Complete the series: 11, 22, 44, 88, ? / श्रेणी पूर्ण करें: 11, 22, 44, 88, ?",
+"A":"132",
+"B":"166",
+"C":"176",
+"D":"198",
+"Correct":"C"
+},
+{
+"Question":"Which one is different? / कौन-सा भिन्न है?",
+"A":"Copper / ताँबा",
+"B":"Iron / लोहा",
+"C":"Silver / चाँदी",
+"D":"Plastic / प्लास्टिक",
+"Correct":"D"
+},
+{
+"Question":"If RANK is written as SBOL, then GAME is written as? / यदि RANK को SBOL लिखा जाता है, तो GAME को कैसे लिखा जाएगा?",
+"A":"HBNF",
+"B":"HBOF",
+"C":"IBNF",
+"D":"GBNF",
+"Correct":"A"
+},
+[
+{
+"Question":"Complete the series: 5, 11, 23, 47, ? / श्रेणी पूर्ण करें: 5, 11, 23, 47, ?",
+"A":"91 / 91",
+"B":"95 / 95",
+"C":"96 / 96",
+"D":"99 / 99",
+"Correct":"B"
+},
+{
+"Question":"If TRAIN is coded as USBJO, then PLANE is coded as? / यदि TRAIN को USBJO लिखा जाता है, तो PLANE को कैसे लिखा जाएगा?",
+"A":"QMBOF / क्यूएमबीओएफ",
+"B":"QMCMF / क्यूएमसीएमएफ",
+"C":"PMBOF / पीएमबीओएफ",
+"D":"RNBOF / आरएनबीओएफ",
+"Correct":"A"
+},
+{
+"Question":"Find the odd one out. / विषम शब्द चुनिए।",
+"A":"Tiger / बाघ",
+"B":"Lion / शेर",
+"C":"Leopard / तेंदुआ",
+"D":"Cow / गाय",
+"Correct":"D"
+},
+{
+"Question":"If South-East becomes North, then North-East becomes? / यदि दक्षिण-पूर्व उत्तर बन जाए, तो उत्तर-पूर्व क्या बनेगा?",
+"A":"West / पश्चिम",
+"B":"East / पूर्व",
+"C":"South / दक्षिण",
+"D":"North-West / उत्तर-पश्चिम",
+"Correct":"B"
+},
+{
+"Question":"Pointing to a man, Riya said, 'He is the husband of my mother's daughter.' How is the man related to Riya? / एक व्यक्ति की ओर इशारा करते हुए रिया ने कहा, 'वह मेरी माँ की बेटी का पति है।' वह व्यक्ति रिया से कैसे संबंधित है?",
+"A":"Brother / भाई",
+"B":"Husband / पति",
+"C":"Father / पिता",
+"D":"Uncle / चाचा",
+"Correct":"B"
+},
+{
+"Question":"Find the missing number: 8, 27, 64, 125, ? / लुप्त संख्या ज्ञात करें: 8, 27, 64, 125, ?",
+"A":"216 / 216",
+"B":"225 / 225",
+"C":"256 / 256",
+"D":"343 / 343",
+"Correct":"A"
+},
+{
+"Question":"Choose the correct analogy. Book : Read :: Food : ? / सही सादृश्य चुनिए। पुस्तक : पढ़ना :: भोजन : ?",
+"A":"Cook / पकाना",
+"B":"Eat / खाना",
+"C":"Buy / खरीदना",
+"D":"Serve / परोसना",
+"Correct":"B"
+},
+{
+"Question":"If '+' means '×' and '×' means '+', then 8 + 4 × 2 = ? / यदि '+' का अर्थ '×' तथा '×' का अर्थ '+' है, तो 8 + 4 × 2 = ?",
+"A":"20",
+"B":"24",
+"C":"18",
+"D":"34",
+"Correct":"C"
+},
+{
+"Question":"Choose the odd pair. / विषम युग्म चुनिए।",
+"A":"Fish : Water / मछली : पानी",
+"B":"Bird : Sky / पक्षी : आकाश",
+"C":"Camel : Desert / ऊँट : रेगिस्तान",
+"D":"Car : River / कार : नदी",
+"Correct":"D"
+},
+{
+"Question":"Arrange the words in logical order: Infant, Adult, Teenager, Child / तार्किक क्रम चुनिए: शिशु, वयस्क, किशोर, बच्चा",
+"A":"Infant, Child, Teenager, Adult",
+"B":"Child, Infant, Teenager, Adult",
+"C":"Teenager, Child, Infant, Adult",
+"D":"Adult, Teenager, Child, Infant",
+"Correct":"A"
+},
+{
+"Question":"Find the next term: B, E, I, N, T, ? / अगला पद ज्ञात करें: B, E, I, N, T, ?",
+"A":"Y",
+"B":"Z",
+"C":"A",
+"D":"C",
+"Correct":"A"
+},
+{
+"Question":"If all cats are animals and some animals are wild, then which conclusion is definitely true? / यदि सभी बिल्लियाँ जानवर हैं और कुछ जानवर जंगली हैं, तो कौन-सा निष्कर्ष निश्चित रूप से सत्य है?",
+"A":"Some cats are wild",
+"B":"All cats are animals",
+"C":"All animals are cats",
+"D":"No cats are wild",
+"Correct":"B"
+},
+{
+"Question":"How many months have exactly 30 days? / कितने महीनों में ठीक 30 दिन होते हैं?",
+"A":"3",
+"B":"4",
+"C":"5",
+"D":"6",
+"Correct":"B"
+},
+{
+"Question":"Which number is different? / कौन-सी संख्या भिन्न है?",
+"A":"27",
+"B":"64",
+"C":"81",
+"D":"125",
+"Correct":"C"
+},
+{
+"Question":"If Monday is 10th June, then what day is 20th June? / यदि 10 जून सोमवार है, तो 20 जून कौन-सा दिन होगा?",
+"A":"Thursday / गुरुवार",
+"B":"Friday / शुक्रवार",
+"C":"Saturday / शनिवार",
+"D":"Sunday / रविवार",
+"Correct":"A"
+},
+{
+"Question":"Ravi is taller than Mohan. Mohan is taller than Sohan. Who is the shortest? / रवि मोहन से लंबा है। मोहन सोहन से लंबा है। सबसे छोटा कौन है?",
+"A":"Ravi",
+"B":"Mohan",
+"C":"Sohan",
+"D":"Cannot be determined",
+"Correct":"C"
+},
+{
+"Question":"Find the odd one out. / विषम शब्द चुनिए।",
+"A":"Rose / गुलाब",
+"B":"Lotus / कमल",
+"C":"Lily / लिली",
+"D":"Potato / आलू",
+"Correct":"D"
+},
+{
+"Question":"Complete the series: Z, X, U, Q, L, ? / श्रेणी पूर्ण करें: Z, X, U, Q, L, ?",
+"A":"F",
+"B":"G",
+"C":"H",
+"D":"I",
+"Correct":"A"
+},
+{
+"Question":"In a class of 40 students, Pooja is 18th from the top. What is her rank from the bottom? / 40 विद्यार्थियों की कक्षा में पूजा ऊपर से 18वें स्थान पर है। नीचे से उसका स्थान क्या होगा?",
+"A":"21st / 21वाँ",
+"B":"22nd / 22वाँ",
+"C":"23rd / 23वाँ",
+"D":"24th / 24वाँ",
+"Correct":"C"
+},
+{
+"Question":"Choose the correct Venn relationship: Doctors, Men, Humans / सही वेन संबंध चुनिए: डॉक्टर, पुरुष, मानव",
+"A":"Doctors and Men are separate inside Humans",
+"B":"Doctors and Men overlap inside Humans",
+"C":"Men inside Doctors",
+"D":"Doctors inside Men",
+"Correct":"B"
+},
+{
+"Question":"Complete the series: 2, 5, 11, 23, 47, ? / श्रेणी पूर्ण करें: 2, 5, 11, 23, 47, ?",
+"A":"94 / 94",
+"B":"95 / 95",
+"C":"96 / 96",
+"D":"97 / 97",
+"Correct":"B"
+},
+{
+"Question":"If PAPER is coded as QBQFS, then BOOK is coded as? / यदि PAPER को QBQFS लिखा जाता है, तो BOOK को कैसे लिखा जाएगा?",
+"A":"CPPL / सीपीपीएल",
+"B":"CQQM / सीक्यूक्यूएम",
+"C":"DPPL / डीपीपीएल",
+"D":"BPPL / बीपीपीएल",
+"Correct":"A"
+},
+{
+"Question":"Choose the odd one out. / विषम शब्द चुनिए।",
+"A":"Car / कार",
+"B":"Bus / बस",
+"C":"Train / ट्रेन",
+"D":"Bridge / पुल",
+"Correct":"D"
+},
+{
+"Question":"Pointing to a girl, Mohan said, 'She is the daughter of my father's only daughter.' How is the girl related to Mohan? / एक लड़की की ओर इशारा करते हुए मोहन ने कहा, 'वह मेरे पिता की इकलौती बेटी की बेटी है।' वह लड़की मोहन से कैसे संबंधित है?",
+"A":"Daughter / बेटी",
+"B":"Niece / भांजी",
+"C":"Sister / बहन",
+"D":"Cousin / चचेरी बहन",
+"Correct":"B"
+},
+{
+"Question":"Find the missing number: 1, 8, 27, 64, 125, ? / लुप्त संख्या ज्ञात करें: 1, 8, 27, 64, 125, ?",
+"A":"196 / 196",
+"B":"216 / 216",
+"C":"225 / 225",
+"D":"256 / 256",
+"Correct":"B"
+},
+{
+"Question":"A man walks 6 km West, then turns left and walks 8 km. In which direction is he from the starting point? / एक व्यक्ति 6 किमी पश्चिम जाता है, फिर बाएँ मुड़कर 8 किमी चलता है। वह प्रारंभिक बिंदु से किस दिशा में है?",
+"A":"North-West / उत्तर-पश्चिम",
+"B":"South-West / दक्षिण-पश्चिम",
+"C":"North-East / उत्तर-पूर्व",
+"D":"South-East / दक्षिण-पूर्व",
+"Correct":"B"
+},
+{
+"Question":"Find the next term: C, F, J, O, U, ? / अगला पद ज्ञात करें: C, F, J, O, U, ?",
+"A":"Z",
+"B":"B",
+"C":"C",
+"D":"A",
+"Correct":"B"
+},
+{
+"Question":"Choose the correct analogy. Pen : Write :: Knife : ? / सही सादृश्य चुनिए। पेन : लिखना :: चाकू : ?",
+"A":"Cut / काटना",
+"B":"Cook / पकाना",
+"C":"Eat / खाना",
+"D":"Wash / धोना",
+"Correct":"A"
+},
+{
+"Question":"If '+' means '−' and '−' means '+', then 18 + 6 − 4 = ? / यदि '+' का अर्थ '−' तथा '−' का अर्थ '+' है, तो 18 + 6 − 4 = ?",
+"A":"20",
+"B":"16",
+"C":"8",
+"D":"28",
+"Correct":"B"
+},
+{
+"Question":"Arrange in logical order: Seed, Plant, Fruit, Flower / तार्किक क्रम चुनिए: बीज, पौधा, फल, फूल",
+"A":"Seed → Plant → Flower → Fruit",
+"B":"Plant → Seed → Fruit → Flower",
+"C":"Flower → Plant → Seed → Fruit",
+"D":"Seed → Fruit → Plant → Flower",
+"Correct":"A"
+},
+{
+"Question":"Which number is different? / कौन-सी संख्या भिन्न है?",
+"A":"49",
+"B":"64",
+"C":"81",
+"D":"90",
+"Correct":"D"
+},
+{
+"Question":"If all apples are fruits and all fruits are food, then which conclusion is correct? / यदि सभी सेब फल हैं और सभी फल भोजन हैं, तो सही निष्कर्ष क्या है?",
+"A":"All apples are food / सभी सेब भोजन हैं",
+"B":"All food are apples / सभी भोजन सेब हैं",
+"C":"Some apples are food / कुछ सेब भोजन हैं",
+"D":"No apple is food / कोई सेब भोजन नहीं है",
+"Correct":"A"
+},
+{
+"Question":"Which month has 28 days? / किस महीने में 28 दिन होते हैं?",
+"A":"February only / केवल फरवरी",
+"B":"January / जनवरी",
+"C":"All months / सभी महीने",
+"D":"None / कोई नहीं",
+"Correct":"C"
+},
+{
+"Question":"Find the odd pair. / विषम युग्म चुनिए।",
+"A":"Teacher : School / शिक्षक : विद्यालय",
+"B":"Doctor : Hospital / डॉक्टर : अस्पताल",
+"C":"Lawyer : Court / वकील : न्यायालय",
+"D":"Pilot : Classroom / पायलट : कक्षा",
+"Correct":"D"
+},
+{
+"Question":"If today is Wednesday, what day will it be after 15 days? / यदि आज बुधवार है, तो 15 दिन बाद कौन-सा दिन होगा?",
+"A":"Wednesday / बुधवार",
+"B":"Thursday / गुरुवार",
+"C":"Friday / शुक्रवार",
+"D":"Monday / सोमवार",
+"Correct":"B"
+},
+{
+"Question":"A is older than B. B is older than C. D is younger than C. Who is the youngest? / A, B से बड़ा है। B, C से बड़ा है। D, C से छोटा है। सबसे छोटा कौन है?",
+"A":"A",
+"B":"B",
+"C":"C",
+"D":"D",
+"Correct":"D"
+},
+{
+"Question":"Complete the series: 10, 20, 40, 80, ? / श्रेणी पूर्ण करें: 10, 20, 40, 80, ?",
+"A":"120",
+"B":"140",
+"C":"150",
+"D":"160",
+"Correct":"D"
+},
+{
+"Question":"Which one is different? / कौन-सा भिन्न है?",
+"A":"Rose / गुलाब",
+"B":"Jasmine / चमेली",
+"C":"Tulip / ट्यूलिप",
+"D":"Neem / नीम",
+"Correct":"D"
+},
+{
+"Question":"In a row of 45 students, Amit is 17th from the left. What is his position from the right? / 45 विद्यार्थियों की पंक्ति में अमित बाएँ से 17वें स्थान पर है। दाएँ से उसका स्थान क्या होगा?",
+"A":"27th / 27वाँ",
+"B":"28th / 28वाँ",
+"C":"29th / 29वाँ",
+"D":"30th / 30वाँ",
+"Correct":"C"
+},
+{
+"Question":"Choose the correct Venn relationship: Birds, Animals, Crows / सही वेन संबंध चुनिए: पक्षी, जानवर, कौए",
+"A":"Crows ⊂ Birds ⊂ Animals / कौए ⊂ पक्षी ⊂ जानवर",
+"B":"Birds ⊂ Crows ⊂ Animals",
+"C":"Animals ⊂ Birds ⊂ Crows",
+"D":"All are separate / सभी अलग",
+"Correct":"A"
+},
+{
+"Question":"Complete the series: 13, 17, 23, 31, 41, ? / श्रेणी पूर्ण करें: 13, 17, 23, 31, 41, ?",
+"A":"49 / 49",
+"B":"51 / 51",
+"C":"53 / 53",
+"D":"55 / 55",
+"Correct":"C"
+},
+{
+"Question":"If MANGO is coded as NBOHP, then APPLE is coded as? / यदि MANGO को NBOHP लिखा जाता है, तो APPLE को कैसे लिखा जाएगा?",
+"A":"BQQMF / बीक्यूक्यूएमएफ",
+"B":"BQQLE / बीक्यूक्यूएलई",
+"C":"CPQMF / सीपीक्यूएमएफ",
+"D":"AQPMF / एक्यूपीएमएफ",
+"Correct":"A"
+},
+{
+"Question":"Choose the odd one out. / विषम शब्द चुनिए।",
+"A":"Copper / ताँबा",
+"B":"Silver / चाँदी",
+"C":"Gold / सोना",
+"D":"Plastic / प्लास्टिक",
+"Correct":"D"
+},
+{
+"Question":"A walks 8 km North, then 6 km East. How far is he from the starting point? / A 8 किमी उत्तर तथा 6 किमी पूर्व चलता है। प्रारंभिक बिंदु से उसकी दूरी कितनी है?",
+"A":"10 km",
+"B":"12 km",
+"C":"14 km",
+"D":"15 km",
+"Correct":"A"
+},
+{
+"Question":"Pointing towards a woman, Ram said, 'She is the wife of my father's only son.' The woman is Ram's? / एक महिला की ओर इशारा करते हुए राम ने कहा, 'वह मेरे पिता के इकलौते पुत्र की पत्नी है।' वह महिला राम की कौन है?",
+"A":"Mother / माँ",
+"B":"Wife / पत्नी",
+"C":"Sister / बहन",
+"D":"Aunt / चाची",
+"Correct":"B"
+},
+{
+"Question":"Find the missing number: 2, 6, 12, 20, 30, ? / लुप्त संख्या ज्ञात करें: 2, 6, 12, 20, 30, ?",
+"A":"40 / 40",
+"B":"42 / 42",
+"C":"44 / 44",
+"D":"46 / 46",
+"Correct":"B"
+},
+{
+"Question":"Choose the correct analogy. Eye : See :: Ear : ? / सही सादृश्य चुनिए। आँख : देखना :: कान : ?",
+"A":"Touch / छूना",
+"B":"Hear / सुनना",
+"C":"Smell / सूंघना",
+"D":"Taste / चखना",
+"Correct":"B"
+},
+{
+"Question":"If '+' means '×', '−' means '÷', '×' means '+' and '÷' means '−', then 12 + 3 − 3 = ? / यदि '+' का अर्थ '×', '−' का अर्थ '÷', '×' का अर्थ '+' तथा '÷' का अर्थ '−' है, तो 12 + 3 − 3 = ?",
+"A":"12",
+"B":"15",
+"C":"18",
+"D":"36",
+"Correct":"A"
+},
+{
+"Question":"Arrange in logical order: Egg, Chick, Hen / तार्किक क्रम चुनिए: अंडा, चूजा, मुर्गी",
+"A":"Egg → Chick → Hen",
+"B":"Hen → Chick → Egg",
+"C":"Chick → Egg → Hen",
+"D":"Hen → Egg → Chick",
+"Correct":"A"
+},
+{
+"Question":"Find the next term: D, G, K, P, V, ? / अगला पद ज्ञात करें: D, G, K, P, V, ?",
+"A":"C",
+"B":"D",
+"C":"E",
+"D":"F",
+"Correct":"C"
+},
+{
+"Question":"If all engineers are graduates and all graduates are educated, then all engineers are educated. This conclusion is: / यदि सभी इंजीनियर स्नातक हैं तथा सभी स्नातक शिक्षित हैं, तो सभी इंजीनियर शिक्षित हैं। यह निष्कर्ष है:",
+"A":"True / सत्य",
+"B":"False / असत्य",
+"C":"Cannot be determined / निर्धारित नहीं किया जा सकता",
+"D":"None / कोई नहीं",
+"Correct":"A"
+},
+{
+"Question":"Which number is different? / कौन-सी संख्या भिन्न है?",
+"A":"16",
+"B":"25",
+"C":"36",
+"D":"50",
+"Correct":"D"
+},
+{
+"Question":"If today is Friday, what day will it be after 20 days? / यदि आज शुक्रवार है, तो 20 दिन बाद कौन-सा दिन होगा?",
+"A":"Wednesday / बुधवार",
+"B":"Thursday / गुरुवार",
+"C":"Tuesday / मंगलवार",
+"D":"Monday / सोमवार",
+"Correct":"A"
+},
+{
+"Question":"Choose the odd pair. / विषम युग्म चुनिए।",
+"A":"Author : Book / लेखक : पुस्तक",
+"B":"Painter : Painting / चित्रकार : चित्र",
+"C":"Tailor : Cloth / दर्जी : कपड़ा",
+"D":"Driver : Hospital / चालक : अस्पताल",
+"Correct":"D"
+},
+{
+"Question":"In a row of 50 students, Kiran is 21st from the left. What is her position from the right? / 50 विद्यार्थियों की पंक्ति में किरण बाएँ से 21वें स्थान पर है। दाएँ से उसका स्थान क्या होगा?",
+"A":"28th / 28वाँ",
+"B":"29th / 29वाँ",
+"C":"30th / 30वाँ",
+"D":"31st / 31वाँ",
+"Correct":"C"
+},
+{
+"Question":"Find the odd one out. / विषम शब्द चुनिए।",
+"A":"Apple / सेब",
+"B":"Banana / केला",
+"C":"Carrot / गाजर",
+"D":"Mango / आम",
+"Correct":"C"
+},
+{
+"Question":"Complete the series: 4, 9, 19, 39, 79, ? / श्रेणी पूर्ण करें: 4, 9, 19, 39, 79, ?",
+"A":"119",
+"B":"149",
+"C":"159",
+"D":"159",
+"Correct":"C"
+},
+{
+"Question":"Choose the correct Venn relationship: Teachers, Women, Humans / सही वेन संबंध चुनिए: शिक्षक, महिलाएँ, मानव",
+"A":"Teachers and Women overlap inside Humans / शिक्षक और महिलाएँ, मानव के भीतर आंशिक रूप से एक-दूसरे से मिलते हैं",
+"B":"Teachers inside Women",
+"C":"Women inside Teachers",
+"D":"All separate",
+"Correct":"A"
+},
+{
+"Question":"A is east of B. B is north of C. In which direction is A from C? / A, B के पूर्व में है। B, C के उत्तर में है। C से A किस दिशा में है?",
+"A":"North-East / उत्तर-पूर्व",
+"B":"South-East / दक्षिण-पूर्व",
+"C":"North-West / उत्तर-पश्चिम",
+"D":"South-West / दक्षिण-पश्चिम",
+"Correct":"A"
+},
+{
+"Question":"Which figure can be formed by folding the given paper? / दिए गए कागज़ को मोड़ने पर कौन-सी आकृति बनेगी? (Paper Folding Type)",
+"A":"Option A",
+"B":"Option B",
+"C":"Option C",
+"D":"Option D",
+"Correct":"B"
+}
+]
