@@ -1,222 +1,222 @@
 [
-{
-"Question": "Select the related word from the given alternatives. / दिए गए विकल्पों में से संबंधित शब्द को चुनिए।\n\nDoctor : Hospital :: Teacher : ? / डॉक्टर : अस्पताल :: शिक्षक : ?",
-"A": "School / विद्यालय",
-"B": "Library / पुस्तकालय",
-"C": "Market / बाज़ार",
-"D": "Bank / बैंक",
-"Correct": "A"
-},
-{
-"Question": "Select the related number from the given alternatives. / दिए गए विकल्पों में से संबंधित संख्या को चुनिए।\n\n7 : 49 :: 9 : ? / 7 : 49 :: 9 : ?",
-"A": "72",
-"B": "81",
-"C": "90",
-"D": "99",
-"Correct": "B"
-},
-{
-"Question": "Select the related letters from the given alternatives. / दिए गए विकल्पों में से संबंधित अक्षरों को चुनिए।\n\nACE : BDF :: GIK : ?",
-"A": "HJL",
-"B": "HKM",
-"C": "IJL",
-"D": "HJM",
-"Correct": "A"
-},
-{
-"Question": "Find the odd word from the given alternatives. / दिए गए विकल्पों में से विषम शब्द चुनिए।",
-"A": "Rose / गुलाब",
-"B": "Lotus / कमल",
-"C": "Lily / लिली",
-"D": "Mango / आम",
-"Correct": "D"
-},
-{
-"Question": "Find the odd number-pair from the given alternatives. / दिए गए विकल्पों में से विषम संख्या-युग्म चुनिए।",
-"A": "11, 121",
-"B": "13, 169",
-"C": "15, 225",
-"D": "17, 280",
-"Correct": "D"
-},
-{
-"Question": "A series is given with one term missing. Choose the correct alternative. / एक श्रृंखला दी गई है जिसमें एक पद लुप्त है। सही विकल्प चुनिए।\n\n3, 6, 12, 24, 48, ?",
-"A": "72",
-"B": "84",
-"C": "96",
-"D": "100",
-"Correct": "C"
-},
-{
-"Question": "Choose the correct alternative to complete the series. / श्रृंखला को पूरा करने के लिए सही विकल्प चुनिए।\n\nA, C, F, J, O, ?",
-"A": "T",
-"B": "U",
-"C": "V",
-"D": "W",
-"Correct": "B"
-},
-{
-"Question": "Arrange the following words in a meaningful order. / निम्नलिखित शब्दों को सार्थक क्रम में व्यवस्थित करें।\n\n1. Seed, 2. Fruit, 3. Plant, 4. Flower / 1. बीज, 2. फल, 3. पौधा, 4. फूल",
-"A": "1, 3, 4, 2",
-"B": "1, 4, 3, 2",
-"C": "3, 1, 4, 2",
-"D": "1, 3, 2, 4",
-"Correct": "A"
-},
-{
-"Question": "If 'PEN' is coded as 'QFO', then how will 'BOOK' be coded? / यदि 'PEN' को 'QFO' कोडित किया जाता है, तो 'BOOK' को कैसे कोडित किया जाएगा?",
-"A": "CPPL",
-"B": "CPPM",
-"C": "DQQL",
-"D": "CQPL",
-"Correct": "A"
-},
-{
-"Question": "If '+' means '−', '−' means '×', '×' means '÷' and '÷' means '+', then find the value of 18 + 6 − 3 × 2 ÷ 4. / यदि '+' का अर्थ '−', '−' का अर्थ '×', '×' का अर्थ '÷' और '÷' का अर्थ '+' है, तो 18 + 6 − 3 × 2 ÷ 4 का मान ज्ञात कीजिए।",
-"A": "20",
-"B": "18",
-"C": "24",
-"D": "16",
-"Correct": "A"
-},
-{
-"Question": "Select the missing number. / लुप्त संख्या चुनिए।\n\n5   6\n30  ?",
-"A": "36",
-"B": "30",
-"C": "35",
-"D": "42",
-"Correct": "A"
-},
-{
-"Question": "A man walks 8 km towards East and then turns left and walks 6 km. In which direction is he from the starting point? / एक व्यक्ति पूर्व दिशा में 8 किमी चलता है और फिर बाएँ मुड़कर 6 किमी चलता है। वह प्रारंभिक बिंदु से किस दिशा में है?",
-"A": "North-East / उत्तर-पूर्व",
-"B": "South-East / दक्षिण-पूर्व",
-"C": "North-West / उत्तर-पश्चिम",
-"D": "South-West / दक्षिण-पश्चिम",
-"Correct": "A"
-},
-{
-"Question": "Statements: All apples are fruits. All fruits are healthy. Conclusions: I. All apples are healthy. II. Some healthy things are apples. / कथन: सभी सेब फल हैं। सभी फल स्वास्थ्यवर्धक हैं। निष्कर्ष: I. सभी सेब स्वास्थ्यवर्धक हैं। II. कुछ स्वास्थ्यवर्धक वस्तुएँ सेब हैं।",
-"A": "Only I follows / केवल I अनुसरण करता है",
-"B": "Only II follows / केवल II अनुसरण करता है",
-"C": "Both I and II follow / I और II दोनों अनुसरण करते हैं",
-"D": "Neither follows / कोई भी अनुसरण नहीं करता",
-"Correct": "C"
-},
-{
-"Question": "Introducing a boy, a woman said, 'He is the son of the daughter of my mother.' How is the boy related to the woman? / एक लड़के का परिचय देते हुए एक महिला ने कहा, 'वह मेरी माँ की बेटी का बेटा है।' लड़का महिला से किस प्रकार संबंधित है?",
-"A": "Son / पुत्र",
-"B": "Nephew / भांजा",
-"C": "Brother / भाई",
-"D": "Grandson / पोता",
-"Correct": "A"
-},
-{
-"Question": "Find the missing term in the series. / श्रृंखला में लुप्त पद ज्ञात कीजिए।\n\n2, 5, 10, 17, 26, ?",
-"A": "35",
-"B": "37",
-"C": "39",
-"D": "41",
-"Correct": "B"
-},
-{
-"Question": "Select the odd letters from the given alternatives. / दिए गए विकल्पों में से विषम अक्षर चुनिए।",
-"A": "BCD",
-"B": "FGH",
-"C": "JKL",
-"D": "PQS",
-"Correct": "D"
-},
-{
-"Question": "Which word cannot be formed from the letters of the word 'EDUCATION'? / 'EDUCATION' शब्द के अक्षरों से कौन सा शब्द नहीं बनाया जा सकता है?",
-"A": "ACTION",
-"B": "CAUTION",
-"C": "TONIC",
-"D": "DONATE",
-"Correct": "D"
-},
-{
-"Question": "Select the related word. / संबंधित शब्द चुनिए।\n\nBird : Nest :: Lion : ? / पक्षी : घोंसला :: शेर : ?",
-"A": "Den / मांद",
-"B": "Cave / गुफा",
-"C": "Forest / जंगल",
-"D": "Tree / पेड़",
-"Correct": "A"
-},
-{
-"Question": "Find the missing number. / लुप्त संख्या ज्ञात कीजिए।\n\n1, 4, 9, 16, 25, ?",
-"A": "30",
-"B": "36",
-"C": "49",
-"D": "64",
-"Correct": "B"
-},
-{
-"Question": "In a row of 40 students, Ravi is 12th from the left. What is his position from the right? / 40 छात्रों की एक पंक्ति में, रवि बाएँ से 12वें स्थान पर है। दाएँ से उसका स्थान क्या होगा?",
-"A": "28th / 28वाँ",
-"B": "29th / 29वाँ",
-"C": "30th / 30वाँ",
-"D": "31st / 31वाँ",
-"Correct": "B"
-},
-{
-"Question": "If CAT = 24 and DOG = 26, then BAT = ? / यदि CAT = 24 और DOG = 26 है, तो BAT = ?",
-"A": "23",
-"B": "24",
-"C": "25",
-"D": "22",
-"Correct": "A"
-},
-{
-"Question": "Choose the correct mirror image of the word INDIA. / INDIA शब्द की सही दर्पण छवि चुनिए।",
-"A": "AIDNI",
-"B": "INDIA",
-"C": "AIDNI (mirror form) / AIDNI (दर्पण रूप)",
-"D": "IDNIA",
-"Correct": "C"
-},
-{
-"Question": "Point B is 10 m east of A. Point C is 10 m north of B. What is the shortest distance between A and C? / बिंदु B, A के पूर्व में 10 मीटर है। बिंदु C, B के उत्तर में 10 मीटर है। A और C के बीच न्यूनतम दूरी क्या है?",
-"A": "20 m",
-"B": "15 m",
-"C": "10√2 m",
-"D": "12√2 m",
-"Correct": "C"
-},
-{
-"Question": "Find the odd one out. / विषम को चुनिए।",
-"A": "Delhi / दिल्ली",
-"B": "Chennai / चेन्नई",
-"C": "Kolkata / कोलकाता",
-"D": "Nagpur / नागपुर",
-"Correct": "D"
-},
-{
-"Question": "Complete the analogy. / सादृश्यता को पूरा करें।\n\n64 : 8 :: 121 : ?",
-"A": "9",
-"B": "10",
-"C": "11",
-"D": "12",
-"Correct": "C"
-},
-{
-"Question": "Find the missing character in the sequence. / अनुक्रम में लुप्त वर्ण ज्ञात कीजिए।\n\nC, F, J, O, U, ?",
-"A": "B",
-"B": "C",
-"C": "D",
-"D": "Z",
-"Correct": "B"
-},
-{
-"Question": "Select the related word from the given alternatives. / दिए गए विकल्पों में से संबंधित शब्द को चुनिए।\n\nPainter : Brush :: Chef : ? / चित्रकार : ब्रश :: शेफ : ?",
-"A": "Knife / चाकू",
-"B": "Spoon / चम्मच",
-"C": "Spatula / पलटा",
-"D": "Food / भोजन",
-"Correct": "C"
-},
-{
-"Question": "Select the related number. / संबंधित संख्या चुनिए।\n\n5 : 25 :: 6 : ?",
+  {
+    "Question": "Select the related word from the given alternatives. / दिए गए विकल्पों में से संबंधित शब्द को चुनिए।\n\nDoctor : Hospital :: Teacher : ? / डॉक्टर : अस्पताल :: शिक्षक : ?",
+    "A": "School / विद्यालय",
+    "B": "Library / पुस्तकालय",
+    "C": "Market / बाज़ार",
+    "D": "Bank / बैंक",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the related number from the given alternatives. / दिए गए विकल्पों में से संबंधित संख्या को चुनिए।\n\n7 : 49 :: 9 : ? / 7 : 49 :: 9 : ?",
+    "A": "72",
+    "B": "81",
+    "C": "90",
+    "D": "99",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the related letters from the given alternatives. / दिए गए विकल्पों में से संबंधित अक्षरों को चुनिए।\n\nACE : BDF :: GIK : ?",
+    "A": "HJL",
+    "B": "HKM",
+    "C": "IJL",
+    "D": "HJM",
+    "Correct": "A"
+  },
+  {
+    "Question": "Find the odd word from the given alternatives. / दिए गए विकल्पों में से विषम शब्द चुनिए।",
+    "A": "Rose / गुलाब",
+    "B": "Lotus / कमल",
+    "C": "Lily / लिली",
+    "D": "Mango / आम",
+    "Correct": "D"
+  },
+  {
+    "Question": "Find the odd number-pair from the given alternatives. / दिए गए विकल्पों में से विषम संख्या-युग्म चुनिए।",
+    "A": "11, 121",
+    "B": "13, 169",
+    "C": "15, 225",
+    "D": "17, 280",
+    "Correct": "D"
+  },
+  {
+    "Question": "A series is given with one term missing. Choose the correct alternative. / एक श्रृंखला दी गई है जिसमें एक पद लुप्त है। सही विकल्प चुनिए।\n\n3, 6, 12, 24, 48, ?",
+    "A": "72",
+    "B": "84",
+    "C": "96",
+    "D": "100",
+    "Correct": "C"
+  },
+  {
+    "Question": "Choose the correct alternative to complete the series. / श्रृंखला को पूरा करने के लिए सही विकल्प चुनिए।\n\nA, C, F, J, O, ?",
+    "A": "T",
+    "B": "U",
+    "C": "V",
+    "D": "W",
+    "Correct": "B"
+  },
+  {
+    "Question": "Arrange the following words in a meaningful order. / निम्नलिखित शब्दों को सार्थक क्रम में व्यवस्थित करें।\n\n1. Seed, 2. Fruit, 3. Plant, 4. Flower / 1. बीज, 2. फल, 3. पौधा, 4. फूल",
+    "A": "1, 3, 4, 2",
+    "B": "1, 4, 3, 2",
+    "C": "3, 1, 4, 2",
+    "D": "1, 3, 2, 4",
+    "Correct": "A"
+  },
+  {
+    "Question": "If 'PEN' is coded as 'QFO', then how will 'BOOK' be coded? / यदि 'PEN' को 'QFO' कोडित किया जाता है, तो 'BOOK' को कैसे कोडित किया जाएगा?",
+    "A": "CPPL",
+    "B": "CPPM",
+    "C": "DQQL",
+    "D": "CQPL",
+    "Correct": "A"
+  },
+  {
+    "Question": "If '+' means '−', '−' means '×', '×' means '÷' and '÷' means '+', then find the value of 18 + 6 − 3 × 2 ÷ 4. / यदि '+' का अर्थ '−', '−' का अर्थ '×', '×' का अर्थ '÷' और '÷' का अर्थ '+' है, तो 18 + 6 − 3 × 2 ÷ 4 का मान ज्ञात कीजिए।",
+    "A": "20",
+    "B": "18",
+    "C": "24",
+    "D": "16",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the missing number. / लुप्त संख्या चुनिए।\n\n5   6\n30  ?",
+    "A": "36",
+    "B": "30",
+    "C": "35",
+    "D": "42",
+    "Correct": "A"
+  },
+  {
+    "Question": "A man walks 8 km towards East and then turns left and walks 6 km. In which direction is he from the starting point? / एक व्यक्ति पूर्व दिशा में 8 किमी चलता है और फिर बाएँ मुड़कर 6 किमी चलता है। वह प्रारंभिक बिंदु से किस दिशा में है?",
+    "A": "North-East / उत्तर-पूर्व",
+    "B": "South-East / दक्षिण-पूर्व",
+    "C": "North-West / उत्तर-पश्चिम",
+    "D": "South-West / दक्षिण-पश्चिम",
+    "Correct": "A"
+  },
+  {
+    "Question": "Statements: All apples are fruits. All fruits are healthy. Conclusions: I. All apples are healthy. II. Some healthy things are apples. / कथन: सभी सेब फल हैं। सभी फल स्वास्थ्यवर्धक हैं। निष्कर्ष: I. सभी सेब स्वास्थ्यवर्धक हैं। II. कुछ स्वास्थ्यवर्धक वस्तुएँ सेब हैं।",
+    "A": "Only I follows / केवल I अनुसरण करता है",
+    "B": "Only II follows / केवल II अनुसरण करता है",
+    "C": "Both I and II follow / I और II दोनों अनुसरण करते हैं",
+    "D": "Neither follows / कोई भी अनुसरण नहीं करता",
+    "Correct": "C"
+  },
+  {
+    "Question": "Introducing a boy, a woman said, 'He is the son of the daughter of my mother.' How is the boy related to the woman? / एक लड़के का परिचय देते हुए एक महिला ने कहा, 'वह मेरी माँ की बेटी का बेटा है।' लड़का महिला से किस प्रकार संबंधित है?",
+    "A": "Son / पुत्र",
+    "B": "Nephew / भांजा",
+    "C": "Brother / भाई",
+    "D": "Grandson / पोता",
+    "Correct": "A"
+  },
+  {
+    "Question": "Find the missing term in the series. / श्रृंखला में लुप्त पद ज्ञात कीजिए।\n\n2, 5, 10, 17, 26, ?",
+    "A": "35",
+    "B": "37",
+    "C": "39",
+    "D": "41",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the odd letters from the given alternatives. / दिए गए विकल्पों में से विषम अक्षर चुनिए।",
+    "A": "BCD",
+    "B": "FGH",
+    "C": "JKL",
+    "D": "PQS",
+    "Correct": "D"
+  },
+  {
+    "Question": "Which word cannot be formed from the letters of the word 'EDUCATION'? / 'EDUCATION' शब्द के अक्षरों से कौन सा शब्द नहीं बनाया जा सकता है?",
+    "A": "ACTION",
+    "B": "CAUTION",
+    "C": "TONIC",
+    "D": "DONATE",
+    "Correct": "D"
+  },
+  {
+    "Question": "Select the related word. / संबंधित शब्द चुनिए।\n\nBird : Nest :: Lion : ? / पक्षी : घोंसला :: शेर : ?",
+    "A": "Den / मांद",
+    "B": "Cave / गुफा",
+    "C": "Forest / जंगल",
+    "D": "Tree / पेड़",
+    "Correct": "A"
+  },
+  {
+    "Question": "Find the missing number. / लुप्त संख्या ज्ञात कीजिए।\n\n1, 4, 9, 16, 25, ?",
+    "A": "30",
+    "B": "36",
+    "C": "49",
+    "D": "64",
+    "Correct": "B"
+  },
+  {
+    "Question": "In a row of 40 students, Ravi is 12th from the left. What is his position from the right? / 40 छात्रों की एक पंक्ति में, रवि बाएँ से 12वें स्थान पर है। दाएँ से उसका स्थान क्या होगा?",
+    "A": "28th / 28वाँ",
+    "B": "29th / 29वाँ",
+    "C": "30th / 30वाँ",
+    "D": "31st / 31वाँ",
+    "Correct": "B"
+  },
+  {
+    "Question": "If CAT = 24 and DOG = 26, then BAT = ? / यदि CAT = 24 और DOG = 26 है, तो BAT = ?",
+    "A": "23",
+    "B": "24",
+    "C": "25",
+    "D": "22",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct mirror image of the word INDIA. / INDIA शब्द की सही दर्पण छवि चुनिए।",
+    "A": "AIDNI",
+    "B": "INDIA",
+    "C": "AIDNI (mirror form) / AIDNI (दर्पण रूप)",
+    "D": "IDNIA",
+    "Correct": "C"
+  },
+  {
+    "Question": "Point B is 10 m east of A. Point C is 10 m north of B. What is the shortest distance between A and C? / बिंदु B, A के पूर्व में 10 मीटर है। बिंदु C, B के उत्तर में 10 मीटर है। A और C के बीच न्यूनतम दूरी क्या है?",
+    "A": "20 m",
+    "B": "15 m",
+    "C": "10√2 m",
+    "D": "12√2 m",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find the odd one out. / विषम को चुनिए।",
+    "A": "Delhi / दिल्ली",
+    "B": "Chennai / चेन्नई",
+    "C": "Kolkata / कोलकाता",
+    "D": "Nagpur / नागपुर",
+    "Correct": "D"
+  },
+  {
+    "Question": "Complete the analogy. / सादृश्यता को पूरा करें।\n\n64 : 8 :: 121 : ?",
+    "A": "9",
+    "B": "10",
+    "C": "11",
+    "D": "12",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find the missing character in the sequence. / अनुक्रम में लुप्त वर्ण ज्ञात कीजिए।\n\nC, F, J, O, U, ?",
+    "A": "B",
+    "B": "C",
+    "C": "D",
+    "D": "Z",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the related word from the given alternatives. / दिए गए विकल्पों में से संबंधित शब्द को चुनिए।\n\nPainter : Brush :: Chef : ? / चित्रकार : ब्रश :: शेफ : ?",
+    "A": "Knife / चाकू",
+    "B": "Spoon / चम्मच",
+    "C": "Spatula / पलटा",
+    "D": "Food / भोजन",
+    "Correct": "C"
+  },
+  {
+    "Question": "Select the related number. / संबंधित संख्या चुनिए।\n\n5 : 25 :: 6 : ?",
     "A": "30",
     "B": "36",
     "C": "40",
@@ -584,7 +584,7 @@
     "Correct": "A"
   },
   {
-    "Question": "Triangle count. / त्रिभुज गिनती।\nSimple figure question.",
+    "Question": "Triangle count. / त्रिभुज गिनती।\nStandard figure question.",
     "A": "6",
     "B": "8",
     "C": "10",
@@ -600,11 +600,11 @@
     "Correct": "D"
   },
   {
-    "Question": "Number pattern. / संख्या पैटर्न।\n7, 14, 28, 56, ?",
-    "A": "108",
-    "B": "112",
-    "C": "120",
-    "D": "124",
+    "Question": "Number pattern. / संख्या पैटर्न।\n6, 12, 24, 48, ?",
+    "A": "90",
+    "B": "96",
+    "C": "100",
+    "D": "108",
     "Correct": "B"
   },
   {
