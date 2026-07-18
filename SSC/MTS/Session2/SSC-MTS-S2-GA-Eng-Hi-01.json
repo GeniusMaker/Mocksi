@@ -1,1 +1,802 @@
-
+[
+{
+"Question":"Who was the first President of India? / भारत के प्रथम राष्ट्रपति कौन थे?",
+"A":"Dr. Rajendra Prasad / डॉ. राजेंद्र प्रसाद",
+"B":"Dr. S. Radhakrishnan / डॉ. एस. राधाकृष्णन",
+"C":"Jawaharlal Nehru / जवाहरलाल नेहरू",
+"D":"Dr. Zakir Husain / डॉ. ज़ाकिर हुसैन",
+"Correct":"A"
+},
+{
+"Question":"Which is the largest planet in the Solar System? / सौरमंडल का सबसे बड़ा ग्रह कौन-सा है?",
+"A":"Earth / पृथ्वी",
+"B":"Jupiter / बृहस्पति",
+"C":"Saturn / शनि",
+"D":"Mars / मंगल",
+"Correct":"B"
+},
+{
+"Question":"The Constitution of India came into force on: / भारत का संविधान कब लागू हुआ?",
+"A":"15 August 1947 / 15 अगस्त 1947",
+"B":"26 January 1950 / 26 जनवरी 1950",
+"C":"26 November 1949 / 26 नवंबर 1949",
+"D":"2 October 1950 / 2 अक्टूबर 1950",
+"Correct":"B"
+},
+{
+"Question":"Which river is known as the 'Sorrow of Bihar'? / किस नदी को 'बिहार का शोक' कहा जाता है?",
+"A":"Ganga / गंगा",
+"B":"Kosi / कोसी",
+"C":"Yamuna / यमुना",
+"D":"Son / सोन",
+"Correct":"B"
+},
+{
+"Question":"Who wrote the National Anthem of India? / भारत का राष्ट्रगान किसने लिखा?",
+"A":"Bankim Chandra Chattopadhyay / बंकिम चंद्र चट्टोपाध्याय",
+"B":"Rabindranath Tagore / रवीन्द्रनाथ टैगोर",
+"C":"Sarojini Naidu / सरोजिनी नायडू",
+"D":"Subramania Bharati / सुब्रमण्यम भारती",
+"Correct":"B"
+},
+{
+"Question":"The SI unit of force is: / बल का SI मात्रक क्या है?",
+"A":"Joule / जूल",
+"B":"Newton / न्यूटन",
+"C":"Watt / वाट",
+"D":"Pascal / पास्कल",
+"Correct":"B"
+},
+{
+"Question":"Which vitamin is mainly obtained from sunlight? / सूर्य के प्रकाश से मुख्यतः कौन-सा विटामिन प्राप्त होता है?",
+"A":"Vitamin A / विटामिन A",
+"B":"Vitamin B12 / विटामिन B12",
+"C":"Vitamin C / विटामिन C",
+"D":"Vitamin D / विटामिन D",
+"Correct":"D"
+},
+{
+"Question":"Who founded the Maurya Empire? / मौर्य साम्राज्य की स्थापना किसने की थी?",
+"A":"Ashoka / अशोक",
+"B":"Bindusara / बिंदुसार",
+"C":"Chandragupta Maurya / चंद्रगुप्त मौर्य",
+"D":"Harsha / हर्ष",
+"Correct":"C"
+},
+{
+"Question":"Which is the capital of Assam? / असम की राजधानी क्या है?",
+"A":"Dispur / दिसपुर",
+"B":"Shillong / शिलांग",
+"C":"Itanagar / ईटानगर",
+"D":"Agartala / अगरतला",
+"Correct":"A"
+},
+{
+"Question":"The headquarters of ISRO is located at: / इसरो (ISRO) का मुख्यालय कहाँ स्थित है?",
+"A":"Hyderabad / हैदराबाद",
+"B":"New Delhi / नई दिल्ली",
+"C":"Bengaluru / बेंगलुरु",
+"D":"Chennai / चेन्नई",
+"Correct":"C"
+},
+{
+"Question":"Which gas is most abundant in Earth's atmosphere? / पृथ्वी के वायुमंडल में सबसे अधिक मात्रा में कौन-सी गैस है?",
+"A":"Oxygen / ऑक्सीजन",
+"B":"Nitrogen / नाइट्रोजन",
+"C":"Carbon Dioxide / कार्बन डाइऑक्साइड",
+"D":"Hydrogen / हाइड्रोजन",
+"Correct":"B"
+},
+{
+"Question":"Which Article of the Indian Constitution deals with Equality before Law? / भारतीय संविधान का कौन-सा अनुच्छेद कानून के समक्ष समानता से संबंधित है?",
+"A":"Article 14 / अनुच्छेद 14",
+"B":"Article 19 / अनुच्छेद 19",
+"C":"Article 21 / अनुच्छेद 21",
+"D":"Article 32 / अनुच्छेद 32",
+"Correct":"A"
+},
+{
+"Question":"The Battle of Plassey was fought in: / प्लासी का युद्ध किस वर्ष लड़ा गया था?",
+"A":"1757",
+"B":"1761",
+"C":"1764",
+"D":"1857",
+"Correct":"A"
+},
+{
+"Question":"Which device is known as the brain of a computer? / कंप्यूटर का मस्तिष्क किसे कहा जाता है?",
+"A":"Monitor / मॉनिटर",
+"B":"Keyboard / कीबोर्ड",
+"C":"CPU / सीपीयू",
+"D":"Printer / प्रिंटर",
+"Correct":"C"
+},
+{
+"Question":"World Environment Day is observed on: / विश्व पर्यावरण दिवस कब मनाया जाता है?",
+"A":"22 April / 22 अप्रैल",
+"B":"5 June / 5 जून",
+"C":"8 March / 8 मार्च",
+"D":"1 December / 1 दिसंबर",
+"Correct":"B"
+},
+{
+"Question":"Who is known as the 'Iron Man of India'? / 'भारत का लौह पुरुष' किसे कहा जाता है?",
+"A":"Mahatma Gandhi / महात्मा गांधी",
+"B":"Jawaharlal Nehru / जवाहरलाल नेहरू",
+"C":"Sardar Vallabhbhai Patel / सरदार वल्लभभाई पटेल",
+"D":"Subhas Chandra Bose / सुभाष चंद्र बोस",
+"Correct":"C"
+},
+{
+"Question":"Which is the longest river in India? / भारत की सबसे लंबी नदी कौन-सी है?",
+"A":"Yamuna / यमुना",
+"B":"Godavari / गोदावरी",
+"C":"Ganga / गंगा",
+"D":"Krishna / कृष्णा",
+"Correct":"C"
+},
+{
+"Question":"Which planet is known as the Red Planet? / किस ग्रह को लाल ग्रह कहा जाता है?",
+"A":"Venus / शुक्र",
+"B":"Mars / मंगल",
+"C":"Mercury / बुध",
+"D":"Jupiter / बृहस्पति",
+"Correct":"B"
+},
+{
+"Question":"Who gave the slogan 'Jai Jawan Jai Kisan'? / 'जय जवान जय किसान' का नारा किसने दिया?",
+"A":"Indira Gandhi / इंदिरा गांधी",
+"B":"Lal Bahadur Shastri / लाल बहादुर शास्त्री",
+"C":"Mahatma Gandhi / महात्मा गांधी",
+"D":"Dr. B. R. Ambedkar / डॉ. बी. आर. आंबेडकर",
+"Correct":"B"
+},
+{
+"Question":"The headquarters of the Reserve Bank of India is located in: / भारतीय रिज़र्व बैंक का मुख्यालय कहाँ स्थित है?",
+"A":"New Delhi / नई दिल्ली",
+"B":"Mumbai / मुंबई",
+"C":"Kolkata / कोलकाता",
+"D":"Chennai / चेन्नई",
+"Correct":"B"
+},
+{
+"Question":"Which vitamin helps in blood clotting? / रक्त का थक्का जमाने में कौन-सा विटामिन सहायक है?",
+"A":"Vitamin A / विटामिन A",
+"B":"Vitamin C / विटामिन C",
+"C":"Vitamin D / विटामिन D",
+"D":"Vitamin K / विटामिन K",
+"Correct":"D"
+},
+{
+"Question":"Which Mughal emperor built the Red Fort in Delhi? / दिल्ली के लाल किले का निर्माण किस मुगल शासक ने करवाया था?",
+"A":"Akbar / अकबर",
+"B":"Jahangir / जहाँगीर",
+"C":"Shah Jahan / शाहजहाँ",
+"D":"Aurangzeb / औरंगज़ेब",
+"Correct":"C"
+},
+{
+"Question":"Which is the largest state of India by area? / क्षेत्रफल की दृष्टि से भारत का सबसे बड़ा राज्य कौन-सा है?",
+"A":"Madhya Pradesh / मध्य प्रदेश",
+"B":"Uttar Pradesh / उत्तर प्रदेश",
+"C":"Maharashtra / महाराष्ट्र",
+"D":"Rajasthan / राजस्थान",
+"Correct":"D"
+},
+{
+"Question":"The SI unit of electric current is: / विद्युत धारा का SI मात्रक क्या है?",
+"A":"Volt / वोल्ट",
+"B":"Ampere / एम्पीयर",
+"C":"Ohm / ओम",
+"D":"Watt / वाट",
+"Correct":"B"
+},
+{
+"Question":"Which Fundamental Right is abolished by the 44th Constitutional Amendment? / 44वें संविधान संशोधन द्वारा कौन-सा मौलिक अधिकार समाप्त किया गया?",
+"A":"Right to Equality / समानता का अधिकार",
+"B":"Right to Freedom / स्वतंत्रता का अधिकार",
+"C":"Right to Property / संपत्ति का अधिकार",
+"D":"Right against Exploitation / शोषण के विरुद्ध अधिकार",
+"Correct":"C"
+},
+{
+"Question":"Who wrote the book 'Discovery of India'? / 'डिस्कवरी ऑफ इंडिया' पुस्तक किसने लिखी?",
+"A":"Mahatma Gandhi / महात्मा गांधी",
+"B":"Jawaharlal Nehru / जवाहरलाल नेहरू",
+"C":"Rabindranath Tagore / रवीन्द्रनाथ टैगोर",
+"D":"Dr. B. R. Ambedkar / डॉ. बी. आर. आंबेडकर",
+"Correct":"B"
+},
+{
+"Question":"Which layer of the Earth is made of molten magma? / पृथ्वी की कौन-सी परत पिघले हुए मैग्मा से बनी होती है?",
+"A":"Crust / भूपर्पटी",
+"B":"Mantle / मैंटल",
+"C":"Core / क्रोड",
+"D":"Lithosphere / स्थलमंडल",
+"Correct":"B"
+},
+{
+"Question":"Which Indian state is famous for the Kaziranga National Park? / काजीरंगा राष्ट्रीय उद्यान किस राज्य में स्थित है?",
+"A":"West Bengal / पश्चिम बंगाल",
+"B":"Assam / असम",
+"C":"Odisha / ओडिशा",
+"D":"Bihar / बिहार",
+"Correct":"B"
+},
+{
+"Question":"Which key is used to refresh a webpage in a browser? / ब्राउज़र में वेबपेज को रिफ्रेश करने के लिए कौन-सी कुंजी का उपयोग किया जाता है?",
+"A":"F2",
+"B":"F5",
+"C":"F8",
+"D":"F10",
+"Correct":"B"
+},
+{
+"Question":"National Science Day is celebrated on: / राष्ट्रीय विज्ञान दिवस कब मनाया जाता है?",
+"A":"28 February / 28 फ़रवरी",
+"B":"5 June / 5 जून",
+"C":"15 August / 15 अगस्त",
+"D":"14 November / 14 नवंबर",
+"Correct":"A"
+},
+{
+"Question":"Who is known as the 'Father of the Indian Constitution'? / भारतीय संविधान के जनक किसे कहा जाता है?",
+"A":"Dr. B. R. Ambedkar / डॉ. बी. आर. आंबेडकर",
+"B":"Jawaharlal Nehru / जवाहरलाल नेहरू",
+"C":"Sardar Vallabhbhai Patel / सरदार वल्लभभाई पटेल",
+"D":"Rajendra Prasad / राजेंद्र प्रसाद",
+"Correct":"A"
+},
+{
+"Question":"Which is the smallest state of India by area? / क्षेत्रफल की दृष्टि से भारत का सबसे छोटा राज्य कौन-सा है?",
+"A":"Sikkim / सिक्किम",
+"B":"Tripura / त्रिपुरा",
+"C":"Goa / गोवा",
+"D":"Nagaland / नागालैंड",
+"Correct":"C"
+},
+{
+"Question":"Which gas is essential for respiration in human beings? / मनुष्यों में श्वसन के लिए कौन-सी गैस आवश्यक है?",
+"A":"Nitrogen / नाइट्रोजन",
+"B":"Hydrogen / हाइड्रोजन",
+"C":"Oxygen / ऑक्सीजन",
+"D":"Carbon Dioxide / कार्बन डाइऑक्साइड",
+"Correct":"C"
+},
+{
+"Question":"The Quit India Movement was launched in: / भारत छोड़ो आंदोलन कब प्रारंभ किया गया था?",
+"A":"1940",
+"B":"1941",
+"C":"1942",
+"D":"1943",
+"Correct":"C"
+},
+{
+"Question":"Which is the largest ocean on Earth? / पृथ्वी का सबसे बड़ा महासागर कौन-सा है?",
+"A":"Atlantic Ocean / अटलांटिक महासागर",
+"B":"Indian Ocean / हिंद महासागर",
+"C":"Pacific Ocean / प्रशांत महासागर",
+"D":"Arctic Ocean / आर्कटिक महासागर",
+"Correct":"C"
+},
+{
+"Question":"The SI unit of power is: / शक्ति का SI मात्रक क्या है?",
+"A":"Joule / जूल",
+"B":"Newton / न्यूटन",
+"C":"Watt / वाट",
+"D":"Pascal / पास्कल",
+"Correct":"C"
+},
+{
+"Question":"Which vitamin is also known as Ascorbic Acid? / एस्कॉर्बिक अम्ल किस विटामिन का नाम है?",
+"A":"Vitamin A / विटामिन A",
+"B":"Vitamin B / विटामिन B",
+"C":"Vitamin C / विटामिन C",
+"D":"Vitamin D / विटामिन D",
+"Correct":"C"
+},
+{
+"Question":"Who was the founder of the Gupta Empire? / गुप्त साम्राज्य के संस्थापक कौन थे?",
+"A":"Samudragupta / समुद्रगुप्त",
+"B":"Chandragupta I / चंद्रगुप्त प्रथम",
+"C":"Chandragupta II / चंद्रगुप्त द्वितीय",
+"D":"Skandagupta / स्कंदगुप्त",
+"Correct":"B"
+},
+{
+"Question":"Which state is known as the 'Spice Garden of India'? / 'भारत का मसाला उद्यान' किस राज्य को कहा जाता है?",
+"A":"Tamil Nadu / तमिलनाडु",
+"B":"Karnataka / कर्नाटक",
+"C":"Kerala / केरल",
+"D":"Andhra Pradesh / आंध्र प्रदेश",
+"Correct":"C"
+},
+{
+"Question":"The headquarters of the Election Commission of India is located in: / भारत निर्वाचन आयोग का मुख्यालय कहाँ स्थित है?",
+"A":"Mumbai / मुंबई",
+"B":"Kolkata / कोलकाता",
+"C":"New Delhi / नई दिल्ली",
+"D":"Chennai / चेन्नई",
+"Correct":"C"
+},
+{
+"Question":"Which computer device is known as the 'brain' of the computer? / कंप्यूटर का 'मस्तिष्क' किसे कहा जाता है?",
+"A":"Monitor / मॉनिटर",
+"B":"CPU / सीपीयू",
+"C":"Keyboard / कीबोर्ड",
+"D":"Mouse / माउस",
+"Correct":"B"
+},
+{
+"Question":"World Health Day is celebrated on: / विश्व स्वास्थ्य दिवस कब मनाया जाता है?",
+"A":"7 April / 7 अप्रैल",
+"B":"5 June / 5 जून",
+"C":"1 December / 1 दिसंबर",
+"D":"24 October / 24 अक्टूबर",
+"Correct":"A"
+},
+{
+"Question":"Who composed the song 'Vande Mataram'? / 'वंदे मातरम्' की रचना किसने की?",
+"A":"Rabindranath Tagore / रवीन्द्रनाथ टैगोर",
+"B":"Bankim Chandra Chattopadhyay / बंकिम चंद्र चट्टोपाध्याय",
+"C":"Sarojini Naidu / सरोजिनी नायडू",
+"D":"Maithili Sharan Gupt / मैथिलीशरण गुप्त",
+"Correct":"B"
+},
+{
+"Question":"Which Fundamental Duty was added by the 86th Constitutional Amendment? / 86वें संविधान संशोधन द्वारा कौन-सा मौलिक कर्तव्य जोड़ा गया?",
+"A":"To protect public property / सार्वजनिक संपत्ति की रक्षा करना",
+"B":"To develop scientific temper / वैज्ञानिक दृष्टिकोण विकसित करना",
+"C":"To provide education opportunities to children between 6 and 14 years by parents or guardians / 6 से 14 वर्ष के बच्चों को शिक्षा दिलाना माता-पिता या अभिभावकों का कर्तव्य",
+"D":"To safeguard national heritage / राष्ट्रीय धरोहर की रक्षा करना",
+"Correct":"C"
+},
+{
+"Question":"Which planet is known as the 'Morning Star' or 'Evening Star'? / किस ग्रह को 'प्रातः तारा' या 'साँझ का तारा' कहा जाता है?",
+"A":"Mars / मंगल",
+"B":"Mercury / बुध",
+"C":"Venus / शुक्र",
+"D":"Jupiter / बृहस्पति",
+"Correct":"C"
+},
+{
+"Question":"Who was the first Governor-General of independent India? / स्वतंत्र भारत के प्रथम गवर्नर-जनरल कौन थे?",
+"A":"Lord Mountbatten / लॉर्ड माउंटबेटन",
+"B":"C. Rajagopalachari / सी. राजगोपालाचारी",
+"C":"Dr. Rajendra Prasad / डॉ. राजेंद्र प्रसाद",
+"D":"Lord Canning / लॉर्ड कैनिंग",
+"Correct":"A"
+},
+{
+"Question":"Which is the highest civilian award in India? / भारत का सर्वोच्च नागरिक सम्मान कौन-सा है?",
+"A":"Padma Shri / पद्म श्री",
+"B":"Padma Bhushan / पद्म भूषण",
+"C":"Padma Vibhushan / पद्म विभूषण",
+"D":"Bharat Ratna / भारत रत्न",
+"Correct":"D"
+},
+{
+"Question":"Which is the longest dam in India? / भारत का सबसे लंबा बांध कौन-सा है?",
+"A":"Bhakra Dam / भाखड़ा बांध",
+"B":"Hirakud Dam / हीराकुंड बांध",
+"C":"Tehri Dam / टिहरी बांध",
+"D":"Sardar Sarovar Dam / सरदार सरोवर बांध",
+"Correct":"B"
+},
+{
+"Question":"The study of earthquakes is known as: / भूकंपों के अध्ययन को क्या कहा जाता है?",
+"A":"Meteorology / मौसम विज्ञान",
+"B":"Seismology / भूकंप विज्ञान",
+"C":"Ecology / पारिस्थितिकी",
+"D":"Geology / भूविज्ञान",
+"Correct":"B"
+},
+{
+"Question":"Which Indian classical dance form originated in Kerala? / केरल का प्रसिद्ध शास्त्रीय नृत्य कौन-सा है?",
+"A":"Bharatanatyam / भरतनाट्यम",
+"B":"Kathak / कथक",
+"C":"Kathakali / कथकली",
+"D":"Kuchipudi / कुचिपुड़ी",
+"Correct":"C"
+},
+{
+"Question":"Which Article of the Indian Constitution abolishes untouchability? / भारतीय संविधान का कौन-सा अनुच्छेद अस्पृश्यता का उन्मूलन करता है?",
+"A":"Article 14 / अनुच्छेद 14",
+"B":"Article 15 / अनुच्छेद 15",
+"C":"Article 17 / अनुच्छेद 17",
+"D":"Article 21 / अनुच्छेद 21",
+"Correct":"C"
+},
+{
+"Question":"Which is the currency of Japan? / जापान की मुद्रा क्या है?",
+"A":"Won / वॉन",
+"B":"Yuan / युआन",
+"C":"Yen / येन",
+"D":"Dollar / डॉलर",
+"Correct":"C"
+},
+{
+"Question":"Which blood group is known as the universal donor? / किस रक्त समूह को सार्वभौमिक दाता कहा जाता है?",
+"A":"A / A",
+"B":"B / B",
+"C":"AB / AB",
+"D":"O Negative / O ऋणात्मक",
+"Correct":"D"
+},
+{
+"Question":"Who discovered the sea route to India via the Cape of Good Hope? / केप ऑफ गुड होप के रास्ते भारत का समुद्री मार्ग किसने खोजा था?",
+"A":"Christopher Columbus / क्रिस्टोफर कोलंबस",
+"B":"Vasco da Gama / वास्को-डी-गामा",
+"C":"Marco Polo / मार्को पोलो",
+"D":"Ferdinand Magellan / फर्डिनेंड मैगलन",
+"Correct":"B"
+},
+{
+"Question":"Which is the largest gland in the human body? / मानव शरीर की सबसे बड़ी ग्रंथि कौन-सी है?",
+"A":"Pancreas / अग्न्याशय",
+"B":"Liver / यकृत",
+"C":"Thyroid / थायरॉयड",
+"D":"Pituitary / पिट्यूटरी",
+"Correct":"B"
+},
+{
+"Question":"The headquarters of UNESCO is located in: / यूनेस्को का मुख्यालय कहाँ स्थित है?",
+"A":"New York / न्यूयॉर्क",
+"B":"Geneva / जिनेवा",
+"C":"Paris / पेरिस",
+"D":"London / लंदन",
+"Correct":"C"
+},
+{
+"Question":"Which key combination is commonly used to copy selected text in Windows? / विंडोज़ में चयनित पाठ की प्रतिलिपि बनाने के लिए कौन-सा कुंजी संयोजन उपयोग किया जाता है?",
+"A":"Ctrl + X",
+"B":"Ctrl + V",
+"C":"Ctrl + C",
+"D":"Ctrl + Z",
+"Correct":"C"
+},
+{
+"Question":"Who is known as the 'Missile Man of India'? / 'मिसाइल मैन ऑफ इंडिया' किसे कहा जाता है?",
+"A":"Dr. Vikram Sarabhai / डॉ. विक्रम साराभाई",
+"B":"Dr. A. P. J. Abdul Kalam / डॉ. ए. पी. जे. अब्दुल कलाम",
+"C":"Homi J. Bhabha / होमी जे. भाभा",
+"D":"Satish Dhawan / सतीश धवन",
+"Correct":"B"
+},
+{
+"Question":"Which planet has the maximum number of confirmed natural satellites (moons)? / किस ग्रह के सबसे अधिक पुष्टि किए गए प्राकृतिक उपग्रह (चंद्रमा) हैं?",
+"A":"Jupiter / बृहस्पति",
+"B":"Saturn / शनि",
+"C":"Uranus / अरुण",
+"D":"Neptune / वरुण",
+"Correct":"B"
+},
+{
+"Question":"International Yoga Day is observed on: / अंतर्राष्ट्रीय योग दिवस कब मनाया जाता है?",
+"A":"5 June / 5 जून",
+"B":"21 June / 21 जून",
+"C":"11 July / 11 जुलाई",
+"D":"2 October / 2 अक्टूबर",
+"Correct":"B"
+},
+{
+"Question":"Who is known as the 'Father of the Nation' in India? / भारत में 'राष्ट्रपिता' किसे कहा जाता है?",
+"A":"Subhas Chandra Bose / सुभाष चंद्र बोस",
+"B":"Jawaharlal Nehru / जवाहरलाल नेहरू",
+"C":"Mahatma Gandhi / महात्मा गांधी",
+"D":"Sardar Vallabhbhai Patel / सरदार वल्लभभाई पटेल",
+"Correct":"C"
+},
+{
+"Question":"Which is the highest mountain peak in India? / भारत की सबसे ऊँची पर्वत चोटी कौन-सी है?",
+"A":"Kangchenjunga / कंचनजंगा",
+"B":"Nanda Devi / नंदा देवी",
+"C":"Kamet / कामेत",
+"D":"Anamudi / अनामुडी",
+"Correct":"A"
+},
+{
+"Question":"Which part of the plant prepares food by photosynthesis? / पौधे का कौन-सा भाग प्रकाश संश्लेषण द्वारा भोजन बनाता है?",
+"A":"Root / जड़",
+"B":"Stem / तना",
+"C":"Leaf / पत्ती",
+"D":"Flower / फूल",
+"Correct":"C"
+},
+{
+"Question":"The Battle of Buxar was fought in: / बक्सर का युद्ध किस वर्ष लड़ा गया था?",
+"A":"1757",
+"B":"1761",
+"C":"1764",
+"D":"1857",
+"Correct":"C"
+},
+{
+"Question":"Which is the largest desert in India? / भारत का सबसे बड़ा मरुस्थल कौन-सा है?",
+"A":"Sahara Desert / सहारा मरुस्थल",
+"B":"Thar Desert / थार मरुस्थल",
+"C":"Gobi Desert / गोबी मरुस्थल",
+"D":"Kalahari Desert / कालाहारी मरुस्थल",
+"Correct":"B"
+},
+{
+"Question":"Which Fundamental Right protects freedom of speech and expression? / कौन-सा मौलिक अधिकार वाक् एवं अभिव्यक्ति की स्वतंत्रता प्रदान करता है?",
+"A":"Right to Equality / समानता का अधिकार",
+"B":"Right to Freedom / स्वतंत्रता का अधिकार",
+"C":"Right against Exploitation / शोषण के विरुद्ध अधिकार",
+"D":"Cultural and Educational Rights / सांस्कृतिक एवं शैक्षिक अधिकार",
+"Correct":"B"
+},
+{
+"Question":"Which is the currency of the United Kingdom? / यूनाइटेड किंगडम की मुद्रा क्या है?",
+"A":"Euro / यूरो",
+"B":"Dollar / डॉलर",
+"C":"Pound Sterling / पाउंड स्टर्लिंग",
+"D":"Yen / येन",
+"Correct":"C"
+},
+{
+"Question":"Which gland is known as the 'Master Gland' of the human body? / मानव शरीर की 'मास्टर ग्रंथि' किसे कहा जाता है?",
+"A":"Thyroid / थायरॉयड",
+"B":"Pituitary / पिट्यूटरी",
+"C":"Adrenal / अधिवृक्क",
+"D":"Pancreas / अग्न्याशय",
+"Correct":"B"
+},
+{
+"Question":"Who founded the Brahmo Samaj? / ब्रह्म समाज की स्थापना किसने की थी?",
+"A":"Swami Vivekananda / स्वामी विवेकानंद",
+"B":"Raja Ram Mohan Roy / राजा राममोहन राय",
+"C":"Dayanand Saraswati / दयानंद सरस्वती",
+"D":"Ishwar Chandra Vidyasagar / ईश्वरचंद्र विद्यासागर",
+"Correct":"B"
+},
+{
+"Question":"Which Indian state has the longest coastline? / भारत के किस राज्य की समुद्री तटरेखा सबसे लंबी है?",
+"A":"Tamil Nadu / तमिलनाडु",
+"B":"Andhra Pradesh / आंध्र प्रदेश",
+"C":"Gujarat / गुजरात",
+"D":"Maharashtra / महाराष्ट्र",
+"Correct":"C"
+},
+{
+"Question":"Which device converts AC into DC? / कौन-सा उपकरण AC को DC में बदलता है?",
+"A":"Transformer / ट्रांसफॉर्मर",
+"B":"Rectifier / रेक्टिफायर",
+"C":"Generator / जनरेटर",
+"D":"Inverter / इन्वर्टर",
+"Correct":"B"
+},
+{
+"Question":"Which Constitutional Amendment lowered the voting age from 21 years to 18 years? / किस संविधान संशोधन द्वारा मतदान की आयु 21 वर्ष से घटाकर 18 वर्ष की गई?",
+"A":"42nd Amendment",
+"B":"44th Amendment",
+"C":"61st Amendment",
+"D":"73rd Amendment",
+"Correct":"C"
+},
+{
+"Question":"Which National Park is famous for the Asiatic Lion? / एशियाई शेर के लिए प्रसिद्ध राष्ट्रीय उद्यान कौन-सा है?",
+"A":"Jim Corbett National Park / जिम कॉर्बेट राष्ट्रीय उद्यान",
+"B":"Gir National Park / गिर राष्ट्रीय उद्यान",
+"C":"Kaziranga National Park / काजीरंगा राष्ट्रीय उद्यान",
+"D":"Ranthambore National Park / रणथंभौर राष्ट्रीय उद्यान",
+"Correct":"B"
+},
+{
+"Question":"Which shortcut key is used to save a file in most Windows applications? / अधिकांश विंडोज़ अनुप्रयोगों में फ़ाइल सहेजने के लिए कौन-सी शॉर्टकट कुंजी प्रयोग की जाती है?",
+"A":"Ctrl + P",
+"B":"Ctrl + S",
+"C":"Ctrl + N",
+"D":"Ctrl + O",
+"Correct":"B"
+},
+{
+"Question":"National Voters' Day is celebrated on: / राष्ट्रीय मतदाता दिवस कब मनाया जाता है?",
+"A":"25 January / 25 जनवरी",
+"B":"26 January / 26 जनवरी",
+"C":"24 January / 24 जनवरी",
+"D":"15 August / 15 अगस्त",
+"Correct":"A"
+},
+{
+"Question":"Who was the first Indian to win a Nobel Prize? / नोबेल पुरस्कार जीतने वाले पहले भारतीय कौन थे?",
+"A":"C. V. Raman / सी. वी. रमन",
+"B":"Rabindranath Tagore / रवीन्द्रनाथ टैगोर",
+"C":"Mother Teresa / मदर टेरेसा",
+"D":"Amartya Sen / अमर्त्य सेन",
+"Correct":"B"
+},
+{
+"Question":"Which is the largest freshwater lake in India? / भारत की सबसे बड़ी मीठे पानी की झील कौन-सी है?",
+"A":"Wular Lake / वुलर झील",
+"B":"Chilika Lake / चिल्का झील",
+"C":"Loktak Lake / लोकटक झील",
+"D":"Pulicat Lake / पुलिकट झील",
+"Correct":"A"
+},
+{
+"Question":"Which blood cells help in fighting diseases? / रोगों से लड़ने में कौन-सी रक्त कोशिकाएँ सहायता करती हैं?",
+"A":"Red Blood Cells / लाल रक्त कण",
+"B":"White Blood Cells / श्वेत रक्त कण",
+"C":"Platelets / प्लेटलेट्स",
+"D":"Plasma / प्लाज़्मा",
+"Correct":"B"
+},
+{
+"Question":"The Indian National Congress was founded in: / भारतीय राष्ट्रीय कांग्रेस की स्थापना किस वर्ष हुई थी?",
+"A":"1885",
+"B":"1886",
+"C":"1905",
+"D":"1919",
+"Correct":"A"
+},
+{
+"Question":"Which is the longest river in the world? / विश्व की सबसे लंबी नदी कौन-सी है?",
+"A":"Amazon / अमेज़न",
+"B":"Nile / नील",
+"C":"Yangtze / यांग्त्से",
+"D":"Mississippi / मिसिसिपी",
+"Correct":"B"
+},
+{
+"Question":"Who appoints the Governor of an Indian State? / भारतीय राज्य के राज्यपाल की नियुक्ति कौन करता है?",
+"A":"Prime Minister / प्रधानमंत्री",
+"B":"Chief Minister / मुख्यमंत्री",
+"C":"President of India / भारत के राष्ट्रपति",
+"D":"Parliament / संसद",
+"Correct":"C"
+},
+{
+"Question":"Which gas is commonly known as Laughing Gas? / किस गैस को हँसाने वाली गैस कहा जाता है?",
+"A":"Nitrogen / नाइट्रोजन",
+"B":"Nitrous Oxide / नाइट्रस ऑक्साइड",
+"C":"Carbon Monoxide / कार्बन मोनोऑक्साइड",
+"D":"Sulphur Dioxide / सल्फर डाइऑक्साइड",
+"Correct":"B"
+},
+{
+"Question":"Which Indian city is known as the 'Silicon Valley of India'? / भारत का 'सिलिकॉन वैली' किस शहर को कहा जाता है?",
+"A":"Hyderabad / हैदराबाद",
+"B":"Pune / पुणे",
+"C":"Chennai / चेन्नई",
+"D":"Bengaluru / बेंगलुरु",
+"Correct":"D"
+},
+{
+"Question":"Which is the smallest Union Territory of India by area? / क्षेत्रफल की दृष्टि से भारत का सबसे छोटा केंद्र शासित प्रदेश कौन-सा है?",
+"A":"Delhi / दिल्ली",
+"B":"Lakshadweep / लक्षद्वीप",
+"C":"Chandigarh / चंडीगढ़",
+"D":"Puducherry / पुडुचेरी",
+"Correct":"B"
+},
+{
+"Question":"Who discovered penicillin? / पेनिसिलिन की खोज किसने की थी?",
+"A":"Alexander Fleming / अलेक्जेंडर फ्लेमिंग",
+"B":"Louis Pasteur / लुई पाश्चर",
+"C":"Edward Jenner / एडवर्ड जेनर",
+"D":"Joseph Lister / जोसेफ लिस्टर",
+"Correct":"A"
+},
+{
+"Question":"Which Article of the Constitution provides for Constitutional Remedies? / संविधान का कौन-सा अनुच्छेद संवैधानिक उपचारों का अधिकार प्रदान करता है?",
+"A":"Article 14 / अनुच्छेद 14",
+"B":"Article 19 / अनुच्छेद 19",
+"C":"Article 21 / अनुच्छेद 21",
+"D":"Article 32 / अनुच्छेद 32",
+"Correct":"D"
+},
+{
+"Question":"Which is the largest tiger reserve in India by area? / क्षेत्रफल की दृष्टि से भारत का सबसे बड़ा टाइगर रिजर्व कौन-सा है?",
+"A":"Corbett Tiger Reserve / कॉर्बेट टाइगर रिजर्व",
+"B":"Nagarjunsagar-Srisailam Tiger Reserve / नागार्जुनसागर-श्रीशैलम टाइगर रिजर्व",
+"C":"Bandipur Tiger Reserve / बांदीपुर टाइगर रिजर्व",
+"D":"Kanha Tiger Reserve / कान्हा टाइगर रिजर्व",
+"Correct":"B"
+},
+{
+"Question":"Which shortcut key is used to Undo an action in Windows? / विंडोज़ में किसी कार्य को पूर्ववत (Undo) करने के लिए कौन-सी शॉर्टकट कुंजी प्रयोग की जाती है?",
+"A":"Ctrl + Y",
+"B":"Ctrl + X",
+"C":"Ctrl + Z",
+"D":"Ctrl + U",
+"Correct":"C"
+},
+{
+"Question":"World Water Day is observed on: / विश्व जल दिवस कब मनाया जाता है?",
+"A":"21 March / 21 मार्च",
+"B":"22 March / 22 मार्च",
+"C":"5 June / 5 जून",
+"D":"16 September / 16 सितंबर",
+"Correct":"B"
+},
+{
+"Question":"Who wrote the Indian National Song 'Vande Mataram'? / भारत का राष्ट्रीय गीत 'वंदे मातरम्' किसने लिखा?",
+"A":"Rabindranath Tagore / रवीन्द्रनाथ टैगोर",
+"B":"Bankim Chandra Chattopadhyay / बंकिम चंद्र चट्टोपाध्याय",
+"C":"Sarojini Naidu / सरोजिनी नायडू",
+"D":"Subramania Bharati / सुब्रमण्यम भारती",
+"Correct":"B"
+},
+{
+"Question":"Which is the largest planet after Jupiter? / बृहस्पति के बाद दूसरा सबसे बड़ा ग्रह कौन-सा है?",
+"A":"Mars / मंगल",
+"B":"Saturn / शनि",
+"C":"Uranus / अरुण",
+"D":"Neptune / वरुण",
+"Correct":"B"
+},
+{
+"Question":"The headquarters of the World Health Organization (WHO) is located in: / विश्व स्वास्थ्य संगठन (WHO) का मुख्यालय कहाँ स्थित है?",
+"A":"Paris / पेरिस",
+"B":"New York / न्यूयॉर्क",
+"C":"Geneva / जिनेवा",
+"D":"London / लंदन",
+"Correct":"C"
+},
+{
+"Question":"Who was the founder of the Mughal Empire in India? / भारत में मुगल साम्राज्य की स्थापना किसने की थी?",
+"A":"Humayun / हुमायूँ",
+"B":"Akbar / अकबर",
+"C":"Babur / बाबर",
+"D":"Sher Shah Suri / शेरशाह सूरी",
+"Correct":"C"
+},
+{
+"Question":"Which Indian state is the largest producer of tea? / भारत में चाय का सबसे बड़ा उत्पादक राज्य कौन-सा है?",
+"A":"West Bengal / पश्चिम बंगाल",
+"B":"Assam / असम",
+"C":"Tamil Nadu / तमिलनाडु",
+"D":"Kerala / केरल",
+"Correct":"B"
+},
+{
+"Question":"The SI unit of frequency is: / आवृत्ति का SI मात्रक क्या है?",
+"A":"Pascal / पास्कल",
+"B":"Hertz / हर्ट्ज़",
+"C":"Joule / जूल",
+"D":"Newton / न्यूटन",
+"Correct":"B"
+},
+{
+"Question":"Which Fundamental Duty emphasizes protecting the natural environment? / कौन-सा मौलिक कर्तव्य प्राकृतिक पर्यावरण की रक्षा पर बल देता है?",
+"A":"Article 51A(g) / अनुच्छेद 51A(ग)",
+"B":"Article 21 / अनुच्छेद 21",
+"C":"Article 32 / अनुच्छेद 32",
+"D":"Article 19 / अनुच्छेद 19",
+"Correct":"A"
+},
+{
+"Question":"Which National Park is famous for the one-horned rhinoceros? / एक सींग वाले गैंडे के लिए कौन-सा राष्ट्रीय उद्यान प्रसिद्ध है?",
+"A":"Gir National Park / गिर राष्ट्रीय उद्यान",
+"B":"Kaziranga National Park / काजीरंगा राष्ट्रीय उद्यान",
+"C":"Jim Corbett National Park / जिम कॉर्बेट राष्ट्रीय उद्यान",
+"D":"Periyar National Park / पेरियार राष्ट्रीय उद्यान",
+"Correct":"B"
+},
+{
+"Question":"Which shortcut key opens the Task Manager directly in Windows? / विंडोज़ में टास्क मैनेजर सीधे खोलने के लिए कौन-सा कुंजी संयोजन प्रयोग किया जाता है?",
+"A":"Ctrl + Shift + Esc",
+"B":"Alt + F4",
+"C":"Ctrl + P",
+"D":"Ctrl + F",
+"Correct":"A"
+},
+{
+"Question":"National Youth Day in India is celebrated on: / भारत में राष्ट्रीय युवा दिवस कब मनाया जाता है?",
+"A":"12 January / 12 जनवरी",
+"B":"23 January / 23 जनवरी",
+"C":"14 November / 14 नवंबर",
+"D":"15 August / 15 अगस्त",
+"Correct":"A"
+},
+{
+"Question":"Who was the first woman Governor of an Indian State? / किसी भारतीय राज्य की पहली महिला राज्यपाल कौन थीं?",
+"A":"Sarojini Naidu / सरोजिनी नायडू",
+"B":"Sucheta Kripalani / सुचेता कृपलानी",
+"C":"Vijaya Lakshmi Pandit / विजयलक्ष्मी पंडित",
+"D":"Indira Gandhi / इंदिरा गांधी",
+"Correct":"A"
+}
+]
