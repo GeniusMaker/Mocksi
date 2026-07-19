@@ -1,1 +1,802 @@
-
+[
+  {
+    "Question": "What is 25% of 320? / 320 का 25% कितना है?",
+    "A": "60",
+    "B": "70",
+    "C": "80",
+    "D": "90",
+    "Correct": "C"
+  },
+  {
+    "Question": "The HCF of 24 and 36 is? / 24 और 36 का महत्तम समापवर्तक (HCF) क्या है?",
+    "A": "6",
+    "B": "8",
+    "C": "12",
+    "D": "18",
+    "Correct": "C"
+  },
+  {
+    "Question": "The LCM of 12 and 18 is? / 12 और 18 का लघुत्तम समापवर्त्य (LCM) क्या है?",
+    "A": "24",
+    "B": "30",
+    "C": "36",
+    "D": "48",
+    "Correct": "C"
+  },
+  {
+    "Question": "What is 15 × 14? / 15 × 14 कितना है?",
+    "A": "200",
+    "B": "210",
+    "C": "220",
+    "D": "230",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is √225? / √225 का मान क्या है?",
+    "A": "12",
+    "B": "13",
+    "C": "14",
+    "D": "15",
+    "Correct": "D"
+  },
+  {
+    "Question": "If the cost price is ₹500 and the selling price is ₹550, the profit percentage is? / यदि क्रय मूल्य ₹500 तथा विक्रय मूल्य ₹550 है, तो लाभ प्रतिशत कितना होगा?",
+    "A": "5%",
+    "B": "8%",
+    "C": "10%",
+    "D": "12%",
+    "Correct": "C"
+  },
+  {
+    "Question": "Convert 0.75 into a fraction. / 0.75 को भिन्न में बदलें।",
+    "A": "1/2",
+    "B": "2/3",
+    "C": "3/4",
+    "D": "4/5",
+    "Correct": "C"
+  },
+  {
+    "Question": "The average of 10, 20, 30, 40 and 50 is? / 10, 20, 30, 40 और 50 का औसत क्या है?",
+    "A": "25",
+    "B": "30",
+    "C": "35",
+    "D": "40",
+    "Correct": "B"
+  },
+  {
+    "Question": "A train travels 240 km in 4 hours. Its speed is? / एक ट्रेन 4 घंटे में 240 किमी चलती है। उसकी गति क्या है?",
+    "A": "50 km/h",
+    "B": "55 km/h",
+    "C": "60 km/h",
+    "D": "65 km/h",
+    "Correct": "C"
+  },
+  {
+    "Question": "What is 5² + 3²? / 5² + 3² का मान क्या है?",
+    "A": "30",
+    "B": "32",
+    "C": "34",
+    "D": "36",
+    "Correct": "C"
+  },
+  {
+    "Question": "If x = 8, then 3x + 2 = ? / यदि x = 8 है, तो 3x + 2 = ?",
+    "A": "24",
+    "B": "25",
+    "C": "26",
+    "D": "27",
+    "Correct": "C"
+  },
+  {
+    "Question": "A shopkeeper gives a discount of 20% on ₹1000. What is the selling price? / ₹1000 पर 20% की छूट देने पर विक्रय मूल्य कितना होगा?",
+    "A": "₹700",
+    "B": "₹750",
+    "C": "₹800",
+    "D": "₹850",
+    "Correct": "C"
+  },
+  {
+    "Question": "What is 7/8 of 64? / 64 का 7/8 कितना है?",
+    "A": "48",
+    "B": "52",
+    "C": "56",
+    "D": "60",
+    "Correct": "C"
+  },
+  {
+    "Question": "The perimeter of a square of side 12 cm is? / 12 सेमी भुजा वाले वर्ग का परिमाप क्या होगा?",
+    "A": "24 cm",
+    "B": "36 cm",
+    "C": "48 cm",
+    "D": "60 cm",
+    "Correct": "C"
+  },
+  {
+    "Question": "Simple Interest on ₹1000 at 10% per annum for 2 years is? / ₹1000 पर 10% वार्षिक दर से 2 वर्ष का साधारण ब्याज कितना होगा?",
+    "A": "₹100",
+    "B": "₹150",
+    "C": "₹200",
+    "D": "₹250",
+    "Correct": "C"
+  },
+  {
+    "Question": "What is 18% of 250? / 250 का 18% कितना है?",
+    "A": "40",
+    "B": "45",
+    "C": "50",
+    "D": "55",
+    "Correct": "B"
+  },
+  {
+    "Question": "A number is divisible by both 3 and 5. Which of the following can be that number? / कोई संख्या 3 और 5 दोनों से विभाज्य है। निम्न में से कौन सी संख्या हो सकती है?",
+    "A": "25",
+    "B": "30",
+    "C": "32",
+    "D": "34",
+    "Correct": "B"
+  },
+  {
+    "Question": "The area of a rectangle of length 15 cm and breadth 8 cm is? / 15 सेमी लंबाई और 8 सेमी चौड़ाई वाले आयत का क्षेत्रफल कितना होगा?",
+    "A": "100 cm²",
+    "B": "110 cm²",
+    "C": "120 cm²",
+    "D": "130 cm²",
+    "Correct": "C"
+  },
+  {
+    "Question": "What is 9³? / 9³ का मान क्या है?",
+    "A": "729",
+    "B": "656",
+    "C": "512",
+    "D": "625",
+    "Correct": "A"
+  },
+  {
+    "Question": "A man buys an article for ₹400 and sells it for ₹360. What is the loss percentage? / एक व्यक्ति ₹400 में वस्तु खरीदकर ₹360 में बेचता है। हानि प्रतिशत कितना है?",
+    "A": "5%",
+    "B": "8%",
+    "C": "10%",
+    "D": "12%",
+    "Correct": "C"
+  },
+  {
+    "Question": "What is 35% of 480? / 480 का 35% कितना है?",
+    "A": "158",
+    "B": "168",
+    "C": "178",
+    "D": "188",
+    "Correct": "B"
+  },
+  {
+    "Question": "The square root of 441 is? / 441 का वर्गमूल क्या है?",
+    "A": "19",
+    "B": "20",
+    "C": "21",
+    "D": "22",
+    "Correct": "C"
+  },
+  {
+    "Question": "If the ratio of boys to girls is 3:2 and there are 30 boys, how many girls are there? / यदि लड़कों और लड़कियों का अनुपात 3:2 है तथा लड़के 30 हैं, तो लड़कियाँ कितनी हैं?",
+    "A": "15",
+    "B": "18",
+    "C": "20",
+    "D": "25",
+    "Correct": "C"
+  },
+  {
+    "Question": "A train covers 360 km in 6 hours. What is its speed? / एक ट्रेन 6 घंटे में 360 किमी चलती है। उसकी गति क्या है?",
+    "A": "50 km/h",
+    "B": "55 km/h",
+    "C": "60 km/h",
+    "D": "65 km/h",
+    "Correct": "C"
+  },
+  {
+    "Question": "What is 2/5 of 250? / 250 का 2/5 कितना है?",
+    "A": "80",
+    "B": "90",
+    "C": "100",
+    "D": "120",
+    "Correct": "C"
+  },
+  {
+    "Question": "The perimeter of a rectangle is 36 cm. If its length is 10 cm, then its breadth is? / एक आयत का परिमाप 36 सेमी है। यदि उसकी लंबाई 10 सेमी है, तो चौड़ाई कितनी होगी?",
+    "A": "6 cm",
+    "B": "7 cm",
+    "C": "8 cm",
+    "D": "9 cm",
+    "Correct": "C"
+  },
+  {
+    "Question": "The simple interest on ₹2000 at 5% per annum for 3 years is? / ₹2000 पर 5% वार्षिक दर से 3 वर्ष का साधारण ब्याज कितना होगा?",
+    "A": "₹250",
+    "B": "₹300",
+    "C": "₹350",
+    "D": "₹400",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is 45 × 12? / 45 × 12 कितना है?",
+    "A": "520",
+    "B": "530",
+    "C": "540",
+    "D": "550",
+    "Correct": "C"
+  },
+  {
+    "Question": "A shopkeeper gives a 10% discount on an article marked at ₹800. What is the selling price? / ₹800 अंकित मूल्य वाली वस्तु पर 10% छूट देने पर विक्रय मूल्य कितना होगा?",
+    "A": "₹700",
+    "B": "₹710",
+    "C": "₹720",
+    "D": "₹730",
+    "Correct": "C"
+  },
+  {
+    "Question": "What is the value of 18²? / 18² का मान क्या है?",
+    "A": "314",
+    "B": "324",
+    "C": "334",
+    "D": "344",
+    "Correct": "B"
+  },
+  {
+    "Question": "The average of 12, 18, 20 and 30 is? / 12, 18, 20 और 30 का औसत क्या है?",
+    "A": "18",
+    "B": "19",
+    "C": "20",
+    "D": "22",
+    "Correct": "C"
+  },
+  {
+    "Question": "The LCM of 8 and 20 is? / 8 और 20 का LCM क्या है?",
+    "A": "20",
+    "B": "30",
+    "C": "40",
+    "D": "80",
+    "Correct": "C"
+  },
+  {
+    "Question": "The HCF of 36 and 48 is? / 36 और 48 का HCF क्या है?",
+    "A": "6",
+    "B": "8",
+    "C": "10",
+    "D": "12",
+    "Correct": "D"
+  },
+  {
+    "Question": "What is 0.625 as a fraction? / 0.625 को भिन्न में बदलें।",
+    "A": "1/2",
+    "B": "3/5",
+    "C": "5/8",
+    "D": "7/8",
+    "Correct": "C"
+  },
+  {
+    "Question": "If an article is bought for ₹600 and sold for ₹690, the profit percentage is? / यदि कोई वस्तु ₹600 में खरीदी जाए और ₹690 में बेची जाए, तो लाभ प्रतिशत कितना होगा?",
+    "A": "10%",
+    "B": "12%",
+    "C": "15%",
+    "D": "18%",
+    "Correct": "C"
+  },
+  {
+    "Question": "The area of a square of side 16 cm is? / 16 सेमी भुजा वाले वर्ग का क्षेत्रफल कितना होगा?",
+    "A": "224 cm²",
+    "B": "240 cm²",
+    "C": "256 cm²",
+    "D": "272 cm²",
+    "Correct": "C"
+  },
+  {
+    "Question": "A sum becomes ₹1210 in 2 years at 10% simple interest. What is the principal? / 10% साधारण ब्याज की दर से 2 वर्ष में राशि ₹1210 हो जाती है। मूलधन कितना है?",
+    "A": "₹1000",
+    "B": "₹1050",
+    "C": "₹1100",
+    "D": "₹1200",
+    "Correct": "A"
+  },
+  {
+    "Question": "What is 15% of 600? / 600 का 15% कितना है?",
+    "A": "75",
+    "B": "80",
+    "C": "90",
+    "D": "95",
+    "Correct": "C"
+  },
+  {
+    "Question": "If a car travels 420 km in 7 hours, its average speed is? / यदि एक कार 7 घंटे में 420 किमी चलती है, तो उसकी औसत गति क्या होगी?",
+    "A": "50 km/h",
+    "B": "55 km/h",
+    "C": "60 km/h",
+    "D": "65 km/h",
+    "Correct": "C"
+  },
+  {
+    "Question": "The value of 13 × 17 is? / 13 × 17 का मान क्या है?",
+    "A": "211",
+    "B": "221",
+    "C": "231",
+    "D": "241",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is 40% of 750? / 750 का 40% कितना है?",
+    "A": "250",
+    "B": "275",
+    "C": "300",
+    "D": "325",
+    "Correct": "C"
+  },
+  {
+    "Question": "The cube of 12 is? / 12 का घन क्या है?",
+    "A": "1440",
+    "B": "1728",
+    "C": "1824",
+    "D": "1848",
+    "Correct": "B"
+  },
+  {
+    "Question": "The HCF of 45 and 75 is? / 45 और 75 का HCF क्या है?",
+    "A": "5",
+    "B": "10",
+    "C": "15",
+    "D": "25",
+    "Correct": "C"
+  },
+  {
+    "Question": "The LCM of 15 and 20 is? / 15 और 20 का LCM क्या है?",
+    "A": "45",
+    "B": "50",
+    "C": "60",
+    "D": "75",
+    "Correct": "C"
+  },
+  {
+    "Question": "If a shirt marked at ₹1200 is sold at a 25% discount, what is its selling price? / ₹1200 अंकित मूल्य की शर्ट पर 25% छूट देने पर विक्रय मूल्य कितना होगा?",
+    "A": "₹850",
+    "B": "₹900",
+    "C": "₹950",
+    "D": "₹1000",
+    "Correct": "B"
+  },
+  {
+    "Question": "The average of 15, 20, 25, 30 and 35 is? / 15, 20, 25, 30 और 35 का औसत क्या है?",
+    "A": "23",
+    "B": "24",
+    "C": "25",
+    "D": "26",
+    "Correct": "C"
+  },
+  {
+    "Question": "A train travels at 72 km/h. How much distance will it cover in 5 hours? / एक ट्रेन 72 किमी/घंटा की गति से चलती है। 5 घंटे में कितनी दूरी तय करेगी?",
+    "A": "340 km",
+    "B": "350 km",
+    "C": "360 km",
+    "D": "370 km",
+    "Correct": "C"
+  },
+  {
+    "Question": "What is 7/10 of 350? / 350 का 7/10 कितना है?",
+    "A": "235",
+    "B": "240",
+    "C": "245",
+    "D": "250",
+    "Correct": "C"
+  },
+  {
+    "Question": "The area of a rectangle having length 18 cm and breadth 9 cm is? / 18 सेमी लंबाई और 9 सेमी चौड़ाई वाले आयत का क्षेत्रफल कितना होगा?",
+    "A": "152 cm²",
+    "B": "160 cm²",
+    "C": "162 cm²",
+    "D": "170 cm²",
+    "Correct": "C"
+  },
+  {
+    "Question": "Simple Interest on ₹2500 at 8% per annum for 2 years is? / ₹2500 पर 8% वार्षिक दर से 2 वर्ष का साधारण ब्याज कितना होगा?",
+    "A": "₹350",
+    "B": "₹380",
+    "C": "₹400",
+    "D": "₹420",
+    "Correct": "C"
+  },
+  {
+    "Question": "What is √625? / √625 का मान क्या है?",
+    "A": "20",
+    "B": "22",
+    "C": "24",
+    "D": "25",
+    "Correct": "D"
+  },
+  {
+    "Question": "If the ratio of two numbers is 4:7 and their sum is 99, the smaller number is? / यदि दो संख्याओं का अनुपात 4:7 है तथा उनका योग 99 है, तो छोटी संख्या क्या होगी?",
+    "A": "32",
+    "B": "36",
+    "C": "40",
+    "D": "44",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is 18% of 500? / 500 का 18% कितना है?",
+    "A": "80",
+    "B": "85",
+    "C": "90",
+    "D": "95",
+    "Correct": "C"
+  },
+  {
+    "Question": "A man bought an article for ₹800 and sold it for ₹920. What is the profit percentage? / एक व्यक्ति ने ₹800 में वस्तु खरीदकर ₹920 में बेची। लाभ प्रतिशत कितना है?",
+    "A": "10%",
+    "B": "12%",
+    "C": "15%",
+    "D": "18%",
+    "Correct": "C"
+  },
+  {
+    "Question": "The perimeter of a square is 64 cm. What is the length of each side? / एक वर्ग का परिमाप 64 सेमी है। प्रत्येक भुजा की लंबाई कितनी होगी?",
+    "A": "14 cm",
+    "B": "15 cm",
+    "C": "16 cm",
+    "D": "18 cm",
+    "Correct": "C"
+  },
+  {
+    "Question": "Convert 3/5 into percentage. / 3/5 को प्रतिशत में बदलें।",
+    "A": "50%",
+    "B": "55%",
+    "C": "60%",
+    "D": "65%",
+    "Correct": "C"
+  },
+  {
+    "Question": "The value of 24 × 25 is? / 24 × 25 का मान क्या है?",
+    "A": "550",
+    "B": "575",
+    "C": "600",
+    "D": "625",
+    "Correct": "C"
+  },
+  {
+    "Question": "A sum of ₹1500 amounts to ₹1800 in 4 years at simple interest. Find the rate of interest. / ₹1500 की राशि 4 वर्ष में साधारण ब्याज पर ₹1800 हो जाती है। ब्याज दर ज्ञात करें।",
+    "A": "4%",
+    "B": "5%",
+    "C": "6%",
+    "D": "7%",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is the value of 11²? / 11² का मान क्या है?",
+    "A": "111",
+    "B": "121",
+    "C": "131",
+    "D": "141",
+    "Correct": "B"
+  },
+  {
+    "Question": "If a bus covers 540 km in 9 hours, what is its average speed? / यदि एक बस 9 घंटे में 540 किमी तय करती है, तो उसकी औसत गति क्या होगी?",
+    "A": "50 km/h",
+    "B": "55 km/h",
+    "C": "60 km/h",
+    "D": "65 km/h",
+    "Correct": "C"
+  },
+   {
+    "Question": "What is 12.5% of 640? / 640 का 12.5% कितना है?",
+    "A": "60",
+    "B": "70",
+    "C": "80",
+    "D": "90",
+    "Correct": "C"
+  },
+  {
+    "Question": "The square root of 784 is? / 784 का वर्गमूल क्या है?",
+    "A": "26",
+    "B": "27",
+    "C": "28",
+    "D": "29",
+    "Correct": "C"
+  },
+  {
+    "Question": "The HCF of 54 and 90 is? / 54 और 90 का HCF क्या है?",
+    "A": "12",
+    "B": "18",
+    "C": "24",
+    "D": "36",
+    "Correct": "B"
+  },
+  {
+    "Question": "The LCM of 16 and 24 is? / 16 और 24 का LCM क्या है?",
+    "A": "32",
+    "B": "40",
+    "C": "48",
+    "D": "64",
+    "Correct": "C"
+  },
+  {
+    "Question": "A shopkeeper marks an article at ₹1500 and allows a discount of 20%. What is the selling price? / ₹1500 अंकित मूल्य वाली वस्तु पर 20% छूट देने पर विक्रय मूल्य कितना होगा?",
+    "A": "₹1100",
+    "B": "₹1150",
+    "C": "₹1200",
+    "D": "₹1250",
+    "Correct": "C"
+  },
+  {
+    "Question": "The average of 22, 24, 26, 28 and 30 is? / 22, 24, 26, 28 और 30 का औसत क्या है?",
+    "A": "24",
+    "B": "25",
+    "C": "26",
+    "D": "27",
+    "Correct": "C"
+  },
+  {
+    "Question": "A train runs at 90 km/h. How far will it travel in 4 hours? / एक ट्रेन 90 किमी/घंटा की गति से चलती है। 4 घंटे में कितनी दूरी तय करेगी?",
+    "A": "340 km",
+    "B": "350 km",
+    "C": "360 km",
+    "D": "380 km",
+    "Correct": "C"
+  },
+  {
+    "Question": "What is 3/8 of 160? / 160 का 3/8 कितना है?",
+    "A": "50",
+    "B": "55",
+    "C": "60",
+    "D": "65",
+    "Correct": "C"
+  },
+  {
+    "Question": "The area of a square with side 14 cm is? / 14 सेमी भुजा वाले वर्ग का क्षेत्रफल कितना होगा?",
+    "A": "176 cm²",
+    "B": "186 cm²",
+    "C": "196 cm²",
+    "D": "206 cm²",
+    "Correct": "C"
+  },
+  {
+    "Question": "Simple Interest on ₹3000 at 6% per annum for 5 years is? / ₹3000 पर 6% वार्षिक दर से 5 वर्ष का साधारण ब्याज कितना होगा?",
+    "A": "₹800",
+    "B": "₹850",
+    "C": "₹900",
+    "D": "₹950",
+    "Correct": "C"
+  },
+  {
+    "Question": "What is the value of 17²? / 17² का मान क्या है?",
+    "A": "279",
+    "B": "289",
+    "C": "299",
+    "D": "309",
+    "Correct": "B"
+  },
+  {
+    "Question": "If the ratio of two numbers is 5:8 and their sum is 104, the smaller number is? / यदि दो संख्याओं का अनुपात 5:8 है तथा उनका योग 104 है, तो छोटी संख्या क्या होगी?",
+    "A": "35",
+    "B": "40",
+    "C": "45",
+    "D": "50",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is 22% of 450? / 450 का 22% कितना है?",
+    "A": "89",
+    "B": "99",
+    "C": "109",
+    "D": "119",
+    "Correct": "B"
+  },
+  {
+    "Question": "An article is bought for ₹900 and sold for ₹1080. What is the profit percentage? / ₹900 में खरीदी गई वस्तु ₹1080 में बेची गई। लाभ प्रतिशत कितना है?",
+    "A": "15%",
+    "B": "18%",
+    "C": "20%",
+    "D": "22%",
+    "Correct": "C"
+  },
+  {
+    "Question": "The perimeter of a rectangle is 50 cm. If its length is 15 cm, what is its breadth? / एक आयत का परिमाप 50 सेमी है। यदि लंबाई 15 सेमी है, तो चौड़ाई कितनी होगी?",
+    "A": "8 cm",
+    "B": "9 cm",
+    "C": "10 cm",
+    "D": "12 cm",
+    "Correct": "C"
+  },
+  {
+    "Question": "Convert 7/20 into percentage. / 7/20 को प्रतिशत में बदलें।",
+    "A": "30%",
+    "B": "35%",
+    "C": "40%",
+    "D": "45%",
+    "Correct": "B"
+  },
+  {
+    "Question": "The value of 32 × 15 is? / 32 × 15 का मान क्या है?",
+    "A": "460",
+    "B": "470",
+    "C": "480",
+    "D": "490",
+    "Correct": "C"
+  },
+  {
+    "Question": "A principal of ₹2500 becomes ₹3000 in 4 years at simple interest. Find the rate of interest. / ₹2500 की राशि 4 वर्ष में साधारण ब्याज पर ₹3000 हो जाती है। ब्याज दर ज्ञात करें।",
+    "A": "4%",
+    "B": "5%",
+    "C": "6%",
+    "D": "8%",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is the value of 19²? / 19² का मान क्या है?",
+    "A": "341",
+    "B": "351",
+    "C": "361",
+    "D": "381",
+    "Correct": "C"
+  },
+  {
+    "Question": "A car travels 480 km in 8 hours. What is its average speed? / एक कार 8 घंटे में 480 किमी चलती है। उसकी औसत गति क्या होगी?",
+    "A": "50 km/h",
+    "B": "55 km/h",
+    "C": "60 km/h",
+    "D": "65 km/h",
+    "Correct": "C"
+  },
+  {
+    "Question": "What is 45% of 800? / 800 का 45% कितना है?",
+    "A": "340",
+    "B": "350",
+    "C": "360",
+    "D": "370",
+    "Correct": "C"
+  },
+  {
+    "Question": "The cube root of 1728 is? / 1728 का घनमूल क्या है?",
+    "A": "10",
+    "B": "11",
+    "C": "12",
+    "D": "13",
+    "Correct": "C"
+  },
+  {
+    "Question": "The HCF of 72 and 120 is? / 72 और 120 का HCF क्या है?",
+    "A": "12",
+    "B": "18",
+    "C": "24",
+    "D": "36",
+    "Correct": "C"
+  },
+  {
+    "Question": "The LCM of 18 and 30 is? / 18 और 30 का LCM क्या है?",
+    "A": "60",
+    "B": "75",
+    "C": "90",
+    "D": "120",
+    "Correct": "C"
+  },
+  {
+    "Question": "A shopkeeper marks an article at ₹2000 and allows a discount of 15%. What is the selling price? / ₹2000 अंकित मूल्य वाली वस्तु पर 15% छूट देने पर विक्रय मूल्य कितना होगा?",
+    "A": "₹1650",
+    "B": "₹1700",
+    "C": "₹1750",
+    "D": "₹1800",
+    "Correct": "B"
+  },
+  {
+    "Question": "The average of 18, 24, 30, 36 and 42 is? / 18, 24, 30, 36 और 42 का औसत क्या है?",
+    "A": "28",
+    "B": "29",
+    "C": "30",
+    "D": "31",
+    "Correct": "C"
+  },
+  {
+    "Question": "A train runs at 80 km/h. How much distance will it cover in 6 hours? / एक ट्रेन 80 किमी/घंटा की गति से चलती है। 6 घंटे में कितनी दूरी तय करेगी?",
+    "A": "460 km",
+    "B": "470 km",
+    "C": "480 km",
+    "D": "490 km",
+    "Correct": "C"
+  },
+  {
+    "Question": "What is 5/6 of 360? / 360 का 5/6 कितना है?",
+    "A": "280",
+    "B": "290",
+    "C": "300",
+    "D": "320",
+    "Correct": "C"
+  },
+  {
+    "Question": "The area of a rectangle of length 20 cm and breadth 12 cm is? / 20 सेमी लंबाई और 12 सेमी चौड़ाई वाले आयत का क्षेत्रफल कितना होगा?",
+    "A": "220 cm²",
+    "B": "230 cm²",
+    "C": "240 cm²",
+    "D": "250 cm²",
+    "Correct": "C"
+  },
+  {
+    "Question": "Simple Interest on ₹4000 at 5% per annum for 3 years is? / ₹4000 पर 5% वार्षिक दर से 3 वर्ष का साधारण ब्याज कितना होगा?",
+    "A": "₹500",
+    "B": "₹550",
+    "C": "₹600",
+    "D": "₹650",
+    "Correct": "C"
+  },
+  {
+    "Question": "What is the square root of 900? / 900 का वर्गमूल क्या है?",
+    "A": "28",
+    "B": "29",
+    "C": "30",
+    "D": "32",
+    "Correct": "C"
+  },
+  {
+    "Question": "If the ratio of two numbers is 7:9 and their sum is 128, the smaller number is? / यदि दो संख्याओं का अनुपात 7:9 है तथा उनका योग 128 है, तो छोटी संख्या क्या होगी?",
+    "A": "54",
+    "B": "56",
+    "C": "58",
+    "D": "60",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is 16% of 625? / 625 का 16% कितना है?",
+    "A": "90",
+    "B": "95",
+    "C": "100",
+    "D": "105",
+    "Correct": "C"
+  },
+  {
+    "Question": "An article is purchased for ₹1200 and sold for ₹1380. What is the profit percentage? / ₹1200 में खरीदी गई वस्तु ₹1380 में बेची गई। लाभ प्रतिशत कितना है?",
+    "A": "10%",
+    "B": "12%",
+    "C": "15%",
+    "D": "18%",
+    "Correct": "C"
+  },
+  {
+    "Question": "The perimeter of a square is 80 cm. What is the length of one side? / एक वर्ग का परिमाप 80 सेमी है। उसकी एक भुजा की लंबाई कितनी होगी?",
+    "A": "18 cm",
+    "B": "19 cm",
+    "C": "20 cm",
+    "D": "21 cm",
+    "Correct": "C"
+  },
+  {
+    "Question": "Convert 0.875 into a fraction. / 0.875 को भिन्न में बदलें।",
+    "A": "5/8",
+    "B": "6/8",
+    "C": "7/8",
+    "D": "8/9",
+    "Correct": "C"
+  },
+  {
+    "Question": "The value of 28 × 25 is? / 28 × 25 का मान क्या है?",
+    "A": "650",
+    "B": "675",
+    "C": "700",
+    "D": "725",
+    "Correct": "C"
+  },
+  {
+    "Question": "A principal of ₹5000 amounts to ₹6000 in 5 years at simple interest. Find the rate of interest. / ₹5000 की राशि 5 वर्ष में साधारण ब्याज पर ₹6000 हो जाती है। ब्याज दर ज्ञात करें।",
+    "A": "3%",
+    "B": "4%",
+    "C": "5%",
+    "D": "6%",
+    "Correct": "B"
+  },
+  {
+    "Question": "What is the value of 21²? / 21² का मान क्या है?",
+    "A": "421",
+    "B": "431",
+    "C": "441",
+    "D": "451",
+    "Correct": "C"
+  },
+  {
+    "Question": "A bus covers 660 km in 11 hours. What is its average speed? / एक बस 11 घंटे में 660 किमी तय करती है। उसकी औसत गति क्या होगी?",
+    "A": "50 km/h",
+    "B": "55 km/h",
+    "C": "60 km/h",
+    "D": "65 km/h",
+    "Correct": "C"
+  }
+]
