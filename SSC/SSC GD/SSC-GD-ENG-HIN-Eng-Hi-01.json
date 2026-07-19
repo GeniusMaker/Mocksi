@@ -1,1 +1,802 @@
-
+[
+  {
+    "Question": "Choose the correct synonym of 'Brave'. / 'Brave' का सही समानार्थी शब्द चुनिए।",
+    "A": "Coward / कायर",
+    "B": "Fearless / निडर",
+    "C": "Weak / कमजोर",
+    "D": "Lazy / आलसी",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct antonym of 'Ancient'. / 'Ancient' का सही विलोम शब्द चुनिए।",
+    "A": "Old / पुराना",
+    "B": "Historic / ऐतिहासिक",
+    "C": "Modern / आधुनिक",
+    "D": "Traditional / पारंपरिक",
+    "Correct": "C"
+  },
+  {
+    "Question": "Select the correctly spelled word. / सही वर्तनी वाला शब्द चुनिए।",
+    "A": "Recieve",
+    "B": "Receive",
+    "C": "Receeve",
+    "D": "Receve",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct Hindi meaning of 'Generous'. / 'Generous' का सही हिंदी अर्थ चुनिए।",
+    "A": "कंजूस",
+    "B": "उदार",
+    "C": "क्रोधित",
+    "D": "गरीब",
+    "Correct": "B"
+  },
+  {
+    "Question": "Fill in the blank: She ____ to school every day. / रिक्त स्थान भरें: She ____ to school every day.",
+    "A": "go",
+    "B": "goes",
+    "C": "going",
+    "D": "gone",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct plural form of 'Child'. / 'Child' का सही बहुवचन चुनिए।",
+    "A": "Childs",
+    "B": "Childes",
+    "C": "Children",
+    "D": "Childrens",
+    "Correct": "C"
+  },
+  {
+    "Question": "Select the correctly spelled Hindi word. / सही वर्तनी वाला हिंदी शब्द चुनिए।",
+    "A": "आर्शीवाद",
+    "B": "आशीर्वाद",
+    "C": "आशिर्वाद",
+    "D": "आशीरवाद",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the opposite of 'Victory'. / 'Victory' का विलोम चुनिए।",
+    "A": "Success",
+    "B": "Defeat",
+    "C": "Win",
+    "D": "Triumph",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct one-word substitution: A person who cannot read or write. / जो पढ़-लिख नहीं सकता उसके लिए एक शब्द चुनिए।",
+    "A": "Scholar",
+    "B": "Illiterate",
+    "C": "Teacher",
+    "D": "Graduate",
+    "Correct": "B"
+  },
+  {
+    "Question": "Identify the noun in the sentence: 'The dog is barking.' / वाक्य 'The dog is barking.' में संज्ञा चुनिए।",
+    "A": "The",
+    "B": "Dog",
+    "C": "Is",
+    "D": "Barking",
+    "Correct": "B"
+  },
+  {
+    "Question": "मुहावरे 'नाक कटना' का सही अर्थ क्या है? / Choose the correct meaning of the Hindi idiom 'नाक कटना'.",
+    "A": "सम्मान बढ़ना",
+    "B": "अपमान होना",
+    "C": "बीमार होना",
+    "D": "क्रोधित होना",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct article: He is ____ honest man. / सही Article चुनिए।",
+    "A": "a",
+    "B": "an",
+    "C": "the",
+    "D": "No article",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the synonym of 'Happy'. / 'Happy' का समानार्थी शब्द चुनिए।",
+    "A": "Sad",
+    "B": "Joyful",
+    "C": "Angry",
+    "D": "Weak",
+    "Correct": "B"
+  },
+  {
+    "Question": "शुद्ध वाक्य चुनिए। / Choose the grammatically correct Hindi sentence.",
+    "A": "मुझे पानी पीना हैं।",
+    "B": "मुझे पानी पीना है।",
+    "C": "मुझे पानी पीनी है।",
+    "D": "मुझे पानी पिया है।",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct past tense of 'Write'. / 'Write' का Past Tense चुनिए।",
+    "A": "Written",
+    "B": "Writing",
+    "C": "Wrote",
+    "D": "Writes",
+    "Correct": "C"
+  },
+  {
+    "Question": "विलोम शब्द चुनिए: 'अंधकार'. / Choose the antonym of 'अंधकार'.",
+    "A": "उजाला",
+    "B": "रात्रि",
+    "C": "काला",
+    "D": "संध्या",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct preposition: The book is ____ the table. / सही Preposition चुनिए।",
+    "A": "in",
+    "B": "on",
+    "C": "at",
+    "D": "into",
+    "Correct": "B"
+  },
+  {
+    "Question": "पर्यायवाची शब्द चुनिए: 'जल'. / Choose the synonym of 'जल'.",
+    "A": "अग्नि",
+    "B": "नीर",
+    "C": "धूल",
+    "D": "आकाश",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correctly spelled word. / सही वर्तनी वाला शब्द चुनिए।",
+    "A": "Environment",
+    "B": "Enviroment",
+    "C": "Environmant",
+    "D": "Enviornment",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank: They ____ playing cricket now. / रिक्त स्थान भरें: They ____ playing cricket now.",
+    "A": "is",
+    "B": "are",
+    "C": "was",
+    "D": "has",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct antonym of 'Expand'. / 'Expand' का सही विलोम शब्द चुनिए।",
+    "A": "Increase",
+    "B": "Spread",
+    "C": "Contract",
+    "D": "Grow",
+    "Correct": "C"
+  },
+  {
+    "Question": "Select the correctly spelled word. / सही वर्तनी वाला शब्द चुनिए।",
+    "A": "Accomodation",
+    "B": "Accommodation",
+    "C": "Acommodation",
+    "D": "Accommadation",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the Hindi meaning of 'Honest'. / 'Honest' का सही हिंदी अर्थ चुनिए।",
+    "A": "ईमानदार",
+    "B": "चालाक",
+    "C": "आलसी",
+    "D": "निर्दयी",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank: I ____ my homework yesterday. / रिक्त स्थान भरें: I ____ my homework yesterday.",
+    "A": "do",
+    "B": "does",
+    "C": "did",
+    "D": "done",
+    "Correct": "C"
+  },
+  {
+    "Question": "Choose the plural form of 'Mouse'. / 'Mouse' का बहुवचन चुनिए।",
+    "A": "Mouses",
+    "B": "Mouse",
+    "C": "Mice",
+    "D": "Mousees",
+    "Correct": "C"
+  },
+  {
+    "Question": "शुद्ध वर्तनी चुनिए। / Select the correctly spelled Hindi word.",
+    "A": "स्वतन्त्र",
+    "B": "स्वतंत्र",
+    "C": "स्वतंतर",
+    "D": "सवतंत्र",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the synonym of 'Quick'. / 'Quick' का समानार्थी शब्द चुनिए।",
+    "A": "Fast",
+    "B": "Slow",
+    "C": "Late",
+    "D": "Weak",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the one-word substitution: A person who writes poems. / कविता लिखने वाले व्यक्ति के लिए एक शब्द चुनिए।",
+    "A": "Painter",
+    "B": "Poet",
+    "C": "Singer",
+    "D": "Actor",
+    "Correct": "B"
+  },
+  {
+    "Question": "Identify the adjective: 'She has a beautiful dress.' / वाक्य 'She has a beautiful dress.' में विशेषण चुनिए।",
+    "A": "She",
+    "B": "Has",
+    "C": "Beautiful",
+    "D": "Dress",
+    "Correct": "C"
+  },
+  {
+    "Question": "मुहावरे 'आँखों का तारा' का अर्थ क्या है? / Choose the meaning of the Hindi idiom 'आँखों का तारा'.",
+    "A": "प्रिय व्यक्ति",
+    "B": "बहादुर व्यक्ति",
+    "C": "अंधा व्यक्ति",
+    "D": "क्रोधित व्यक्ति",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct article: It is ____ umbrella. / सही Article चुनिए।",
+    "A": "a",
+    "B": "an",
+    "C": "the",
+    "D": "No article",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the antonym of 'Rich'. / 'Rich' का विलोम शब्द चुनिए।",
+    "A": "Poor",
+    "B": "Wealthy",
+    "C": "Strong",
+    "D": "Healthy",
+    "Correct": "A"
+  },
+  {
+    "Question": "शुद्ध वाक्य चुनिए। / Choose the grammatically correct Hindi sentence.",
+    "A": "वह स्कूल जाता हैं।",
+    "B": "वह स्कूल जाती है।",
+    "C": "वह स्कूल जाते है।",
+    "D": "वह स्कूल जाती हैं।",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the past participle of 'Go'. / 'Go' का Past Participle चुनिए।",
+    "A": "Went",
+    "B": "Gone",
+    "C": "Going",
+    "D": "Goes",
+    "Correct": "B"
+  },
+  {
+    "Question": "विलोम शब्द चुनिए: 'सुख'. / Choose the antonym of 'सुख'.",
+    "A": "आनंद",
+    "B": "शांति",
+    "C": "दुःख",
+    "D": "प्रेम",
+    "Correct": "C"
+  },
+  {
+    "Question": "Choose the correct preposition: He lives ____ Delhi. / सही Preposition चुनिए।",
+    "A": "at",
+    "B": "on",
+    "C": "in",
+    "D": "into",
+    "Correct": "C"
+  },
+  {
+    "Question": "पर्यायवाची शब्द चुनिए: 'सूर्य'. / Choose the synonym of 'सूर्य'.",
+    "A": "चन्द्र",
+    "B": "रवि",
+    "C": "तारा",
+    "D": "आकाश",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correctly spelled word. / सही वर्तनी वाला शब्द चुनिए।",
+    "A": "Occasion",
+    "B": "Ocassion",
+    "C": "Occassion",
+    "D": "Ocasion",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank: We ____ watching TV now. / रिक्त स्थान भरें: We ____ watching TV now.",
+    "A": "is",
+    "B": "are",
+    "C": "was",
+    "D": "has",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the synonym of 'Begin'. / 'Begin' का समानार्थी शब्द चुनिए।",
+    "A": "Finish",
+    "B": "Start",
+    "C": "Stop",
+    "D": "End",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the synonym of 'Abundant'. / 'Abundant' का समानार्थी शब्द चुनिए।",
+    "A": "Scarce",
+    "B": "Plentiful",
+    "C": "Tiny",
+    "D": "Weak",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the antonym of 'Victory'. / 'Victory' का विलोम शब्द चुनिए।",
+    "A": "Success",
+    "B": "Triumph",
+    "C": "Defeat",
+    "D": "Achievement",
+    "Correct": "C"
+  },
+  {
+    "Question": "Select the correctly spelled word. / सही वर्तनी वाला शब्द चुनिए।",
+    "A": "Commitee",
+    "B": "Committee",
+    "C": "Comittee",
+    "D": "Committe",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct Hindi meaning of 'Opportunity'. / 'Opportunity' का सही हिंदी अर्थ चुनिए।",
+    "A": "समस्या",
+    "B": "अवसर",
+    "C": "विचार",
+    "D": "उद्देश्य",
+    "Correct": "B"
+  },
+  {
+    "Question": "Fill in the blank: He ____ his work before lunch. / रिक्त स्थान भरें: He ____ his work before lunch.",
+    "A": "finish",
+    "B": "finished",
+    "C": "finishing",
+    "D": "finishesed",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the plural form of 'Foot'. / 'Foot' का बहुवचन चुनिए।",
+    "A": "Foots",
+    "B": "Footes",
+    "C": "Feet",
+    "D": "Feets",
+    "Correct": "C"
+  },
+  {
+    "Question": "शुद्ध वर्तनी चुनिए। / सही वर्तनी वाला हिंदी शब्द चुनिए।",
+    "A": "आकांक्षा",
+    "B": "आकांक्शा",
+    "C": "आकांक्षा",
+    "D": "आकांशा",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the synonym of 'Silent'. / 'Silent' का समानार्थी शब्द चुनिए।",
+    "A": "Quiet",
+    "B": "Loud",
+    "C": "Noisy",
+    "D": "Talkative",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the one-word substitution: One who cannot hear. / जो सुन नहीं सकता उसके लिए एक शब्द चुनिए।",
+    "A": "Blind",
+    "B": "Deaf",
+    "C": "Mute",
+    "D": "Lame",
+    "Correct": "B"
+  },
+  {
+    "Question": "Identify the verb: 'Birds fly in the sky.' / वाक्य 'Birds fly in the sky.' में क्रिया चुनिए।",
+    "A": "Birds",
+    "B": "Fly",
+    "C": "Sky",
+    "D": "The",
+    "Correct": "B"
+  },
+  {
+    "Question": "मुहावरे 'दाँत खट्टे करना' का अर्थ क्या है? / 'दाँत खट्टे करना' मुहावरे का अर्थ चुनिए।",
+    "A": "हार मान लेना",
+    "B": "बुरी तरह पराजित करना",
+    "C": "दाँत साफ करना",
+    "D": "गुस्सा करना",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct article: She bought ____ orange. / सही Article चुनिए।",
+    "A": "a",
+    "B": "an",
+    "C": "the",
+    "D": "No article",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the antonym of 'Bright'. / 'Bright' का विलोम शब्द चुनिए।",
+    "A": "Shiny",
+    "B": "Dull",
+    "C": "Smart",
+    "D": "Clear",
+    "Correct": "B"
+  },
+  {
+    "Question": "शुद्ध वाक्य चुनिए। / सही हिंदी वाक्य चुनिए।",
+    "A": "राम बाजार गया।",
+    "B": "राम बाजार गये।",
+    "C": "राम बाजार गई।",
+    "D": "राम बाजार जाती है।",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the past tense of 'Eat'. / 'Eat' का Past Tense चुनिए।",
+    "A": "Eaten",
+    "B": "Eating",
+    "C": "Ate",
+    "D": "Eats",
+    "Correct": "C"
+  },
+  {
+    "Question": "विलोम शब्द चुनिए: 'ऊँचा'. / 'ऊँचा' का विलोम शब्द चुनिए।",
+    "A": "नीचा",
+    "B": "लंबा",
+    "C": "बड़ा",
+    "D": "मोटा",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct preposition: The cat is ____ the chair. / सही Preposition चुनिए।",
+    "A": "under",
+    "B": "at",
+    "C": "on",
+    "D": "for",
+    "Correct": "A"
+  },
+  {
+    "Question": "पर्यायवाची शब्द चुनिए: 'राजा'. / 'राजा' का पर्यायवाची शब्द चुनिए।",
+    "A": "नरेश",
+    "B": "प्रजा",
+    "C": "सेवक",
+    "D": "सैनिक",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correctly spelled word. / सही वर्तनी वाला शब्द चुनिए।",
+    "A": "Necessary",
+    "B": "Neccessary",
+    "C": "Necessery",
+    "D": "Necassary",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank: They ____ completed the project. / रिक्त स्थान भरें: They ____ completed the project.",
+    "A": "has",
+    "B": "have",
+    "C": "is",
+    "D": "was",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the synonym of 'Beautiful'. / 'Beautiful' का समानार्थी शब्द चुनिए।",
+    "A": "Ugly",
+    "B": "Pretty",
+    "C": "Dirty",
+    "D": "Weak",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the antonym of 'Accept'. / 'Accept' का विलोम शब्द चुनिए।",
+    "A": "Receive",
+    "B": "Agree",
+    "C": "Reject",
+    "D": "Allow",
+    "Correct": "C"
+  },
+  {
+    "Question": "Select the correctly spelled word. / सही वर्तनी वाला शब्द चुनिए।",
+    "A": "Priviledge",
+    "B": "Privilege",
+    "C": "Privelege",
+    "D": "Privillage",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct Hindi meaning of 'Journey'. / 'Journey' का सही हिंदी अर्थ चुनिए।",
+    "A": "यात्रा",
+    "B": "मंजिल",
+    "C": "रास्ता",
+    "D": "दूरी",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank: We ____ our grandparents last Sunday. / रिक्त स्थान भरें: We ____ our grandparents last Sunday.",
+    "A": "visit",
+    "B": "visited",
+    "C": "visiting",
+    "D": "visits",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the plural form of 'Woman'. / 'Woman' का बहुवचन चुनिए।",
+    "A": "Womans",
+    "B": "Womens",
+    "C": "Women",
+    "D": "Womanes",
+    "Correct": "C"
+  },
+  {
+    "Question": "शुद्ध वर्तनी चुनिए। / सही वर्तनी वाला हिंदी शब्द चुनिए।",
+    "A": "उत्तरदायित्व",
+    "B": "उतरदायित्व",
+    "C": "उत्तरदाइत्व",
+    "D": "उत्तरदायीत्व",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the synonym of 'Difficult'. / 'Difficult' का समानार्थी शब्द चुनिए।",
+    "A": "Easy",
+    "B": "Hard",
+    "C": "Simple",
+    "D": "Light",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the one-word substitution: A person who looks after a garden. / बगीचे की देखभाल करने वाले व्यक्ति के लिए एक शब्द चुनिए।",
+    "A": "Farmer",
+    "B": "Gardener",
+    "C": "Painter",
+    "D": "Driver",
+    "Correct": "B"
+  },
+  {
+    "Question": "Identify the pronoun: 'She is reading a book.' / वाक्य 'She is reading a book.' में सर्वनाम चुनिए।",
+    "A": "Reading",
+    "B": "Book",
+    "C": "She",
+    "D": "Is",
+    "Correct": "C"
+  },
+  {
+    "Question": "मुहावरे 'नाक में दम करना' का अर्थ क्या है? / 'नाक में दम करना' मुहावरे का अर्थ चुनिए।",
+    "A": "बहुत परेशान करना",
+    "B": "सम्मान करना",
+    "C": "शांत रहना",
+    "D": "खुश करना",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct article: He bought ____ European car. / सही Article चुनिए।",
+    "A": "a",
+    "B": "an",
+    "C": "the",
+    "D": "No article",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the antonym of 'Generous'. / 'Generous' का विलोम शब्द चुनिए।",
+    "A": "Kind",
+    "B": "Selfish",
+    "C": "Helpful",
+    "D": "Honest",
+    "Correct": "B"
+  },
+  {
+    "Question": "शुद्ध वाक्य चुनिए। / सही हिंदी वाक्य चुनिए।",
+    "A": "वे बाजार जा रहा है।",
+    "B": "वे बाजार जा रही है।",
+    "C": "वे बाजार जा रहे हैं।",
+    "D": "वे बाजार जाता है।",
+    "Correct": "C"
+  },
+  {
+    "Question": "Choose the past participle of 'See'. / 'See' का Past Participle चुनिए।",
+    "A": "Saw",
+    "B": "Seen",
+    "C": "Seeing",
+    "D": "Sees",
+    "Correct": "B"
+  },
+  {
+    "Question": "विलोम शब्द चुनिए: 'सफल'. / 'सफल' का विलोम शब्द चुनिए।",
+    "A": "विजयी",
+    "B": "असफल",
+    "C": "उन्नत",
+    "D": "श्रेष्ठ",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct preposition: The children are ____ the playground. / सही Preposition चुनिए।",
+    "A": "in",
+    "B": "at",
+    "C": "on",
+    "D": "under",
+    "Correct": "A"
+  },
+  {
+    "Question": "पर्यायवाची शब्द चुनिए: 'पृथ्वी'. / 'पृथ्वी' का पर्यायवाची शब्द चुनिए।",
+    "A": "धरा",
+    "B": "आकाश",
+    "C": "जल",
+    "D": "वायु",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correctly spelled word. / सही वर्तनी वाला शब्द चुनिए।",
+    "A": "Separate",
+    "B": "Seperate",
+    "C": "Separate",
+    "D": "Seperete",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank: She ____ been waiting for an hour. / रिक्त स्थान भरें: She ____ been waiting for an hour.",
+    "A": "have",
+    "B": "has",
+    "C": "haded",
+    "D": "are",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the synonym of 'Ancient'. / 'Ancient' का समानार्थी शब्द चुनिए।",
+    "A": "Modern",
+    "B": "Old",
+    "C": "Recent",
+    "D": "Young",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the antonym of 'Permanent'. / 'Permanent' का विलोम शब्द चुनिए।",
+    "A": "Fixed",
+    "B": "Temporary",
+    "C": "Stable",
+    "D": "Constant",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the correctly spelled word. / सही वर्तनी वाला शब्द चुनिए।",
+    "A": "Embarrass",
+    "B": "Embarass",
+    "C": "Embarras",
+    "D": "Embarrass",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct Hindi meaning of 'Freedom'. / 'Freedom' का सही हिंदी अर्थ चुनिए।",
+    "A": "गुलामी",
+    "B": "स्वतंत्रता",
+    "C": "बंधन",
+    "D": "अनुशासन",
+    "Correct": "B"
+  },
+  {
+    "Question": "Fill in the blank: The sun ____ in the east. / रिक्त स्थान भरें: The sun ____ in the east.",
+    "A": "rise",
+    "B": "rises",
+    "C": "rose",
+    "D": "rising",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the plural form of 'Tooth'. / 'Tooth' का बहुवचन चुनिए।",
+    "A": "Tooths",
+    "B": "Toothes",
+    "C": "Teeth",
+    "D": "Teeths",
+    "Correct": "C"
+  },
+  {
+    "Question": "शुद्ध वर्तनी चुनिए। / सही वर्तनी वाला हिंदी शब्द चुनिए।",
+    "A": "अत्याधिक",
+    "B": "अत्यधिक",
+    "C": "अत्याधीक",
+    "D": "अतयधिक",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the synonym of 'Silent'. / 'Silent' का समानार्थी शब्द चुनिए।",
+    "A": "Quiet",
+    "B": "Loud",
+    "C": "Noisy",
+    "D": "Talkative",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the one-word substitution: A person who flies an aircraft. / हवाई जहाज उड़ाने वाले व्यक्ति के लिए एक शब्द चुनिए।",
+    "A": "Driver",
+    "B": "Sailor",
+    "C": "Pilot",
+    "D": "Captain",
+    "Correct": "C"
+  },
+  {
+    "Question": "Identify the adverb in the sentence: 'He runs fast.' / वाक्य 'He runs fast.' में क्रिया विशेषण चुनिए।",
+    "A": "He",
+    "B": "Runs",
+    "C": "Fast",
+    "D": "The",
+    "Correct": "C"
+  },
+  {
+    "Question": "मुहावरे 'हाथ पर हाथ धरे बैठना' का अर्थ क्या है? / 'हाथ पर हाथ धरे बैठना' मुहावरे का अर्थ चुनिए।",
+    "A": "कड़ी मेहनत करना",
+    "B": "निष्क्रिय बैठे रहना",
+    "C": "लड़ाई करना",
+    "D": "सहायता करना",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correct article: It was ____ unique idea. / सही Article चुनिए।",
+    "A": "a",
+    "B": "an",
+    "C": "the",
+    "D": "No article",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the antonym of 'Victory'. / 'Victory' का विलोम शब्द चुनिए।",
+    "A": "Win",
+    "B": "Success",
+    "C": "Defeat",
+    "D": "Achievement",
+    "Correct": "C"
+  },
+  {
+    "Question": "शुद्ध वाक्य चुनिए। / सही हिंदी वाक्य चुनिए।",
+    "A": "बच्चे मैदान में खेल रहे हैं।",
+    "B": "बच्चे मैदान में खेल रहा है।",
+    "C": "बच्चे मैदान में खेल रही है।",
+    "D": "बच्चे मैदान में खेलते है।",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the past tense of 'Speak'. / 'Speak' का Past Tense चुनिए।",
+    "A": "Spoken",
+    "B": "Speaked",
+    "C": "Spoke",
+    "D": "Speaks",
+    "Correct": "C"
+  },
+  {
+    "Question": "विलोम शब्द चुनिए: 'सत्य'. / 'सत्य' का विलोम शब्द चुनिए।",
+    "A": "झूठ",
+    "B": "धर्म",
+    "C": "न्याय",
+    "D": "विश्वास",
+    "Correct": "A"
+  },
+  {
+    "Question": "Choose the correct preposition: The picture is ____ the wall. / सही Preposition चुनिए।",
+    "A": "on",
+    "B": "in",
+    "C": "under",
+    "D": "between",
+    "Correct": "A"
+  },
+  {
+    "Question": "पर्यायवाची शब्द चुनिए: 'आग'. / 'आग' का पर्यायवाची शब्द चुनिए।",
+    "A": "जल",
+    "B": "अनल",
+    "C": "वायु",
+    "D": "धरती",
+    "Correct": "B"
+  },
+  {
+    "Question": "Choose the correctly spelled word. / सही वर्तनी वाला शब्द चुनिए।",
+    "A": "Millennium",
+    "B": "Millenium",
+    "C": "Milennium",
+    "D": "Milleniam",
+    "Correct": "A"
+  },
+  {
+    "Question": "Fill in the blank: They ____ already left the station. / रिक्त स्थान भरें: They ____ already left the station.",
+    "A": "has",
+    "B": "have",
+    "C": "is",
+    "D": "was",
+    "Correct": "B"
+  }
+]
