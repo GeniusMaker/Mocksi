@@ -1,1 +1,618 @@
-
+[
+  {
+    "Question": "Who was the first President of India? / भारत के प्रथम राष्ट्रपति कौन थे?",
+    "A": "Dr. Rajendra Prasad / डॉ. राजेंद्र प्रसाद",
+    "B": "Dr. S. Radhakrishnan / डॉ. एस. राधाकृष्णन",
+    "C": "Jawaharlal Nehru / जवाहरलाल नेहरू",
+    "D": "Dr. Zakir Husain / डॉ. ज़ाकिर हुसैन",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the related word. / संबंधित शब्द चुनिए।\nBook : Library :: Medicine : ?",
+    "A": "Hospital / अस्पताल",
+    "B": "Pharmacy / दवा की दुकान",
+    "C": "Doctor / डॉक्टर",
+    "D": "Clinic / क्लिनिक",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find the odd one out. / विषम शब्द चुनिए।",
+    "A": "Rose / गुलाब",
+    "B": "Lotus / कमल",
+    "C": "Mango / आम",
+    "D": "Lily / लिली",
+    "Correct": "C"
+  },
+  {
+    "Question": "Complete the series. / श्रृंखला पूरी कीजिए।\n2, 4, 8, 16, ?",
+    "A": "24",
+    "B": "30",
+    "C": "32",
+    "D": "36",
+    "Correct": "C"
+  },
+  {
+    "Question": "If CAT = DBU, then DOG = ? / यदि CAT = DBU है, तो DOG = ?",
+    "A": "EPH",
+    "B": "EPG",
+    "C": "FQI",
+    "D": "EOH",
+    "Correct": "A"
+  },
+  {
+    "Question": "Find the missing number. / लुप्त संख्या ज्ञात कीजिए।\n5, 10, 20, 40, ?",
+    "A": "60",
+    "B": "70",
+    "C": "80",
+    "D": "90",
+    "Correct": "C"
+  },
+  {
+    "Question": "Select the related letters. / संबंधित अक्षर चुनिए।\nACE : BDF :: GIK : ?",
+    "A": "HJL",
+    "B": "HKM",
+    "C": "IJL",
+    "D": "HJM",
+    "Correct": "A"
+  },
+  {
+    "Question": "Arrange in meaningful order. / सार्थक क्रम में व्यवस्थित करें।\n1. Seed 2. Plant 3. Flower 4. Fruit",
+    "A": "1,2,3,4",
+    "B": "2,1,3,4",
+    "C": "1,3,2,4",
+    "D": "2,3,4,1",
+    "Correct": "A"
+  },
+  {
+    "Question": "A man walks 10 m North and then 10 m East. In which direction is he from the starting point? / एक व्यक्ति 10 मीटर उत्तर और फिर 10 मीटर पूर्व चलता है। वह प्रारंभिक बिंदु से किस दिशा में है?",
+    "A": "North-West / उत्तर-पश्चिम",
+    "B": "South-East / दक्षिण-पूर्व",
+    "C": "North-East / उत्तर-पूर्व",
+    "D": "South-West / दक्षिण-पश्चिम",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find the odd number pair. / विषम संख्या युग्म चुनिए।",
+    "A": "3-9",
+    "B": "5-25",
+    "C": "7-49",
+    "D": "8-60",
+    "Correct": "D"
+  },
+  {
+    "Question": "Complete the series. / श्रृंखला पूरी कीजिए।\nA, C, E, G, ?",
+    "A": "H",
+    "B": "I",
+    "C": "J",
+    "D": "K",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the related word. / संबंधित शब्द चुनिए।\nBird : Nest :: Lion : ?",
+    "A": "Forest / जंगल",
+    "B": "Den / मांद",
+    "C": "Zoo / चिड़ियाघर",
+    "D": "Hill / पहाड़ी",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find the missing number. / लुप्त संख्या ज्ञात कीजिए।\n9, 16, 25, 36, ?",
+    "A": "45",
+    "B": "49",
+    "C": "64",
+    "D": "81",
+    "Correct": "B"
+  },
+  {
+    "Question": "Pointing to a boy, a woman says, 'He is my brother's son.' The boy is her? / एक महिला एक लड़के की ओर इशारा करके कहती है, 'वह मेरे भाई का बेटा है।' लड़का महिला का क्या लगता है?",
+    "A": "Son / पुत्र",
+    "B": "Nephew / भतीजा",
+    "C": "Brother / भाई",
+    "D": "Cousin / चचेरा भाई",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find the odd letters. / विषम अक्षर चुनिए।",
+    "A": "BCD",
+    "B": "FGH",
+    "C": "JKL",
+    "D": "PQT",
+    "Correct": "D"
+  },
+  {
+    "Question": "Complete the analogy. / सादृश्य पूरा करें।\n64 : 8 :: 121 : ?",
+    "A": "9",
+    "B": "10",
+    "C": "11",
+    "D": "12",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find the missing number. / लुप्त संख्या ज्ञात कीजिए।\n3, 6, 12, 24, ?",
+    "A": "36",
+    "B": "42",
+    "C": "48",
+    "D": "60",
+    "Correct": "C"
+  },
+  {
+    "Question": "In a row of 30 students, Rahul is 8th from the left. What is his position from the right? / 30 विद्यार्थियों की पंक्ति में राहुल बाएँ से 8वें स्थान पर है। दाएँ से उसका स्थान क्या होगा?",
+    "A": "21st",
+    "B": "22nd",
+    "C": "23rd",
+    "D": "24th",
+    "Correct": "C"
+  },
+  {
+    "Question": "Statements: All fruits are sweet. Apple is a fruit. Conclusion: Apple is sweet. / कथन: सभी फल मीठे हैं। सेब एक फल है। निष्कर्ष: सेब मीठा है।",
+    "A": "True / सही",
+    "B": "False / गलत",
+    "C": "Cannot say / नहीं कह सकते",
+    "D": "None / कोई नहीं",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the related word. / संबंधित शब्द चुनिए।\nChair : Furniture :: Shirt : ?",
+    "A": "Cotton / कपास",
+    "B": "Cloth / कपड़ा",
+    "C": "Garment / वस्त्र",
+    "D": "Tailor / दर्जी",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find the missing number. / लुप्त संख्या ज्ञात कीजिए।\n4, 9, 16, 25, 36, ?",
+    "A": "42",
+    "B": "48",
+    "C": "49",
+    "D": "64",
+    "Correct": "C"
+  },
+  {
+    "Question": "Select the related word. / संबंधित शब्द चुनिए।\nEye : See :: Ear : ?",
+    "A": "Speak / बोलना",
+    "B": "Hear / सुनना",
+    "C": "Walk / चलना",
+    "D": "Touch / छूना",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find the missing number. / लुप्त संख्या ज्ञात कीजिए।\n6, 12, 24, 48, ?",
+    "A": "84",
+    "B": "90",
+    "C": "96",
+    "D": "100",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find the odd one out. / विषम चुनिए।",
+    "A": "Lion / शेर",
+    "B": "Tiger / बाघ",
+    "C": "Leopard / तेंदुआ",
+    "D": "Cow / गाय",
+    "Correct": "D"
+  },
+  {
+    "Question": "Complete the series. / श्रृंखला पूरी कीजिए।\n3, 7, 15, 31, ?",
+    "A": "62",
+    "B": "63",
+    "C": "64",
+    "D": "65",
+    "Correct": "B"
+  },
+  {
+    "Question": "If TABLE = UBCMF, then CHAIR = ? / यदि TABLE = UBCMF है, तो CHAIR = ?",
+    "A": "DIBJS",
+    "B": "DIBJR",
+    "C": "EJCJS",
+    "D": "DIAJR",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the related number. / संबंधित संख्या चुनिए।\n12 : 144 :: 15 : ?",
+    "A": "215",
+    "B": "220",
+    "C": "225",
+    "D": "230",
+    "Correct": "C"
+  },
+  {
+    "Question": "Arrange the following in meaningful order. / निम्नलिखित को सार्थक क्रम में व्यवस्थित करें।\n1. Infant 2. Adult 3. Child 4. Teenager",
+    "A": "1,3,4,2",
+    "B": "3,1,4,2",
+    "C": "1,4,3,2",
+    "D": "2,4,3,1",
+    "Correct": "A"
+  },
+  {
+    "Question": "A person walks 5 km South, then 5 km West. In which direction is he from the starting point? / एक व्यक्ति 5 किमी दक्षिण और फिर 5 किमी पश्चिम चलता है। वह प्रारंभिक बिंदु से किस दिशा में है?",
+    "A": "South-East / दक्षिण-पूर्व",
+    "B": "North-West / उत्तर-पश्चिम",
+    "C": "South-West / दक्षिण-पश्चिम",
+    "D": "North-East / उत्तर-पूर्व",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find the odd number pair. / विषम संख्या युग्म चुनिए।",
+    "A": "11-121",
+    "B": "12-144",
+    "C": "13-169",
+    "D": "14-194",
+    "Correct": "D"
+  },
+  {
+    "Question": "Complete the alphabet series. / वर्णमाला श्रृंखला पूरी कीजिए।\nZ, W, T, Q, ?",
+    "A": "N",
+    "B": "M",
+    "C": "O",
+    "D": "P",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the related word. / संबंधित शब्द चुनिए।\nPainter : Brush :: Writer : ?",
+    "A": "Book / पुस्तक",
+    "B": "Pen / कलम",
+    "C": "Paper / कागज",
+    "D": "Ink / स्याही",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find the missing number. / लुप्त संख्या ज्ञात कीजिए।\n1, 8, 27, 64, ?",
+    "A": "100",
+    "B": "121",
+    "C": "125",
+    "D": "144",
+    "Correct": "C"
+  },
+  {
+    "Question": "Pointing to a man, Sita said, 'He is the husband of my mother's daughter.' The man is Sita's? / सीता ने एक व्यक्ति की ओर इशारा करके कहा, 'वह मेरी माँ की बेटी का पति है।' वह व्यक्ति सीता का क्या लगता है?",
+    "A": "Brother / भाई",
+    "B": "Husband / पति",
+    "C": "Father / पिता",
+    "D": "Uncle / चाचा",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find the odd letters. / विषम अक्षर चुनिए।",
+    "A": "LMN",
+    "B": "PQR",
+    "C": "UVW",
+    "D": "XYZ",
+    "Correct": "D"
+  },
+  {
+    "Question": "Complete the analogy. / सादृश्य पूरा करें।\n27 : 3 :: 64 : ?",
+    "A": "4",
+    "B": "5",
+    "C": "6",
+    "D": "8",
+    "Correct": "A"
+  },
+  {
+    "Question": "Find the missing number. / लुप्त संख्या ज्ञात कीजिए।\n13, 26, 52, 104, ?",
+    "A": "156",
+    "B": "198",
+    "C": "208",
+    "D": "212",
+    "Correct": "C"
+  },
+  {
+    "Question": "In a row of 50 students, Mohan is 21st from the left. What is his position from the right? / 50 विद्यार्थियों की पंक्ति में मोहन बाएँ से 21वें स्थान पर है। दाएँ से उसका स्थान क्या होगा?",
+    "A": "28th",
+    "B": "29th",
+    "C": "30th",
+    "D": "31st",
+    "Correct": "C"
+  },
+  {
+    "Question": "Statements: All buses are vehicles. All vehicles have wheels. Conclusion: All buses have wheels. / कथन: सभी बसें वाहन हैं। सभी वाहनों में पहिए होते हैं। निष्कर्ष: सभी बसों में पहिए होते हैं।",
+    "A": "True / सही",
+    "B": "False / गलत",
+    "C": "Cannot Say / नहीं कह सकते",
+    "D": "None / कोई नहीं",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which one is different? / इनमें से कौन अलग है?",
+    "A": "Delhi / दिल्ली",
+    "B": "Mumbai / मुंबई",
+    "C": "Kolkata / कोलकाता",
+    "D": "Ganga / गंगा",
+    "Correct": "D"
+  },
+  {
+    "Question": "Find the odd one out. / विषम चुनिए।",
+    "A": "January / जनवरी",
+    "B": "March / मार्च",
+    "C": "August / अगस्त",
+    "D": "Monday / सोमवार",
+    "Correct": "D"
+  },
+  {
+    "Question": "Complete the series. / श्रृंखला पूरी कीजिए।\n1, 3, 6, 10, 15, ?",
+    "A": "18",
+    "B": "20",
+    "C": "21",
+    "D": "22",
+    "Correct": "C"
+  },
+  {
+    "Question": "If PEN = QFO, then BOOK = ? / यदि PEN = QFO है, तो BOOK = ?",
+    "A": "CPPL",
+    "B": "CPPM",
+    "C": "DQQL",
+    "D": "CQPL",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the related number. / संबंधित संख्या चुनिए।\n7 : 49 :: 11 : ?",
+    "A": "110",
+    "B": "111",
+    "C": "121",
+    "D": "131",
+    "Correct": "C"
+  },
+  {
+    "Question": "Arrange in meaningful order. / सार्थक क्रम में व्यवस्थित करें।\n1. Egg 2. Chick 3. Hen 4. Poultry Farm",
+    "A": "1,2,3,4",
+    "B": "3,1,2,4",
+    "C": "2,1,3,4",
+    "D": "4,3,2,1",
+    "Correct": "B"
+  },
+  {
+    "Question": "A person walks 8 m East, then 6 m North. In which direction is he from the starting point? / एक व्यक्ति 8 मीटर पूर्व और फिर 6 मीटर उत्तर चलता है। वह प्रारंभिक बिंदु से किस दिशा में है?",
+    "A": "North-East / उत्तर-पूर्व",
+    "B": "South-East / दक्षिण-पूर्व",
+    "C": "North-West / उत्तर-पश्चिम",
+    "D": "South-West / दक्षिण-पश्चिम",
+    "Correct": "A"
+  },
+  {
+    "Question": "Find the odd number pair. / विषम संख्या युग्म चुनिए।",
+    "A": "6-36",
+    "B": "8-64",
+    "C": "9-81",
+    "D": "10-90",
+    "Correct": "D"
+  },
+  {
+    "Question": "Complete the alphabet series. / वर्णमाला श्रृंखला पूरी कीजिए।\nB, E, H, K, ?",
+    "A": "M",
+    "B": "N",
+    "C": "O",
+    "D": "P",
+    "Correct": "B"
+  },
+  {
+    "Question": "Select the related word. / संबंधित शब्द चुनिए।\nTeacher : School :: Doctor : ?",
+    "A": "Clinic / क्लिनिक",
+    "B": "Hospital / अस्पताल",
+    "C": "Medicine / दवा",
+    "D": "Patient / मरीज",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find the missing number. / लुप्त संख्या ज्ञात कीजिए।\n2, 5, 10, 17, 26, ?",
+    "A": "35",
+    "B": "36",
+    "C": "37",
+    "D": "38",
+    "Correct": "C"
+  },
+  {
+    "Question": "Pointing to a girl, Raj said, 'She is the daughter of my mother's only son.' The girl is Raj's? / राज ने एक लड़की की ओर इशारा करके कहा, 'वह मेरी माँ के इकलौते बेटे की बेटी है।' लड़की राज की क्या लगती है?",
+    "A": "Sister / बहन",
+    "B": "Daughter / बेटी",
+    "C": "Niece / भतीजी",
+    "D": "Cousin / चचेरी बहन",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find the odd letters. / विषम अक्षर चुनिए।",
+    "A": "ACE",
+    "B": "BDF",
+    "C": "CEG",
+    "D": "DFH",
+    "Correct": "C"
+  },
+  {
+    "Question": "Complete the analogy. / सादृश्य पूरा करें।\n125 : 5 :: 216 : ?",
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9",
+    "Correct": "A"
+  },
+  {
+    "Question": "Find the missing number. / लुप्त संख्या ज्ञात कीजिए।\n11, 22, 44, 88, ?",
+    "A": "132",
+    "B": "166",
+    "C": "176",
+    "D": "188",
+    "Correct": "C"
+  },
+  {
+    "Question": "In a row of 40 students, Neha is 15th from the left. What is her position from the right? / 40 विद्यार्थियों की पंक्ति में नेहा बाएँ से 15वें स्थान पर है। दाएँ से उसका स्थान क्या होगा?",
+    "A": "24th",
+    "B": "25th",
+    "C": "26th",
+    "D": "27th",
+    "Correct": "C"
+  },
+  {
+    "Question": "Statements: All pens are stationery. All stationery are useful. Conclusion: All pens are useful. / कथन: सभी पेन स्टेशनरी हैं। सभी स्टेशनरी उपयोगी हैं। निष्कर्ष: सभी पेन उपयोगी हैं।",
+    "A": "True / सही",
+    "B": "False / गलत",
+    "C": "Cannot Say / नहीं कह सकते",
+    "D": "None / कोई नहीं",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which one is different? / इनमें से कौन अलग है?",
+    "A": "Square / वर्ग",
+    "B": "Rectangle / आयत",
+    "C": "Triangle / त्रिभुज",
+    "D": "Circle / वृत्त",
+    "Correct": "D"
+  },
+  {
+    "Question": "Select the related word. / संबंधित शब्द चुनिए।\nClock : Time :: Thermometer : ?",
+    "A": "Heat / गर्मी",
+    "B": "Temperature / तापमान",
+    "C": "Weather / मौसम",
+    "D": "Pressure / दबाव",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find the missing number. / लुप्त संख्या ज्ञात कीजिए।\n5, 15, 45, 135, ?",
+    "A": "270",
+    "B": "360",
+    "C": "405",
+    "D": "425",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find the odd one out. / विषम चुनिए।",
+    "A": "Copper / तांबा",
+    "B": "Iron / लोहा",
+    "C": "Gold / सोना",
+    "D": "Plastic / प्लास्टिक",
+    "Correct": "D"
+  },
+  {
+    "Question": "Complete the series. / श्रृंखला पूरी कीजिए।\n1, 4, 9, 16, 25, ?",
+    "A": "30",
+    "B": "35",
+    "C": "36",
+    "D": "49",
+    "Correct": "C"
+  },
+  {
+    "Question": "If ROAD = SPBE, then GAME = ? / यदि ROAD = SPBE है, तो GAME = ?",
+    "A": "HBNF",
+    "B": "HBOF",
+    "C": "IBNF",
+    "D": "HAME",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the related number. / संबंधित संख्या चुनिए।\n9 : 81 :: 13 : ?",
+    "A": "156",
+    "B": "169",
+    "C": "182",
+    "D": "196",
+    "Correct": "B"
+  },
+  {
+    "Question": "Arrange in meaningful order. / सार्थक क्रम में व्यवस्थित करें।\n1. Bud 2. Flower 3. Fruit 4. Seed",
+    "A": "4,1,2,3",
+    "B": "1,2,3,4",
+    "C": "4,2,1,3",
+    "D": "2,1,3,4",
+    "Correct": "A"
+  },
+  {
+    "Question": "A man walks 12 m West, then 5 m North. In which direction is he from the starting point? / एक व्यक्ति 12 मीटर पश्चिम और फिर 5 मीटर उत्तर चलता है। वह प्रारंभिक बिंदु से किस दिशा में है?",
+    "A": "North-East / उत्तर-पूर्व",
+    "B": "South-West / दक्षिण-पश्चिम",
+    "C": "North-West / उत्तर-पश्चिम",
+    "D": "South-East / दक्षिण-पूर्व",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find the odd number pair. / विषम संख्या युग्म चुनिए।",
+    "A": "4-16",
+    "B": "6-36",
+    "C": "8-64",
+    "D": "9-72",
+    "Correct": "D"
+  },
+  {
+    "Question": "Complete the alphabet series. / वर्णमाला श्रृंखला पूरी कीजिए।\nA, D, G, J, ?",
+    "A": "L",
+    "B": "M",
+    "C": "N",
+    "D": "O",
+    "Correct": "B"
+  },
+  {
+    "Question": "If '+' means '÷' and '÷' means '+', then 18 + 6 ÷ 3 = ?",
+    "A": "11",
+    "B": "24",
+    "C": "8",
+    "D": "9",
+    "Correct": "A"
+  },
+  {
+    "Question": "Select the related word. / संबंधित शब्द चुनिए।\nFarmer : Field :: Fisherman : ?",
+    "A": "River / नदी",
+    "B": "Boat / नाव",
+    "C": "Sea / समुद्र",
+    "D": "Net / जाल",
+    "Correct": "C"
+  },
+  {
+    "Question": "Find the missing number. / लुप्त संख्या ज्ञात कीजिए।\n2, 6, 12, 20, 30, ?",
+    "A": "36",
+    "B": "40",
+    "C": "42",
+    "D": "44",
+    "Correct": "C"
+  },
+  {
+    "Question": "Pointing to a woman, Mohan said, 'She is the daughter of my grandfather's only son.' The woman is Mohan's? / मोहन ने एक महिला की ओर इशारा करके कहा, 'वह मेरे दादा के इकलौते बेटे की बेटी है।' वह महिला मोहन की क्या लगती है?",
+    "A": "Mother / माँ",
+    "B": "Sister / बहन",
+    "C": "Aunt / बुआ",
+    "D": "Cousin / चचेरी बहन",
+    "Correct": "B"
+  },
+  {
+    "Question": "Find the odd letters. / विषम अक्षर चुनिए।",
+    "A": "EFG",
+    "B": "HIJ",
+    "C": "MNO",
+    "D": "QSU",
+    "Correct": "D"
+  },
+  {
+    "Question": "Complete the analogy. / सादृश्य पूरा करें।\n100 : 10 :: 225 : ?",
+    "A": "12",
+    "B": "13",
+    "C": "14",
+    "D": "15",
+    "Correct": "D"
+  },
+  {
+    "Question": "Find the missing number. / लुप्त संख्या ज्ञात कीजिए।\n7, 14, 28, 56, ?",
+    "A": "98",
+    "B": "108",
+    "C": "112",
+    "D": "120",
+    "Correct": "C"
+  },
+  {
+    "Question": "In a row of 60 students, Amit is 18th from the right. What is his position from the left? / 60 विद्यार्थियों की पंक्ति में अमित दाएँ से 18वें स्थान पर है। बाएँ से उसका स्थान क्या होगा?",
+    "A": "41st",
+    "B": "42nd",
+    "C": "43rd",
+    "D": "44th",
+    "Correct": "C"
+  },
+  {
+    "Question": "Statements: All roses are flowers. Some flowers are red. Conclusion: Some roses are red. / कथन: सभी गुलाब फूल हैं। कुछ फूल लाल हैं। निष्कर्ष: कुछ गुलाब लाल हैं।",
+    "A": "True / सही",
+    "B": "False / गलत",
+    "C": "Cannot be concluded / निष्कर्ष नहीं निकाला जा सकता",
+    "D": "None / कोई नहीं",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which one is different? / इनमें से कौन अलग है?",
+    "A": "Triangle / त्रिभुज",
+    "B": "Square / वर्ग",
+    "C": "Rectangle / आयत",
+    "D": "Cylinder / बेलन",
+    "Correct": "D"
+  }
+]
