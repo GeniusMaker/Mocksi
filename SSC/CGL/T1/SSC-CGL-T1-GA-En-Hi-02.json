@@ -1,0 +1,802 @@
+[
+  {
+    "Question": "Who is known as the Father of the Indian Constitution? / भारतीय संविधान के जनक किसे कहा जाता है?",
+    "A": "Mahatma Gandhi / महात्मा गांधी",
+    "B": "Dr. B.R. Ambedkar / डॉ. बी.आर. अंबेडकर",
+    "C": "Jawaharlal Nehru / जवाहरलाल नेहरू",
+    "D": "Rajendra Prasad / राजेंद्र प्रसाद",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the largest planet in our solar system? / हमारे सौरमंडल का सबसे बड़ा ग्रह कौन सा है?",
+    "A": "Earth / पृथ्वी",
+    "B": "Mars / मंगल",
+    "C": "Jupiter / बृहस्पति",
+    "D": "Saturn / शनि",
+    "Correct": "C"
+  },
+  {
+    "Question": "The Indian National Congress was founded in which year? / भारतीय राष्ट्रीय कांग्रेस की स्थापना किस वर्ष हुई थी?",
+    "A": "1885",
+    "B": "1905",
+    "C": "1919",
+    "D": "1947",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which Article of the Indian Constitution deals with Fundamental Rights? / भारतीय संविधान का कौन सा अनुच्छेद मौलिक अधिकारों से संबंधित है?",
+    "A": "Article 12-35 / अनुच्छेद 12-35",
+    "B": "Article 36-51 / अनुच्छेद 36-51",
+    "C": "Article 52-78 / अनुच्छेद 52-78",
+    "D": "Article 79-122 / अनुच्छेद 79-122",
+    "Correct": "A"
+  },
+  {
+    "Question": "Who wrote the book 'Discovery of India'? / 'डिस्कवरी ऑफ इंडिया' पुस्तक किसने लिखी?",
+    "A": "Mahatma Gandhi / महात्मा गांधी",
+    "B": "Jawaharlal Nehru / जवाहरलाल नेहरू",
+    "C": "Rabindranath Tagore / रवींद्रनाथ टैगोर",
+    "D": "Sardar Patel / सरदार पटेल",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the longest river in India? / भारत की सबसे लंबी नदी कौन सी है?",
+    "A": "Yamuna / यमुना",
+    "B": "Ganga / गंगा",
+    "C": "Godavari / गोदावरी",
+    "D": "Narmada / नर्मदा",
+    "Correct": "B"
+  },
+  {
+    "Question": "The Reserve Bank of India was established in which year? / भारतीय रिजर्व बैंक की स्थापना किस वर्ष हुई थी?",
+    "A": "1935",
+    "B": "1947",
+    "C": "1950",
+    "D": "1960",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which vitamin is produced in the human body in sunlight? / सूर्य के प्रकाश से मानव शरीर में कौन सा विटामिन बनता है?",
+    "A": "Vitamin A / विटामिन A",
+    "B": "Vitamin B / विटामिन B",
+    "C": "Vitamin C / विटामिन C",
+    "D": "Vitamin D / विटामिन D",
+    "Correct": "D"
+  },
+  {
+    "Question": "Who was the first President of India? / भारत के प्रथम राष्ट्रपति कौन थे?",
+    "A": "Dr. Rajendra Prasad / डॉ. राजेंद्र प्रसाद",
+    "B": "S. Radhakrishnan / एस. राधाकृष्णन",
+    "C": "Zakir Hussain / जाकिर हुसैन",
+    "D": "V.V. Giri / वी.वी. गिरि",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which gas is most abundant in Earth's atmosphere? / पृथ्वी के वायुमंडल में सबसे अधिक मात्रा में कौन सी गैस है?",
+    "A": "Oxygen / ऑक्सीजन",
+    "B": "Nitrogen / नाइट्रोजन",
+    "C": "Carbon dioxide / कार्बन डाइऑक्साइड",
+    "D": "Hydrogen / हाइड्रोजन",
+    "Correct": "B"
+  },
+  {
+    "Question": "The Battle of Plassey was fought in which year? / प्लासी का युद्ध किस वर्ष लड़ा गया था?",
+    "A": "1757",
+    "B": "1764",
+    "C": "1857",
+    "D": "1526",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which is the smallest state of India by area? / क्षेत्रफल के आधार पर भारत का सबसे छोटा राज्य कौन सा है?",
+    "A": "Goa / गोवा",
+    "B": "Sikkim / सिक्किम",
+    "C": "Tripura / त्रिपुरा",
+    "D": "Manipur / मणिपुर",
+    "Correct": "A"
+  },
+  {
+    "Question": "Who discovered the law of gravity? / गुरुत्वाकर्षण का नियम किसने खोजा?",
+    "A": "Albert Einstein / अल्बर्ट आइंस्टीन",
+    "B": "Isaac Newton / आइजैक न्यूटन",
+    "C": "Galileo / गैलीलियो",
+    "D": "Copernicus / कॉपरनिकस",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the highest civilian award of India? / भारत का सर्वोच्च नागरिक पुरस्कार कौन सा है?",
+    "A": "Padma Shri / पद्म श्री",
+    "B": "Padma Bhushan / पद्म भूषण",
+    "C": "Bharat Ratna / भारत रत्न",
+    "D": "Padma Vibhushan / पद्म विभूषण",
+    "Correct": "C"
+  },
+  {
+    "Question": "The Quit India Movement was launched in which year? / भारत छोड़ो आंदोलन किस वर्ष शुरू हुआ था?",
+    "A": "1940",
+    "B": "1942",
+    "C": "1945",
+    "D": "1930",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which organ purifies blood in the human body? / मानव शरीर में रक्त को शुद्ध करने वाला अंग कौन सा है?",
+    "A": "Heart / हृदय",
+    "B": "Lungs / फेफड़े",
+    "C": "Kidney / गुर्दा",
+    "D": "Liver / यकृत",
+    "Correct": "C"
+  },
+  {
+    "Question": "Who is the author of 'Ramcharitmanas'? / 'रामचरितमानस' के लेखक कौन हैं?",
+    "A": "Kabir / कबीर",
+    "B": "Tulsidas / तुलसीदास",
+    "C": "Kalidas / कालिदास",
+    "D": "Surdas / सूरदास",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which Indian state has the longest coastline? / भारत के किस राज्य की तटरेखा सबसे लंबी है?",
+    "A": "Tamil Nadu / तमिलनाडु",
+    "B": "Gujarat / गुजरात",
+    "C": "Maharashtra / महाराष्ट्र",
+    "D": "Kerala / केरल",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which metal is liquid at room temperature? / कमरे के तापमान पर कौन सी धातु तरल होती है?",
+    "A": "Iron / लोहा",
+    "B": "Mercury / पारा",
+    "C": "Copper / तांबा",
+    "D": "Aluminium / एल्युमिनियम",
+    "Correct": "B"
+  },
+  {
+    "Question": "The first Battle of Panipat was fought in which year? / पानीपत का प्रथम युद्ध किस वर्ष हुआ था?",
+    "A": "1526",
+    "B": "1556",
+    "C": "1761",
+    "D": "1857",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which is the largest ocean in the world? / विश्व का सबसे बड़ा महासागर कौन सा है?",
+    "A": "Atlantic Ocean / अटलांटिक महासागर",
+    "B": "Indian Ocean / हिंद महासागर",
+    "C": "Pacific Ocean / प्रशांत महासागर",
+    "D": "Arctic Ocean / आर्कटिक महासागर",
+    "Correct": "C"
+  },
+  {
+    "Question": "Who gave the slogan 'Jai Jawan Jai Kisan'? / 'जय जवान जय किसान' का नारा किसने दिया?",
+    "A": "Jawaharlal Nehru / जवाहरलाल नेहरू",
+    "B": "Lal Bahadur Shastri / लाल बहादुर शास्त्री",
+    "C": "Mahatma Gandhi / महात्मा गांधी",
+    "D": "Subhash Chandra Bose / सुभाष चंद्र बोस",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the national animal of India? / भारत का राष्ट्रीय पशु कौन सा है?",
+    "A": "Lion / सिंह",
+    "B": "Tiger / बाघ",
+    "C": "Elephant / हाथी",
+    "D": "Leopard / तेंदुआ",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who invented the telephone? / टेलीफोन का आविष्कार किसने किया?",
+    "A": "Thomas Edison / थॉमस एडिसन",
+    "B": "Alexander Graham Bell / अलेक्जेंडर ग्राहम बेल",
+    "C": "Newton / न्यूटन",
+    "D": "Marconi / मार्कोनी",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the largest desert in India? / भारत का सबसे बड़ा रेगिस्तान कौन सा है?",
+    "A": "Sahara / सहारा",
+    "B": "Thar / थार",
+    "C": "Gobi / गोबी",
+    "D": "Kalahari / कालाहारी",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who was the first Governor-General of independent India? / स्वतंत्र भारत के प्रथम गवर्नर-जनरल कौन थे?",
+    "A": "Lord Mountbatten / लॉर्ड माउंटबेटन",
+    "B": "C. Rajagopalachari / सी. राजगोपालाचारी",
+    "C": "Lord Curzon / लॉर्ड कर्जन",
+    "D": "Warren Hastings / वॉरेन हेस्टिंग्स",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which Article of the Indian Constitution abolishes untouchability? / भारतीय संविधान का कौन सा अनुच्छेद अस्पृश्यता को समाप्त करता है?",
+    "A": "Article 14 / अनुच्छेद 14",
+    "B": "Article 17 / अनुच्छेद 17",
+    "C": "Article 19 / अनुच्छेद 19",
+    "D": "Article 21 / अनुच्छेद 21",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which planet is known as the Red Planet? / किस ग्रह को लाल ग्रह कहा जाता है?",
+    "A": "Venus / शुक्र",
+    "B": "Mars / मंगल",
+    "C": "Jupiter / बृहस्पति",
+    "D": "Mercury / बुध",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who founded the Maurya Empire? / मौर्य साम्राज्य की स्थापना किसने की?",
+    "A": "Ashoka / अशोक",
+    "B": "Chandragupta Maurya / चंद्रगुप्त मौर्य",
+    "C": "Bindusara / बिंदुसार",
+    "D": "Harsha / हर्ष",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the largest gland in the human body? / मानव शरीर की सबसे बड़ी ग्रंथि कौन सी है?",
+    "A": "Pancreas / अग्न्याशय",
+    "B": "Thyroid / थायरॉयड",
+    "C": "Liver / यकृत",
+    "D": "Pituitary / पिट्यूटरी",
+    "Correct": "C"
+  },
+  {
+    "Question": "The currency of Japan is? / जापान की मुद्रा क्या है?",
+    "A": "Dollar / डॉलर",
+    "B": "Yuan / युआन",
+    "C": "Yen / येन",
+    "D": "Won / वॉन",
+    "Correct": "C"
+  },
+  {
+    "Question": "Who composed India's National Anthem? / भारत के राष्ट्रगान की रचना किसने की?",
+    "A": "Bankim Chandra Chattopadhyay / बंकिम चंद्र चट्टोपाध्याय",
+    "B": "Rabindranath Tagore / रवींद्रनाथ टैगोर",
+    "C": "Sarojini Naidu / सरोजिनी नायडू",
+    "D": "Subhash Chandra Bose / सुभाष चंद्र बोस",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the longest bone in the human body? / मानव शरीर की सबसे लंबी हड्डी कौन सी है?",
+    "A": "Femur / फीमर",
+    "B": "Tibia / टिबिया",
+    "C": "Humerus / ह्यूमरस",
+    "D": "Radius / रेडियस",
+    "Correct": "A"
+  },
+  {
+    "Question": "Who was the first Indian to win a Nobel Prize? / नोबेल पुरस्कार जीतने वाले पहले भारतीय कौन थे?",
+    "A": "C.V. Raman / सी.वी. रमन",
+    "B": "Rabindranath Tagore / रवींद्रनाथ टैगोर",
+    "C": "Mother Teresa / मदर टेरेसा",
+    "D": "Amartya Sen / अमर्त्य सेन",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which river is known as the 'Sorrow of Bihar'? / किस नदी को 'बिहार का शोक' कहा जाता है?",
+    "A": "Ganga / गंगा",
+    "B": "Kosi / कोसी",
+    "C": "Yamuna / यमुना",
+    "D": "Son / सोन",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which Mughal emperor built the Taj Mahal? / ताजमहल का निर्माण किस मुगल सम्राट ने करवाया?",
+    "A": "Akbar / अकबर",
+    "B": "Babur / बाबर",
+    "C": "Shah Jahan / शाहजहां",
+    "D": "Aurangzeb / औरंगजेब",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which is the smallest continent in the world? / विश्व का सबसे छोटा महाद्वीप कौन सा है?",
+    "A": "Europe / यूरोप",
+    "B": "Australia / ऑस्ट्रेलिया",
+    "C": "Antarctica / अंटार्कटिका",
+    "D": "South America / दक्षिण अमेरिका",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who discovered the electron? / इलेक्ट्रॉन की खोज किसने की?",
+    "A": "J.J. Thomson / जे.जे. थॉमसन",
+    "B": "Rutherford / रदरफोर्ड",
+    "C": "Bohr / बोहर",
+    "D": "Dalton / डाल्टन",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which is the national flower of India? / भारत का राष्ट्रीय फूल कौन सा है?",
+    "A": "Rose / गुलाब",
+    "B": "Lotus / कमल",
+    "C": "Sunflower / सूरजमुखी",
+    "D": "Jasmine / चमेली",
+    "Correct": "B"
+  },
+  {
+    "Question": "The Green Revolution in India is associated with which crop? / भारत में हरित क्रांति किस फसल से संबंधित है?",
+    "A": "Rice / चावल",
+    "B": "Wheat / गेहूं",
+    "C": "Cotton / कपास",
+    "D": "Sugarcane / गन्ना",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who is known as the Iron Man of India? / भारत के लौह पुरुष किसे कहा जाता है?",
+    "A": "Bhagat Singh / भगत सिंह",
+    "B": "Sardar Vallabhbhai Patel / सरदार वल्लभभाई पटेल",
+    "C": "Subhash Chandra Bose / सुभाष चंद्र बोस",
+    "D": "Lal Bahadur Shastri / लाल बहादुर शास्त्री",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which state is known as the 'Spice Garden of India'? / किस राज्य को 'भारत का मसाला उद्यान' कहा जाता है?",
+    "A": "Kerala / केरल",
+    "B": "Punjab / पंजाब",
+    "C": "Rajasthan / राजस्थान",
+    "D": "Assam / असम",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which blood group is known as the universal donor? / किस रक्त समूह को सार्वभौमिक दाता कहा जाता है?",
+    "A": "AB+",
+    "B": "A+",
+    "C": "O-",
+    "D": "B+",
+    "Correct": "C"
+  },
+  {
+    "Question": "Who wrote the book 'Arthashastra'? / 'अर्थशास्त्र' पुस्तक किसने लिखी?",
+    "A": "Kalidasa / कालिदास",
+    "B": "Chanakya / चाणक्य",
+    "C": "Banabhatta / बाणभट्ट",
+    "D": "Tulsidas / तुलसीदास",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the largest state of India by area? / क्षेत्रफल के आधार पर भारत का सबसे बड़ा राज्य कौन सा है?",
+    "A": "Madhya Pradesh / मध्य प्रदेश",
+    "B": "Maharashtra / महाराष्ट्र",
+    "C": "Rajasthan / राजस्थान",
+    "D": "Uttar Pradesh / उत्तर प्रदेश",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which instrument is used to measure atmospheric pressure? / वायुमंडलीय दबाव मापने के लिए किस यंत्र का प्रयोग किया जाता है?",
+    "A": "Thermometer / थर्मामीटर",
+    "B": "Barometer / बैरोमीटर",
+    "C": "Hygrometer / हाइग्रोमीटर",
+    "D": "Ammeter / एमीटर",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who was the first Prime Minister of India? / भारत के प्रथम प्रधानमंत्री कौन थे?",
+    "A": "Mahatma Gandhi / महात्मा गांधी",
+    "B": "Jawaharlal Nehru / जवाहरलाल नेहरू",
+    "C": "Sardar Patel / सरदार पटेल",
+    "D": "Rajendra Prasad / राजेंद्र प्रसाद",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the largest internal organ of the human body? / मानव शरीर का सबसे बड़ा आंतरिक अंग कौन सा है?",
+    "A": "Heart / हृदय",
+    "B": "Liver / यकृत",
+    "C": "Lungs / फेफड़े",
+    "D": "Kidney / गुर्दा",
+    "Correct": "B"
+  },
+  {
+    "Question": "The headquarters of UNESCO is located in? / यूनेस्को का मुख्यालय कहाँ स्थित है?",
+    "A": "London / लंदन",
+    "B": "Paris / पेरिस",
+    "C": "New York / न्यूयॉर्क",
+    "D": "Geneva / जिनेवा",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the highest mountain peak in India? / भारत की सबसे ऊंची पर्वत चोटी कौन सी है?",
+    "A": "Nanda Devi / नंदा देवी",
+    "B": "Kangchenjunga / कंचनजंगा",
+    "C": "Mount Everest / माउंट एवरेस्ट",
+    "D": "Anamudi / अनामुडी",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who is known as the Father of the Green Revolution in India? / भारत में हरित क्रांति के जनक किसे कहा जाता है?",
+    "A": "M.S. Swaminathan / एम.एस. स्वामीनाथन",
+    "B": "Norman Borlaug / नॉर्मन बोरलॉग",
+    "C": "Verghese Kurien / वर्गीज कुरियन",
+    "D": "Homi Bhabha / होमी भाभा",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which Article of the Indian Constitution deals with the Right to Equality? / भारतीय संविधान का कौन सा अनुच्छेद समानता के अधिकार से संबंधित है?",
+    "A": "Article 14 / अनुच्छेद 14",
+    "B": "Article 21 / अनुच्छेद 21",
+    "C": "Article 32 / अनुच्छेद 32",
+    "D": "Article 44 / अनुच्छेद 44",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which is the largest mammal in the world? / विश्व का सबसे बड़ा स्तनधारी कौन सा है?",
+    "A": "Elephant / हाथी",
+    "B": "Blue Whale / नीली व्हेल",
+    "C": "Giraffe / जिराफ",
+    "D": "Hippopotamus / दरियाई घोड़ा",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who founded the Sikh religion? / सिख धर्म की स्थापना किसने की?",
+    "A": "Guru Nanak Dev / गुरु नानक देव",
+    "B": "Guru Gobind Singh / गुरु गोबिंद सिंह",
+    "C": "Guru Arjan Dev / गुरु अर्जन देव",
+    "D": "Guru Tegh Bahadur / गुरु तेग बहादुर",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which is the largest freshwater lake in India? / भारत की सबसे बड़ी मीठे पानी की झील कौन सी है?",
+    "A": "Dal Lake / डल झील",
+    "B": "Wular Lake / वुलर झील",
+    "C": "Chilika Lake / चिल्का झील",
+    "D": "Pulicat Lake / पुलिकट झील",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who invented the electric bulb? / विद्युत बल्ब का आविष्कार किसने किया?",
+    "A": "Thomas Edison / थॉमस एडिसन",
+    "B": "Nikola Tesla / निकोला टेस्ला",
+    "C": "Alexander Bell / अलेक्जेंडर बेल",
+    "D": "James Watt / जेम्स वाट",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which is the national bird of India? / भारत का राष्ट्रीय पक्षी कौन सा है?",
+    "A": "Sparrow / गौरैया",
+    "B": "Peacock / मोर",
+    "C": "Parrot / तोता",
+    "D": "Swan / हंस",
+    "Correct": "B"
+  },
+  {
+    "Question": "The Constitution of India came into force on which date? / भारत का संविधान किस तिथि को लागू हुआ?",
+    "A": "15 August 1947 / 15 अगस्त 1947",
+    "B": "26 January 1950 / 26 जनवरी 1950",
+    "C": "26 November 1949 / 26 नवंबर 1949",
+    "D": "2 October 1950 / 2 अक्टूबर 1950",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the largest planet in the solar system? / सौरमंडल का सबसे बड़ा ग्रह कौन सा है?",
+    "A": "Earth / पृथ्वी",
+    "B": "Saturn / शनि",
+    "C": "Jupiter / बृहस्पति",
+    "D": "Neptune / वरुण",
+    "Correct": "C"
+  },
+  {
+    "Question": "Who was the first woman Prime Minister of India? / भारत की पहली महिला प्रधानमंत्री कौन थीं?",
+    "A": "Indira Gandhi / इंदिरा गांधी",
+    "B": "Sarojini Naidu / सरोजिनी नायडू",
+    "C": "Pratibha Patil / प्रतिभा पाटिल",
+    "D": "Sushma Swaraj / सुषमा स्वराज",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which vitamin deficiency causes night blindness? / किस विटामिन की कमी से रतौंधी होती है?",
+    "A": "Vitamin A / विटामिन A",
+    "B": "Vitamin B / विटामिन B",
+    "C": "Vitamin C / विटामिन C",
+    "D": "Vitamin K / विटामिन K",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which is the oldest mountain range in India? / भारत की सबसे पुरानी पर्वत श्रृंखला कौन सी है?",
+    "A": "Himalayas / हिमालय",
+    "B": "Aravalli Range / अरावली पर्वतमाला",
+    "C": "Western Ghats / पश्चिमी घाट",
+    "D": "Eastern Ghats / पूर्वी घाट",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who wrote 'Vande Mataram'? / 'वंदे मातरम्' की रचना किसने की?",
+    "A": "Rabindranath Tagore / रवींद्रनाथ टैगोर",
+    "B": "Bankim Chandra Chattopadhyay / बंकिम चंद्र चट्टोपाध्याय",
+    "C": "Subhash Chandra Bose / सुभाष चंद्र बोस",
+    "D": "Sarojini Naidu / सरोजिनी नायडू",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the largest state in India by population? / जनसंख्या के आधार पर भारत का सबसे बड़ा राज्य कौन सा है?",
+    "A": "Maharashtra / महाराष्ट्र",
+    "B": "Bihar / बिहार",
+    "C": "West Bengal / पश्चिम बंगाल",
+    "D": "Uttar Pradesh / उत्तर प्रदेश",
+    "Correct": "D"
+  },
+  {
+    "Question": "Which gas is essential for respiration? / श्वसन के लिए कौन सी गैस आवश्यक है?",
+    "A": "Nitrogen / नाइट्रोजन",
+    "B": "Oxygen / ऑक्सीजन",
+    "C": "Carbon dioxide / कार्बन डाइऑक्साइड",
+    "D": "Hydrogen / हाइड्रोजन",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who was the founder of the Mughal Empire in India? / भारत में मुगल साम्राज्य का संस्थापक कौन था?",
+    "A": "Akbar / अकबर",
+    "B": "Babur / बाबर",
+    "C": "Humayun / हुमायूं",
+    "D": "Shah Jahan / शाहजहां",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which Indian city is known as the Pink City? / भारत का कौन सा शहर गुलाबी शहर कहलाता है?",
+    "A": "Udaipur / उदयपुर",
+    "B": "Jaipur / जयपुर",
+    "C": "Jodhpur / जोधपुर",
+    "D": "Bikaner / बीकानेर",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which part of the plant performs photosynthesis? / पौधे का कौन सा भाग प्रकाश संश्लेषण करता है?",
+    "A": "Root / जड़",
+    "B": "Stem / तना",
+    "C": "Leaf / पत्ती",
+    "D": "Flower / फूल",
+    "Correct": "C"
+  },
+  {
+    "Question": "Who was the first Indian to go into space? / अंतरिक्ष में जाने वाले पहले भारतीय कौन थे?",
+    "A": "Kalpana Chawla / कल्पना चावला",
+    "B": "Rakesh Sharma / राकेश शर्मा",
+    "C": "Sunita Williams / सुनीता विलियम्स",
+    "D": "Vikram Sarabhai / विक्रम साराभाई",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the largest plateau in India? / भारत का सबसे बड़ा पठार कौन सा है?",
+    "A": "Malwa Plateau / मालवा पठार",
+    "B": "Deccan Plateau / दक्कन का पठार",
+    "C": "Chota Nagpur Plateau / छोटा नागपुर पठार",
+    "D": "Meghalaya Plateau / मेघालय पठार",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which institution conducts the Census of India? / भारत में जनगणना कौन आयोजित करता है?",
+    "A": "NITI Aayog / नीति आयोग",
+    "B": "Registrar General and Census Commissioner / रजिस्ट्रार जनरल और जनगणना आयुक्त",
+    "C": "Election Commission / चुनाव आयोग",
+    "D": "Reserve Bank of India / भारतीय रिजर्व बैंक",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who is called the Missile Man of India? / भारत के मिसाइल मैन किसे कहा जाता है?",
+    "A": "A.P.J. Abdul Kalam / ए.पी.जे. अब्दुल कलाम",
+    "B": "Vikram Sarabhai / विक्रम साराभाई",
+    "C": "Homi Bhabha / होमी भाभा",
+    "D": "Satish Dhawan / सतीश धवन",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which is the largest river island in India? / भारत का सबसे बड़ा नदी द्वीप कौन सा है?",
+    "A": "Majuli / माजुली",
+    "B": "Diu / दीव",
+    "C": "Elephanta / एलीफेंटा",
+    "D": "Salsette / सालसेट",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which Article provides the Right to Life and Personal Liberty? / कौन सा अनुच्छेद जीवन और व्यक्तिगत स्वतंत्रता का अधिकार देता है?",
+    "A": "Article 14 / अनुच्छेद 14",
+    "B": "Article 19 / अनुच्छेद 19",
+    "C": "Article 21 / अनुच्छेद 21",
+    "D": "Article 25 / अनुच्छेद 25",
+    "Correct": "C"
+  },
+  {
+    "Question": "Which is the largest island in the world? / विश्व का सबसे बड़ा द्वीप कौन सा है?",
+    "A": "Greenland / ग्रीनलैंड",
+    "B": "Madagascar / मेडागास्कर",
+    "C": "Borneo / बोर्नियो",
+    "D": "Sri Lanka / श्रीलंका",
+    "Correct": "A"
+  },
+  {
+    "Question": "Who is known as the Father of Indian Space Programme? / भारतीय अंतरिक्ष कार्यक्रम के जनक किसे कहा जाता है?",
+    "A": "A.P.J. Abdul Kalam / ए.पी.जे. अब्दुल कलाम",
+    "B": "Vikram Sarabhai / विक्रम साराभाई",
+    "C": "Homi Bhabha / होमी भाभा",
+    "D": "Satish Dhawan / सतीश धवन",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the largest democracy in the world? / विश्व का सबसे बड़ा लोकतंत्र कौन सा है?",
+    "A": "USA / अमेरिका",
+    "B": "India / भारत",
+    "C": "UK / ब्रिटेन",
+    "D": "Japan / जापान",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the national aquatic animal of India? / भारत का राष्ट्रीय जलीय जीव कौन सा है?",
+    "A": "Blue Whale / नीली व्हेल",
+    "B": "Ganges River Dolphin / गंगा नदी डॉल्फिन",
+    "C": "Crocodile / मगरमच्छ",
+    "D": "Turtle / कछुआ",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who was the first Vice President of India? / भारत के प्रथम उपराष्ट्रपति कौन थे?",
+    "A": "Dr. S. Radhakrishnan / डॉ. एस. राधाकृष्णन",
+    "B": "Dr. Rajendra Prasad / डॉ. राजेंद्र प्रसाद",
+    "C": "Zakir Hussain / जाकिर हुसैन",
+    "D": "V.V. Giri / वी.वी. गिरि",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which is the largest continent in the world? / विश्व का सबसे बड़ा महाद्वीप कौन सा है?",
+    "A": "Africa / अफ्रीका",
+    "B": "Asia / एशिया",
+    "C": "Europe / यूरोप",
+    "D": "North America / उत्तरी अमेरिका",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which element has the chemical symbol 'O'? / किस तत्व का रासायनिक प्रतीक 'O' है?",
+    "A": "Gold / सोना",
+    "B": "Oxygen / ऑक्सीजन",
+    "C": "Osmium / ऑस्मियम",
+    "D": "Iron / लोहा",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who started the Non-Cooperation Movement? / असहयोग आंदोलन किसने शुरू किया?",
+    "A": "Mahatma Gandhi / महात्मा गांधी",
+    "B": "Jawaharlal Nehru / जवाहरलाल नेहरू",
+    "C": "Bal Gangadhar Tilak / बाल गंगाधर तिलक",
+    "D": "Sardar Patel / सरदार पटेल",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which is the largest public sector bank in India? / भारत का सबसे बड़ा सार्वजनिक क्षेत्र का बैंक कौन सा है?",
+    "A": "Punjab National Bank / पंजाब नेशनल बैंक",
+    "B": "State Bank of India / भारतीय स्टेट बैंक",
+    "C": "Bank of Baroda / बैंक ऑफ बड़ौदा",
+    "D": "Canara Bank / केनरा बैंक",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the hardest natural substance? / सबसे कठोर प्राकृतिक पदार्थ कौन सा है?",
+    "A": "Gold / सोना",
+    "B": "Iron / लोहा",
+    "C": "Diamond / हीरा",
+    "D": "Silver / चांदी",
+    "Correct": "C"
+  },
+  {
+    "Question": "Who gave the theory of relativity? / सापेक्षता का सिद्धांत किसने दिया?",
+    "A": "Isaac Newton / आइजैक न्यूटन",
+    "B": "Albert Einstein / अल्बर्ट आइंस्टीन",
+    "C": "Galileo / गैलीलियो",
+    "D": "Max Planck / मैक्स प्लैंक",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which Indian state is famous for tea production? / कौन सा भारतीय राज्य चाय उत्पादन के लिए प्रसिद्ध है?",
+    "A": "Assam / असम",
+    "B": "Punjab / पंजाब",
+    "C": "Gujarat / गुजरात",
+    "D": "Rajasthan / राजस्थान",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which is the largest organ of the human body? / मानव शरीर का सबसे बड़ा अंग कौन सा है?",
+    "A": "Heart / हृदय",
+    "B": "Skin / त्वचा",
+    "C": "Liver / यकृत",
+    "D": "Brain / मस्तिष्क",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who built the Red Fort in Delhi? / दिल्ली में लाल किला किसने बनवाया?",
+    "A": "Akbar / अकबर",
+    "B": "Shah Jahan / शाहजहां",
+    "C": "Aurangzeb / औरंगजेब",
+    "D": "Humayun / हुमायूं",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the highest civilian award in India? / भारत का सर्वोच्च नागरिक सम्मान कौन सा है?",
+    "A": "Padma Shri / पद्म श्री",
+    "B": "Bharat Ratna / भारत रत्न",
+    "C": "Padma Bhushan / पद्म भूषण",
+    "D": "Padma Vibhushan / पद्म विभूषण",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which planet is closest to the Sun? / सूर्य के सबसे निकट कौन सा ग्रह है?",
+    "A": "Venus / शुक्र",
+    "B": "Earth / पृथ्वी",
+    "C": "Mercury / बुध",
+    "D": "Mars / मंगल",
+    "Correct": "C"
+  },
+  {
+    "Question": "Who wrote 'Gitanjali'? / 'गीतांजलि' किसने लिखी?",
+    "A": "Rabindranath Tagore / रवींद्रनाथ टैगोर",
+    "B": "Bankim Chandra / बंकिम चंद्र",
+    "C": "Premchand / प्रेमचंद",
+    "D": "Sarojini Naidu / सरोजिनी नायडू",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which is the largest coffee producing state in India? / भारत में सबसे अधिक कॉफी उत्पादन करने वाला राज्य कौन सा है?",
+    "A": "Kerala / केरल",
+    "B": "Karnataka / कर्नाटक",
+    "C": "Tamil Nadu / तमिलनाडु",
+    "D": "Andhra Pradesh / आंध्र प्रदेश",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which blood cells help in fighting diseases? / रोगों से लड़ने में कौन सी रक्त कोशिकाएं सहायता करती हैं?",
+    "A": "Red Blood Cells / लाल रक्त कोशिकाएं",
+    "B": "White Blood Cells / श्वेत रक्त कोशिकाएं",
+    "C": "Platelets / प्लेटलेट्स",
+    "D": "Plasma / प्लाज्मा",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who was the first Governor-General of Bengal? / बंगाल के प्रथम गवर्नर-जनरल कौन थे?",
+    "A": "Warren Hastings / वॉरेन हेस्टिंग्स",
+    "B": "Lord Cornwallis / लॉर्ड कॉर्नवालिस",
+    "C": "Lord Wellesley / लॉर्ड वेलेजली",
+    "D": "Lord Curzon / लॉर्ड कर्जन",
+    "Correct": "A"
+  },
+  {
+    "Question": "Which is the longest railway platform in India? / भारत का सबसे लंबा रेलवे प्लेटफॉर्म कौन सा है?",
+    "A": "Howrah / हावड़ा",
+    "B": "Gorakhpur / गोरखपुर",
+    "C": "Kharagpur / खड़गपुर",
+    "D": "New Delhi / नई दिल्ली",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which instrument measures temperature? / तापमान मापने का यंत्र कौन सा है?",
+    "A": "Barometer / बैरोमीटर",
+    "B": "Thermometer / थर्मामीटर",
+    "C": "Ammeter / एमीटर",
+    "D": "Hygrometer / हाइग्रोमीटर",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who founded the Indian National Army (INA)? / आजाद हिंद फौज की स्थापना किसने की?",
+    "A": "Subhash Chandra Bose / सुभाष चंद्र बोस",
+    "B": "Mohan Singh / मोहन सिंह",
+    "C": "Bhagat Singh / भगत सिंह",
+    "D": "Chandrashekhar Azad / चंद्रशेखर आजाद",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the largest state of India by area? / क्षेत्रफल के अनुसार भारत का सबसे बड़ा राज्य कौन सा है?",
+    "A": "Madhya Pradesh / मध्य प्रदेश",
+    "B": "Rajasthan / राजस्थान",
+    "C": "Maharashtra / महाराष्ट्र",
+    "D": "Uttar Pradesh / उत्तर प्रदेश",
+    "Correct": "B"
+  },
+  {
+    "Question": "Which is the study of earthquakes called? / भूकंपों के अध्ययन को क्या कहते हैं?",
+    "A": "Geology / भूविज्ञान",
+    "B": "Seismology / भूकंप विज्ञान",
+    "C": "Meteorology / मौसम विज्ञान",
+    "D": "Biology / जीव विज्ञान",
+    "Correct": "B"
+  },
+  {
+    "Question": "Who is the author of 'Godan'? / 'गोदान' के लेखक कौन हैं?",
+    "A": "Munshi Premchand / मुंशी प्रेमचंद",
+    "B": "Harivansh Rai Bachchan / हरिवंश राय बच्चन",
+    "C": "Ramdhari Singh Dinkar / रामधारी सिंह दिनकर",
+    "D": "Jaishankar Prasad / जयशंकर प्रसाद",
+    "Correct": "A"
+  }
+]
