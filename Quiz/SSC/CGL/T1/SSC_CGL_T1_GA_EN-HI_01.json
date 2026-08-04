@@ -1,68 +1,33 @@
 {
-  "title": "SSC CGL Tier 1 - General Awareness Mock 01 (English & Hindi)",
-  "positiveMarks": 2,
+  "title": "SSC CGL General Awareness / एसएससी सीजीएल सामान्य जागरूकता",
+  "positiveMarks": 2.0,
   "negativeMarks": 0.5,
   "timeLimitMinutes": 15,
+  "shuffle": true,
   "questions": [
     {
       "id": 1,
-      "question": "Which fundamental right cannot be suspended even during a National Emergency?\nराष्ट्रीय आपातकाल के दौरान भी कौन सा मौलिक अधिकार निलंबित नहीं किया जा सकता है?",
+      "question": "Which article deals with the Election Commission? / भारतीय संविधान का कौन सा अनुच्छेद चुनाव आयोग से संबंधित है?",
       "options": [
-        "Right to Equality / समानता का अधिकार",
-        "Right to Freedom of Speech / वाक् स्वतंत्रता का अधिकार",
-        "Right to Life and Personal Liberty / जीवन और व्यक्तिगत स्वतंत्रता का अधिकार",
-        "Right to Constitutional Remedies / संवैधानिक उपचारों का अधिकार"
+        "Article 324 / अनुच्छेद 324",
+        "Article 352 / अनुच्छेद 352",
+        "Article 370 / अनुच्छेद 370",
+        "Article 280 / अनुच्छेद 280"
       ],
-      "answer": 2,
-      "explanation": "Articles 20 and 21 cannot be suspended during a National Emergency."
+      "answer": 0,
+      "explanation": "Article 324 provides for the Election Commission. / अनुच्छेद 324 चुनाव आयोग का प्रावधान करता है।"
     },
     {
       "id": 2,
-      "question": "Who was the first Governor-General of Bengal?\nबंगाल के प्रथम गवर्नर-जनरल कौन थे?",
+      "question": "Who was the founder of the Maurya Empire? / मौर्य साम्राज्य के संस्थापक कौन थे?",
       "options": [
-        "Lord Clive / लॉर्ड क्लाइव",
-        "Warren Hastings / वारेन हेस्टिंग्स",
-        "Lord Cornwallis / लॉर्ड कॉर्नवालिस",
-        "Lord Wellesley / लॉर्ड वेलेस्ली"
+        "Ashoka / अशोक",
+        "Chandragupta Maurya / चंद्रगुप्त मौर्य",
+        "Bindusara / बिंदुसार",
+        "Brihadratha / बृहद्रथ"
       ],
       "answer": 1,
-      "explanation": "Warren Hastings became the first Governor-General of Bengal under the Regulating Act of 1773."
-    },
-    {
-      "id": 3,
-      "question": "Which instrument is used to measure atmospheric pressure?\nवायुमंडलीय दबाव को मापने के लिए किस उपकरण का उपयोग किया जाता है?",
-      "options": [
-        "Thermometer / थर्मामीटर",
-        "Barometer / बैरोमीटर",
-        "Hygrometer / हाइग्रोमीटर",
-        "Anemometer / एनेमोमीटर"
-      ],
-      "answer": 1,
-      "explanation": "A barometer is a scientific instrument used to measure atmospheric pressure."
-    },
-    {
-      "id": 4,
-      "question": "In which year was the Reserve Bank of India (RBI) established?\nभारतीय रिजर्व बैंक (RBI) की स्थापना किस वर्ष हुई थी?",
-      "options": [
-        "1935",
-        "1947",
-        "1950",
-        "1962"
-      ],
-      "answer": 0,
-      "explanation": "The Reserve Bank of India was established on April 1, 1935 under the Reserve Bank of India Act, 1934."
-    },
-    {
-      "id": 5,
-      "question": "Which is the largest river island in the world?\nविश्व का सबसे बड़ा नदी द्वीप कौन सा है?",
-      "options": [
-        "Majuli Island / माजुली द्वीप",
-        "Sunderbans / सुंदरबन",
-        "Greenland / ग्रीनलैंड",
-        "Andaman Island / अंडमान द्वीप"
-      ],
-      "answer": 0,
-      "explanation": "Majuli Island in Assam, located on the Brahmaputra River, is the world's largest river island."
+      "explanation": "Chandragupta Maurya established the empire in 322 BCE. / चंद्रगुप्त मौर्य ने 322 ईसा पूर्व में साम्राज्य की स्थापना की।"
     }
   ]
 }
