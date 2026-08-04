@@ -631,6 +631,3 @@
     }
   ]
 }
-```eof
-
-This JSON file contains all 52 bilingual questions and is ready to be exported or consumed by your application.
