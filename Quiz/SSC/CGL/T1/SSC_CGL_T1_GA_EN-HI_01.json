@@ -1,6 +1,6 @@
 {
   "title": "SSC CGL General Awareness / एसएससी सीजीएल सामान्य जागरूकता",
-  "positiveMarks": 2.0,
+  "positiveMarks": 2,
   "negativeMarks": 0.5,
   "timeLimitMinutes": 30,
   "shuffle": true,
@@ -629,5 +629,8 @@
       "answer": 2,
       "explanation": "Hydrogen produces only water vapor when burned. / जलने पर हाइड्रोजन केवल जल वाष्प पैदा करता है।"
     }
-  ]
+  ],
+  "limitQuestions": 25,
+  "lockFrom": 1,
+  "lockTo": 1
 }
