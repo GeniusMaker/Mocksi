@@ -1,0 +1,7 @@
+﻿{
+  "exam": "SSC CHSL",
+  "tiers": [
+    { "name": "Tier 1", "file": "tier1.json" },
+    { "name": "Tier 2", "file": "tier2.json" }
+  ]
+}

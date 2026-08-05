@@ -1,0 +1,16 @@
+﻿{
+  "subjects": {
+    "English Language & Comprehension": [
+      {
+        "title": "SSC CPO Paper 2 English Full Test 01",
+        "level": "Hard",
+        "questions": 200,
+        "marks": 200,
+        "time": "120 Mins",
+        "positiveMarking": "1",
+        "negativeMarking": "0.25",
+        "fileKey": "cpo/paper2/English-Language/ssc_cpo_p2_english_01"
+      }
+    ]
+  }
+}

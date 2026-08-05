@@ -1,0 +1,7 @@
+﻿{
+  "exam": "SSC CPO",
+  "tiers": [
+    { "name": "Paper 1", "file": "paper1.json" },
+    { "name": "Paper 2", "file": "paper2.json" }
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "subjects": {
+    "General Awareness": [
+      {
+        "title": "SSC MTS Session 2 GA Test 01",
+        "level": "Easy",
+        "questions": 25,
+        "marks": 75,
+        "time": "45 Mins",
+        "positiveMarking": "3",
+        "negativeMarking": "1",
+        "fileKey": "mts/session2/General-Awareness/ssc_mts_s2_ga_01"
+      }
+    ],
+    "English Language": []
+  }
+}

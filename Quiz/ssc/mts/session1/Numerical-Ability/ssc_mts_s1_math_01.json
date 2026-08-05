@@ -1,0 +1,14 @@
+﻿{
+  "testTitle": "Sample Test",
+  "totalTime": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question_en": "Who among the following was the founder of the Gupta Empire?",
+      "question_hi": "निम्नलिखित में से गुप्त साम्राज्य का संस्थापक कौन था?",
+      "options_en": ["Chandragupta I", "Sri Gupta", "Samudragupta", "Kumaragupta"],
+      "options_hi": ["चंद्रगुप्त प्रथम", "श्री गुप्त", "समुद्रगुप्त", "कुमारगुप्त"],
+      "answer": 1
+    }
+  ]
+}
