@@ -1,0 +1,14 @@
+{
+  "exam": "SSC CGL",
+
+  "stages": [
+    {
+      "name": "Tier 1",
+      "folder": "Tier1"
+    },
+    {
+      "name": "Tier 2",
+      "folder": "Tier2"
+    }
+  ]
+}
