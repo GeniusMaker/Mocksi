@@ -1,0 +1,22 @@
+{
+  "exam": "SSC",
+
+  "categories": [
+    {
+      "name": "SSC CGL",
+      "folder": "CGL"
+    },
+    {
+      "name": "SSC CHSL",
+      "folder": "CHSL"
+    },
+    {
+      "name": "SSC MTS",
+      "folder": "MTS"
+    },
+    {
+      "name": "SSC CPO",
+      "folder": "CPO"
+    }
+  ]
+}
