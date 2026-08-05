@@ -1,0 +1,22 @@
+{
+  "tier": "Tier 1",
+
+  "subjects": [
+    {
+      "name": "General Awareness",
+      "folder": "General-Awareness"
+    },
+    {
+      "name": "English",
+      "folder": "English"
+    },
+    {
+      "name": "Reasoning",
+      "folder": "Reasoning"
+    },
+    {
+      "name": "Quantitative Aptitude",
+      "folder": "Quant"
+    }
+  ]
+}
