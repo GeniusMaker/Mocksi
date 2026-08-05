@@ -1,4 +1,4 @@
-﻿{
+{
   "testTitle": "SSC CGL Tier 1 GA Test 01",
   "totalTime": 15,
   "questions": [
@@ -9,6 +9,326 @@
       "options_en": ["Chandragupta I", "Sri Gupta", "Samudragupta", "Kumaragupta"],
       "options_hi": ["चंद्रगुप्त प्रथम", "श्री गुप्त", "समुद्रगुप्त", "कुमारगुप्त"],
       "answer": 1
+    },
+    {
+      "id": 2,
+      "question_en": "Which of the following Articles of the Indian Constitution deals with the 'Right to Equality'?",
+      "question_hi": "भारतीय संविधान का निम्नलिखित में से कौन सा अनुच्छेद 'समानता के अधिकार' से संबंधित है?",
+      "options_en": ["Articles 14-18", "Articles 19-22", "Articles 23-24", "Articles 25-28"],
+      "options_hi": ["अनुच्छेद 14-18", "अनुच्छेद 19-22", "अनुच्छेद 23-24", "अनुच्छेद 25-28"],
+      "answer": 0
+    },
+    {
+      "id": 3,
+      "question_en": "The 'Lothal' dockyard of Indus Valley Civilization is located in which modern Indian state?",
+      "question_hi": "सिंधु घाटी सभ्यता का 'लोथल' गोदीवाड़ा आधुनिक भारतीय राज्य में कहाँ स्थित है?",
+      "options_en": ["Rajasthan", "Haryana", "Punjab", "Gujarat"],
+      "options_hi": ["राजस्थान", "हरियाणा", "पंजाब", "गुजरात"],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question_en": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+      "question_hi": "किस ग्रह को 'भोर का तारा' या 'सांझ का तारा' कहा जाता है?",
+      "options_en": ["Mars", "Venus", "Jupiter", "Saturn"],
+      "options_hi": ["मंगल", "शुक्र", "बृहस्पति", "शनि"],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question_en": "Who was the first Indian to receive a Nobel Prize?",
+      "question_hi": "नोबेल पुरस्कार प्राप्त करने वाले पहले भारतीय कौन थे?",
+      "options_en": ["C.V. Raman", "Mother Teresa", "Rabindranath Tagore", "Amartya Sen"],
+      "options_hi": ["सी.वी. रमन", "मदर टेरेसा", "रवींद्रनाथ टैगोर", "अमर्त्य सेन"],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question_en": "The deficiency of which vitamin causes the disease 'Scurvy'?",
+      "question_hi": "किस विटामिन की कमी से 'स्कर्वी' रोग होता है?",
+      "options_en": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+      "options_hi": ["विटामिन A", "विटामिन B", "विटामिन C", "विटामिन D"],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question_en": "In which year was the Reserve Bank of India (RBI) established?",
+      "question_hi": "भारतीय रिजर्व बैंक (RBI) की स्थापना किस वर्ष हुई थी?",
+      "options_en": ["1935", "1947", "1950", "1955"],
+      "options_hi": ["1935", "1947", "1950", "1955"],
+      "answer": 0
+    },
+    {
+      "id": 8,
+      "question_en": "Which of the following is the highest peak in India?",
+      "question_hi": "निम्नलिखित में से भारत की सबसे ऊँची चोटी कौन सी है?",
+      "options_en": ["Mount Everest", "Kanchenjunga", "Nanda Devi", "Anamudi"],
+      "options_hi": ["माउंट एवरेस्ट", "कंचनजंगा", "नंदा देवी", "अनामुडी"],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question_en": "Who presided over the first session of the Indian National Congress in 1885?",
+      "question_hi": "1885 में भारतीय राष्ट्रीय कांग्रेस के पहले सत्र की अध्यक्षता किसने की थी?",
+      "options_en": ["A.O. Hume", "Dadabhai Naoroji", "W.C. Bonnerjee", "Surendranath Banerjee"],
+      "options_hi": ["ए.ओ. ह्यूम", "दादाभाई नौरोजी", "डब्ल्यू.सी. बनर्जी", "सुरेंद्रनाथ बनर्जी"],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question_en": "What is the SI unit of electric current?",
+      "question_hi": "विद्युत धारा का SI मात्रक क्या है?",
+      "options_en": ["Volt", "Ampere", "Ohm", "Watt"],
+      "options_hi": ["वोल्ट", "एम्पीयर", "ओम", "वाट"],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question_en": "Which river is often called the 'Dakshin Ganga'?",
+      "question_hi": "किस नदी को अक्सर 'दक्षिण गंगा' कहा जाता है?",
+      "options_en": ["Krishna", "Cauvery", "Godavari", "Mahanadi"],
+      "options_hi": ["कृष्णा", "कावेरी", "गोदावरी", "महानदी"],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question_en": "The 73rd Constitutional Amendment Act is related to which of the following?",
+      "question_hi": "73वां संविधान संशोधन अधिनियम निम्नलिखित में से किससे संबंधित है?",
+      "options_en": ["Municipalities", "Panchayati Raj", "Defection", "Fundamental Duties"],
+      "options_hi": ["नगरपालिकाएं", "पंचायती राज", "दलबदल", "मौलिक कर्तव्य"],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question_en": "Who wrote the book 'Indica'?",
+      "question_hi": "'इंडिका' पुस्तक किसने लिखी थी?",
+      "options_en": ["Megasthenes", "Fahien", "Hiuen Tsang", "Al-Biruni"],
+      "options_hi": ["मेगास्थनीज", "फाह्यान", "ह्वेन त्सांग", "अल-बिरूनी"],
+      "answer": 0
+    },
+    {
+      "id": 14,
+      "question_en": "The 'Fundamental Duties' were added to the Indian Constitution on the recommendation of which committee?",
+      "question_hi": "किस समिति की सिफारिश पर भारतीय संविधान में 'मौलिक कर्तव्य' जोड़े गए थे?",
+      "options_en": ["Verma Committee", "Sarkaria Commission", "Swaran Singh Committee", "Balwant Rai Mehta Committee"],
+      "options_hi": ["वर्मा समिति", "सरकारिया आयोग", "स्वर्ण सिंह समिति", "बलवंत राय मेहता समिति"],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question_en": "Which layer of the atmosphere contains the Ozone layer?",
+      "question_hi": "वायुमंडल की किस परत में ओजोन परत स्थित है?",
+      "options_en": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+      "options_hi": ["क्षोभमंडल", "समतापमंडल", "मध्यमंडल", "तापमंडल"],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question_en": "The 'Battle of Plassey' was fought in which year?",
+      "question_hi": "'प्लासी का युद्ध' किस वर्ष लड़ा गया था?",
+      "options_en": ["1757", "1764", "1761", "1772"],
+      "options_hi": ["1757", "1764", "1761", "1772"],
+      "answer": 0
+    },
+    {
+      "id": 17,
+      "question_en": "What is the pH value of pure water?",
+      "question_hi": "शुद्ध जल का pH मान क्या है?",
+      "options_en": ["0", "1", "7", "14"],
+      "options_hi": ["0", "1", "7", "14"],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question_en": "Which of the following states has the longest coastline in India?",
+      "question_hi": "भारत में निम्नलिखित में से किस राज्य की तटरेखा सबसे लंबी है?",
+      "options_en": ["Tamil Nadu", "Maharashtra", "Gujarat", "Andhra Pradesh"],
+      "options_hi": ["तमिलनाडु", "महाराष्ट्र", "गुजरात", "आंध्र प्रदेश"],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question_en": "Who is the ex-officio Chairman of the Rajya Sabha?",
+      "question_hi": "राज्यसभा का पदेन सभापति कौन होता है?",
+      "options_en": ["President", "Vice-President", "Prime Minister", "Speaker of Lok Sabha"],
+      "options_hi": ["राष्ट्रपति", "उपराष्ट्रपति", "प्रधानमंत्री", "लोकसभा अध्यक्ष"],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question_en": "Which chemical is known as 'Blue Vitriol'?",
+      "question_hi": "किस रसायन को 'नीला थोथा' (ब्लू विट्रियोल) के रूप में जाना जाता है?",
+      "options_en": ["Ferrous Sulphate", "Copper Sulphate", "Sodium Chloride", "Magnesium Sulphate"],
+      "options_hi": ["फेरस सल्फेट", "कॉपर सल्फेट", "सोडियम क्लोराइड", "मैग्नीशियम सल्फेट"],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question_en": "The 'Dandi March' was started by Mahatma Gandhi to protest against which act?",
+      "question_hi": "महात्मा गांधी द्वारा 'दांडी मार्च' किस अधिनियम के विरोध में शुरू किया गया था?",
+      "options_en": ["Salt Law", "Rowlatt Act", "Simon Commission", "Vernacular Press Act"],
+      "options_hi": ["नमक कानून", "रौलट एक्ट", "साइमन कमीशन", "वर्नाकुलर प्रेस एक्ट"],
+      "answer": 0
+    },
+    {
+      "id": 22,
+      "question_en": "Which of the following is a direct tax in India?",
+      "question_hi": "निम्नलिखित में से कौन सा भारत में प्रत्यक्ष कर है?",
+      "options_en": ["GST", "Excise Duty", "Income Tax", "Service Tax"],
+      "options_hi": ["GST", "उत्पाद शुल्क", "आयकर", "सेवा कर"],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question_en": "Which classical dance form originated in Kerala?",
+      "question_hi": "किस शास्त्रीय नृत्य शैली की उत्पत्ति केरल में हुई थी?",
+      "options_en": ["Bharatanatyam", "Kathak", "Kathakali", "Kuchipudi"],
+      "options_hi": ["भरतनाट्यम", "कथक", "कथकली", "कुचिपुड़ी"],
+      "answer": 2
+    },
+    {
+      "id": 24,
+      "question_en": "The gas usually filled in electric bulbs is:",
+      "question_hi": "बिजली के बल्बों में आमतौर पर भरी जाने वाली गैस है:",
+      "options_en": ["Nitrogen", "Hydrogen", "Oxygen", "Carbon Dioxide"],
+      "options_hi": ["नाइट्रोजन", "हाइड्रोजन", "ऑक्सीजन", "कार्बन डाइऑक्साइड"],
+      "answer": 0
+    },
+    {
+      "id": 25,
+      "question_en": "Who was the first woman Governor of an Indian state?",
+      "question_hi": "भारतीय राज्य की पहली महिला राज्यपाल कौन थीं?",
+      "options_en": ["Sarojini Naidu", "Sucheta Kripalani", "Indira Gandhi", "Vijayalakshmi Pandit"],
+      "options_hi": ["सरोजिनी नायडू", "सुचेता कृपलानी", "इंदिरा गांधी", "विजयालक्ष्मी पंडित"],
+      "answer": 0
+    },
+    {
+      "id": 26,
+      "question_en": "Which organ of the human body produces Insulin?",
+      "question_hi": "मानव शरीर का कौन सा अंग इंसुलिन का उत्पादन करता है?",
+      "options_en": ["Liver", "Pancreas", "Kidney", "Gallbladder"],
+      "options_hi": ["यकृत", "अग्न्याशय", "गुर्दा", "पित्ताशय"],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question_en": "The 'Palk Strait' separates India from which country?",
+      "question_hi": "'पाक जलडमरूमध्य' भारत को किस देश से अलग करता है?",
+      "options_en": ["Pakistan", "Maldives", "Sri Lanka", "Bangladesh"],
+      "options_hi": ["पाकिस्तान", "मालदीव", "श्रीलंका", "बांग्लादेश"],
+      "answer": 2
+    },
+    {
+      "id": 28,
+      "question_en": "Who established the 'Mughal Empire' in India?",
+      "question_hi": "भारत में 'मुगल साम्राज्य' की स्थापना किसने की थी?",
+      "options_en": ["Akbar", "Humayun", "Babur", "Sher Shah Suri"],
+      "options_hi": ["अकबर", "हुमायूँ", "बाबर", "शेर शाह सूरी"],
+      "answer": 2
+    },
+    {
+      "id": 29,
+      "question_en": "In which city is the headquarters of the World Health Organization (WHO) located?",
+      "question_hi": "विश्व स्वास्थ्य संगठन (WHO) का मुख्यालय किस शहर में स्थित है?",
+      "options_en": ["New York", "London", "Paris", "Geneva"],
+      "options_hi": ["न्यूयॉर्क", "लंदन", "पेरिस", "जिनेवा"],
+      "answer": 3
+    },
+    {
+      "id": 30,
+      "question_en": "Which of the following is not a Kharif crop?",
+      "question_hi": "निम्नलिखित में से कौन सी खरीफ की फसल नहीं है?",
+      "options_en": ["Rice", "Maize", "Cotton", "Wheat"],
+      "options_hi": ["चावल", "मक्का", "कपास", "गेहूँ"],
+      "answer": 3
+    },
+    {
+      "id": 31,
+      "question_en": "The 'Quit India Movement' was launched in response to which proposal?",
+      "question_hi": "'भारत छोड़ो आंदोलन' किस प्रस्ताव के जवाब में शुरू किया गया था?",
+      "options_en": ["Cabinet Mission Plan", "Cripps Proposal", "Simon Commission Report", "Wavell Plan"],
+      "options_hi": ["कैबिनेट मिशन योजना", "क्रिप्स प्रस्ताव", "साइमन कमीशन रिपोर्ट", "वेवेल योजना"],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question_en": "The instrument used to measure blood pressure is called:",
+      "question_hi": "रक्तचाप मापने के लिए उपयोग किए जाने वाले उपकरण को क्या कहा जाता है?",
+      "options_en": ["Thermometer", "Barometer", "Sphygmomanometer", "Photometer"],
+      "options_hi": ["थर्मामीटर", "बैरोमीटर", "स्फिग्मोमैनोमीटर", "फोटोमीटर"],
+      "answer": 2
+    },
+    {
+      "id": 33,
+      "question_en": "Which Constitutional Amendment reduced the voting age from 21 to 18 years?",
+      "question_hi": "किस संविधान संशोधन ने मतदान की आयु 21 वर्ष से घटाकर 18 वर्ष कर दी?",
+      "options_en": ["42nd Amendment", "44th Amendment", "61st Amendment", "86th Amendment"],
+      "options_hi": ["42वां संशोधन", "44वां संशोधन", "61वां संशोधन", "86वां संशोधन"],
+      "answer": 2
+    },
+    {
+      "id": 34,
+      "question_en": "Who is known as the 'Father of Local Self Government' in India?",
+      "question_hi": "भारत में 'स्थानीय स्वशासन के जनक' के रूप में किसे जाना जाता है?",
+      "options_en": ["Lord Mayo", "Lord Ripon", "Lord Curzon", "Lord Dalhousie"],
+      "options_hi": ["लॉर्ड मेयो", "लॉर्ड रिपन", "लॉर्ड कर्जन", "लॉर्ड डलहौजी"],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question_en": "Which of the following festivals is celebrated in Assam to mark the beginning of the Assamese New Year?",
+      "question_hi": "असमिया नव वर्ष की शुरुआत को चिह्नित करने के लिए असम में निम्नलिखित में से कौन सा त्योहार मनाया जाता है?",
+      "options_en": ["Bhogali Bihu", "Kongali Bihu", "Rongali Bihu", "Onam"],
+      "options_hi": ["भोगाली बिहू", "कोंगाली बिहू", "रंगाली बिहू", "ओणम"],
+      "answer": 2
+    },
+    {
+      "id": 36,
+      "question_en": "What is the maximum strength of Lok Sabha as per the Constitution?",
+      "question_hi": "संविधान के अनुसार लोकसभा की अधिकतम सदस्य संख्या कितनी है?",
+      "options_en": ["545", "550", "552", "250"],
+      "options_hi": ["545", "550", "552", "250"],
+      "answer": 2
+    },
+    {
+      "id": 37,
+      "question_en": "Dry ice is the solid form of which gas?",
+      "question_hi": "शुष्क बर्फ किस गैस का ठोस रूप है?",
+      "options_en": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "options_hi": ["ऑक्सीजन", "नाइट्रोजन", "कार्बन डाइऑक्साइड", "हाइड्रोजन"],
+      "answer": 2
+    },
+    {
+      "id": 38,
+      "question_en": "Who was the founder of the 'Haryanka Dynasty'?",
+      "question_hi": "'हर्यक वंश' का संस्थापक कौन था?",
+      "options_en": ["Bimbisara", "Ajatashatru", "Udayin", "Shishunaga"],
+      "options_hi": ["बिंबिसार", "अजातशत्रु", "उदयन", "शिशुनाग"],
+      "answer": 0
+    },
+    {
+      "id": 39,
+      "question_en": "The 'Nagarjuna Sagar Dam' is built on which river?",
+      "question_hi": "'नागार्जुन सागर बांध' किस नदी पर बना है?",
+      "options_en": ["Cauvery", "Godavari", "Krishna", "Narmada"],
+      "options_hi": ["कावेरी", "गोदावरी", "कृष्णा", "नर्मदा"],
+      "answer": 2
+    },
+    {
+      "id": 40,
+      "question_en": "Which sector contributes the most to India's GDP?",
+      "question_hi": "भारत के सकल घरेलू उत्पाद (GDP) में कौन सा क्षेत्र सबसे अधिक योगदान देता है?",
+      "options_en": ["Agriculture", "Manufacturing", "Services", "Mining"],
+      "options_hi": ["कृषि", "विनिर्माण", "सेवा क्षेत्र", "खनन"],
+      "answer": 2
+    },
+    {
+      "id": 41,
+      "question_en": "The 'Gayatri Mantra' is found in which of the following Vedas?",
+      "question_hi": "'गायत्री मंत्र' निम्नलिखित में से किस वेद में मिलता है?",
+      "options_en": ["Rigveda", "Samaveda", "Yajurveda", "Atharvaveda"],
+      "options_hi": ["ऋग्वेद", "सामवेद", "यजुर्वेद", "अथर्ववेद"],
+      "answer": 0
     }
   ]
 }
