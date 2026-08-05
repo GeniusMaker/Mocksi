@@ -1,0 +1,7 @@
+﻿{
+  "exam": "SSC MTS",
+  "tiers": [
+    { "name": "Session 1", "file": "session1.json" },
+    { "name": "Session 2", "file": "session2.json" }
+  ]
+}

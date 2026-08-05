@@ -1,0 +1,30 @@
+﻿{
+  "subjects": {
+    "General Awareness": [
+      {
+        "title": "SSC CHSL Tier 1 GA Test 01",
+        "level": "Easy",
+        "questions": 25,
+        "marks": 50,
+        "time": "15 Mins",
+        "positiveMarking": "2",
+        "negativeMarking": "0.5",
+        "fileKey": "chsl/tier1/Gen-Awareness/ssc_chsl_t1_GA_01"
+      }
+    ],
+    "Quantitative Aptitude": [
+      {
+        "title": "SSC CHSL Tier 1 Quant Test 01",
+        "level": "Medium",
+        "questions": 25,
+        "marks": 50,
+        "time": "20 Mins",
+        "positiveMarking": "2",
+        "negativeMarking": "0.5",
+        "fileKey": "chsl/tier1/Quantitative-Aptitude/ssc_chsl_t1_Quant_01"
+      }
+    ],
+    "General Intelligence": [],
+    "English Language": []
+  }
+}

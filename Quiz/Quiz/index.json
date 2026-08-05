@@ -1,0 +1,9 @@
+﻿{
+  "exams": [
+    { "id": "cgl", "name": "SSC CGL" },
+    { "id": "chsl", "name": "SSC CHSL" },
+    { "id": "mts", "name": "SSC MTS" },
+    { "id": "cpo", "name": "SSC CPO" },
+    { "id": "gd", "name": "SSC GD" }
+  ]
+}

@@ -1,0 +1,18 @@
+﻿{
+  "subjects": {
+    "Paper 1 Full Mock": [
+      {
+        "title": "SSC CGL Tier 2 Paper 1 Full Mock 01",
+        "level": "Hard",
+        "questions": 150,
+        "marks": 390,
+        "time": "120 Mins",
+        "positiveMarking": "3",
+        "negativeMarking": "1",
+        "fileKey": "cgl/tier2/Paper1-Full-Mock/ssc_cgl_t2_Paper1_01"
+      }
+    ],
+    "Mathematical Abilities": [],
+    "Reasoning": []
+  }
+}

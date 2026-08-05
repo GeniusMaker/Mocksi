@@ -1,0 +1,6 @@
+﻿{
+  "exam": "SSC GD",
+  "tiers": [
+    { "name": "Computer Based Examination (CBE)", "file": "cbe.json" }
+  ]
+}

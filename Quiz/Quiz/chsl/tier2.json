@@ -1,0 +1,16 @@
+﻿{
+  "subjects": {
+    "Module 1 (Maths & Reasoning)": [
+      {
+        "title": "SSC CHSL Tier 2 Module 1 Practice 01",
+        "level": "Medium",
+        "questions": 60,
+        "marks": 180,
+        "time": "60 Mins",
+        "positiveMarking": "3",
+        "negativeMarking": "1",
+        "fileKey": "chsl/tier2/Module1/ssc_chsl_t2_mod1_01"
+      }
+    ]
+  }
+}
