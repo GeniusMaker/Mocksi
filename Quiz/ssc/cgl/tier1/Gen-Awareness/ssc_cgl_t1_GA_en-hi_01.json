@@ -1,82 +1,32 @@
-[
-  {
-    "id": 1,
-    "question": {
-      "en": "Which Article of the Indian Constitution deals with the Election Commission of India?",
-      "hi": "भारतीय संविधान का कौन सा अनुच्छेद भारत के निर्वाचन आयोग से संबंधित है?"
+{
+  "title": "SSC CGL Tier 1 - General Awareness / एसएससी सीजीएल टीयर 1 - सामान्य जागरूकता",
+  "positiveMarks": 2,
+  "negativeMarks": 0.5,
+  "timeLimitMinutes": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Sample Question in English? / हिन्दी में प्रश्न?",
+      "options": [
+        "Option A / विकल्प A",
+        "Option B / विकल्प B",
+        "Option C / विकल्प C",
+        "Option D / विकल्प D"
+      ],
+      "answer": 0,
+      "explanation": "Explanation in English. / हिन्दी में व्याख्या।"
     },
-    "options": {
-      "en": ["Article 324", "Article 315", "Article 343", "Article 320"],
-      "hi": ["अनुच्छेद 324", "अनुच्छेद 315", "अनुच्छेद 343", "अनुच्छेद 320"]
-    },
-    "answer": 0,
-    "explanation": {
-      "en": "Article 324 of the Constitution provides for the superintendence, direction, and control of elections to parliament, state legislatures, and the offices of the President and Vice-President to be vested in the Election Commission.",
-      "hi": "संविधान का अनुच्छेद 324 संसद, राज्य विधानमंडलों और राष्ट्रपति एवं उपराष्ट्रपति के पदों के चुनावों के अधीक्षण, निर्देशन और नियंत्रण की शक्ति निर्वाचन आयोग में निहित करता है।"
+    {
+      "id": 2,
+      "question": "Who was the first Governor-General of Bengal? / बंगाल का पहला गवर्नर-जनरल कौन था?",
+      "options": [
+        "Warren Hastings / वारेन हेस्टिंग्स",
+        "Lord Cornwallis / लॉर्ड कॉर्नवालिस",
+        "Lord William Bentinck / लॉर्ड विलियम बेंटिक",
+        "Lord Canning / लॉर्ड कैनिंग"
+      ],
+      "answer": 0,
+      "explanation": "Warren Hastings became the first Governor-General of Bengal in 1773. / वारेन हेस्टिंग्स 1773 में बंगाल के पहले गवर्नर-जनरल बने।"
     }
-  },
-  {
-    "id": 2,
-    "question": {
-      "en": "The famous Battle of Plassey was fought in which year?",
-      "hi": "प्रसिद्ध प्लासी का युद्ध किस वर्ष लड़ा गया था?"
-    },
-    "options": {
-      "en": ["1757", "1764", "1776", "1857"],
-      "hi": ["1757", "1764", "1776", "1857"]
-    },
-    "answer": 0,
-    "explanation": {
-      "en": "The Battle of Plassey took place on 23 June 1757 on the banks of the Hooghly River between Siraj-ud-Daulah (Nawab of Bengal) and the British East India Company led by Robert Clive.",
-      "hi": "प्लासी का युद्ध 23 जून 1757 को हुगली नदी के तट पर बंगाल के नवाब सिराजुद्दौला और रॉबर्ट क्लाइव के नेतृत्व वाली ब्रिटिश ईस्ट इंडिया कंपनी के बीच लड़ा गया था।"
-    }
-  },
-  {
-    "id": 3,
-    "question": {
-      "en": "What is the SI unit of Electric Current?",
-      "hi": "विद्युत धारा की SI इकाई क्या है?"
-    },
-    "options": {
-      "en": ["Volt", "Ampere", "Ohm", "Watt"],
-      "hi": ["वोल्ट", "एम्पीयर", "ओम", "वाट"]
-    },
-    "answer": 1,
-    "explanation": {
-      "en": "The SI unit of electric current is the Ampere (A), named after French physicist and mathematician André-Marie Ampère.",
-      "hi": "विद्युत धारा की SI इकाई एम्पीयर (A) है, जिसका नाम फ्रांसीसी भौतिक विज्ञानी और गणितज्ञ आंद्रे-मैरी एम्पीयर के नाम पर रखा गया है।"
-    }
-  },
-  {
-    "id": 4,
-    "question": {
-      "en": "Which of the following rivers is traditionally known as the 'Sorrow of Bengal'?",
-      "hi": "निम्नलिखित में से किस नदी को पारंपरिक रूप से 'बंगाल का शोक' कहा जाता है?"
-    },
-    "options": {
-      "en": ["Kosi River", "Damodar River", "Hooghly River", "Brahmaputra River"],
-      "hi": ["कोसी नदी", "दामोदर नदी", "हुगली नदी", "ब्रह्मपुत्र नदी"]
-    },
-    "answer": 1,
-    "explanation": {
-      "en": "The Damodar River was known as the 'Sorrow of Bengal' due to its frequent ravaging floods in the plains of West Bengal before the construction of dams by the Damodar Valley Corporation (DVC).",
-      "hi": "दामोदर घाटी निगम (DVC) द्वारा बांधों के निर्माण से पहले पश्चिम बंगाल के मैदानों में विनाशकारी बाढ़ के कारण दामोदर नदी को 'बंगाल का शोक' कहा जाता था।"
-    }
-  },
-  {
-    "id": 5,
-    "question": {
-      "en": "Which Five Year Plan in India was based on the Mahalanobis Model?",
-      "hi": "भारत में कौन सी पंचवर्षीय योजना महालनोबिस मॉडल पर आधारित थी?"
-    },
-    "options": {
-      "en": ["First Five Year Plan", "Second Five Year Plan", "Third Five Year Plan", "Fourth Five Year Plan"],
-      "hi": ["प्रथम पंचवर्षीय योजना", "द्वितीय पंचवर्षीय योजना", "तृतीय पंचवर्षीय योजना", "चतुर्थ पंचवर्षीय योजना"]
-    },
-    "answer": 1,
-    "explanation": {
-      "en": "The Second Five-Year Plan (1956–1961) was based on the Mahalanobis Model, which emphasized rapid industrialization and heavy industries.",
-      "hi": "दूसरी पंचवर्षीय योजना (1956-1961) महालनोबिस मॉडल पर आधारित थी, जिसने तीव्र औद्योगीकरण और भारी उद्योगों पर जोर दिया था।"
-    }
-  }
-]
+  ]
+}
