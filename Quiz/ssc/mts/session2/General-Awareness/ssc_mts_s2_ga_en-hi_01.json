@@ -1,18 +1,358 @@
-[
-  {
-    "id": 1,
-    "question": {
-      "en": "Sample Question in English?",
-      "hi": "????? ??? ????? ???????"
+{
+  "title": "SSC MTS Session 2 - General Awareness / एसएससी एमटीएस सत्र 2 - सामान्य जागरूकता",
+  "positiveMarks": 3,
+  "negativeMarks": 1,
+  "timeLimitMinutes": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Where is the Sun Temple of Konark located? / कोणार्क का सूर्य मंदिर कहाँ स्थित है?",
+      "options": ["Odisha / ओडिशा", "West Bengal / पश्चिम बंगाल", "Bihar / बिहार", "Assam / असम"],
+      "answer": 0,
+      "explanation": "Built in the 13th century by King Narasimhadeva I in Odisha. / 13वीं शताब्दी में ओडिशा में राजा नरसिंहदेव प्रथम द्वारा निर्मित।"
     },
-    "options": {
-      "en": ["Option A", "Option B", "Option C", "Option D"],
-      "hi": ["?????? A", "?????? B", "?????? C", "?????? D"]
+    {
+      "id": 2,
+      "question": "Which boundary line divides India and Pakistan? / भारत और पाकिस्तान को कौन सी सीमा रेखा विभाजित करती है?",
+      "options": ["Radcliffe Line / रेडक्लिफ रेखा", "McMahon Line / मैकमोहन रेखा", "Durand Line / डुरंड रेखा", "49th Parallel / 49वीं समानांतर रेखा"],
+      "answer": 0,
+      "explanation": "Drawn by Sir Cyril Radcliffe during partition in 1947. / 1947 में विभाजन के समय सर सिरिल रेडक्लिफ द्वारा निर्धारित की गई।"
     },
-    "answer": 0,
-    "explanation": {
-      "en": "Explanation in English.",
-      "hi": "????? ??? ?????????"
+    {
+      "id": 3,
+      "question": "Who was the first Vice President of India? / भारत के प्रथम उपराष्ट्रपति कौन थे?",
+      "options": ["Dr. S. Radhakrishnan / डॉ. एस. राधाकृष्णन", "Dr. Zakir Husain / डॉ. जाकिर हुसैन", "V.V. Giri / वी.वी. गिरि", "C. Rajagopalachari / सी. राजगोपालाचारी"],
+      "answer": 0,
+      "explanation": "Dr. S. Radhakrishnan served as the first Vice President from 1952 to 1962. / डॉ. एस. राधाकृष्णन भारत के पहले उपराष्ट्रपति थे।"
+    },
+    {
+      "id": 4,
+      "question": "What is the capital of Himachal Pradesh in summer? / हिमाचल प्रदेश की ग्रीष्मकालीन राजधानी क्या है?",
+      "options": ["Shimla / शिमला", "Dharamshala / धर्मशाला", "Mandi / मंडी", "Solan / सोलन"],
+      "answer": 0,
+      "explanation": "Shimla is the summer capital and Dharamshala is winter capital. / शिमला ग्रीष्मकालीन तथा धर्मशाला शीतकालीन राजधानी है।"
+    },
+    {
+      "id": 5,
+      "question": "Which organ produces insulin in the human body? / मानव शरीर में इंसुलिन का निर्माण किस अंग में होता है?",
+      "options": ["Pancreas / अग्न्याशय", "Liver / यकृत", "Kidney / गुर्दा", "Thyroid / थायराइड"],
+      "answer": 0,
+      "explanation": "Beta cells of the Islets of Langerhans in Pancreas secrete insulin. / अग्न्याशय की बीटा कोशिकाएं इंसुलिन बनाती हैं।"
+    },
+    {
+      "id": 6,
+      "question": "Which emperor built the Red Fort in Delhi? / दिल्ली का लाल किला किस सम्राट ने बनवाया था?",
+      "options": ["Shah Jahan / शाहजहाँ", "Akbar / अकबर", "Humayun / हुमायूँ", "Aurangzeb / औरंगजेब"],
+      "answer": 0,
+      "explanation": "Shah Jahan commissioned the Red Fort in 1638. / शाहजहाँ ने 1638 में लाल किले का निर्माण शुरू करवाया था।"
+    },
+    {
+      "id": 7,
+      "question": "What is the SI unit of power? / शक्ति की SI इकाई क्या है?",
+      "options": ["Watt / वाट", "Joule / जूल", "Pascal / पास्कल", "Newton / न्यूटन"],
+      "answer": 0,
+      "explanation": "Power is work done per unit time, measured in Watts (J/s). / कार्य करने की दर को शक्ति कहते हैं, जिसका मात्रक वाट है।"
+    },
+    {
+      "id": 8,
+      "question": "Which Indian state has the highest literacy rate according to Census 2011? / 2011 की जनगणना के अनुसार किस राज्य की साक्षरता दर सबसे अधिक है?",
+      "options": ["Kerala / केरल", "Mizoram / मिजोरम", "Goa / गोवा", "Tripura / त्रिपुरा"],
+      "answer": 0,
+      "explanation": "Kerala recorded the highest literacy rate of 94%. / केरल की साक्षरता दर 94% दर्ज की गई थी।"
+    },
+    {
+      "id": 9,
+      "question": "Who was the founder of the Maurya Dynasty? / मौर्य वंश के संस्थापक कौन थे?",
+      "options": ["Chandragupta Maurya / चंद्रगुप्त मौर्य", "Ashoka / अशोक", "Bindusara / बिन्दुसार", "Bimbisara / बिम्बिसार"],
+      "answer": 0,
+      "explanation": "Chandragupta Maurya founded the Maurya Empire with Chanakya's guidance. / चंद्रगुप्त मौर्य ने चाणक्य की सहायता से साम्राज्य की स्थापना की।"
+    },
+    {
+      "id": 10,
+      "question": "Which instrument measures blood pressure? / रक्तचाप मापने के लिए किस यंत्र का उपयोग किया जाता है?",
+      "options": ["Sphygmomanometer / स्फिग्मोमैनोमीटर", "Stethoscope / स्टेथोस्कोप", "Barometer / बैरोमीटर", "Thermometer / थर्मोमीटर"],
+      "answer": 0,
+      "explanation": "A Sphygmomanometer measures arterial blood pressure. / स्फिग्मोमैनोमीटर से रक्तचाप मापा जाता है।"
+    },
+    {
+      "id": 11,
+      "question": "Which dance form belongs to Uttar Pradesh? / कौन सी नृत्य शैली उत्तर प्रदेश से संबंधित है?",
+      "options": ["Kathak / कथक", "Kathakali / कथकली", "Bharatanatyam / भरतनाट्यम", "Kuchipudi / कुचिपुड़ी"],
+      "answer": 0,
+      "explanation": "Kathak is the classical dance form of North India (UP). / कथक उत्तर प्रदेश का प्रसिद्ध शास्त्रीय नृत्य है।"
+    },
+    {
+      "id": 12,
+      "question": "Which fundamental right was deleted by 44th Amendment? / 44वें संशोधन द्वारा कौन सा मौलिक अधिकार हटाया गया?",
+      "options": ["Right to Property / संपत्ति का अधिकार", "Right to Speech / भाषण की स्वतंत्रता", "Right to Religion / धार्मिक स्वतंत्रता", "Right to Equality / समानता का अधिकार"],
+      "answer": 0,
+      "explanation": "Right to Property was turned into a legal right under Article 300A in 1978. / संपत्ति के अधिकार को कानूनी अधिकार बनाया गया।"
+    },
+    {
+      "id": 13,
+      "question": "Who invented the telephone? / टेलीफोन का आविष्कार किसने किया?",
+      "options": ["Alexander Graham Bell / अलेक्जेंडर ग्राहम बेल", "Thomas Edison / थॉमस एडिसन", "Guglielmo Marconi / गुग्लिएल्मो मार्कोनी", "James Watt / जेम्स वाट"],
+      "answer": 0,
+      "explanation": "Alexander Graham Bell patented the first practical telephone in 1876. / ग्राहम बेल ने 1876 में टेलीफोन का पेटेंट कराया था।"
+    },
+    {
+      "id": 14,
+      "question": "What is the main component of Natural Gas? / प्राकृतिक गैस का मुख्य घटक क्या है?",
+      "options": ["Methane / मीथेन", "Ethane / इथेन", "Propane / प्रोपेन", "Butane / ब्यूटेन"],
+      "answer": 0,
+      "explanation": "Methane makes up around 70-90% of natural gas. / मीथेन प्राकृतिक गैस का मुख्य घटक (70-90%) है।"
+    },
+    {
+      "id": 15,
+      "question": "Which Sikh Guru founded the Khalsa Panth? / किस सिख गुरु ने खालसा पंथ की स्थापना की थी?",
+      "options": ["Guru Gobind Singh Ji / गुरु गोबिंद सिंह जी", "Guru Nanak Dev Ji / गुरु नानक देव जी", "Guru Tegh Bahadur Ji / गुरु तेग बहादुर जी", "Guru Arjan Dev Ji / गुरु अर्जुन देव जी"],
+      "answer": 0,
+      "explanation": "Guru Gobind Singh Ji established Khalsa Panth on Baisakhi in 1699. / गुरु गोबिंद सिंह जी ने 1699 में बैसाखी के दिन खालसा पंथ की स्थापना की।"
+    },
+    {
+      "id": 16,
+      "question": "In which state is the Kaziranga National Park? / काजीरंगा राष्ट्रीय उद्यान किस राज्य में है?",
+      "options": ["Assam / असम", "West Bengal / पश्चिम बंगाल", "Odisha / ओडिशा", "Meghalaya / मेघालय"],
+      "answer": 0,
+      "explanation": "Kaziranga in Assam is home to two-thirds of the world's great one-horned rhinos. / यह एक सींग वाले गैंडों के लिए प्रसिद्ध है।"
+    },
+    {
+      "id": 17,
+      "question": "Which article deals with the Panchayati Raj system? / कौन सा अनुच्छेद पंचायती राज व्यवस्था से संबंधित है?",
+      "options": ["Article 243 / अनुच्छेद 243", "Article 280 / अनुच्छेद 280", "Article 356 / अनुच्छेद 356", "Article 368 / अनुच्छेद 368"],
+      "answer": 0,
+      "explanation": "Article 243 to 243O covers provisions related to Panchayats. / अनुच्छेद 243 पंचायती राज के प्रावधान तय करता है।"
+    },
+    {
+      "id": 18,
+      "question": "What is the chemical symbol of Gold? / सोने का रासायनिक प्रतीक क्या है?",
+      "options": ["Au", "Ag", "Fe", "Cu"],
+      "answer": 0,
+      "explanation": "Gold comes from Latin 'Aurum', hence Au. / सोने का प्रतीक लैटिन शब्द 'Aurum' से Au बना है।"
+    },
+    {
+      "id": 19,
+      "question": "Who was the author of 'Harshacharita'? / 'हर्षचरित' के लेखक कौन थे?",
+      "options": ["Banabhatta / बाणभट्ट", "Harshavardhana / हर्षवर्धन", "Kalidasa / कालिदास", "Ravikirti / रविकीर्ति"],
+      "answer": 0,
+      "explanation": "Banabhatta was the court poet of King Harshavardhana. / बाणभट्ट सम्राट हर्षवर्धन के दरबारी कवि थे।"
+    },
+    {
+      "id": 20,
+      "question": "Which planet is known as the 'Red Planet'? / किस ग्रह को 'लाल ग्रह' कहा जाता है?",
+      "options": ["Mars / मंगल", "Venus / शुक्र", "Jupiter / बृहस्पति", "Saturn / शनि"],
+      "answer": 0,
+      "explanation": "Mars appears red due to iron oxide on its surface. / आयरन ऑक्साइड के कारण मंगल ग्रह लाल दिखाई देता है।"
+    },
+    {
+      "id": 21,
+      "question": "Who wrote our National Song 'Vande Mataram'? / राष्ट्रगीत 'वंदे मातरम' किसने लिखा था?",
+      "options": ["Bankim Chandra Chattopadhyay / बंकिम चंद्र चट्टोपाध्याय", "Rabindranath Tagore / रवींद्रनाथ टैगोर", "Sarojini Naidu / सरोजिनी नायडू", "Sri Aurobindo / श्री अरविंदो"],
+      "answer": 0,
+      "explanation": "Written in Anandamath in 1882 by Bankim Chandra. / यह 1882 में उपन्यास आनंदमठ में रचा गया था।"
+    },
+    {
+      "id": 22,
+      "question": "Which Vitamin helps in calcium absorption? / कौन सा विटामिन कैल्शियम के अवशोषण में मदद करता है?",
+      "options": ["Vitamin D / विटामिन D", "Vitamin C / विटामिन C", "Vitamin A / विटामिन A", "Vitamin K / विटामिन K"],
+      "answer": 0,
+      "explanation": "Vitamin D enables gut absorption of calcium and phosphate. / विटामिन D हड्डियों के लिए कैल्शियम सोखने में मदद करता है।"
+    },
+    {
+      "id": 23,
+      "question": "Where is the headquarter of ISRO? / इसरो (ISRO) का मुख्यालय कहाँ है?",
+      "options": ["Bengaluru / बेंगलुरु", "Sriharikota / श्रीहरिकोटा", "Thiruvananthapuram / तिरुवनंतपुरम", "New Delhi / नई दिल्ली"],
+      "answer": 0,
+      "explanation": "ISRO headquarters is in Bengaluru, Karnataka. / इसरो का मुख्यालय बेंगलुरु में स्थित है।"
+    },
+    {
+      "id": 24,
+      "question": "Who was the first female Governor of an Indian state? / भारतीय राज्य की पहली महिला राज्यपाल कौन थीं?",
+      "options": ["Sarojini Naidu / सरोजिनी नायडू", "Sucheta Kripalani / सुचेता कृपलानी", "Padmaja Naidu / पद्मजा नायडू", "Vijayalakshmi Pandit / विजयालक्ष्मी पंडित"],
+      "answer": 0,
+      "explanation": "Sarojini Naidu served as Governor of United Provinces (UP) in 1947. / सरोजिनी नायडू उत्तर प्रदेश की पहली महिला राज्यपाल बनी थीं।"
+    },
+    {
+      "id": 25,
+      "question": "Which layer of the atmosphere contains the Ozone layer? / समताप मंडल (Stratosphere) में कौन सी परत पाई जाती है?",
+      "options": ["Stratosphere / समताप मंडल", "Troposphere / क्षोभमंडल", "Mesosphere / मध्यमंडल", "Thermosphere / बाह्यवायुमंडल"],
+      "answer": 0,
+      "explanation": "Ozone layer is situated in the Stratosphere absorbing UV rays. / ओजोन परत समताप मंडल में स्थित है।"
+    },
+    {
+      "id": 26,
+      "question": "Who started the Non-Cooperation Movement in 1920? / 1920 में असहयोग आंदोलन किसने शुरू किया था?",
+      "options": ["Mahatma Gandhi / महात्मा गांधी", "Subhash Chandra Bose / सुभाष चंद्र बोस", "B.G. Tilak / बी.जी. तिलक", "C.R. Das / सी.आर. दास"],
+      "answer": 0,
+      "explanation": "Launched by Mahatma Gandhi after Jallianwala Bagh incident. / जलियांवाला बाग हत्याकांड के बाद गांधी जी ने इसे शुरू किया था।"
+    },
+    {
+      "id": 27,
+      "question": "Which instrument measures wind speed? / हवा की गति मापने के लिए किस उपकरण का प्रयोग किया जाता है?",
+      "options": ["Anemometer / एनीमोमीटर", "Barometer / बैरोमीटर", "Hygrometer / हाइग्रोमीटर", "Odometers / ओडोमीटर"],
+      "answer": 0,
+      "explanation": "Anemometer measures wind speed and force. / एनीमोमीटर से पवन की गति मापी जाती है।"
+    },
+    {
+      "id": 28,
+      "question": "Which element is essential for thyroid function? / थायराइड ग्रंथि के कार्य के लिए कौन सा तत्व आवश्यक है?",
+      "options": ["Iodine / आयोडीन", "Iron / लोहा", "Calcium / कैल्शियम", "Potassium / पोटैशियम"],
+      "answer": 0,
+      "explanation": "Iodine is required for thyroid hormone synthesis. / थायराइड हार्मोन बनाने के लिए आयोडीन की आवश्यकता होती है।"
+    },
+    {
+      "id": 29,
+      "question": "Where are the Ajanta and Ellora caves located? / अजंता और एलोरा की गुफाएं कहाँ स्थित हैं?",
+      "options": ["Aurangabad (Chhatrapati Sambhaji Nagar), Maharashtra / महाराष्ट्र", "Madhya Pradesh / मध्य प्रदेश", "Gujarat / गुजरात", "Rajasthan / राजस्थान"],
+      "answer": 0,
+      "explanation": "Located in Maharashtra, famous for ancient rock-cut architecture. / ये प्राचीन शैलकृत वास्तुकला के लिए प्रसिद्ध हैं।"
+    },
+    {
+      "id": 30,
+      "question": "Who was the founder of the Slave Dynasty? / गुलाम वंश के संस्थापक कौन थे?",
+      "options": ["Qutb ud-Din Aibak / कुतुबुद्दीन ऐबक", "Iltutmish / इल्तुतमिश", "Balban / बलबन", "Razia Sultana / रजिया सुल्ताना"],
+      "answer": 0,
+      "explanation": "Qutb ud-Din Aibak founded the Mamluk/Slave dynasty in 1206. / 1206 में कुतुबुद्दीन ऐबक ने गुलाम वंश की स्थापना की थी।"
+    },
+    {
+      "id": 31,
+      "question": "What is the tenure of a Rajya Sabha member? / राज्यसभा के सदस्य का कार्यकाल कितना होता है?",
+      "options": ["6 years / 6 वर्ष", "5 years / 5 वर्ष", "4 years / 4 वर्ष", "2 years / 2 वर्ष"],
+      "answer": 0,
+      "explanation": "Rajya Sabha is a permanent body; members serve a 6-year term. / राज्यसभा एक स्थायी सदन है, इसके सदस्यों का कार्यकाल 6 वर्ष का होता है।"
+    },
+    {
+      "id": 32,
+      "question": "Which gas is used in LPG cylinders for leak detection? / एलपीजी सिलेंडरों में रिसाव का पता लगाने के लिए किस गंध युक्त पदार्थ को मिलाया जाता है?",
+      "options": ["Ethyl Mercaptan / एथिल मर्कैप्टन", "Methane / मीथेन", "Propane / प्रोपेन", "Chlorine / क्लोरीन"],
+      "answer": 0,
+      "explanation": "Ethanethiol (Ethyl Mercaptan) gives a pungent smell to detect leaks. / एथिल मर्कैप्टन की तेज गंध से गैस रिसाव का पता चलता है।"
+    },
+    {
+      "id": 33,
+      "question": "Where is the High Court of Andaman & Nicobar Islands located? / अंडमान और निकोबार द्वीप समूह का उच्च न्यायालय कहाँ स्थित है?",
+      "options": ["Kolkata High Court / कोलकाता उच्च न्यायालय", "Madras High Court / मद्रास उच्च न्यायालय", "Kerala High Court / केरल उच्च न्यायालय", "Delhi High Court / दिल्ली उच्च न्यायालय"],
+      "answer": 0,
+      "explanation": "Andaman & Nicobar comes under jurisdiction of Calcutta High Court. / यह कोलकाता उच्च न्यायालय के क्षेत्राधिकार में आता है।"
+    },
+    {
+      "id": 34,
+      "question": "Who was the first Indian woman to win an Olympic medal? / ओलंपिक पदक जीतने वाली पहली भारतीय महिला कौन थीं?",
+      "options": ["Karnam Malleswari / कर्णम मल्लेश्वरी", "P.T. Usha / पी.टी. उषा", "Saina Nehwal / साइना नेहवाल", "Mary Kom / मैरी कॉम"],
+      "answer": 0,
+      "explanation": "Karnam Malleswari won bronze in Weightlifting at Sydney 2000 Olympics. / उन्होंने सिडनी 2000 ओलंपिक में भारोत्तोलन में कांस्य जीता था।"
+    },
+    {
+      "id": 35,
+      "question": "What is the PH value of pure water? / शुद्ध जल का pH मान कितना होता है?",
+      "options": ["7", "0", "14", "5.5"],
+      "answer": 0,
+      "explanation": "Pure water is neutral with a pH value of 7. / शुद्ध जल उदासीन होता है तथा इसका pH मान 7 है।"
+    },
+    {
+      "id": 36,
+      "question": "Who wrote 'Akbarnama'? / 'अकबरनामा' की रचना किसने की थी?",
+      "options": ["Abul Fazl / अबुल फजल", "Faizi / फैजी", "Birbal / बीरबल", "Tansen / तानसेन"],
+      "answer": 0,
+      "explanation": "Abul Fazl was one of the Navratnas in Akbar's court. / अबुल फजल अकबर के नवरत्नों में से एक थे।"
+    },
+    {
+      "id": 37,
+      "question": "Which dam is built on the Narmada River? / नर्मदा नदी पर कौन सा बांध बना है?",
+      "options": ["Sardar Sarovar Dam / सरदार सरोवर बांध", "Bhakra Nangal / भाखड़ा नांगल", "Tehri Dam / टिहरी बांध", "Hirakud Dam / हीराकुड बांध"],
+      "answer": 0,
+      "explanation": "Sardar Sarovar Dam is in Kevadia, Gujarat on Narmada River. / सरदार सरोवर बांध गुजरात में नर्मदा नदी पर बना है।"
+    },
+    {
+      "id": 38,
+      "question": "Which gas causes depletion of the Ozone layer? / ओजोन परत के क्षरण के लिए कौन सी गैस जिम्मेदार है?",
+      "options": ["Chlorofluorocarbons (CFCs) / क्लोरोफ्लोरोकार्बन", "Carbon Dioxide / कार्बन डाइऑक्साइड", "Methane / मीथेन", "Nitrogen / नाइट्रोजन"],
+      "answer": 0,
+      "explanation": "CFCs release chlorine atoms that destroy ozone molecules. / CFCs गैस से निकलने वाला क्लोरीन ओजोन को नुकसान पहुंचाता है।"
+    },
+    {
+      "id": 39,
+      "question": "Who was the founder of the Brahmo Samaj? / ब्रह्म समाज के संस्थापक कौन थे?",
+      "options": ["Raja Ram Mohan Roy / राजा राममोहन राय", "Swami Dayanand / स्वामी दयानंद", "Keshab Chandra Sen / केशव चंद्र सेन", "Debendranath Tagore / देवेंद्रनाथ टैगोर"],
+      "answer": 0,
+      "explanation": "Founded in 1828 in Kolkata. / 1828 में कोलकाता में संस्थापित किया गया।"
+    },
+    {
+      "id": 40,
+      "question": "What is the tenure of the Comptroller and Auditor General (CAG) of India? / भारत के नियंत्रक एवं महालेखा परीक्षक (CAG) का कार्यकाल कितना होता है?",
+      "options": ["6 years or 65 years of age / 6 वर्ष या 65 वर्ष की आयु", "5 years / 5 वर्ष", "6 years / 6 वर्ष", "5 years or 62 years of age / 5 वर्ष या 62 वर्ष"],
+      "answer": 0,
+      "explanation": "CAG holds office for 6 years or until reaching 65 years of age. / CAG का कार्यकाल 6 वर्ष या 65 वर्ष की आयु तक होता है।"
+    },
+    {
+      "id": 41,
+      "question": "Which Indian city hosted the first Asian Games in 1951? / 1951 में पहले एशियाई खेलों की मेजबानी किस भारतीय शहर ने की थी?",
+      "options": ["New Delhi / नई दिल्ली", "Mumbai / मुंबई", "Kolkata / कोलकाता", "Chennai / चेन्नई"],
+      "answer": 0,
+      "explanation": "The inaugural 1951 Asian Games were held in New Delhi. / प्रथम एशियाई खेल 1951 में नई दिल्ली में आयोजित हुए थे।"
+    },
+    {
+      "id": 42,
+      "question": "Which acid is present in curd? / दही में कौन सा अम्ल मौजूद होता है?",
+      "options": ["Lactic Acid / लैक्टिक अम्ल", "Citric Acid / साइट्रिक अम्ल", "Acetic Acid / एसिटिक अम्ल", "Tartaric Acid / टार्टरिक अम्ल"],
+      "answer": 0,
+      "explanation": "Lactobacillus bacteria convert milk sugar into lactic acid. / लैक्टोबैसिलस जीवाणु दूध को लैक्टिक अम्ल में बदलते हैं।"
+    },
+    {
+      "id": 43,
+      "question": "Where is the National Chemical Laboratory situated? / राष्ट्रीय रासायनिक प्रयोगशाला कहाँ स्थित है?",
+      "options": ["Pune / पुणे", "Hyderabad / हैदराबाद", "Bengaluru / बेंगलुरु", "Chandigarh / चंडीगढ़"],
+      "answer": 0,
+      "explanation": "NCL is a constituent laboratory of CSIR located in Pune, Maharashtra. / NCL पुणे में स्थित सीएसआईआर की प्रयोगशाला है।"
+    },
+    {
+      "id": 44,
+      "question": "Who built the famous Shore Temple at Mahabalipuram? / महाबलीपुरम का प्रसिद्ध तट मंदिर किसने बनवाया था?",
+      "options": ["Narasimhavarman II / नरसिंहवर्मन द्वितीय", "Rajaraja I / राजराज प्रथम", "Pulakeshin II / पुलकेशिन द्वितीय", "Mahendravarman I / महेंद्रवर्मन प्रथम"],
+      "answer": 0,
+      "explanation": "Built by Pallava King Narasimhavarman II (Rajasimha). / पल्लव राजा नरसिंहवर्मन द्वितीय ने इसका निर्माण कराया।"
+    },
+    {
+      "id": 45,
+      "question": "Which state produces the maximum saffron in India? / भारत में सर्वाधिक केसर का उत्पादन करने वाला राज्य/केन्द्र शासित प्रदेश कौन सा है?",
+      "options": ["Jammu & Kashmir / जम्मू और कश्मीर", "Himachal Pradesh / हिमाचल प्रदेश", "Uttarakhand / उत्तराखंड", "Arunachal Pradesh / अरुणाचल प्रदेश"],
+      "answer": 0,
+      "explanation": "J&K (especially Pampore region) is the sole producer of saffron in India. / पांपोर (जम्मू कश्मीर) केसर उत्पादन का मुख्य केंद्र है।"
+    },
+    {
+      "id": 46,
+      "question": "Which fundamental unit measures luminous intensity? / ज्योति तीव्रता की मूल इकाई क्या है?",
+      "options": ["Candela / कैंडेला", "Lumen / ल्यूमेन", "Lux / लक्स", "Watt / वाट"],
+      "answer": 0,
+      "explanation": "The SI base unit of luminous intensity is Candela (cd). / ज्योति तीव्रता की SI इकाई कैंडेला (cd) है।"
+    },
+    {
+      "id": 47,
+      "question": "Who was the Governor-General when the Widow Remarriage Act 1856 was passed? / 1856 में हिंदू विधवा पुनर्विवाह अधिनियम पारित होने के समय गवर्नर-जनरल कौन था?",
+      "options": ["Lord Canning / लॉर्ड कैनिंग", "Lord Dalhousie / लॉर्ड डलहौजी", "Lord Bentinck / लॉर्ड बेंटिक", "Lord Ripon / लॉर्ड रिपन"],
+      "answer": 0,
+      "explanation": "Passed during Lord Canning's tenure with efforts of Ishwar Chandra Vidyasagar. / ईश्वर चंद्र विद्यासागर के प्रयासों से लॉर्ड कैनिंग के समय पास हुआ।"
+    },
+    {
+      "id": 48,
+      "question": "Which gas is used in fire extinguishers? / अग्निशामक यंत्रों में किस गैस का प्रयोग किया जाता है?",
+      "options": ["Carbon Dioxide / कार्बन डाइऑक्साइड", "Oxygen / ऑक्सीजन", "Nitrogen / नाइट्रोजन", "Hydrogen / हाइड्रोजन"],
+      "answer": 0,
+      "explanation": "CO2 cuts off oxygen supply to extinguish flames. / CO2 गैस ऑक्सीजन की आपूर्ति काटकर आग बुझाती है।"
+    },
+    {
+      "id": 49,
+      "question": "Which Article allows the President to promulgate Ordinances? / कौन सा अनुच्छेद राष्ट्रपति को अध्यादेश जारी करने की शक्ति देता है?",
+      "options": ["Article 123 / अनुच्छेद 123", "Article 213 / अनुच्छेद 213", "Article 72 / अनुच्छेद 72", "Article 352 / अनुच्छेद 352"],
+      "answer": 0,
+      "explanation": "Article 123 empowers President to issue ordinances when Parliament is in recess. / अनुच्छेद 123 राष्ट्रपति को अध्यादेश की शक्ति देता है।"
+    },
+    {
+      "id": 50,
+      "question": "Where is the Central Rice Research Institute (CRRI) located? / केंद्रीय चावल अनुसंधान संस्थान कहाँ स्थित है?",
+      "options": ["Cuttack, Odisha / कटक, ओडिशा", "Pusa, Bihar / पूसा, बिहार", "Karnal, Haryana / करनाल, हरियाणा", "Rajahmundry, AP / राजमुंदरी"],
+      "answer": 0,
+      "explanation": "CRRI is located in Cuttack, Odisha. / केंद्रीय चावल अनुसंधान संस्थान कटक (ओडिशा) में स्थित है।"
     }
-  }
-]
+  ]
+}
