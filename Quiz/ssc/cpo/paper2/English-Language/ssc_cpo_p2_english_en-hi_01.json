@@ -1,18 +1,358 @@
-[
-  {
-    "id": 1,
-    "question": {
-      "en": "Sample Question in English?",
-      "hi": "????? ??? ????? ???????"
+{
+  "title": "SSC CPO Paper 2 - English Language & Comprehension / एसएससी सीपीओ पेपर 2 - अंग्रेजी भाषा एवं बोधगम्यता",
+  "positiveMarks": 1,
+  "negativeMarks": 0.25,
+  "timeLimitMinutes": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Identify the word nearest in meaning to 'ACQUIESCE': / 'ACQUIESCE' के निकटतम अर्थ वाला शब्द चुनें:",
+      "options": ["Consent / सहमति देना", "Refuse / मना करना", "Protest / विरोध करना", "Deny / इंकार करना"],
+      "answer": 0,
+      "explanation": "'Acquiesce' means to accept something reluctantly but without protest. / बिना विरोध के चुपचाप स्वीकार करना।"
     },
-    "options": {
-      "en": ["Option A", "Option B", "Option C", "Option D"],
-      "hi": ["?????? A", "?????? B", "?????? C", "?????? D"]
+    {
+      "id": 2,
+      "question": "Find the antonym of 'BELLIGERENT': / 'BELLIGERENT' का विलोम शब्द चुनें:",
+      "options": ["Peaceful / शांतिप्रिय", "Hostile / शत्रुतापूर्ण", "Aggressive / आक्रामक", "Combative / जुझारू"],
+      "answer": 0,
+      "explanation": "'Belligerent' means hostile and aggressive. Its opposite is 'Peaceful'. / 'Belligerent' का अर्थ आक्रामक होता है, विलोम Peaceful (शांत) है।"
     },
-    "answer": 0,
-    "explanation": {
-      "en": "Explanation in English.",
-      "hi": "????? ??? ?????????"
+    {
+      "id": 3,
+      "question": "Choose the correctly spelt word: / सही वर्तनी वाला शब्द पहचानें:",
+      "options": ["Consensus", "Consensuss", "Conscensus", "Consensas"],
+      "answer": 0,
+      "explanation": "'Consensus' means general agreement. Correct spelling has 's' not 'c' in the middle. / 'Consensus' का अर्थ आम सहमति है।"
+    },
+    {
+      "id": 4,
+      "question": "What is the meaning of the idiom 'To add fuel to the fire'? / 'To add fuel to the fire' मुहावरे का अर्थ क्या है?",
+      "options": ["To worsen an already bad situation / स्थिति को और बिगाड़ना", "To extinguish a flame / आग बुझाना", "To start a bonfire / अलाव जलाना", "To calm down a fight / विवाद शांत करना"],
+      "answer": 0,
+      "explanation": "To cause an argument or bad situation to become even worse. / आग में घी डालना (बात बिगाड़ना)।"
+    },
+    {
+      "id": 5,
+      "question": "Substitution: 'One who does not believe in the existence of God': / 'जो ईश्वर के अस्तित्व पर विश्वास नहीं करता':",
+      "options": ["Atheist / नास्तिक", "Theist / आस्तिक", "Agnostic / अज्ञेयवादी", "Monotheist / एकेश्वरवादी"],
+      "answer": 0,
+      "explanation": "An Atheist rejects belief in God. / नास्तिक (Atheist) ईश्वर को नहीं मानता।"
+    },
+    {
+      "id": 6,
+      "question": "Find error: 'He did not went to school yesterday.' / त्रुटि खोजें: 'He did not went to school yesterday.'",
+      "options": ["did not went", "He", "to school", "yesterday"],
+      "answer": 0,
+      "explanation": "Did takes V1 (base verb). Correct: 'did not go'. / 'Did' के साथ क्रिया की पहली अवस्था (go) का प्रयोग होता है।"
+    },
+    {
+      "id": 7,
+      "question": "Fill in: 'The police officer asked him to _______ the details.' / रिक्त स्थान भरें:",
+      "options": ["furnish", "furnishing", "furnished", "furnishes"],
+      "answer": 0,
+      "explanation": "Infinitive 'to' takes base verb V1 ('furnish'). / 'To' के बाद बेस वर्ब (V1) का प्रयोग होता है।"
+    },
+    {
+      "id": 8,
+      "question": "Passive voice: 'Who painted this picture?' / Passive रूप: 'Who painted this picture?'",
+      "options": ["By whom was this picture painted?", "By who was this picture painted?", "Who was painted this picture?", "By whom this picture was painted?"],
+      "answer": 0,
+      "explanation": "'Who' becomes 'By whom', followed by auxiliary verb 'was'. / 'Who' का पैसिव 'By whom + auxiliary' से शुरू होता है।"
+    },
+    {
+      "id": 9,
+      "question": "Direct to Indirect: He said to me, 'Where are you going?' / अप्रत्यक्ष कथन:",
+      "options": ["He asked me where I was going.", "He asked me where was I going.", "He told me where I am going.", "He questioned me where I went."],
+      "answer": 0,
+      "explanation": "Wh-questions retain the question word followed by subject-verb order (I was). / Wh-प्रश्नों में संयोजक Wh-शब्द रहता है और वाकया साधारण बनता है।"
+    },
+    {
+      "id": 10,
+      "question": "Synonym of 'COMPASSIONATE': / 'COMPASSIONATE' का पर्यायवाची:",
+      "options": ["Sympathetic / सहानुभूतिपूर्ण", "Cruel / निर्दयी", "Indifferent / उदासीन", "Callous / कठोर"],
+      "answer": 0,
+      "explanation": "'Compassionate' means feeling or showing sympathy. / 'Compassionate' का अर्थ दयालु या सहानुभूतिपूर्ण होता है।"
+    },
+    {
+      "id": 11,
+      "question": "Antonym of 'DILIGENT': / 'DILIGENT' का विलोम:",
+      "options": ["Lazy / आलसी", "Hardworking / मेहनती", "Assiduous / परिश्रमपूर्ण", "Active / सक्रिय"],
+      "answer": 0,
+      "explanation": "'Diligent' means industrious and hardworking. Antonym is 'Lazy'. / 'Diligent' का अर्थ मेहनती होता है, विलोम Lazy (आलसी) है।"
+    },
+    {
+      "id": 12,
+      "question": "Idiom: 'At the drop of a hat' / मुहावरा:",
+      "options": ["Instantly without hesitation / बिना किसी हिचकिचाहट के तुरंत", "Losing a hat / टोपी खोना", "Carefully planned / सावधानीपूर्वक योजनाबद्ध", "Very slowly / बहुत धीरे"],
+      "answer": 0,
+      "explanation": "Without any hesitation or good reason. / तुरंत बिना देर किए।"
+    },
+    {
+      "id": 13,
+      "question": "Substitution: 'An official pardon for people who have been convicted of political offenses': / 'राजनीतिक अपराधों के लिए आधिकारिक क्षमादान':",
+      "options": ["Amnesty / आम माफी", "Amnesia / भूलने की बीमारी", "Parole / पैरोल", "Absolution / दोषमुक्ति"],
+      "answer": 0,
+      "explanation": "An official pardon for political offenses is Amnesty. / राजनीतिक अपराधियों को दी जाने वाली आम माफी (Amnesty) कहलाती है।"
+    },
+    {
+      "id": 14,
+      "question": "Find error: 'Each of the girls have won a prize.' / त्रुटि खोजें:",
+      "options": ["have won", "Each of", "the girls", "a prize"],
+      "answer": 0,
+      "explanation": "'Each of' takes a singular verb ('has'). / 'Each of' के बाद एकवचन क्रिया का प्रयोग होता है।"
+    },
+    {
+      "id": 15,
+      "question": "Fill in: 'He is jealous _______ my success.' / रिक्त स्थान भरें:",
+      "options": ["of", "for", "with", "at"],
+      "answer": 0,
+      "explanation": "'Jealous' is followed by the preposition 'of'. / 'Jealous' के साथ 'of' प्रीपोजिशन आती है।"
+    },
+    {
+      "id": 16,
+      "question": "Correctly spelt word: / सही शब्द:",
+      "options": ["Mischievous", "Mischevous", "Mischievous", "Mischevious"],
+      "answer": 0,
+      "explanation": "'Mischievous' is the correct spelling. / सही वर्तनी 'Mischievous' (शरारती) है।"
+    },
+    {
+      "id": 17,
+      "question": "Synonym of 'EXEMPLARY': / 'EXEMPLARY' का पर्यायवाची:",
+      "options": ["Commendable / सराहनीय", "Poor / खराब", "Blameworthy / निंदनीय", "Ordinary / साधारण"],
+      "answer": 0,
+      "explanation": "'Exemplary' means serving as a desirable model; commendable. / उदाहरण देने योग्य या सराहनीय।"
+    },
+    {
+      "id": 18,
+      "question": "Antonym of 'FASTIDIOUS': / 'FASTIDIOUS' का विलोम:",
+      "options": ["Careless / लापरवाह", "Choosy / नखरेबाज़", "Picky / बारीक नज़र वाला", "Meticulous / सतर्क"],
+      "answer": 0,
+      "explanation": "'Fastidious' means very attentive to detail. Opposite is 'Careless'. / 'Fastidious' का अर्थ हर बात में बारीकी देखने वाला होता है।"
+    },
+    {
+      "id": 19,
+      "question": "Idiom: 'Beat around the bush' / मुहावरा:",
+      "options": ["Avoid talking about the main topic / मुख्य मुद्दे से भटकना", "Hit a bush / झाड़ी को मारना", "Speak directly / सीधी बात करना", "Search for lost items / खोई वस्तु खोजना"],
+      "answer": 0,
+      "explanation": "Avoid coming to the main point directly. / घुमा-फिराकर बात करना।"
+    },
+    {
+      "id": 20,
+      "question": "Substitution: 'A disease that spreads over a large area and affects many people at the same time': / 'व्यापक क्षेत्र में फैलने वाली महामारी':",
+      "options": ["Epidemic / महामारी", "Endemic / स्थानिक रोग", "Pandemic / वैश्विक महामारी", "Contagion / संक्रामक रोग"],
+      "answer": 0,
+      "explanation": "A widespread occurrence of an infectious disease in a community is an Epidemic. / किसी क्षेत्र में फैलने वाली बीमारी Epidemic कहलाती है।"
+    },
+    {
+      "id": 21,
+      "question": "Find error: 'Hardly had he arrived when the meeting started.' / त्रुटि खोजें:",
+      "options": ["No error", "Hardly had he", "arrived when", "the meeting started"],
+      "answer": 0,
+      "explanation": "Correct usage of 'Hardly had ... when'. No error. / वाक्य व्याकरण की दृष्टि से पूर्णतः सही है।"
+    },
+    {
+      "id": 22,
+      "question": "Fill in: 'She insisted _______ paying the bill.' / स्थान भरें:",
+      "options": ["on", "for", "at", "to"],
+      "answer": 0,
+      "explanation": "'Insist' takes 'on' + gerund (V1+ing). / 'Insist' के बाद 'on' प्रीपोजिशन लगता है।"
+    },
+    {
+      "id": 23,
+      "question": "Passive voice: 'We must keep our surroundings clean.' / Passive रूप:",
+      "options": ["Our surroundings must be kept clean.", "Our surroundings should keep clean.", "Clean surroundings must be kept.", "Our surroundings are kept clean."],
+      "answer": 0,
+      "explanation": "Modal 'must + V1' becomes 'must be + V3'. / 'Must' पैसिव में 'must be + V3' में बदलता है।"
+    },
+    {
+      "id": 24,
+      "question": "Indirect voice: The teacher said, 'Earth revolves around the Sun.' / Indirect रूप:",
+      "options": ["The teacher said that Earth revolves around the Sun.", "The teacher said that Earth revolved around the Sun.", "The teacher said that Earth was revolving.", "The teacher told Earth revolves."],
+      "answer": 0,
+      "explanation": "Universal truths do not change tense in reported speech. / सार्वभौमिक सत्य के काल (tense) में कोई परिवर्तन नहीं होता।"
+    },
+    {
+      "id": 25,
+      "question": "Synonym of 'GENUINE': / 'GENUINE' का पर्यायवाची:",
+      "options": ["Authentic / वास्तविक", "Fake / नकली", "Counterfeit / जाली", "Spurious / झूठा"],
+      "answer": 0,
+      "explanation": "'Genuine' means real and authentic. / 'Genuine' का अर्थ असली या प्रमाणिक होता है।"
+    },
+    {
+      "id": 26,
+      "question": "Antonym of 'GREGARIOUS': / 'GREGARIOUS' का विलोम:",
+      "options": ["Reclusive / एकांतप्रिय", "Sociable / मिलनसार", "Friendly / मित्रवत", "Outgoing / सामाजिक"],
+      "answer": 0,
+      "explanation": "'Gregarious' means fond of company; sociable. Antonym is 'Reclusive'. / मिलनसार व्यक्ति का विलोम एकांतप्रिय (Reclusive) है।"
+    },
+    {
+      "id": 27,
+      "question": "Correctly spelt word: / सही शब्द:",
+      "options": ["Parliament", "Parliament", "Parliment", "Parleament"],
+      "answer": 0,
+      "explanation": "'Parliament' is spelt correctly with 'ia'. / सही वर्तनी 'Parliament' है।"
+    },
+    {
+      "id": 28,
+      "question": "Idiom: 'Cry over spilt milk' / मुहावरा:",
+      "options": ["Regret past actions that cannot be changed / बीती बात पर पछताना", "Spill milk by mistake / दूध गिराना", "Complain about food / भोजन की शिकायत करना", "Crying loudly / जोर से रोना"],
+      "answer": 0,
+      "explanation": "To waste time worrying about something that has already happened. / अब पछताए होत क्या जब चिड़िया चुग गई खेत।"
+    },
+    {
+      "id": 29,
+      "question": "Substitution: 'A sound that cannot be heard': / 'जो ध्वनि सुनाई न दे':",
+      "options": ["Inaudible / अश्रव्य", "Audible / श्रव्य", "Silent / शांत", "Quiet / धीमा"],
+      "answer": 0,
+      "explanation": "Incapable of being heard is Inaudible. / जो सुनाई न दे उसे Inaudible कहते हैं।"
+    },
+    {
+      "id": 30,
+      "question": "Find error: 'Supposing if it rains, what will we do?' / त्रुटि खोजें:",
+      "options": ["Supposing if", "it rains", "what will we do", "No error"],
+      "answer": 0,
+      "explanation": "'Supposing' and 'if' are redundant together. Use either 'Supposing' or 'if'. / 'Supposing' और 'if' दोनों का एक साथ प्रयोग सुपरफ्लुअस (अनावश्यक) है।"
+    },
+    {
+      "id": 31,
+      "question": "Fill in: 'He is senior _______ me by two years.' / स्थान भरें:",
+      "options": ["to", "than", "from", "with"],
+      "answer": 0,
+      "explanation": "'Senior' is followed by 'to'. / Senior के बाद 'to' का प्रयोग होता है।"
+    },
+    {
+      "id": 32,
+      "question": "Synonym of 'IMPECCABLE': / 'IMPECCABLE' का पर्यायवाची:",
+      "options": ["Faultless / त्रुटिहीन", "Flawed / त्रुटिपूर्ण", "Defective / दोषपूर्ण", "Imperfeclt / अपूर्ण"],
+      "answer": 0,
+      "explanation": "'Impeccable' means flawless or faultless. / जिसमें कोई कमी न हो।"
+    },
+    {
+      "id": 33,
+      "question": "Antonym of 'INCOGNITO': / 'INCOGNITO' का विलोम:",
+      "options": ["Openly / खुले तौर पर", "Disguised / छद्मवेषी", "Secretly / गुप्त रूप से", "Anonymously / अज्ञात रूप से"],
+      "answer": 0,
+      "explanation": "'Incognito' means having one's identity concealed. Opposite is 'Openly'. / अपनी पहचान छिपाकर रहने का विलोम खुले तौर पर (Openly) है।"
+    },
+    {
+      "id": 34,
+      "question": "Idiom: 'Call it a day' / मुहावरा:",
+      "options": ["Stop working on something / काम बंद करना", "Start a new day / नया दिन शुरू करना", "Call a friend / मित्र को फोन करना", "Work extra hours / अतिरिक्त काम करना"],
+      "answer": 0,
+      "explanation": "To stop working on something for the rest of the day. / काम समाप्त करना।"
+    },
+    {
+      "id": 35,
+      "question": "Substitution: 'One who collects stamps': / 'डाक टिकट एकत्र करने वाला':",
+      "options": ["Philatelist / डाक टिकट संग्रहकर्ता", "Numismatist / मुद्राशास्त्री", "Anthropologist / मानवविज्ञानी", "Archaeologist / पुरातत्ववेत्ता"],
+      "answer": 0,
+      "explanation": "A person who collects or studies postage stamps is a Philatelist. / डाक टिकटों का संग्रह करने वाला।"
+    },
+    {
+      "id": 36,
+      "question": "Find error: 'The cattle is grazing in the field.' / त्रुटि खोजें:",
+      "options": ["is grazing", "The cattle", "in the field", "No error"],
+      "answer": 0,
+      "explanation": "'Cattle' is a plural noun taking a plural verb ('are grazing'). / 'Cattle' बहुवचन संज्ञा है, इसके साथ 'are' का प्रयोग होना चाहिए।"
+    },
+    {
+      "id": 37,
+      "question": "Fill in: 'The train arrived _______ time.' / स्थान भरें:",
+      "options": ["on", "at", "in", "by"],
+      "answer": 0,
+      "explanation": "'On time' means punctual / at the scheduled time. / 'On time' का अर्थ ठीक निर्धारित समय पर होना है।"
+    },
+    {
+      "id": 38,
+      "question": "Correctly spelt word: / सही शब्द:",
+      "options": ["Separation", "Seperation", "Sepration", "Sapration"],
+      "answer": 0,
+      "explanation": "'Separation' is the correct spelling with 'par'. / सही वर्तनी 'Separation' है।"
+    },
+    {
+      "id": 39,
+      "question": "Synonym of 'LUCID': / 'LUCID' का पर्यायवाची:",
+      "options": ["Clear / स्पष्ट", "Confusing / भ्रमित करने वाला", "Obscure / अस्पष्ट", "Vague / धुंधला"],
+      "answer": 0,
+      "explanation": "'Lucid' means expressed clearly; easy to understand. / समझने में आसान तथा स्पष्ट।"
+    },
+    {
+      "id": 40,
+      "question": "Antonym of 'METICULOUS': / 'METICULOUS' का विलोम:",
+      "options": ["Sloppy / बेपरवाह", "Careful / सावधान", "Precise / सटीक", "Thorough / विस्तृत"],
+      "answer": 0,
+      "explanation": "'Meticulous' means very precise and careful. Opposite is 'Sloppy'. / सावधान का विलोम लापरवाह या गंदा (Sloppy) होता है।"
+    },
+    {
+      "id": 41,
+      "question": "Idiom: 'Hit the nail on the head' / मुहावरा:",
+      "options": ["Describe exactly what is causing a situation / बिल्कुल सही बात कहना", "Hit a real nail / कील ठोकना", "Hurt oneself / खुद को चोट पहुँचाना", "Make a mistake / गलती करना"],
+      "answer": 0,
+      "explanation": "To state or do something with absolute accuracy. / सही निशाने पर बात करना।"
+    },
+    {
+      "id": 42,
+      "question": "Substitution: 'An act of speaking one's thoughts aloud when by oneself': / 'स्वयं से बात करने की क्रिया':",
+      "options": ["Soliloquy / स्वगत कथन", "Dialogue / संवाद", "Monologue / एकालाप", "Eloquence / वाक्पटुता"],
+      "answer": 0,
+      "explanation": "Speaking thoughts aloud alone is a Soliloquy. / नाटकों में अकेला पात्र जब खुद से विचार व्यक्त करता है।"
+    },
+    {
+      "id": 43,
+      "question": "Find error: 'One should respect his elders.' / त्रुटि खोजें:",
+      "options": ["his elders", "One should", "respect", "No error"],
+      "answer": 0,
+      "explanation": "Indefinite pronoun 'One' takes possessive 'one's'. Correct: 'respect one's elders'. / 'One' के साथ 'one's' का प्रयोग होता है, 'his' का नहीं।"
+    },
+    {
+      "id": 44,
+      "question": "Fill in: 'He deals _______ rice and wheat.' / स्थान भरें:",
+      "options": ["in", "with", "at", "by"],
+      "answer": 0,
+      "explanation": "'Deal in' means to trade in goods. / व्यापार करने के संदर्भ में 'deal in' का प्रयोग होता है।"
+    },
+    {
+      "id": 45,
+      "question": "Synonym of 'NOCTURNAL': / 'NOCTURNAL' का पर्यायवाची:",
+      "options": ["Nighttime / रात्रिचर", "Daily / दैनिक", "Solar / सौर", "Diurnal / दिवाचर"],
+      "answer": 0,
+      "explanation": "'Nocturnal' means active during the night. / जो रात में सक्रिय रहता है।"
+    },
+    {
+      "id": 46,
+      "question": "Antonym of 'OPAQUE': / 'OPAQUE' का विलोम:",
+      "options": ["Transparent / पारदर्शी", "Dark / अंधेरा", "Cloudy / धुंधला", "Hazy / अस्पष्ट"],
+      "answer": 0,
+      "explanation": "'Opaque' means not transparent. Antonym is 'Transparent'. / अपारदर्शी का विलोम पारदर्शी (Transparent) है।"
+    },
+    {
+      "id": 47,
+      "question": "Idiom: 'Piece of cake' / मुहावरा:",
+      "options": ["A very easy task / बहुत आसान काम", "A sweet dish / मीठा व्यंजन", "A small portion / छोटा हिस्सा", "A complex problem / जटिल समस्या"],
+      "answer": 0,
+      "explanation": "Something that is extremely easy to do. / बहुत ही आसान कार्य।"
+    },
+    {
+      "id": 48,
+      "question": "Substitution: 'A government by the rich class': / 'धनिक वर्ग द्वारा शासन':",
+      "options": ["Plutocracy / धनिकतंत्र", "Democracy / लोकतंत्र", "Oligarchy / अल्पजनतंत्र", "Monarchy / राजतंत्र"],
+      "answer": 0,
+      "explanation": "Government governed by the wealthy is Plutocracy. / अमीरों द्वारा चलाई जाने वाली सरकार।"
+    },
+    {
+      "id": 49,
+      "question": "Fill in: 'She is good _______ mathematics.' / स्थान भरें:",
+      "options": ["at", "in", "with", "for"],
+      "answer": 0,
+      "explanation": "'Good at' is used for proficiency in a subject or skill. / किसी विषय या कौशल में निपुणता के लिए 'good at' आता है।"
+    },
+    {
+      "id": 50,
+      "question": "Correctly spelt word: / सही शब्द:",
+      "options": ["Questionnaire", "Questionaire", "Questionare", "Questionnair"],
+      "answer": 0,
+      "explanation": "'Questionnaire' has double 'n'. / सही वर्तनी 'Questionnaire' (प्रश्नावली) है।"
     }
-  }
-]
+  ]
+}
