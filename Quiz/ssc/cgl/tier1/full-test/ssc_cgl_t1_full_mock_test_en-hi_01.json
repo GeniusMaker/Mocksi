@@ -1,18 +1,25 @@
-[
-  {
-    "id": 1,
-    "question": {
-      "en": "Sample Question in English?",
-      "hi": "????? ??? ????? ???????"
+{
+  "title": "SSC CGL Tier 1 Full Mock Test 01 / एसएससी सीजीएल टियर 1 फुल मॉक टेस्ट 01",
+  "positiveMarks": 2,
+  "negativeMarks": 0.5,
+  "timeLimitMinutes": 60,
+  "shuffle": false,
+  "sources": [
+    {
+      "section": "General Intelligence & Reasoning",
+      "file": "ssc/cgl/tier1/Reasoning/ssc_cgl_t1_Reasoning_en-hi_01.json"
     },
-    "options": {
-      "en": ["Option A", "Option B", "Option C", "Option D"],
-      "hi": ["?????? A", "?????? B", "?????? C", "?????? D"]
+    {
+      "section": "General Awareness",
+      "file": "ssc/cgl/tier1/Gen-Awareness/ssc_cgl_t1_GA_en-hi_01.json"
     },
-    "answer": 0,
-    "explanation": {
-      "en": "Explanation in English.",
-      "hi": "????? ??? ?????????"
+    {
+      "section": "Quantitative Aptitude",
+      "file": "ssc/cgl/tier1/Mathematical-Abilities/ssc_cgl_t1_Math_en-hi_01.json"
+    },
+    {
+      "section": "English Language",
+      "file": "ssc/cgl/tier1/English-Language/ssc_cgl_t1_English_en-hi_01.json"
     }
-  }
-]
+  ]
+}
