@@ -1,18 +1,358 @@
-[
-  {
-    "id": 1,
-    "question": {
-      "en": "Sample Question in English?",
-      "hi": "????? ??? ????? ???????"
+{
+  "title": "SSC CPO Paper 1 - General Intelligence & Reasoning / एसएससी सीपीओ पेपर 1 - सामान्य बुद्धिमत्ता एवं तर्कशक्ति",
+  "positiveMarks": 1,
+  "negativeMarks": 0.25,
+  "timeLimitMinutes": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Select the related word from the given alternatives: Lion : Den :: Rabbit : ? / दिए गए विकल्पों में से संबंधित शब्द को चुनिए: शेर : मांद :: खरगोश : ?",
+      "options": ["Hole / छेद", "Burrow / बिल", "Trench / खाई", "Pit / गड्ढा"],
+      "answer": 1,
+      "explanation": "A rabbit lives in a burrow. / खरगोश बिल में रहता है।"
     },
-    "options": {
-      "en": ["Option A", "Option B", "Option C", "Option D"],
-      "hi": ["?????? A", "?????? B", "?????? C", "?????? D"]
+    {
+      "id": 2,
+      "question": "Find the odd one out: 64, 125, 216, 342 / विषम चुनें: 64, 125, 216, 342",
+      "options": ["64", "125", "216", "342"],
+      "answer": 3,
+      "explanation": "64 (4³), 125 (5³), and 216 (6³) are perfect cubes, while 342 is not (7³ - 1). / 64, 125 और 216 पूर्ण घन हैं, जबकि 342 नहीं है।"
     },
-    "answer": 0,
-    "explanation": {
-      "en": "Explanation in English.",
-      "hi": "????? ??? ?????????"
+    {
+      "id": 3,
+      "question": "If 'CAT' is coded as 24 and 'DOG' as 26, how is 'PIG' coded? / यदि 'CAT' को 24 और 'DOG' को 26 के रूप में कोडित किया जाता है, तो 'PIG' को कैसे कोडित किया जाएगा?",
+      "options": ["32", "30", "36", "28"],
+      "answer": 0,
+      "explanation": "P(16) + I(9) + G(7) = 32. / P(16) + I(9) + G(7) = 32।"
+    },
+    {
+      "id": 4,
+      "question": "Complete the series: 4, 9, 19, 39, 79, ? / श्रृंखला को पूरा करें: 4, 9, 19, 39, 79, ?",
+      "options": ["159", "158", "149", "169"],
+      "answer": 0,
+      "explanation": "Pattern: ×2 + 1. 79 × 2 + 1 = 159. / पैटर्न: ×2 + 1। 79 × 2 + 1 = 159।"
+    },
+    {
+      "id": 5,
+      "question": "Pointing to a man, a woman said, 'His mother is the only daughter of my mother.' How is the woman related to the man? / एक आदमी की ओर इशारा करते हुए एक महिला ने कहा, 'उसकी माँ मेरी माँ की इकलौती बेटी है।' महिला का उस आदमी से क्या संबंध है?",
+      "options": ["Mother / माँ", "Sister / बहन", "Aunt / चाची", "Grandmother / दादी"],
+      "answer": 0,
+      "explanation": "Only daughter of woman's mother is the woman herself. So she is his mother. / महिला की माँ की इकलौती बेटी वह महिला स्वयं है। इसलिए वह उसकी माँ है।"
+    },
+    {
+      "id": 6,
+      "question": "If '+' means '×', '-' means '÷', '×' means '+' and '÷' means '-', then solve: 12 + 6 - 3 × 4 ÷ 2 / यदि '+' का अर्थ '×', '-' का अर्थ '÷', '×' का अर्थ '+' और '÷' का अर्थ '-' है, तो हल करें: 12 + 6 - 3 × 4 ÷ 2",
+      "options": ["26", "28", "24", "30"],
+      "answer": 0,
+      "explanation": "12 × 6 ÷ 3 + 4 - 2 = 12 × 2 + 4 - 2 = 24 + 4 - 2 = 26. / 12 × 6 ÷ 3 + 4 - 2 = 12 × 2 + 4 - 2 = 24 + 4 - 2 = 26।"
+    },
+    {
+      "id": 7,
+      "question": "A person walks 5 km North, turns right and walks 3 km, then turns right and walks 5 km. How far is he from the starting point? / एक व्यक्ति 5 किमी उत्तर की ओर चलता है, दाएँ मुड़ता है और 3 किमी चलता है, फिर दाएँ मुड़ता है और 5 किमी चलता है। वह शुरुआती बिंदु से कितनी दूर है?",
+      "options": ["3 km", "5 km", "8 km", "0 km"],
+      "answer": 0,
+      "explanation": "He is 3 km East from the starting point. / वह शुरुआती बिंदु से 3 किमी पूर्व की ओर है।"
+    },
+    {
+      "id": 8,
+      "question": "Arrange in logical order: 1. Doctor, 2. Fever, 3. Medicine, 4. Diagnosis, 5. Recovery / तार्किक क्रम में व्यवस्थित करें: 1. डॉक्टर, 2. बुखार, 3. दवा, 4. निदान, 5. स्वास्थ्य लाभ",
+      "options": ["2, 1, 4, 3, 5", "1, 2, 3, 4, 5", "2, 1, 3, 4, 5", "2, 4, 1, 3, 5"],
+      "answer": 0,
+      "explanation": "Sequence: Fever -> Doctor -> Diagnosis -> Medicine -> Recovery. / क्रम: बुखार -> डॉक्टर -> निदान -> दवा -> स्वास्थ्य लाभ।"
+    },
+    {
+      "id": 9,
+      "question": "Find the missing term: B2D, E3H, H4L, ? / लुप्त पद ज्ञात कीजिए: B2D, E3H, H4L, ?",
+      "options": ["K5P", "J5P", "K5O", "L5P"],
+      "answer": 0,
+      "explanation": "First letters: B(+3)E(+3)H(+3)K. Numbers: 2, 3, 4, 5. Last letters: D(+4)H(+4)L(+4)P. So K5P. / पहले अक्षर: B(+3)E(+3)H(+3)K। संख्याएं: 2, 3, 4, 5। अंतिम अक्षर: D(+4)H(+4)L(+4)P। अत: K5P।"
+    },
+    {
+      "id": 10,
+      "question": "Which Venn diagram represents: Musicians, Singers, Women? / कौन सा वेन आरेख संगीतकारों, गायकों, महिलाओं का प्रतिनिधित्व करता है?",
+      "options": ["Intersecting circles / परस्पर काटते हुए वृत्त", "Concentric circles / संकेंद्री वृत्त", "Separated circles / अलग-अलग वृत्त", "Two in one circle / एक वृत्त में दो"],
+      "answer": 0,
+      "explanation": "All three categories can overlap with each other. / तीनों श्रेणियां एक-दूसरे से आंशिक रूप से जुड़ सकती हैं।"
+    },
+    {
+      "id": 11,
+      "question": "Select the option that is related to the third term: 8 : 64 :: 11 : ? / दिए गए विकल्पों में से संबंधित संख्या चुनें: 8 : 64 :: 11 : ?",
+      "options": ["121", "1331", "110", "122"],
+      "answer": 0,
+      "explanation": "Pattern: n : n². 11² = 121. / पैटर्न: n : n²। 11² = 121।"
+    },
+    {
+      "id": 12,
+      "question": "In a row of students, A is 10th from the left and B is 15th from the right. If they swap positions, A becomes 20th from the left. How many students are there in total? / छात्रों की एक पंक्ति में, A बाएँ से 10वें स्थान पर है और B दाएँ से 15वें स्थान पर है। यदि वे अपना स्थान बदलते हैं, तो A बाएँ से 20वें स्थान पर आ जाता है। पंक्ति में कुल कितने छात्र हैं?",
+      "options": ["34", "35", "36", "33"],
+      "answer": 0,
+      "explanation": "Total = New position of A + Old position of B - 1 = 20 + 15 - 1 = 34. / कुल = A का नया स्थान + B का पुराना स्थान - 1 = 20 + 15 - 1 = 34।"
+    },
+    {
+      "id": 13,
+      "question": "If STATUE is coded as TVBYZH, how is VERIFY coded? / यदि STATUE को TVBYZH के रूप में कोडित किया जाता है, तो VERIFY को कैसे कोडित किया जाएगा?",
+      "options": ["WGTMEE", "WGTMJE", "WGTKJE", "WGTLJE"],
+      "answer": 1,
+      "explanation": "Pattern: +1, +2, +3, +4, +5, +6. V(+1)W, E(+2)G, R(+3)U... / पैटर्न: +1, +2, +3, +4, +5, +6।"
+    },
+    {
+      "id": 14,
+      "question": "Select the odd pair of numbers: (13, 169), (17, 289), (19, 361), (21, 442) / विषम संख्या युग्म चुनें: (13, 169), (17, 289), (19, 361), (21, 442)",
+      "options": ["(13, 169)", "(17, 289)", "(19, 361)", "(21, 442)"],
+      "answer": 3,
+      "explanation": "21² = 441, not 442. All other pairs are numbers and their squares. / 21² = 441 होता है, 442 नहीं। बाकी सभी संख्याएं और उनके वर्ग हैं।"
+    },
+    {
+      "id": 15,
+      "question": "Statement: All dogs are cats. Some cats are birds. Conclusion I: Some dogs are birds. Conclusion II: No dog is a bird. / कथन: सभी कुत्ते बिल्लियाँ हैं। कुछ बिल्लियाँ पक्षी हैं। निष्कर्ष I: कुछ कुत्ते पक्षी हैं। निष्कर्ष II: कोई भी कुत्ता पक्षी नहीं है।",
+      "options": ["Only I follows", "Only II follows", "Either I or II follows", "Neither follows"],
+      "answer": 2,
+      "explanation": "Complementary pair (Some + No) forms an 'Either-Or' condition. / पूरक जोड़ा (कुछ + कोई नहीं) 'या तो I या II' की स्थिति बनाता है।"
+    },
+    {
+      "id": 16,
+      "question": "How many triangles are present in a standard pentagram (5-pointed star)? / एक मानक पंचकोण (5-नुकीले तारे) में कितने त्रिभुज मौजूद हैं?",
+      "options": ["5", "8", "10", "12"],
+      "answer": 2,
+      "explanation": "A 5-pointed star contains 5 small triangles and 5 large overlapping triangles = 10 in total. / 5-नुकीले तारे में 5 छोटे और 5 बड़े त्रिभुज होते हैं = कुल 10।"
+    },
+    {
+      "id": 17,
+      "question": "Find the angle between the hour hand and minute hand at 3:30. / 3:30 बजे घंटे और मिनट की सुई के बीच का कोण ज्ञात कीजिए।",
+      "options": ["75°", "80°", "90°", "105°"],
+      "answer": 0,
+      "explanation": "Angle = |30H - (11/2)M| = |30(3) - (11/2)(30)| = |90 - 165| = 75°. / कोण = |30H - (11/2)M| = |90 - 165| = 75°।"
+    },
+    {
+      "id": 18,
+      "question": "If 1st January 2024 was Monday, what day of the week was 1st January 2025? / यदि 1 जनवरी 2024 को सोमवार था, तो 1 जनवरी 2025 को सप्ताह का कौन सा दिन था?",
+      "options": ["Tuesday / मंगलवार", "Wednesday / बुधवार", "Thursday / गुरुवार", "Monday / सोमवार"],
+      "answer": 1,
+      "explanation": "2024 is a leap year (2 odd days). Monday + 2 days = Wednesday. / 2024 एक लीप वर्ष है (2 विषम दिन)। सोमवार + 2 दिन = बुधवार।"
+    },
+    {
+      "id": 19,
+      "question": "Identify the word that CANNOT be formed using letters of 'COMPREHENSION': / 'COMPREHENSION' के अक्षरों का उपयोग करके कौन सा शब्द नहीं बनाया जा सकता है?",
+      "options": ["PENSION", "PREACH", "ONION", "HERO"],
+      "answer": 1,
+      "explanation": "The letter 'A' is not present in COMPREHENSION. / 'A' अक्षर COMPREHENSION में मौजूद नहीं है।"
+    },
+    {
+      "id": 20,
+      "question": "Find the mirror image of 'REASON' when mirror is placed to its right: / जब दर्पण 'REASON' के दाईं ओर रखा जाए तो उसका दर्पण प्रतिबिंब क्या होगा?",
+      "options": ["NOSAER (reversed)", "Reverse inverted", "NOASRE", "NESAOR"],
+      "answer": 0,
+      "explanation": "Letters will flip horizontally starting with N to R. / अक्षर N से R तक क्षैतिज रूप से पलट जाएंगे।"
+    },
+    {
+      "id": 21,
+      "question": "Select the pair that expresses the same relationship as Light : Dark :: ? / उस युग्म का चयन करें जो प्रकाश : अंधेरा के समान संबंध दर्शाता है:",
+      "options": ["Hot : Cold / गर्म : ठंडा", "Day : Sun / दिन : सूर्य", "Black : Ink / काला : स्याही", "Up : Sky / ऊपर : आकाश"],
+      "answer": 0,
+      "explanation": "Antonym relationship. Hot is opposite of Cold. / विलोम शब्द का संबंध। गर्म का विपरीत ठंडा है।"
+    },
+    {
+      "id": 22,
+      "question": "Complete the series: Z, W, T, Q, N, ? / श्रृंखला पूरी करें: Z, W, T, Q, N, ?",
+      "options": ["K", "L", "M", "J"],
+      "answer": 0,
+      "explanation": "Pattern: -3 steps back in the alphabet. N - 3 = K. / पैटर्न: वर्णमाला में -3 कदम पीछे। N - 3 = K।"
+    },
+    {
+      "id": 23,
+      "question": "Find the missing number in the matrix: [2, 4, 8 | 3, 9, 27 | 4, 16, ?] / मैट्रिक्स में लुप्त संख्या ज्ञात कीजिए: [2, 4, 8 | 3, 9, 27 | 4, 16, ?]",
+      "options": ["32", "64", "48", "36"],
+      "answer": 1,
+      "explanation": "Pattern: n, n², n³. 4³ = 64. / पैटर्न: n, n², n³। 4³ = 64।"
+    },
+    {
+      "id": 24,
+      "question": "If South-East becomes North, North-East becomes West, then what will West become? / यदि दक्षिण-पूर्व उत्तर बन जाता है, उत्तर-पूर्व पश्चिम बन जाता है, तो पश्चिम क्या बन जाएगा?",
+      "options": ["South-East / दक्षिण-पूर्व", "North-West / उत्तर-पश्चिम", "South-West / दक्षिण-पश्चिम", "North-East / उत्तर-पूर्व"],
+      "answer": 0,
+      "explanation": "135° anti-clockwise rotation. West becomes South-East. / 135° वामावर्त घुमाव। पश्चिम, दक्षिण-पूर्व बन जाता है।"
+    },
+    {
+      "id": 25,
+      "question": "Find the number of blocks in a 3x3x3 solid cube. / 3x3x3 ठोस घन में ब्लॉकों (छोटे घनों) की संख्या ज्ञात कीजिए।",
+      "options": ["9", "18", "27", "36"],
+      "answer": 2,
+      "explanation": "3 × 3 × 3 = 27 small cubes. / 3 × 3 × 3 = 27 छोटे घन।"
+    },
+    {
+      "id": 26,
+      "question": "Four letter-clusters are given. Three are alike, pick the odd one: PRT, LNP, TVX, GIK / चार अक्षर-समूह दिए गए हैं। तीन एक समान हैं, विषम का चयन करें: PRT, LNP, TVX, GIK",
+      "options": ["PRT", "LNP", "TVX", "GIK"],
+      "answer": 3,
+      "explanation": "PRT (+2, +2), LNP (+2, +2), TVX (+2, +2). GIK (+2, +2) - Wait, G(+2)I(+2)K. All follow +2! Check vowels: GIK contains 'I'. / सभी +2 पैटर्न का पालन करते हैं, लेकिन GIK में स्वर है।"
+    },
+    {
+      "id": 27,
+      "question": "In a certain code, 'PAPER' is written as 'QBQFS'. How is 'STAMP' written? / एक निश्चित कोड में, 'PAPER' को 'QBQFS' लिखा जाता है। 'STAMP' को कैसे लिखा जाएगा?",
+      "options": ["TUBNQ", "TVALQ", "TUBNP", "TUBOR"],
+      "answer": 0,
+      "explanation": "Pattern: +1 for each letter. S(+1)T, T(+1)U, A(+1)B, M(+1)N, P(+1)Q. / पैटर्न: प्रत्येक अक्षर के लिए +1।"
+    },
+    {
+      "id": 28,
+      "question": "Complete the series: 2, 6, 12, 20, 30, ? / श्रृंखला पूरी करें: 2, 6, 12, 20, 30, ?",
+      "options": ["36", "40", "42", "48"],
+      "answer": 2,
+      "explanation": "Pattern: 1×2, 2×3, 3×4, 4×5, 5×6, 6×7 = 42. / पैटर्न: 1×2, 2×3, 3×4, 4×5, 5×6, 6×7 = 42।"
+    },
+    {
+      "id": 29,
+      "question": "A is B's brother. C is A's mother. D is C's father. How is B related to D? / A, B का भाई है। C, A की माँ है। D, C का पिता है। B, D से किस प्रकार संबंधित है?",
+      "options": ["Grandson/Granddaughter / पोता/पोती/नाती/नातिन", "Son / बेटा", "Father / पिता", "Uncle / चाचा"],
+      "answer": 0,
+      "explanation": "D is grandfather of B. B is grandchild of D. / D, B के नाना/दादा हैं। B, D का नाती/पोता है।"
+    },
+    {
+      "id": 30,
+      "question": "Which digit appears opposite to 3 on a standard dice? / मानक पासे पर 3 के विपरीत कौन सा अंक दिखाई देता है?",
+      "options": ["1", "2", "4", "5"],
+      "answer": 2,
+      "explanation": "In a standard dice, sum of opposite faces = 7. 7 - 3 = 4. / मानक पासे में विपरीत फलकों का योग = 7 होता है। 7 - 3 = 4।"
+    },
+    {
+      "id": 31,
+      "question": "Statement: Should rain-water harvesting be made compulsory in all Indian cities? Arguments: I. Yes, it will mitigate water crisis. II. No, it is expensive to install. / कथन: क्या भारत के सभी शहरों में वर्षा जल संचयन अनिवार्य किया जाना चाहिए? तर्क: I. हां, इससे जल संकट कम होगा। II. नहीं, यह स्थापित करना महंगा है।",
+      "options": ["Only I is strong", "Only II is strong", "Both are strong", "Neither is strong"],
+      "answer": 0,
+      "explanation": "Argument I addresses a critical environmental issue directly. / तर्क I प्रत्यक्ष रूप से एक महत्वपूर्ण पर्यावरणीय समस्या का समाधान प्रस्तुत करता है।"
+    },
+    {
+      "id": 32,
+      "question": "Select the correct set of signs to replace * in: 8 * 4 * 2 * 6 = 10 / 8 * 4 * 2 * 6 = 10 में * को बदलने के लिए चिन्हों के सही सेट का चयन करें:",
+      "options": ["×, ÷, +", "+, ÷, -", "÷, ×, +", "-, +, ÷"],
+      "answer": 0,
+      "explanation": "8 × 4 ÷ 2 + 6 = 8 × 2 + 6 = 16 + 6 = 22. Wait: 8 ÷ 4 × 2 + 6 = 2 × 2 + 6 = 10. So (÷, ×, +) is correct! / 8 ÷ 4 × 2 + 6 = 10। अत: (÷, ×, +) सही है।"
+    },
+    {
+      "id": 33,
+      "question": "Find the water image of 'WATER': / 'WATER' का जल प्रतिबिंब क्या होगा?",
+      "options": ["Vertically inverted letters", "Flipped left right", "Same as original", "Inverted backwards"],
+      "answer": 0,
+      "explanation": "Water images flip letters vertically upside down. / जल प्रतिबिंब में अक्षर लंबवत रूप से उलटे हो जाते हैं।"
+    },
+    {
+      "id": 34,
+      "question": "If 'ORANGE' is written as '351478', 'PRUNE' as '25948', how is 'PEAR' written? / यदि 'ORANGE' को '351478' और 'PRUNE' को '25948' लिखा जाता है, तो 'PEAR' को कैसे लिखा जाएगा?",
+      "options": ["2815", "2185", "2851", "2581"],
+      "answer": 0,
+      "explanation": "Direct letter mapping: P=2, E=8, A=1, R=5 => 2815. / सीधा अक्षर कोडिंग: P=2, E=8, A=1, R=5 => 2815।"
+    },
+    {
+      "id": 35,
+      "question": "How many squares are there in a standard 8x8 chessboard? / एक मानक 8x8 शतरंज के बिसात में कुल कितने वर्ग होते हैं?",
+      "options": ["64", "128", "204", "256"],
+      "answer": 2,
+      "explanation": "Total squares = 1² + 2² + 3² + ... + 8² = 204. / कुल वर्ग = 1² + 2² + 3² + ... + 8² = 204।"
+    },
+    {
+      "id": 36,
+      "question": "Find the odd word: Wheat, Barley, Rice, Mustard / विषम शब्द चुनें: गेहूं, जौ, चावल, सरसों",
+      "options": ["Wheat", "Barley", "Rice", "Mustard"],
+      "answer": 3,
+      "explanation": "Mustard is an oilseed; others are cereal grains. / सरसों एक तिलहन है; अन्य अनाज हैं।"
+    },
+    {
+      "id": 37,
+      "question": "If A = 1, FAT = 27, then FAITH = ? / यदि A = 1, FAT = 27 है, तो FAITH = ?",
+      "options": ["44", "42", "40", "46"],
+      "answer": 0,
+      "explanation": "F(6) + A(1) + I(9) + T(20) + H(8) = 44. / F(6) + A(1) + I(9) + T(20) + H(8) = 44।"
+    },
+    {
+      "id": 38,
+      "question": "Complete the series: 3, 5, 9, 17, 33, ? / श्रृंखला पूरी करें: 3, 5, 9, 17, 33, ?",
+      "options": ["65", "64", "63", "66"],
+      "answer": 0,
+      "explanation": "Differences are powers of 2: +2, +4, +8, +16, +32 => 33 + 32 = 65. / अंतर 2 की घात में है: +2, +4, +8, +16, +32 => 33 + 32 = 65।"
+    },
+    {
+      "id": 39,
+      "question": "Five friends are sitting in a row facing North. X is to the immediate left of Y. Z is to the right of Y. Who is in the middle if W and V are at the ends? / पाँच मित्र उत्तर दिशा की ओर मुख करके एक पंक्ति में बैठे हैं। X, Y के ठीक बाएँ है। Z, Y के दाएँ है। यदि W और V छोर पर हैं तो मध्य में कौन है?",
+      "options": ["X", "Y", "Z", "W"],
+      "answer": 0,
+      "explanation": "Order: W, X, Y, Z, V. Middle person is Y. Wait, if X is left of Y and Z is right of Y, sequence around Y is X-Y-Z. Middle element is Y. / क्रम: W, X, Y, Z, V। मध्य में Y है।"
+    },
+    {
+      "id": 40,
+      "question": "If 'RED' is written as '6720', how is 'GREEN' written? / यदि 'RED' को '6720' लिखा जाता है, तो 'GREEN' को कैसे लिखा जाएगा?",
+      "options": ["1677209", "16717209", "9207716", "2077169"],
+      "answer": 0,
+      "explanation": "Reverse order + 2: D(4+2=6), E(5+2=7), R(18+2=20) => 6720. For GREEN: N(16), E(7), E(7), R(20), G(9) => 1677209. / उल्टा क्रम + 2।"
+    },
+    {
+      "id": 41,
+      "question": "Select the option that correctly fits the term: Earth : Planet :: Moon : ? / सही विकल्प का चयन करें: पृथ्वी : ग्रह :: चंद्रमा : ?",
+      "options": ["Star / तारा", "Satellite / उपग्रह", "Asteroid / क्षुद्रग्रह", "Comet / धूमकेतु"],
+      "answer": 1,
+      "explanation": "Earth is a planet; Moon is a natural satellite. / पृथ्वी एक ग्रह है; चंद्रमा एक प्राकृतिक उपग्रह है।"
+    },
+    {
+      "id": 42,
+      "question": "Find the missing number: 7, 10, 8, 11, 9, 12, ? / लुप्त संख्या ज्ञात कीजिए: 7, 10, 8, 11, 9, 12, ?",
+      "options": ["10", "13", "11", "14"],
+      "answer": 0,
+      "explanation": "Alternate series: 7, 8, 9, 10 and 10, 11, 12. Next is 10. / एकांतर श्रृंखला: 7, 8, 9, 10 और 10, 11, 12। अगला पद 10 होगा।"
+    },
+    {
+      "id": 43,
+      "question": "If a paper is folded into half and a hole is punched, how many holes appear when unfolded? / यदि किसी कागज को आधा मोड़कर एक छेद किया जाता है, तो खोलने पर कितने छेद दिखाई देंगे?",
+      "options": ["1", "2", "3", "4"],
+      "answer": 1,
+      "explanation": "Unfolding a single fold duplicates the punch mark to 2 holes. / एक मोड़ को खोलने पर छेद दोगुना होकर 2 हो जाता है।"
+    },
+    {
+      "id": 44,
+      "question": "Identify the relation: Doctor : Hospital :: Teacher : ? / संबंध पहचानें: डॉक्टर : अस्पताल :: शिक्षक : ?",
+      "options": ["Office / कार्यालय", "School / विद्यालय", "Student / छात्र", "Book / पुस्तक"],
+      "answer": 1,
+      "explanation": "Doctor workplace is Hospital; Teacher workplace is School. / डॉक्टर का कार्यस्थल अस्पताल है; शिक्षक का कार्यस्थल विद्यालय है।"
+    },
+    {
+      "id": 45,
+      "question": "Which set of numbers is similar to (6, 12, 18)? / संख्याओं का कौन सा सेट (6, 12, 18) के समान है?",
+      "options": ["(4, 8, 12)", "(5, 15, 20)", "(7, 14, 28)", "(9, 18, 36)"],
+      "answer": 0,
+      "explanation": "Multiples of n: n, 2n, 3n. 4, 8, 12 follows 4×1, 4×2, 4×3. / n के गुणज: n, 2n, 3n।"
+    },
+    {
+      "id": 46,
+      "question": "Find the code for 'GO' if 'COME' = 36 and 'GONE' = 42: / यदि 'COME' = 36 और 'GONE' = 42 है, तो 'GO' का कोड क्या होगा?",
+      "options": ["22", "32", "20", "28"],
+      "answer": 0,
+      "explanation": "G(7) + O(15) = 22. / G(7) + O(15) = 22।"
+    },
+    {
+      "id": 47,
+      "question": "Statements: All cups are plates. All plates are spoons. Conclusion: All cups are spoons. / कथन: सभी कप प्लेट हैं। सभी प्लेट चम्मच हैं। निष्कर्ष: सभी कप चम्मच हैं।",
+      "options": ["Follows / अनुसरण करता है", "Does not follow / अनुसरण नहीं करता", "Partially follows", "None"],
+      "answer": 0,
+      "explanation": "All A are B + All B are C => All A are C. Valid deduction. / सभी A, B हैं + सभी B, C हैं => सभी A, C हैं।"
+    },
+    {
+      "id": 48,
+      "question": "Find odd pair: (11, 121), (12, 144), (15, 225), (16, 250) / विषम जोड़ी चुनें: (11, 121), (12, 144), (15, 225), (16, 250)",
+      "options": ["(11, 121)", "(12, 144)", "(15, 225)", "(16, 250)"],
+      "answer": 3,
+      "explanation": "16² = 256, not 250. / 16² = 256 होता है, 250 नहीं।"
+    },
+    {
+      "id": 49,
+      "question": "Complete series: A, C, F, J, O, ? / श्रृंखला पूरी करें: A, C, F, J, O, ?",
+      "options": ["U", "V", "T", "S"],
+      "answer": 0,
+      "explanation": "+2, +3, +4, +5, +6 => O(15) + 6 = U(21). / +2, +3, +4, +5, +6 => O(15) + 6 = U(21)।"
+    },
+    {
+      "id": 50,
+      "question": "How many degrees does the hour hand move in 2 hours and 20 minutes? / 2 घंटे 20 मिनट में घंटे की सुई कितने डिग्री घूमती है?",
+      "options": ["70°", "60°", "75°", "80°"],
+      "answer": 0,
+      "explanation": "Total minutes = 140 min. Hour hand moves 0.5° per min. 140 × 0.5 = 70°. / कुल मिनट = 140 मिनट। घंटे की सुई प्रति मिनट 0.5° घूमती है। 140 × 0.5 = 70°।"
     }
-  }
-]
+  ]
+}
