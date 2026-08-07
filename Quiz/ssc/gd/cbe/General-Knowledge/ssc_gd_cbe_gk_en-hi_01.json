@@ -1,18 +1,358 @@
-[
-  {
-    "id": 1,
-    "question": {
-      "en": "Sample Question in English?",
-      "hi": "????? ??? ????? ???????"
+{
+  "title": "SSC GD Constable CBE - General Knowledge & General Awareness / एसएससी जीडी कांस्टेबल परीक्षा - सामान्य ज्ञान एवं सामान्य जागरूकता",
+  "positiveMarks": 2,
+  "negativeMarks": 0.5,
+  "timeLimitMinutes": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who was the first President of Independent India? / स्वतंत्र भारत के प्रथम राष्ट्रपति कौन थे?",
+      "options": ["Dr. Rajendra Prasad / डॉ. राजेंद्र प्रसाद", "Dr. S. Radhakrishnan / डॉ. एस. राधाकृष्णन", "Jawaharlal Nehru / जवाहरलाल नेहरू", "Sardar Patel / सरदार पटेल"],
+      "answer": 0,
+      "explanation": "Dr. Rajendra Prasad served as the first President of India from 1950 to 1962. / डॉ. राजेंद्र प्रसाद ने 1950 से 1962 तक भारत के पहले राष्ट्रपति के रूप में कार्य किया।"
     },
-    "options": {
-      "en": ["Option A", "Option B", "Option C", "Option D"],
-      "hi": ["?????? A", "?????? B", "?????? C", "?????? D"]
+    {
+      "id": 2,
+      "question": "Which is the largest river island in the world? / विश्व का सबसे बड़ा नदी द्वीप कौन सा है?",
+      "options": ["Majuli / माजुली", "Sunderbans / सुंदरवन", "Greenland / ग्रीनलैंड", "Madagascar / मेडागास्कर"],
+      "answer": 0,
+      "explanation": "Majuli on the Brahmaputra River in Assam is the largest river island. / असम में ब्रह्मपुत्र नदी पर स्थित माजुली सबसे बड़ा नदी द्वीप है।"
     },
-    "answer": 0,
-    "explanation": {
-      "en": "Explanation in English.",
-      "hi": "????? ??? ?????????"
+    {
+      "id": 3,
+      "question": "Gir National Park in Gujarat is famous for which animal? / गुजरात का गिर राष्ट्रीय उद्यान किस जानवर के लिए प्रसिद्ध है?",
+      "options": ["Asiatic Lion / एशियाई शेर", "Bengal Tiger / बंगाल टाइगर", "One-horned Rhino / एक सींग वाला गैंडा", "Elephant / हाथी"],
+      "answer": 0,
+      "explanation": "Gir National Park is the only natural habitat of the Asiatic Lion. / गिर राष्ट्रीय उद्यान एशियाई शेरों का एकमात्र प्राकृतिक आवास है।"
+    },
+    {
+      "id": 4,
+      "question": "Which gas is known as Laughing Gas? / किस गैस को लाफिंग गैस (हंसाने वाली गैस) कहा जाता है?",
+      "options": ["Nitrous Oxide / नाइट्रस ऑक्साइड", "Carbon Monoxide / कार्बन मोनोक्साइड", "Sulphur Dioxide / सल्फर डाइऑक्साइड", "Methane / मीथेन"],
+      "answer": 0,
+      "explanation": "Nitrous Oxide (N₂O) is commonly known as laughing gas. / नाइट्रस ऑक्साइड (N₂O) को आमतौर पर लाफिंग गैस के नाम से जाना जाता है।"
+    },
+    {
+      "id": 5,
+      "question": "Bihu is a popular folk dance of which state? / बिहू किस राज्य का लोकप्रिय लोक नृत्य है?",
+      "options": ["Assam / असम", "Odisha / ओडिशा", "Punjab / पंजाब", "Kerala / केरल"],
+      "answer": 0,
+      "explanation": "Bihu is the indigenous folk dance of Assam celebrated during festivals. / बिहू त्योहारों के दौरान मनाया जाने वाला असम का स्वदेशी लोक नृत्य है।"
+    },
+    {
+      "id": 6,
+      "question": "Who was the founder of the Brahmo Samaj? / ब्रह्म समाज के संस्थापक कौन थे?",
+      "options": ["Raja Ram Mohan Roy / राजा राममोहन राय", "Swami Dayanand Saraswati / स्वामी दयानंद सरस्वती", "Swami Vivekananda / स्वामी विवेकानंद", "Ishwar Chandra Vidyasagar / ईश्वर चंद्र विद्यासागर"],
+      "answer": 0,
+      "explanation": "Raja Ram Mohan Roy founded Brahmo Samaj in 1828 in Kolkata. / राजा राममोहन राय ने 1828 में कोलकाता में ब्रह्म समाज की स्थापना की।"
+    },
+    {
+      "id": 7,
+      "question": "What is the capital of Japan? / जापान की राजधानी क्या है?",
+      "options": ["Tokyo / टोक्यो", "Kyoto / क्योटो", "Osaka / ओसाका", "Seoul / सियोल"],
+      "answer": 0,
+      "explanation": "Tokyo is the capital city of Japan. / टोक्यो जापान की राजधानी है।"
+    },
+    {
+      "id": 8,
+      "question": "Which organ purifies blood in the human body? / मानव शरीर में कौन सा अंग रक्त को शुद्ध करता है?",
+      "options": ["Kidney / गुर्दा (वृक्क)", "Heart / हृदय", "Lungs / फेफड़े", "Liver / यकृत"],
+      "answer": 0,
+      "explanation": "Kidneys filter waste materials and purify blood. / गुर्दे अपशिष्ट पदार्थों को फ़िल्टर करते हैं और रक्त को शुद्ध करते हैं।"
+    },
+    {
+      "id": 9,
+      "question": "When is World Environment Day celebrated? / विश्व पर्यावरण दिवस कब मनाया जाता है?",
+      "options": ["5th June / 5 जून", "11th July / 11 जुलाई", "1st December / 1 दिसंबर", "22nd April / 22 अप्रैल"],
+      "answer": 0,
+      "explanation": "World Environment Day is observed globally on 5th June every year. / विश्व पर्यावरण दिवस हर साल 5 जून को विश्व स्तर पर मनाया जाता है।"
+    },
+    {
+      "id": 10,
+      "question": "Who wrote 'Panchatantra'? / 'पंचतंत्र' की रचना किसने की?",
+      "options": ["Vishnu Sharma / विष्णु शर्मा", "Kalidasa / कालिदास", "Tulsi Das / तुलसीदास", "Premchand / प्रेमचंद"],
+      "answer": 0,
+      "explanation": "Vishnu Sharma authored the ancient fable collection 'Panchatantra'. / विष्णु शर्मा ने प्राचीन कथा संग्रह 'पंचतंत्र' की रचना की थी।"
+    },
+    {
+      "id": 11,
+      "question": "What is the currency of Bangladesh? / बांग्लादेश की मुद्रा क्या है?",
+      "options": ["Taka / टका", "Rupee / रुपया", "Rupiah / रूपया", "Kyat / क्यात"],
+      "answer": 0,
+      "explanation": "Taka is the official currency of Bangladesh. / टका बांग्लादेश की आधिकारिक मुद्रा है।"
+    },
+    {
+      "id": 12,
+      "question": "Which metal is the lightest of all metals? / सभी धातुओं में कौन सी धातु सबसे हल्की होती है?",
+      "options": ["Lithium / लिथियम", "Mercury / पारा", "Sodium / सोडियम", "Aluminum / एल्युमिनियम"],
+      "answer": 0,
+      "explanation": "Lithium is the least dense solid element and lightest metal. / लिथियम सबसे कम घनत्व वाला ठोस तत्व और सबसे हल्की धातु है।"
+    },
+    {
+      "id": 13,
+      "question": "In which city is the Golden Temple situated? / स्वर्ण मंदिर किस शहर में स्थित है?",
+      "options": ["Amritsar / अमृतसर", "Ludhiana / लुधियाना", "Chandigarh / चंडीगढ़", "Jalandhar / जालंधर"],
+      "answer": 0,
+      "explanation": "Sri Harmandir Sahib (Golden Temple) is located in Amritsar, Punjab. / श्री हरिमंदिर साहिब (स्वर्ण मंदिर) अमृतसर, पंजाब में स्थित है।"
+    },
+    {
+      "id": 14,
+      "question": "Who was known as 'Frontier Gandhi'? / 'सीमांत गांधी' के नाम से किसे जाना जाता था?",
+      "options": ["Khan Abdul Ghaffar Khan / खान अब्दुल गफ्फार खान", "Maulana Abul Kalam Azad / मौलाना अबुल कलाम आजाद", "Muhammad Ali Jinnah / मोहम्मद अली जिन्ना", "Sheikh Abdullah / शेख अब्दुल्ला"],
+      "answer": 0,
+      "explanation": "Khan Abdul Ghaffar Khan was known as Frontier Gandhi (Sarhadi Gandhi). / खान अब्दुल गफ्फार खान को सीमांत गांधी (सरहदी गांधी) कहा जाता था।"
+    },
+    {
+      "id": 15,
+      "question": "Which device measures the purity of milk? / दूध की शुद्धता किस यंत्र से मापी जाती है?",
+      "options": ["Lactometer / लैक्टोमीटर", "Hydrometer / हाइड्रोमीटर", "Barometer / बैरोमीटर", "Thermometer / थर्मोमीटर"],
+      "answer": 0,
+      "explanation": "A Lactometer measures the relative density and purity of milk. / लैक्टोमीटर दूध के आपेक्षिक घनत्व और शुद्धता को मापता है।"
+    },
+    {
+      "id": 16,
+      "question": "Who gave the slogan 'Jai Jawan, Jai Kisan'? / 'जय जवान, जय किसान' का नारा किसने दिया था?",
+      "options": ["Lal Bahadur Shastri / लाल बहादुर शास्त्री", "Subhash Chandra Bose / सुभाष चंद्र बोस", "Mahatma Gandhi / महात्मा गांधी", "Jawaharlal Nehru / जवाहरलाल नेहरू"],
+      "answer": 0,
+      "explanation": "Lal Bahadur Shastri gave the slogan in 1965 at a public gathering. / लाल बहादुर शास्त्री ने 1965 में एक जनसभा में यह नारा दिया था।"
+    },
+    {
+      "id": 17,
+      "question": "Where is the Sun Temple located in India? / भारत में सूर्य मंदिर कहाँ स्थित है?",
+      "options": ["Konark, Odisha / कोणार्क, ओडिशा", "Puri, Odisha / पूरी, ओडिशा", "Madurai, Tamil Nadu / मदुरै, तमिलनाडु", "Khajuraho, MP / खजुराहो, मप्र"],
+      "answer": 0,
+      "explanation": "The famous Sun Temple is located in Konark, Odisha. / प्रसिद्ध सूर्य मंदिर कोणार्क, ओडिशा में स्थित है।"
+    },
+    {
+      "id": 18,
+      "question": "Deficiency of Vitamin A causes which disease? / विटामिन A की कमी से कौन सा रोग होता है?",
+      "options": ["Night Blindness / रतौंधी", "Scurvy / स्कर्वी", "Rickets / रिकेट्स", "Beriberi / बेरीबेरी"],
+      "answer": 0,
+      "explanation": "Deficiency of Vitamin A leads to Night Blindness (Nyctalopia). / विटामिन A की कमी से रतौंधी रोग होता है।"
+    },
+    {
+      "id": 19,
+      "question": "Which is the highest waterfall in India? / भारत का सबसे ऊंचा जलप्रपात कौन सा है?",
+      "options": ["Kunchikal Falls / कुंचिकल जलप्रपात", "Jog Falls / जोग जलप्रपात", "Dudhsagar Falls / दूधसागर जलप्रपात", "Nohkalikai Falls / नोहकलिकाई जलप्रपात"],
+      "answer": 0,
+      "explanation": "Kunchikal Falls in Shimoga, Karnataka, is the highest waterfall in India (455m). / कर्नाटक के शिमोगा में कुंचिकल जलप्रपात भारत का सबसे ऊंचा जलप्रपात (455 मीटर) है।"
+    },
+    {
+      "id": 20,
+      "question": "Who was the first Indian woman to go into space? / अंतरिक्ष में जाने वाली पहली भारतीय महिला कौन थीं?",
+      "options": ["Kalpana Chawla / कल्पना चावला", "Sunita Williams / सुनिता विलियम्स", "Shawna Pandya / शॉना पांड्या", "Avani Chaturvedi / अवनी चतुर्वेदी"],
+      "answer": 0,
+      "explanation": "Kalpana Chawla flew on Space Shuttle Columbia in 1997 as a mission specialist. / कल्पना चावला ने 1997 में अंतरिक्ष शटल कोलंबिया में उड़ान भरी थी।"
+    },
+    {
+      "id": 21,
+      "question": "What is the normal body temperature of a human being in Celsius? / सेल्सियस में मानव शरीर का सामान्य तापमान कितना होता है?",
+      "options": ["37°C", "35°C", "98.6°C", "40°C"],
+      "answer": 0,
+      "explanation": "Normal human body temperature is approximately 37°C (98.6°F). / मानव शरीर का सामान्य तापमान लगभग 37°C (98.6°F) होता है।"
+    },
+    {
+      "id": 22,
+      "question": "In which state is Sanchi Stupa situated? / सांची का स्तूप किस राज्य में स्थित है?",
+      "options": ["Madhya Pradesh / मध्य प्रदेश", "Uttar Pradesh / उत्तर प्रदेश", "Bihar / बिहार", "Rajasthan / राजस्थान"],
+      "answer": 0,
+      "explanation": "Sanchi Stupa is located in Raisen district of Madhya Pradesh. / सांची स्तूप मध्य प्रदेश के रायसेन जिले में स्थित है।"
+    },
+    {
+      "id": 23,
+      "question": "Which planet is closest to the Sun? / सूर्य के सबसे निकट कौन सा ग्रह है?",
+      "options": ["Mercury / बुध", "Venus / शुक्र", "Earth / पृथ्वी", "Mars / मंगल"],
+      "answer": 0,
+      "explanation": "Mercury is the smallest and closest planet to the Sun. / बुध सूर्य का सबसे छोटा और निकटतम ग्रह है।"
+    },
+    {
+      "id": 24,
+      "question": "Who composed the song 'Sare Jahan Se Achha'? / 'सारे जहाँ से अच्छा' गीत की रचना किसने की थी?",
+      "options": ["Muhammad Iqbal / मोहम्मद इकबाल", "Rabindranath Tagore / रवींद्रनाथ टैगोर", "Bankim Chandra / बंकिम चंद्र", "Kazi Nazrul Islam / काजी नजरुल इस्लाम"],
+      "answer": 0,
+      "explanation": "Muhammad Iqbal wrote 'Tarana-e-Hindi' (Sare Jahan Se Achha) in 1904. / मोहम्मद इकबाल ने 1904 में 'तराना-ए-हिंदी' (सारे जहां से अच्छा) लिखा था।"
+    },
+    {
+      "id": 25,
+      "question": "Who appoints the Governor of an Indian state? / भारतीय राज्य के राज्यपाल की नियुक्ति कौन करता है?",
+      "options": ["President of India / भारत के राष्ट्रपति", "Prime Minister / प्रधानमंत्री", "Chief Minister / मुख्यमंत्री", "Chief Justice of India / भारत के मुख्य न्यायाधीश"],
+      "answer": 0,
+      "explanation": "The President of India appoints state Governors under Article 155. / भारत के राष्ट्रपति अनुच्छेद 155 के तहत राज्य के राज्यपालों की नियुक्ति करते हैं।"
+    },
+    {
+      "id": 26,
+      "question": "Which chemical is used in indelible ink used during elections? / चुनावों के दौरान उपयोग की जाने वाली अमिट स्याही में किस रसायन का उपयोग किया जाता है?",
+      "options": ["Silver Nitrate / सिल्वर नाइट्रेट", "Silver Chloride / सिल्वर क्लोराइड", "Copper Sulphate / कॉपर सल्फेट", "Sodium Nitrate / सोडियम नाइट्रेट"],
+      "answer": 0,
+      "explanation": "Silver Nitrate (AgNO₃) stains skin when exposed to ultraviolet light. / सिल्वर नाइट्रेट त्वचा पर पराबैंगनी प्रकाश के संपर्क में आने पर दाग छोड़ता है।"
+    },
+    {
+      "id": 27,
+      "question": "Where is the National Defence Academy (NDA) located? / राष्ट्रीय रक्षा अकादमी (NDA) कहाँ स्थित है?",
+      "options": ["Khadakwasla, Pune / खड़कवासला, पुणे", "Dehradun / देहरादून", "Chennai / चेन्नई", "New Delhi / नई दिल्ली"],
+      "answer": 0,
+      "explanation": "NDA is located at Khadakwasla near Pune, Maharashtra. / NDA पुणे, महाराष्ट्र के पास खड़कवासला में स्थित है।"
+    },
+    {
+      "id": 28,
+      "question": "How many players are there in a Kabaddi team on the court during play? / खेल के दौरान कोर्ट पर कबड्डी टीम में कितने खिलाड़ी होते हैं?",
+      "options": ["7", "6", "8", "11"],
+      "answer": 0,
+      "explanation": "Each Kabaddi team fields 7 players on court. / प्रत्येक कबड्डी टीम कोर्ट पर 7 खिलाड़ी उतारती है।"
+    },
+    {
+      "id": 29,
+      "question": "Which crop is harvested during the Rabi season? / रबी की फसल के दौरान किस फसल की कटाई की जाती है?",
+      "options": ["Wheat / गेहूं", "Rice / चावल", "Cotton / कपास", "Maize / मक्का"],
+      "answer": 0,
+      "explanation": "Wheat is a primary Rabi crop sown in winter and harvested in spring. / गेहूं एक प्राथमिक रबी फसल है जो सर्दियों में बोई जाती है और वसंत में काटी जाती है।"
+    },
+    {
+      "id": 30,
+      "question": "Which movement was launched by Mahatma Gandhi in 1942? / 1942 में महात्मा गांधी द्वारा कौन सा आंदोलन शुरू किया गया था?",
+      "options": ["Quit India Movement / भारत छोड़ो आंदोलन", "Non-Cooperation Movement / असहयोग आंदोलन", "Civil Disobedience / सविनय अवज्ञा आंदोलन", "Khilafat Movement / खिलाफत आंदोलन"],
+      "answer": 0,
+      "explanation": "Quit India Movement was launched on 8 August 1942. / 8 अगस्त 1942 को भारत छोड़ो आंदोलन शुरू किया गया था।"
+    },
+    {
+      "id": 31,
+      "question": "What is the primary constituent of Biogas? / बायोगैस का मुख्य घटक क्या है?",
+      "options": ["Methane / मीथेन", "Ethane / इथेन", "Propane / प्रोपेन", "Butane / ब्यूटेन"],
+      "answer": 0,
+      "explanation": "Methane (CH₄) constitutes 50-75% of biogas. / बायोगैस में मीथेन (CH₄) 50-75% होता है।"
+    },
+    {
+      "id": 32,
+      "question": "Which Indian state is known as the 'Land of Five Rivers'? / किस भारतीय राज्य को 'पांच नदियों की भूमि' कहा जाता है?",
+      "options": ["Punjab / पंजाब", "Haryana / हरियाणा", "Uttar Pradesh / उत्तर प्रदेश", "Gujarat / गुजरात"],
+      "answer": 0,
+      "explanation": "Punjab gets its name from five rivers: Sutlej, Beas, Ravi, Chenab, Jhelum. / पंजाब का नाम पांच नदियों: सतलुज, व्यास, रावी, चेनाब, झेलम से पड़ा है।"
+    },
+    {
+      "id": 33,
+      "question": "Who was the founder of the Arya Samaj? / आर्य समाज के संस्थापक कौन थे?",
+      "options": ["Swami Dayanand Saraswati / स्वामी दयानंद सरस्वती", "Swami Vivekananda / स्वामी विवेकानंद", "Raja Ram Mohan Roy / राजा राममोहन राय", "Ramakrishna Paramahamsa / रामकृष्ण परमहंस"],
+      "answer": 0,
+      "explanation": "Swami Dayanand Saraswati established Arya Samaj in 1875. / स्वामी दयानंद सरस्वती ने 1875 में आर्य समाज की स्थापना की।"
+    },
+    {
+      "id": 34,
+      "question": "Where is the headquarters of WHO (World Health Organization) located? / विश्व स्वास्थ्य संगठन (WHO) का मुख्यालय कहाँ स्थित है?",
+      "options": ["Geneva, Switzerland / जेनेवा, स्विट्जरलैंड", "Paris, France / पेरिस, फ्रांस", "New York, USA / न्यूयॉर्क, अमेरिका", "Rome, Italy / इटली"],
+      "answer": 0,
+      "explanation": "WHO is headquartered in Geneva, Switzerland. / WHO का मुख्यालय जेनेवा, स्विट्जरलैंड में स्थित है।"
+    },
+    {
+      "id": 35,
+      "question": "Which animal is featured on the emblem of the Reserve Bank of India (RBI)? / भारतीय रिज़र्व बैंक (RBI) के प्रतीक चिह्न पर कौन सा जानवर चित्रित है?",
+      "options": ["Royal Bengal Tiger / रॉयल बंगाल टाइगर", "Lion / शेर", "Elephant / हाथी", "One-horned Rhino / एक सींग वाला गैंडा"],
+      "answer": 0,
+      "explanation": "RBI emblem features a Tiger and a Palm tree. / RBI के प्रतीक चिह्न में एक बाघ और ताड़ का पेड़ शामिल है।"
+    },
+    {
+      "id": 36,
+      "question": "What is the minimum age to become the Prime Minister of India? / भारत का प्रधानमंत्री बनने के लिए न्यूनतम आयु क्या है?",
+      "options": ["25 years / 25 वर्ष", "30 years / 30 वर्ष", "35 years / 35 वर्ष", "21 years / 21 वर्ष"],
+      "answer": 0,
+      "explanation": "A member of Lok Sabha (minimum age 25 years) can become Prime Minister. / लोकसभा का सदस्य (न्यूनतम आयु 25 वर्ष) प्रधानमंत्री बन सकता है।"
+    },
+    {
+      "id": 37,
+      "question": "Which blood group is known as the 'Universal Donor'? / किस रक्त समूह को 'सर्वदाता' (यूनिवर्सल डोनर) कहा जाता है?",
+      "options": ["O Negative / O नेगेटिव", "AB Positive / AB पॉजिटिव", "A Positive / A पॉजिटिव", "B Positive / B पॉजिटिव"],
+      "answer": 0,
+      "explanation": "O Negative blood lacks A, B, and Rh antigens, making it suitable for all recipients. / O नेगेटिव रक्त में ए, बी और आरएच एंटीजन नहीं होते हैं।"
+    },
+    {
+      "id": 38,
+      "question": "Who was the first Emperor of the Mughal Dynasty? / मुगल वंश का पहला सम्राट कौन था?",
+      "options": ["Babur / बाबर", "Humayun / हुमायूँ", "Akbar / अकबर", "Shah Jahan / शाहजहाँ"],
+      "answer": 0,
+      "explanation": "Babur founded the Mughal dynasty in 1526 after First Battle of Panipat. / बाबर ने पानीपत की पहली लड़ाई के बाद 1526 में मुगल वंश की स्थापना की।"
+    },
+    {
+      "id": 39,
+      "question": "What is the capital of Union Territory Lakshadweep? / केंद्र शासित प्रदेश लक्षद्वीप की राजधानी क्या है?",
+      "options": ["Kavaratti / कवारत्ती", "Port Blair / पोर्ट ब्लेयर", "Daman / दमन", "Silvassa / सिलवासा"],
+      "answer": 0,
+      "explanation": "Kavaratti is the administrative capital of Lakshadweep. / कवारत्ती लक्षद्वीप की प्रशासनिक राजधानी है।"
+    },
+    {
+      "id": 40,
+      "question": "Which instrument is used to measure earthquake intensity? / भूकंप की तीव्रता मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+      "options": ["Seismograph / सिस्मोग्राफ", "Altometer / अल्टीमीटर", "Chronometer / क्रोनोमीटर", "Anemometer / एनीमोमीटर"],
+      "answer": 0,
+      "explanation": "A Seismograph detects and records earthquake waves. / सिस्मोग्राफ भूकंपीय तरंगों का पता लगाता है और उन्हें रिकॉर्ड करता है।"
+    },
+    {
+      "id": 41,
+      "question": "In which sport is the term 'LBW' used? / 'LBW' शब्द का प्रयोग किस खेल में किया जाता है?",
+      "options": ["Cricket / क्रिकेट", "Football / फुटबॉल", "Hockey / हॉकी", "Tennis / टेनिस"],
+      "answer": 0,
+      "explanation": "LBW stands for 'Leg Before Wicket' in Cricket. / LBW का अर्थ क्रिकेट में 'लेग बिफोर विकेट' है।"
+    },
+    {
+      "id": 42,
+      "question": "Who discovery gravity? / गुरुत्वाकर्षण की खोज किसने की?",
+      "options": ["Sir Isaac Newton / सर आइजैक न्यूटन", "Albert Einstein / अल्बर्ट आइंस्टीन", "Galileo Galilei / गैलीलियो गैलीली", "Nikola Tesla / निकोला टेस्ला"],
+      "answer": 0,
+      "explanation": "Sir Isaac Newton formulated the Universal Law of Gravitation. / सर आइजैक न्यूटन ने गुरुत्वाकर्षण का सार्वभौमिक नियम तैयार किया।"
+    },
+    {
+      "id": 43,
+      "question": "Where is the Chilika Lake located? / चिल्का झील कहाँ स्थित है?",
+      "options": ["Odisha / ओडिशा", "Kerala / केरल", "Andhra Pradesh / आंध्र प्रदेश", "Tamil Nadu / तमिलनाडु"],
+      "answer": 0,
+      "explanation": "Chilika Lake is a brackish water lagoon in Odisha. / चिल्का झील ओडिशा में खारे पानी की तटीय झील है।"
+    },
+    {
+      "id": 44,
+      "question": "Which Indian city is known as the 'Pink City'? / किस भारतीय शहर को 'गुलाबी शहर' (पिंक सिटी) कहा जाता है?",
+      "options": ["Jaipur / जयपुर", "Udaipur / उदयपुर", "Jodhpur / जोधपुर", "Bikaner / बीकानेर"],
+      "answer": 0,
+      "explanation": "Jaipur in Rajasthan is famous as the Pink City. / राजस्थान का जयपुर शहर 'पिंक सिटी' के नाम से प्रसिद्ध है।"
+    },
+    {
+      "id": 45,
+      "question": "Who was the author of 'Geetanjali'? / 'गीतांजलि' के लेखक कौन थे?",
+      "options": ["Rabindranath Tagore / रवींद्रनाथ टैगोर", "Bankim Chandra / बंकिम चंद्र", "Sarojini Naidu / सरोजिनी नायडू", "Premchand / प्रेमचंद"],
+      "answer": 0,
+      "explanation": "Rabindranath Tagore wrote 'Geetanjali' for which he won the Nobel Prize. / रवींद्रनाथ टैगोर ने 'गीतांजलि' लिखी थी जिसके लिए उन्हें नोबेल पुरस्कार मिला।"
+    },
+    {
+      "id": 46,
+      "question": "What is the maximum strength of Lok Sabha permitted by Constitution? / संविधान द्वारा अनुमत लोकसभा की अधिकतम सदस्य संख्या कितनी है?",
+      "options": ["552", "545", "550", "500"],
+      "answer": 0,
+      "explanation": "The maximum permissible strength of Lok Sabha was 552. / लोकसभा की अधिकतम अनुमत सदस्य संख्या 552 थी।"
+    },
+    {
+      "id": 47,
+      "question": "Which disease is caused by mosquito bite? / मच्छर के काटने से कौन सी बीमारी होती है?",
+      "options": ["Malaria / मलेरिया", "Typhoid / टाइफाइड", "Cholera / हैजा", "Tuberculosis / टीबी"],
+      "answer": 0,
+      "explanation": "Malaria is transmitted through the bite of infected female Anopheles mosquitoes. / मलेरिया संक्रमित मादा एनोफिलीज मच्छर के काटने से फैलता है।"
+    },
+    {
+      "id": 48,
+      "question": "Where is the Indian Military Academy (IMA) situated? / भारतीय सैन्य अकादमी (IMA) कहाँ स्थित है?",
+      "options": ["Dehradun / देहरादून", "Shimla / शिमला", "Gwalior / ग्वालियर", "Pune / पुणे"],
+      "answer": 0,
+      "explanation": "IMA is located in Dehradun, Uttarakhand. / IMA देहरादून, उत्तराखंड में स्थित है।"
+    },
+    {
+      "id": 49,
+      "question": "Which fundamental right was removed by the 44th Constitutional Amendment? / 44वें संविधान संशोधन द्वारा किस मौलिक अधिकार को हटा दिया गया था?",
+      "options": ["Right to Property / संपत्ति का अधिकार", "Right to Freedom / स्वतंत्रता का अधिकार", "Right to Equality / समानता का अधिकार", "Right to Religion / धार्मिक स्वतंत्रता का अधिकार"],
+      "answer": 0,
+      "explanation": "Right to Property was removed from Fundamental Rights list in 1978 and made a legal right under Article 300A. / संपत्ति के अधिकार को 1978 में मौलिक अधिकारों से हटाकर कानूनी अधिकार बनाया गया।"
+    },
+    {
+      "id": 50,
+      "question": "Which sound wave frequency is audible to human ears? / मानव कानों के लिए कौन सी ध्वनि तरंग आवृत्ति श्रव्य है?",
+      "options": ["20 Hz to 20,000 Hz", "Below 20 Hz", "Above 20,000 Hz", "Above 50,000 Hz"],
+      "answer": 0,
+      "explanation": "The audible range for human hearing is 20 Hz to 20 kHz. / मानव श्रवण के लिए श्रव्य सीमा 20 Hz से 20 kHz है।"
     }
-  }
-]
+  ]
+}
