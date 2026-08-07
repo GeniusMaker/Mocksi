@@ -486,7 +486,7 @@
     },
     {
       "id": 41,
-      "question": "A car covers 200 km in 4 hours. What is its speed in m/s? / एक कार 4 घंटे में 200 किमी की दूरी तय करती है। इसकी गति m/s में क्या है?",
+      "question": "A car covers 200 km in 4 hours. What is its speed in meters per second? / एक कार 4 घंटे में 200 किमी की दूरी तय करती है। इसकी गति meters per second में क्या है?",
       "options": [
         "12.5 m/s / 12.5 मी/से",
         "13.88 m/s / 13.88 मी/से",
