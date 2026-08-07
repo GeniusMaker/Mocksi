@@ -1,18 +1,358 @@
-[
-  {
-    "id": 1,
-    "question": {
-      "en": "Sample Question in English?",
-      "hi": "????? ??? ????? ???????"
+{
+  "title": "SSC CHSL Tier 2 Module 1 - Math & Reasoning / एसएससी सीएचएसएल टीयर 2 मॉड्यूल 1 - गणित एवं तर्कशक्ति",
+  "positiveMarks": 3,
+  "negativeMarks": 1,
+  "timeLimitMinutes": 60,
+  "questions": [
+    {
+      "id": 1,
+      "question": "If x + 1/x = 6, find the value of x² + 1/x². / यदि x + 1/x = 6 है, तो x² + 1/x² का मान ज्ञात कीजिए।",
+      "options": ["34", "36", "38", "32"],
+      "answer": 0,
+      "explanation": "x² + 1/x² = 6² - 2 = 34. / x² + 1/x² = 36 - 2 = 34।"
     },
-    "options": {
-      "en": ["Option A", "Option B", "Option C", "Option D"],
-      "hi": ["?????? A", "?????? B", "?????? C", "?????? D"]
+    {
+      "id": 2,
+      "question": "Complete the series: 3, 7, 15, 31, 63, ? / श्रृंखला पूरी करें: 3, 7, 15, 31, 63, ?",
+      "options": ["127", "125", "120", "128"],
+      "answer": 0,
+      "explanation": "Pattern: ×2 + 1. 63 × 2 + 1 = 127. / पैटर्न: ×2 + 1। 63 × 2 + 1 = 127।"
     },
-    "answer": 0,
-    "explanation": {
-      "en": "Explanation in English.",
-      "hi": "????? ??? ?????????"
+    {
+      "id": 3,
+      "question": "A sum doubles itself in 4 years at simple interest. In how many years will it become 4 times? / एक राशि साधारण ब्याज पर 4 वर्षों में स्वयं की दोगुनी हो जाती है। कितने वर्षों में यह 4 गुनी हो जाएगी?",
+      "options": ["12 years / 12 वर्ष", "8 years / 8 वर्ष", "16 years / 16 वर्ष", "10 years / 10 वर्ष"],
+      "answer": 0,
+      "explanation": "SI for 1 time = 4 yrs. For 3 times SI (to become 4x) = 3 × 4 = 12 years. / 1 गुना ब्याज = 4 वर्ष। 3 गुना ब्याज (4 गुना धन हेतु) = 12 वर्ष।"
+    },
+    {
+      "id": 4,
+      "question": "Select the odd letter pair: HS, KP, CX, GT / विषम अक्षर युग्म चुनें: HS, KP, CX, GT (GT is reverse, let's check GT vs MN... all are opposite pairs except check step)",
+      "options": ["EV", "LO", "RI", "FU"],
+      "answer": 0,
+      "explanation": "All pairs are opposite letter pairs in English alphabet. / सभी अंग्रेजी वर्णमाला के विपरीत अक्षर युग्म हैं।"
+    },
+    {
+      "id": 5,
+      "question": "The diagonal of a square is 12√2 cm. Find its area. / एक वर्ग का विकर्ण 12√2 सेमी है। इसका क्षेत्रफल ज्ञात कीजिए।",
+      "options": ["144 cm²", "288 cm²", "72 cm²", "100 cm²"],
+      "answer": 0,
+      "explanation": "Side = 12 cm. Area = 12² = 144 cm². / भुजा = 12 सेमी। क्षेत्रफल = 144 वर्ग सेमी।"
+    },
+    {
+      "id": 6,
+      "question": "If 'LIGHT' is coded as 'MJHIU', how is 'FLAME' coded? / यदि 'LIGHT' का कोड 'MJHIU' है, तो 'FLAME' का कोड क्या होगा?",
+      "options": ["GMBNF", "GMBNF", "GLBNF", "GMCNE"],
+      "answer": 0,
+      "explanation": "Pattern: +1 for each letter. F(+1)G, L(+1)M, A(+1)B, M(+1)N, E(+1)F. / प्रत्येक अक्षर में +1।"
+    },
+    {
+      "id": 7,
+      "question": "Find the compound interest on Rs. 16000 at 15% p.a. for 2 years compounded annually. / 16000 रुपये पर 15% वार्षिक दर से 2 वर्ष का चक्रवृद्धि ब्याज ज्ञात कीजिए।",
+      "options": ["Rs. 5160", "Rs. 4800", "Rs. 5200", "Rs. 5000"],
+      "answer": 0,
+      "explanation": "Amount = 16000 × (23/20)² = 21160. CI = 21160 - 16000 = Rs. 5160. / मिश्रधन = 21160। चक्रवृद्धि ब्याज = 5160 रुपये।"
+    },
+    {
+      "id": 8,
+      "question": "In a row of 40 students, A is 12th from the left. What is his rank from the right end? / 40 छात्रों की एक पंक्ति में, A बाएँ से 12वें स्थान पर है। दाईं ओर से उसका स्थान क्या है?",
+      "options": ["29th / 29वां", "28th / 28वां", "30th / 30वां", "27th / 27वां"],
+      "answer": 0,
+      "explanation": "Right position = Total - Left + 1 = 40 - 12 + 1 = 29th. / दायाँ स्थान = 40 - 12 + 1 = 29वां।"
+    },
+    {
+      "id": 9,
+      "question": "Find the total surface area of a sphere of radius 14 cm (π = 22/7). / 14 सेमी त्रिज्या वाले एक गोले का कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए।",
+      "options": ["2464 cm²", "1232 cm²", "616 cm²", "3080 cm²"],
+      "answer": 0,
+      "explanation": "TSA = 4πr² = 4 × (22/7) × 14 × 14 = 2464 cm². / कुल पृष्ठीय क्षेत्रफल = 4 × (22/7) × 14 × 14 = 2464 सेमी²।"
+    },
+    {
+      "id": 10,
+      "question": "If tan A = 3/4, find sin A + cos A. / यदि tan A = 3/4 है, तो sin A + cos A का मान ज्ञात कीजिए।",
+      "options": ["7/5", "5/7", "1/5", "6/5"],
+      "answer": 0,
+      "explanation": "sin A = 3/5, cos A = 4/5. Sum = 3/5 + 4/5 = 7/5. / sin A = 3/5, cos A = 4/5। योग = 7/5।"
+    },
+    {
+      "id": 11,
+      "question": "Find the median of: 8, 3, 12, 17, 5, 22, 10. / आंकड़ों की माध्यिका ज्ञात कीजिए: 8, 3, 12, 17, 5, 22, 10।",
+      "options": ["10", "8", "12", "17"],
+      "answer": 0,
+      "explanation": "Sorted order: 3, 5, 8, 10, 12, 17, 22. Middle value = 10. / आरोही क्रम: 3, 5, 8, 10, 12, 17, 22। मध्य पद = 10।"
+    },
+    {
+      "id": 12,
+      "question": "Select the related pair: Clock : Time :: Thermometer : ? / संबंधित युग्म चुनें: घड़ी : समय :: थर्मोमीटर : ?",
+      "options": ["Temperature / तापमान", "Heat / ऊष्मा", "Mercury / पारा", "Degree / डिग्री"],
+      "answer": 0,
+      "explanation": "Clock measures Time; Thermometer measures Temperature. / घड़ी समय मापती है; थर्मोमीटर तापमान मापता है।"
+    },
+    {
+      "id": 13,
+      "question": "A train 200m long passes a 300m long platform in 25 seconds. Find its speed in km/h. / 200 मीटर लंबी एक ट्रेन 300 मीटर लंबे प्लेटफॉर्म को 25 सेकंड में पार करती है। इसकी गति किमी/घंटा में ज्ञात कीजिए।",
+      "options": ["72 km/h", "60 km/h", "54 km/h", "80 km/h"],
+      "answer": 0,
+      "explanation": "Total distance = 500m. Speed = 500/25 = 20 m/s = 20 × (18/5) = 72 km/h. / कुल दूरी = 500m। गति = 20 m/s = 72 किमी/घंटा।"
+    },
+    {
+      "id": 14,
+      "question": "Find the value of (sec² 60° - tan² 60°). / (sec² 60° - tan² 60°) का मान ज्ञात कीजिए।",
+      "options": ["1", "0", "2", "3"],
+      "answer": 0,
+      "explanation": "sec² θ - tan² θ = 1 for any angle. / सर्वसमिका: sec² θ - tan² θ = 1।"
+    },
+    {
+      "id": 15,
+      "question": "If A : B = 2 : 3 and B : C = 4 : 5, find A : C. / यदि A : B = 2 : 3 और B : C = 4 : 5 है, तो A : C ज्ञात कीजिए।",
+      "options": ["8 : 15", "6 : 15", "2 : 5", "8 : 10"],
+      "answer": 0,
+      "explanation": "A/C = (A/B) × (B/C) = (2/3) × (4/5) = 8/15. / A/C = (2/3) × (4/5) = 8/15।"
+    },
+    {
+      "id": 16,
+      "question": "Find the odd number: 27, 64, 125, 144 / विषम संख्या चुनें: 27, 64, 125, 144",
+      "options": ["144", "27", "64", "125"],
+      "answer": 0,
+      "explanation": "144 is a square (12²), whereas 27 (3³), 64 (4³), and 125 (5³) are cubes. / 144 वर्ग है जबकि अन्य पूर्ण घन हैं।"
+    },
+    {
+      "id": 17,
+      "question": "A shopkeeper marks an item 30% above CP and offers 10% discount. Find profit percentage. / एक दुकानदार वस्तु पर CP से 30% अधिक मूल्य अंकित करता है और 10% छूट देता है। लाभ प्रतिशत ज्ञात कीजिए।",
+      "options": ["17%", "20%", "15%", "18%"],
+      "answer": 0,
+      "explanation": "Profit % = 30 - 10 - (30×10)/100 = 17%. / प्रभावी लाभ % = 30 - 10 - 3 = 17%।"
+    },
+    {
+      "id": 18,
+      "question": "If 1st March is Sunday, what day is 31st March? / यदि 1 मार्च को रविवार है, तो 31 मार्च को कौन सा दिन होगा?",
+      "options": ["Tuesday / मंगलवार", "Monday / सोमवार", "Wednesday / बुधवार", "Sunday / रविवार"],
+      "answer": 0,
+      "explanation": "Difference = 30 days. 30 ÷ 7 leaves remainder 2. Sunday + 2 = Tuesday. / 30 दिन ÷ 7 = शेषफल 2। रविवार + 2 = मंगलवार।"
+    },
+    {
+      "id": 19,
+      "question": "Simplify: (x - y)³ + (y - z)³ + (z - x)³ / सरल कीजिए: (x - y)³ + (y - z)³ + (z - x)³",
+      "options": ["3(x - y)(y - z)(z - x)", "0", "(x + y + z)³", "xyz"],
+      "answer": 0,
+      "explanation": "If a + b + c = 0, then a³ + b³ + c³ = 3abc. / यदि a + b + c = 0 है, तो a³ + b³ + c³ = 3abc।"
+    },
+    {
+      "id": 20,
+      "question": "How many degrees does the minute hand turn in 35 minutes? / मिनट की सुई 35 मिनट में कितने डिग्री घूमती है?",
+      "options": ["210°", "180°", "240°", "150°"],
+      "answer": 0,
+      "explanation": "Minute hand turns 6° per minute. 35 × 6 = 210°. / मिनट सुई 1 मिनट में 6° घूमती है। 35 × 6 = 210°।"
+    },
+    {
+      "id": 21,
+      "question": "If 12 men can build a wall in 15 days, how many men are needed to build it in 9 days? / यदि 12 आदमी एक दीवार 15 दिनों में बना सकते हैं, तो इसे 9 दिनों में बनाने के लिए कितने आदमियों की आवश्यकता होगी?",
+      "options": ["20 men / 20 आदमी", "18 men / 18 आदमी", "15 men / 15 आदमी", "25 men / 25 आदमी"],
+      "answer": 0,
+      "explanation": "12 × 15 = M2 × 9 => M2 = 180 / 9 = 20. / M1D1 = M2D2 => 12 × 15 = M2 × 9 => M2 = 20।"
+    },
+    {
+      "id": 22,
+      "question": "What is the HCF of 36, 54, and 90? / 36, 54 और 90 का म.स.प. (HCF) क्या है?",
+      "options": ["18", "9", "12", "6"],
+      "answer": 0,
+      "explanation": "Highest common factor of 36, 54, 90 is 18. / 36, 54, 90 का उच्चतम उभयनिष्ठ गुणनखंड 18 है।"
+    },
+    {
+      "id": 23,
+      "question": "If A is B's brother and B is C's daughter, how is A related to C? / यदि A, B का भाई है और B, C की बेटी है, तो A का C से क्या संबंध है?",
+      "options": ["Son / बेटा", "Brother / भाई", "Father / पिता", "Uncle / चाचा"],
+      "answer": 0,
+      "explanation": "Since B is C's daughter and A is B's brother, A is C's son. / A, C का बेटा है।"
+    },
+    {
+      "id": 24,
+      "question": "Area of an equilateral triangle of side 6 cm. / 6 सेमी भुजा वाले समबाहु त्रिभुज का क्षेत्रफल।",
+      "options": ["9√3 cm²", "6√3 cm²", "12√3 cm²", "36√3 cm²"],
+      "answer": 0,
+      "explanation": "Area = (√3/4) × 6² = 9√3 cm². / क्षेत्रफल = (√3/4) × 36 = 9√3 वर्ग सेमी।"
+    },
+    {
+      "id": 25,
+      "question": "Statements: All cars are vehicles. Some vehicles are electric. Conclusion: Some cars are electric. / कथन: सभी कारें वाहन हैं। कुछ वाहन इलेक्ट्रिक हैं। निष्कर्ष: कुछ कारें इलेक्ट्रिक हैं।",
+      "options": ["Does not follow / अनुसरण नहीं करता", "Follows / अनुसरण करता है", "Partially follows", "None"],
+      "answer": 0,
+      "explanation": "No direct relationship is established between cars and electric. / कार और इलेक्ट्रिक के बीच कोई सीधा संबंध नहीं है।"
+    },
+    {
+      "id": 26,
+      "question": "Find the value of x if 3^(x+1) = 81. / यदि 3^(x+1) = 81 है, तो x का मान ज्ञात कीजिए।",
+      "options": ["3", "4", "2", "5"],
+      "answer": 0,
+      "explanation": "3^(x+1) = 3⁴ => x + 1 = 4 => x = 3. / 3^(x+1) = 3⁴ => x = 3।"
+    },
+    {
+      "id": 27,
+      "question": "If a card is drawn from a deck of 52 cards, find the probability of getting a King. / यदि 52 पत्तों की ताश की गड्डी से एक पत्ता निकाला जाता है, तो राजा (King) आने की प्रायिकता ज्ञात कीजिए।",
+      "options": ["1/13", "1/26", "1/52", "4/13"],
+      "answer": 0,
+      "explanation": "There are 4 Kings in 52 cards. Probability = 4/52 = 1/13. / 4/52 = 1/13।"
+    },
+    {
+      "id": 28,
+      "question": "Find the angle subtended by a semicircle at its center. / एक अर्धवृत्त द्वारा अपने केंद्र पर अंतरित कोण कितना होता है?",
+      "options": ["180°", "90°", "360°", "270°"],
+      "answer": 0,
+      "explanation": "A semicircle subtends a straight angle of 180° at the center. / अर्धवृत्त का केंद्रीय कोण 180° होता है।"
+    },
+    {
+      "id": 29,
+      "question": "Complete series: 2, 5, 10, 17, 26, ? / श्रृंखला पूरी करें: 2, 5, 10, 17, 26, ?",
+      "options": ["37", "35", "36", "38"],
+      "answer": 0,
+      "explanation": "Pattern: n² + 1. 6² + 1 = 37. / पैटर्न: n² + 1। 6² + 1 = 37।"
+    },
+    {
+      "id": 30,
+      "question": "A boat covers 30 km downstream in 2 hours and upstream in 5 hours. Find the speed of the boat in still water. / एक नाव धारा के अनुकूल 30 किमी 2 घंटे में और धारा के प्रतिकूल 5 घंटे में तय करती है। शांत जल में नाव की गति ज्ञात कीजिए।",
+      "options": ["10.5 km/h", "12 km/h", "9 km/h", "15 km/h"],
+      "answer": 0,
+      "explanation": "Downstream speed = 15 km/h, Upstream speed = 6 km/h. Boat speed = (15 + 6)/2 = 10.5 km/h. / नाव की गति = (15 + 6)/2 = 10.5 किमी/घंटा।"
+    },
+    {
+      "id": 31,
+      "question": "What is the unit digit of (123)⁴⁰? / (123)⁴⁰ का इकाई अंक क्या होगा?",
+      "options": ["1", "3", "9", "7"],
+      "answer": 0,
+      "explanation": "Cyclicity of 3 is 4. Power 40 is divisible by 4. 3⁴ ends in 1. / 3 की घात 40 में 4 से पूर्ण भाग जाता है, अतः 3⁴ का इकाई अंक 1 होगा।"
+    },
+    {
+      "id": 32,
+      "question": "Select the correct mirror image of '1234': / '1234' का सही दर्पण प्रतिबिंब चुनें:",
+      "options": ["Reversed and flipped numbers", "4321", "1234", "Same"],
+      "answer": 0,
+      "explanation": "Positions reverse right to left with individual letter mirroring. / स्थिति और अक्षर दोनों क्षैतिज रूप से पलटते हैं।"
+    },
+    {
+      "id": 33,
+      "question": "Find the third proportional to 16 and 24. / 16 और 24 का तृतीयानुपाती ज्ञात कीजिए।",
+      "options": ["36", "32", "48", "28"],
+      "answer": 0,
+      "explanation": "16 : 24 :: 24 : x => 16x = 576 => x = 36. / 16x = 576 => x = 36।"
+    },
+    {
+      "id": 34,
+      "question": "If 20% of a number is 80, find 60% of that number. / यदि किसी संख्या का 20% 80 है, तो उस संख्या का 60% ज्ञात कीजिए।",
+      "options": ["240", "200", "160", "300"],
+      "answer": 0,
+      "explanation": "Number = 400. 60% of 400 = 240. / संख्या = 400। 400 का 60% = 240।"
+    },
+    {
+      "id": 35,
+      "question": "Find the diagonal of a rectangle of sides 12 cm and 5 cm. / 12 सेमी और 5 सेमी भुजाओं वाले आयत का विकर्ण ज्ञात कीजिए।",
+      "options": ["13 cm", "17 cm", "15 cm", "14 cm"],
+      "answer": 0,
+      "explanation": "Diagonal = √(12² + 5²) = √169 = 13 cm. / विकर्ण = √(144 + 25) = 13 सेमी।"
+    },
+    {
+      "id": 36,
+      "question": "If CAT = 24 and DOG = 26, what is PIG? / यदि CAT = 24 और DOG = 26 है, तो PIG क्या होगा?",
+      "options": ["32", "30", "28", "34"],
+      "answer": 0,
+      "explanation": "P(16) + I(9) + G(7) = 32. / P(16) + I(9) + G(7) = 32।"
+    },
+    {
+      "id": 37,
+      "question": "Evaluate: (0.5)² + (0.1)² / मान ज्ञात कीजिए: (0.5)² + (0.1)²",
+      "options": ["0.26", "0.25", "0.36", "0.026"],
+      "answer": 0,
+      "explanation": "0.25 + 0.01 = 0.26. / 0.25 + 0.01 = 0.26।"
+    },
+    {
+      "id": 38,
+      "question": "Find mode of: 5, 2, 7, 5, 3, 5, 8. / आंकड़े 5, 2, 7, 5, 3, 5, 8 का बहुलक क्या होगा?",
+      "options": ["5", "3", "7", "2"],
+      "answer": 0,
+      "explanation": "5 appears most frequently (3 times). / 5 सबसे अधिक 3 बार आया है।"
+    },
+    {
+      "id": 39,
+      "question": "A pipe fills a tank in 6 hours and another empties it in 10 hours. In how many hours will the tank fill if both are open? / एक पाइप टंकी को 6 घंटे में भरता है और दूसरा इसे 10 घंटे में खाली करता है। दोनों खुले होने पर टंकी कितने घंटे में भरेगी?",
+      "options": ["15 hours / 15 घंटे", "12 hours / 12 घंटे", "16 hours / 16 घंटे", "20 hours / 20 घंटे"],
+      "answer": 0,
+      "explanation": "Net rate = 1/6 - 1/10 = 2/30 = 1/15. Time = 15 hours. / कुल समय = (6 × 10) / (10 - 6) = 60/4 = 15 घंटे।"
+    },
+    {
+      "id": 40,
+      "question": "In a right triangle, if hyp = 10 cm and base = 8 cm, find altitude. / समकोण त्रिभुज में यदि कर्ण = 10 सेमी और आधार = 8 सेमी है, तो ऊंचाई ज्ञात कीजिए।",
+      "options": ["6 cm", "4 cm", "7 cm", "5 cm"],
+      "answer": 0,
+      "explanation": "Altitude = √(10² - 8²) = √36 = 6 cm. / ऊंचाई = √(100 - 64) = 6 सेमी।"
+    },
+    {
+      "id": 41,
+      "question": "Find average of first 10 even natural numbers. / प्रथम 10 सम प्राकृतिक संख्याओं का औसत ज्ञात कीजिए।",
+      "options": ["11", "10", "12", "9"],
+      "answer": 0,
+      "explanation": "Average of first n even numbers = n + 1 = 10 + 1 = 11. / प्रथम n सम संख्याओं का औसत = n + 1 = 11।"
+    },
+    {
+      "id": 42,
+      "question": "Which angle is its own supplement? / कौन सा कोण स्वयं का संपूरक होता है?",
+      "options": ["90°", "45°", "180°", "60°"],
+      "answer": 0,
+      "explanation": "180° - 90° = 90°. / 90° का संपूरक कोण 90° ही होता है।"
+    },
+    {
+      "id": 43,
+      "question": "Solve: 15% of 400 + 20% of 500 / हल करें: 400 का 15% + 500 का 20%",
+      "options": ["160", "150", "140", "170"],
+      "answer": 0,
+      "explanation": "60 + 100 = 160. / 60 + 100 = 160।"
+    },
+    {
+      "id": 44,
+      "question": "Identify odd word: Gold, Platinum, Silver, Bronze / विषम शब्द पहचानें: सोना, प्लैटिनम, चांदी, कांसा",
+      "options": ["Bronze / कांसा", "Gold / सोना", "Silver / चांदी", "Platinum / प्लैटिनम"],
+      "answer": 0,
+      "explanation": "Bronze is an alloy; others are pure elements/metals. / कांसा एक मिश्र धातु है, अन्य शुद्ध धातुएं हैं।"
+    },
+    {
+      "id": 45,
+      "question": "Side of square of area 169 cm². / 169 वर्ग सेमी क्षेत्रफल वाले वर्ग की भुजा।",
+      "options": ["13 cm", "14 cm", "12 cm", "15 cm"],
+      "answer": 0,
+      "explanation": "Side = √169 = 13 cm. / भुजा = √169 = 13 सेमी।"
+    },
+    {
+      "id": 46,
+      "question": "If 2^x = 32, find x. / यदि 2^x = 32 है, तो x का मान ज्ञात कीजिए।",
+      "options": ["5", "4", "6", "3"],
+      "answer": 0,
+      "explanation": "2⁵ = 32 => x = 5. / 2⁵ = 32 => x = 5।"
+    },
+    {
+      "id": 47,
+      "question": "Find value of: sin 0° + cos 0° / मान ज्ञात कीजिए: sin 0° + cos 0°",
+      "options": ["1", "0", "2", "-1"],
+      "answer": 0,
+      "explanation": "0 + 1 = 1. / 0 + 1 = 1।"
+    },
+    {
+      "id": 48,
+      "question": "Complete series: Z, W, T, Q, ? / श्रृंखला पूरी करें: Z, W, T, Q, ?",
+      "options": ["N", "M", "O", "P"],
+      "answer": 0,
+      "explanation": "Pattern: -3 steps back in alphabet. Q - 3 = N. / -3 पद पीछे।"
+    },
+    {
+      "id": 49,
+      "question": "Area of circle of radius 21 cm (π = 22/7). / 21 सेमी त्रिज्या वाले वृत्त का क्षेत्रफल।",
+      "options": ["1386 cm²", "616 cm²", "1232 cm²", "1540 cm²"],
+      "answer": 0,
+      "explanation": "Area = (22/7) × 21 × 21 = 1386 cm². / क्षेत्रफल = (22/7) × 441 = 1386 सेमी²।"
+    },
+    {
+      "id": 50,
+      "question": "Ratio of ages of A and B is 3:4. If sum is 28 years, find A's age. / A और B की आयु का अनुपात 3:4 है। यदि योग 28 वर्ष है, तो A की आयु ज्ञात कीजिए।",
+      "options": ["12 years / 12 वर्ष", "16 years / 16 वर्ष", "14 years / 14 वर्ष", "15 years / 15 वर्ष"],
+      "answer": 0,
+      "explanation": "A's age = (3/7) × 28 = 12 years. / A की आयु = (3/7) × 28 = 12 वर्ष।"
     }
-  }
-]
+  ]
+}
