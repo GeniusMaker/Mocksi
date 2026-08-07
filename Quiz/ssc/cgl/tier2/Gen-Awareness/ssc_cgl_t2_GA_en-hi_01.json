@@ -1,0 +1,608 @@
+{
+  "title": "SSC CGL Tier 1 - General Awareness / एसएससी सीजीएल टीयर 1 - सामान्य जागरूकता",
+  "positiveMarks": 2,
+  "negativeMarks": 0.5,
+  "timeLimitMinutes": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who was the first Governor-General of Bengal? / बंगाल का पहला गवर्नर-जनरल कौन था?",
+      "options": [
+        "Warren Hastings / वारेन हेस्टिंग्स",
+        "Lord Cornwallis / लॉर्ड कॉर्नवालिस",
+        "Lord William Bentinck / लॉर्ड विलियम बेंटिक",
+        "Lord Canning / लॉर्ड कैनिंग"
+      ],
+      "answer": 0,
+      "explanation": "Warren Hastings became the first Governor-General of Bengal in 1773 under the Regulating Act. / वारेन हेस्टिंग्स 1773 के रेगुलेटिंग एक्ट के तहत बंगाल के पहले गवर्नर-जनरल बने।"
+    },
+    {
+      "id": 2,
+      "question": "Which article of the Indian Constitution deals with the Right to Equality? / भारतीय संविधान का कौन सा अनुच्छेद समानता के अधिकार से संबंधित है?",
+      "options": [
+        "Articles 12-18 / अनुच्छेद 12-18",
+        "Articles 14-18 / अनुच्छेद 14-18",
+        "Articles 19-22 / अनुच्छेद 19-22",
+        "Articles 23-24 / अनुच्छेद 23-24"
+      ],
+      "answer": 1,
+      "explanation": "Articles 14 to 18 of the Indian Constitution guarantee the Right to Equality. / भारतीय संविधान के अनुच्छेद 14 से 18 समानता के अधिकार की गारंटी देते हैं।"
+    },
+    {
+      "id": 3,
+      "question": "What is the SI unit of Electric Current? / विद्युत धारा की SI इकाई क्या है?",
+      "options": [
+        "Volt / वोल्ट",
+        "Ohm / ओम",
+        "Ampere / एम्पीयर",
+        "Joule / जूल"
+      ],
+      "answer": 2,
+      "explanation": "The SI unit of electric current is Ampere (A). / विद्युत धारा की SI इकाई एम्पीयर (A) है।"
+    },
+    {
+      "id": 4,
+      "question": "Which classical dance form originated in Kerala? / किस शास्त्रीय नृत्य शैली की उत्पत्ति केरल में हुई?",
+      "options": [
+        "Kathak / कथक",
+        "Kathakali / कथकली",
+        "Bharatanatyam / भरतनाट्यम",
+        "Kuchipudi / कुचिपुड़ी"
+      ],
+      "answer": 1,
+      "explanation": "Kathakali and Mohiniyattam originated in the state of Kerala. / कथकली और मोहिनीअट्टम की उत्पत्ति केरल राज्य में हुई थी।"
+    },
+    {
+      "id": 5,
+      "question": "Which organ secretes insulin in the human body? / मानव शरीर में इंसुलिन का स्राव कौन सा अंग करता है?",
+      "options": [
+        "Liver / यकृत",
+        "Pancreas / अग्न्याशय",
+        "Kidney / गुर्दा",
+        "Thyroid / थायराइड"
+      ],
+      "answer": 1,
+      "explanation": "Beta cells of the Islets of Langerhans in the pancreas secrete insulin. / अग्न्याशय में लैंगरहैंस के द्वीपसमूह की बीटा कोशिकाएं इंसुलिन का स्राव करती हैं।"
+    },
+    {
+      "id": 6,
+      "question": "The Battle of Plassey was fought in which year? / प्लासी का युद्ध किस वर्ष लड़ा गया था?",
+      "options": [
+        "1757 / 1757",
+        "1764 / 1764",
+        "1761 / 1761",
+        "1857 / 1857"
+      ],
+      "answer": 0,
+      "explanation": "The Battle of Plassey was fought on 23 June 1757 between the East India Company and Nawab Siraj-ud-Daulah. / प्लासी का युद्ध 23 जून 1757 को ईस्ट इंडिया कंपनी और नवाब सिराजुद्दौला के बीच लड़ा गया था।"
+    },
+    {
+      "id": 7,
+      "question": "Which planet is known as the Red Planet? / किस ग्रह को लाल ग्रह के नाम से जाना जाता है?",
+      "options": [
+        "Venus / शुक्र",
+        "Mars / मंगल",
+        "Jupiter / बृहस्पति",
+        "Saturn / शनि"
+      ],
+      "answer": 1,
+      "explanation": "Mars is known as the Red Planet due to the iron oxide prevailing on its surface. / मंगल ग्रह की सतह पर प्रचुर मात्रा में मौजूद आयरन ऑक्साइड के कारण इसे लाल ग्रह कहा जाता है।"
+    },
+    {
+      "id": 8,
+      "question": "Who was the founder of the Maurya Empire? / मौर्य साम्राज्य के संस्थापक कौन थे?",
+      "options": [
+        "Ashoka / अशोक",
+        "Chandragupta Maurya / चंद्रगुप्त मौर्य",
+        "Bindusara / बिन्दुसार",
+        "Bimbisara / बिम्बिसार"
+      ],
+      "answer": 1,
+      "explanation": "Chandragupta Maurya founded the Maurya Empire in 322 BCE with the help of Chanakya. / चंद्रगुप्त मौर्य ने चाणक्य की सहायता से 322 ईसा पूर्व में मौर्य साम्राज्य की स्थापना की थी।"
+    },
+    {
+      "id": 9,
+      "question": "Which gas is predominantly responsible for global warming? / ग्लोबल वार्मिंग के लिए मुख्य रूप से कौन सी गैस जिम्मेदार है?",
+      "options": [
+        "Oxygen / ऑक्सीजन",
+        "Carbon Dioxide / कार्बन डाइऑक्साइड",
+        "Nitrogen / नाइट्रोजन",
+        "Argon / ऑर्गन"
+      ],
+      "answer": 1,
+      "explanation": "Carbon dioxide (CO2) is the primary greenhouse gas contributing to global warming. / कार्बन डाइऑक्साइड (CO2) ग्लोबल वार्मिंग में योगदान देने वाली मुख्य ग्रीनहाउस गैस है।"
+    },
+    {
+      "id": 10,
+      "question": "In which state is the Kaziranga National Park situated? / काजीरंगा राष्ट्रीय उद्यान किस राज्य में स्थित है?",
+      "options": [
+        "Assam / असम",
+        "West Bengal / पश्चिम बंगाल",
+        "Uttarakhand / उत्तराखंड",
+        "Madhya Pradesh / मध्य प्रदेश"
+      ],
+      "answer": 0,
+      "explanation": "Kaziranga National Park, famous for the one-horned rhinoceros, is in Assam. / एक सींग वाले गैंडे के लिए प्रसिद्ध काजीरंगा राष्ट्रीय उद्यान असम में है।"
+    },
+    {
+      "id": 11,
+      "question": "Who wrote the national anthem 'Jana Gana Mana'? / राष्ट्रगान 'जन गण मन' किसने लिखा था?",
+      "options": [
+        "Bankim Chandra Chattopadhyay / बंकिम चंद्र चट्टोपाध्याय",
+        "Rabindranath Tagore / रवींद्रनाथ टैगोर",
+        "Sarojini Naidu / सरोजिनी नायडू",
+        "Subhash Chandra Bose / सुभाष चंद्र बोस"
+      ],
+      "answer": 1,
+      "explanation": "Rabindranath Tagore composed 'Jana Gana Mana' originally in Bengali. / रवींद्रनाथ टैगोर ने मूल रूप से बंगाली में 'जन गण मन' की रचना की थी।"
+    },
+    {
+      "id": 12,
+      "question": "What is the capital of Australia? / ऑस्ट्रेलिया की राजधानी क्या है?",
+      "options": [
+        "Sydney / सिडनी",
+        "Melbourne / मेलबर्न",
+        "Canberra / कैनबरा",
+        "Perth / पर्थ"
+      ],
+      "answer": 2,
+      "explanation": "Canberra is the capital city of Australia. / कैनबरा ऑस्ट्रेलिया की राजधानी है।"
+    },
+    {
+      "id": 13,
+      "question": "Which instrument is used to measure atmospheric pressure? / वायुमंडलीय दबाव मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+      "options": [
+        "Thermometer / थर्मोमीटर",
+        "Barometer / बैरोमीटर",
+        "Hygrometer / हाइग्रोमीटर",
+        "Anemometer / एनीमोमीटर"
+      ],
+      "answer": 1,
+      "explanation": "A Barometer measures atmospheric pressure. / बैरोमीटर वायुमंडलीय दबाव को मापता है।"
+    },
+    {
+      "id": 14,
+      "question": "Who was the first woman Prime Minister of India? / भारत की पहली महिला प्रधानमंत्री कौन थीं?",
+      "options": [
+        "Sarojini Naidu / सरोजिनी नायडू",
+        "Indira Gandhi / इंदिरा गांधी",
+        "Pratibha Patil / प्रतिभा पाटिल",
+        "Sucheta Kripalani / सुचेता कृपलानी"
+      ],
+      "answer": 1,
+      "explanation": "Indira Gandhi served as the first female Prime Minister of India. / इंदिरा गांधी ने भारत की पहली महिला प्रधानमंत्री के रूप में कार्य किया।"
+    },
+    {
+      "id": 15,
+      "question": "In economics, what does 'GDP' stand for? / अर्थशास्त्र में 'GDP' का क्या अर्थ है?",
+      "options": [
+        "Gross Domestic Product / सकल घरेलू उत्पाद",
+        "Grand Domestic Price / ग्रैंड डोमेस्टिक प्राइस",
+        "Gross Development Plan / सकल विकास योजना",
+        "General Domestic Product / सामान्य घरेलू उत्पाद"
+      ],
+      "answer": 0,
+      "explanation": "GDP stands for Gross Domestic Product. / GDP का तात्पर्य सकल घरेलू उत्पाद से है।"
+    },
+    {
+      "id": 16,
+      "question": "Which Mughal Emperor built the Taj Mahal? / किस मुगल सम्राट ने ताज महल बनवाया था?",
+      "options": [
+        "Akbar / अकबर",
+        "Jahangir / जहांगीर",
+        "Shah Jahan / शाहजहाँ",
+        "Aurangzeb / औरंगजेब"
+      ],
+      "answer": 2,
+      "explanation": "Shah Jahan commissioned the Taj Mahal in Agra for his wife Mumtaz Mahal. / शाहजहाँ ने अपनी पत्नी मुमताज़ महल की याद में आगरा में ताज महल का निर्माण कराया था।"
+    },
+    {
+      "id": 17,
+      "question": "Which acid is present in lemon? / नींबू में कौन सा अम्ल मौजूद होता है?",
+      "options": [
+        "Acetic Acid / एसिटिक अम्ल",
+        "Citric Acid / साइट्रिक अम्ल",
+        "Lactic Acid / लैक्टिक अम्ल",
+        "Tartaric Acid / टार्टरिक अम्ल"
+      ],
+      "answer": 1,
+      "explanation": "Lemons contain a high concentration of Citric Acid. / नींबू में साइट्रिक अम्ल की उच्च सांद्रता होती है।"
+    },
+    {
+      "id": 18,
+      "question": "Which layer of the atmosphere protects Earth from harmful UV rays? / वायुमंडल की कौन सी परत पृथ्वी को हानिकारक पराबैंगनी किरणों से बचाती है?",
+      "options": [
+        "Troposphere / क्षोभमंडल",
+        "Stratosphere (Ozone Layer) / समताप मंडल (ओजोन परत)",
+        "Mesosphere / मध्यमंडल",
+        "Thermosphere / बाह्यवायुमंडल"
+      ],
+      "answer": 1,
+      "explanation": "The Ozone layer located in the Stratosphere absorbs harmful ultraviolet rays. / समताप मंडल में स्थित ओजोन परत हानिकारक पराबैंगनी किरणों को अवशोषित करती है।"
+    },
+    {
+      "id": 19,
+      "question": "When is National Science Day celebrated in India? / भारत में राष्ट्रीय विज्ञान दिवस कब मनाया जाता है?",
+      "options": [
+        "28 February / 28 फरवरी",
+        "15 August / 15 अगस्त",
+        "5 September / 5 सितंबर",
+        "14 November / 14 नवंबर"
+      ],
+      "answer": 0,
+      "explanation": "National Science Day is celebrated on February 28 to mark the discovery of the Raman Effect. / रमन प्रभाव की खोज के उपलक्ष्य में 28 फरवरी को राष्ट्रीय विज्ञान दिवस मनाया जाता है।"
+    },
+    {
+      "id": 20,
+      "question": "Who was the political guru of Mahatma Gandhi? / महात्मा गांधी के राजनीतिक गुरु कौन थे?",
+      "options": [
+        "Dadabhai Naoroji / दादाभाई नौरोजी",
+        "Gopal Krishna Gokhale / गोपाल कृष्ण गोखले",
+        "Bal Gangadhar Tilak / बाल गंगाधर तिलक",
+        "Lala Lajpat Rai / लाला लाजपत राय"
+      ],
+      "answer": 1,
+      "explanation": "Gopal Krishna Gokhale was the political mentor of Mahatma Gandhi. / गोपाल कृष्ण गोखले महात्मा गांधी के राजनीतिक गुरु थे।"
+    },
+    {
+      "id": 21,
+      "question": "What is the functional unit of the human kidney? / मानव गुर्दे की कार्यात्मक इकाई क्या है?",
+      "options": [
+        "Neuron / न्यूरॉन",
+        "Nephron / नेफ्रॉन",
+        "Alveoli / एल्वियोली",
+        "Hepatocyte / हेपेटोसाइट"
+      ],
+      "answer": 1,
+      "explanation": "The nephron is the microscopic structural and functional unit of the kidney. / नेफ्रॉन गुर्दे की सूक्ष्म संरचनात्मक और कार्यात्मक इकाई है।"
+    },
+    {
+      "id": 22,
+      "question": "Which Indian state has the longest coastline? / किस भारतीय राज्य की तटरेखा सबसे लंबी है?",
+      "options": [
+        "Tamil Nadu / तमिलनाडु",
+        "Maharashtra / महाराष्ट्र",
+        "Gujarat / गुजरात",
+        "Andhra Pradesh / आंध्र प्रदेश"
+      ],
+      "answer": 2,
+      "explanation": "Gujarat has the longest coastline in India, extending over 1600 km. / गुजरात की तटरेखा भारत में सबसे लंबी है, जो 1600 किमी से अधिक फैली हुई है।"
+    },
+    {
+      "id": 23,
+      "question": "Who was the Chairman of the Drafting Committee of the Indian Constitution? / भारतीय संविधान की प्रारूप समिति के अध्यक्ष कौन थे?",
+      "options": [
+        "Dr. B.R. Ambedkar / डॉ. बी.आर. अम्बेडकर",
+        "Dr. Rajendra Prasad / डॉ. राजेंद्र प्रसाद",
+        "Jawaharlal Nehru / जवाहरलाल नेहरू",
+        "Sardar Patel / सरदार पटेल"
+      ],
+      "answer": 0,
+      "explanation": "Dr. B.R. Ambedkar was the Chairman of the Drafting Committee. / डॉ. बी.आर. अम्बेडकर प्रारूप समिति के अध्यक्ष थे।"
+    },
+    {
+      "id": 24,
+      "question": "Which vitamin is also known as Ascorbic Acid? / किस विटामिन को एस्कॉर्बिक एसिड भी कहा जाता है?",
+      "options": [
+        "Vitamin A / विटामिन A",
+        "Vitamin B12 / विटामिन B12",
+        "Vitamin C / विटामिन C",
+        "Vitamin D / विटामिन D"
+      ],
+      "answer": 2,
+      "explanation": "Vitamin C is chemically known as Ascorbic Acid. / विटामिन C को रासायनिक रूप से एस्कॉर्बिक एसिड के नाम से जाना जाता है।"
+    },
+    {
+      "id": 25,
+      "question": "Where is the headquarters of the Reserve Bank of India (RBI) located? / भारतीय रिज़र्व बैंक (RBI) का मुख्यालय कहाँ स्थित है?",
+      "options": [
+        "New Delhi / नई दिल्ली",
+        "Mumbai / मुंबई",
+        "Kolkata / कोलकाता",
+        "Chennai / चेन्नई"
+      ],
+      "answer": 1,
+      "explanation": "The headquarters of RBI was moved from Kolkata to Mumbai in 1937. / RBI का मुख्यालय 1937 में कोलकाता से मुंबई स्थानांतरित कर दिया गया था।"
+    },
+    {
+      "id": 26,
+      "question": "Who was the first Indian to win a Nobel Prize? / नोबेल पुरस्कार जीतने वाले पहले भारतीय कौन थे?",
+      "options": [
+        "C.V. Raman / सी.वी. रमन",
+        "Rabindranath Tagore / रवींद्रनाथ टैगोर",
+        "Mother Teresa / मदर टेरेसा",
+        "Amartya Sen / अमर्त्य सेन"
+      ],
+      "answer": 1,
+      "explanation": "Rabindranath Tagore won the Nobel Prize in Literature in 1913 for Gitanjali. / रवींद्रनाथ टैगोर ने 1913 में गीतांजलि के लिए साहित्य का नोबेल पुरस्कार जीता था।"
+    },
+    {
+      "id": 27,
+      "question": "Which element is the best conductor of electricity? / कौन सा तत्व विद्युत का सबसे अच्छा चालक है?",
+      "options": [
+        "Copper / तांबा",
+        "Silver / चांदी",
+        "Gold / सोना",
+        "Aluminum / एल्युमिनियम"
+      ],
+      "answer": 1,
+      "explanation": "Silver has the highest electrical conductivity of all metals. / सभी धातुओं में चांदी की विद्युत चालकता सबसे अधिक होती है।"
+    },
+    {
+      "id": 28,
+      "question": "Which river is known as the 'Sorrow of Bihar'? / किस नदी को 'बिहार का शोक' कहा जाता है?",
+      "options": [
+        "Damodar River / दामोदर नदी",
+        "Kosi River / कोशी नदी",
+        "Gandak River / गंडक नदी",
+        "Son River / सोन नदी"
+      ],
+      "answer": 1,
+      "explanation": "The Kosi River is known as the 'Sorrow of Bihar' due to frequent devastating floods. / कोशी नदी को बार-बार आने वाली विनाशकारी बाढ़ के कारण 'बिहार का शोक' कहा जाता है।"
+    },
+    {
+      "id": 29,
+      "question": "Which Five Year Plan in India focused on Heavy Industries? / भारत में किस पंचवर्षीय योजना में भारी उद्योगों पर ध्यान केंद्रित किया गया था?",
+      "options": [
+        "First Five Year Plan / पहली पंचवर्षीय योजना",
+        "Second Five Year Plan / दूसरी पंचवर्षीय योजना",
+        "Third Five Year Plan / तीसरी पंचवर्षीय योजना",
+        "Fifth Five Year Plan / पाँचवीं पंचवर्षीय योजना"
+      ],
+      "answer": 1,
+      "explanation": "The Second Five Year Plan (1956-61), based on the Mahalanobis Model, focused on rapid industrialization. / महालनोबिस मॉडल पर आधारित दूसरी पंचवर्षीय योजना (1956-61) में तीव्र औद्योगीकरण पर ध्यान केंद्रित किया गया था।"
+    },
+    {
+      "id": 30,
+      "question": "Who discovered Penicillin? / पेनिसिलिन की खोज किसने की थी?",
+      "options": [
+        "Louis Pasteur / लुई पाश्चर",
+        "Alexander Fleming / अलेक्जेंडर फ्लेमिंग",
+        "Edward Jenner / एडवर्ड जेनर",
+        "Robert Koch / रॉबर्ट कोच"
+      ],
+      "answer": 1,
+      "explanation": "Alexander Fleming discovered Penicillin in 1928. / अलेक्जेंडर फ्लेमिंग ने 1928 में पेनिसिलिन की खोज की थी।"
+    },
+    {
+      "id": 31,
+      "question": "Which Schedule of the Indian Constitution lists official languages? / भारतीय संविधान की कौन सी अनुसूची आधिकारिक भाषाओं को सूचीबद्ध करती है?",
+      "options": [
+        "Seventh Schedule / सातवीं अनुसूची",
+        "Eighth Schedule / आठवीं अनुसूची",
+        "Ninth Schedule / नौवीं अनुसूची",
+        "Tenth Schedule / दसवीं अनुसूची"
+      ],
+      "answer": 1,
+      "explanation": "The Eighth Schedule of the Indian Constitution lists 22 officially recognized languages. / भारतीय संविधान की आठवीं अनुसूची में 22 आधिकारिक रूप से मान्यता प्राप्त भाषाएं शामिल हैं।"
+    },
+    {
+      "id": 32,
+      "question": "In which state is the Hirakud Dam located? / हीराकुड बांध किस राज्य में स्थित है?",
+      "options": [
+        "Odisha / ओडिशा",
+        "Karnataka / कर्नाटक",
+        "Punjab / पंजाब",
+        "Gujarat / गुजरात"
+      ],
+      "answer": 0,
+      "explanation": "Hirakud Dam is built across the Mahanadi River in Odisha. / हीराकुड बांध ओडिशा में महानदी पर बनाया गया है।"
+    },
+    {
+      "id": 33,
+      "question": "Who was the last ruler of the Lodi Dynasty? / लोदी वंश का अंतिम शासक कौन था?",
+      "options": [
+        "Bahlul Lodi / बहलोल लोदी",
+        "Sikandar Lodi / सिकंदर लोदी",
+        "Ibrahim Lodi / इब्राहिम लोदी",
+        "Daulat Khan Lodi / दौलत खान लोदी"
+      ],
+      "answer": 2,
+      "explanation": "Ibrahim Lodi was defeated by Babur in the First Battle of Panipat in 1526. / इब्राहिम लोदी 1526 में पानीपत की पहली लड़ाई में बाबर द्वारा पराजित हुआ था।"
+    },
+    {
+      "id": 34,
+      "question": "What is the chemical name of common table salt? / साधारण नमक का रासायनिक नाम क्या है?",
+      "options": [
+        "Sodium Bicarbonate / सोडियम बाइकार्बोनेट",
+        "Sodium Chloride / सोडियम क्लोराइड",
+        "Sodium Carbonate / सोडियम कार्बोनेट",
+        "Calcium Carbonate / कैल्शियम कार्बोनेट"
+      ],
+      "answer": 1,
+      "explanation": "Common table salt is chemically known as Sodium Chloride (NaCl). / साधारण नमक को रासायनिक रूप से सोडियम क्लोराइड (NaCl) कहा जाता है।"
+    },
+    {
+      "id": 35,
+      "question": "Which ruler introduced the market control system (price regulation) during the Delhi Sultanate? / दिल्ली सल्तनत के दौरान किस शासक ने बाजार नियंत्रण प्रणाली लागू की थी?",
+      "options": [
+        "Iltutmish / इल्तुतमिश",
+        "Alauddin Khalji / अलाउद्दीन खिलजी",
+        "Muhammad bin Tughluq / मुहम्मद बिन तुगलक",
+        "Firoz Shah Tughluq / फिरोज शाह तुगलक"
+      ],
+      "answer": 1,
+      "explanation": "Alauddin Khalji introduced strict market control reforms to maintain a large standing army. / अलाउद्दीन खिलजी ने एक बड़ी स्थायी सेना बनाए रखने के लिए सख्त बाजार नियंत्रण सुधार लागू किए।"
+    },
+    {
+      "id": 36,
+      "question": "Which organ in the human body cleanses and filters blood? / मानव शरीर का कौन सा अंग रक्त को साफ और फ़िल्टर करता है?",
+      "options": [
+        "Heart / हृदय",
+        "Lungs / फेफड़े",
+        "Kidneys / गुर्दे",
+        "Liver / यकृत"
+      ],
+      "answer": 2,
+      "explanation": "Kidneys filter waste products and excess fluids from the blood. / गुर्दे रक्त से अपशिष्ट उत्पादों और अतिरिक्त तरल पदार्थों को फ़िल्टर करते हैं।"
+    },
+    {
+      "id": 37,
+      "question": "Who authored the book 'Discovery of India'? / 'डिस्कवरी ऑफ इंडिया' पुस्तक के लेखक कौन हैं?",
+      "options": [
+        "Mahatma Gandhi / महात्मा गांधी",
+        "Jawaharlal Nehru / जवाहरलाल नेहरू",
+        "Dr. S. Radhakrishnan / डॉ. एस. राधाकृष्णन",
+        "APJ Abdul Kalam / एपीजे अब्दुल कलाम"
+      ],
+      "answer": 1,
+      "explanation": "Jawaharlal Nehru wrote 'The Discovery of India' during his imprisonment at Ahmednagar Fort (1942-1946). / जवाहरलाल नेहरू ने अहमदनगर किले में अपनी कैद (1942-1946) के दौरान 'द डिस्कवरी ऑफ इंडिया' लिखी थी।"
+    },
+    {
+      "id": 38,
+      "question": "Which part of the brain controls balance and posture of the human body? / मस्तिष्क का कौन सा भाग मानव शरीर के संतुलन और मुद्रा को नियंत्रित करता है?",
+      "options": [
+        "Cerebrum / प्रमस्तिष्क",
+        "Cerebellum / अनुमस्तिष्क",
+        "Medulla Oblongata / मेडुला ऑब्लोंगटा",
+        "Hypothalamus / हाइपोथैलेमस"
+      ],
+      "answer": 1,
+      "explanation": "The Cerebellum maintains posture, balance, and voluntary motor coordination. / अनुमस्तिष्क (सेरेबेलम) शरीर की मुद्रा, संतुलन और स्वैच्छिक मोटर समन्वय को बनाए रखता है।"
+    },
+    {
+      "id": 39,
+      "question": "Which amendment is known as the 'Mini Constitution' of India? / भारत के किस संशोधन को 'लघु संविधान' के रूप में जाना जाता है?",
+      "options": [
+        "42nd Amendment / 42वां संशोधन",
+        "44th Amendment / 44वां संशोधन",
+        "73rd Amendment / 73वां संशोधन",
+        "86th Amendment / 86वां संशोधन"
+      ],
+      "answer": 0,
+      "explanation": "The 42nd Constitutional Amendment Act of 1976 is termed the 'Mini Constitution' due to comprehensive changes. / 1976 के 42वें संवैधानिक संशोधन अधिनियम को व्यापक परिवर्तनों के कारण 'लघु संविधान' कहा जाता है।"
+    },
+    {
+      "id": 40,
+      "question": "What is the unit of frequency? / आवृत्ति की इकाई क्या है?",
+      "options": [
+        "Decibel / डेसिबल",
+        "Hertz / हर्ट्ज़",
+        "Watt / वाट",
+        "Pascal / पास्कल"
+      ],
+      "answer": 1,
+      "explanation": "Frequency is measured in Hertz (Hz), which represents cycles per second. / आवृत्ति को हर्ट्ज़ (Hz) में मापा जाता है, जो प्रति सेकंड चक्रों को दर्शाता है।"
+    },
+    {
+      "id": 41,
+      "question": "Who was the Governor-General during the Revolt of 1857? / 1857 के विद्रोह के समय गवर्नर-जनरल कौन था?",
+      "options": [
+        "Lord Dalhousie / लॉर्ड डलहौजी",
+        "Lord Canning / लॉर्ड कैनिंग",
+        "Lord Lytton / लॉर्ड लिटन",
+        "Lord Curzon / लॉर्ड कर्जन"
+      ],
+      "answer": 1,
+      "explanation": "Lord Canning was the Governor-General of India during the Revolt of 1857. / 1857 के विद्रोह के समय लॉर्ड कैनिंग भारत के गवर्नर-जनरल थे।"
+    },
+    {
+      "id": 42,
+      "question": "Which line separates India and China? / भारत और चीन को कौन सी रेखा अलग करती है?",
+      "options": [
+        "Radcliffe Line / रेडक्लिफ रेखा",
+        "McMahon Line / मैकमोहन रेखा",
+        "Durand Line / डुरंड रेखा",
+        "49th Parallel / 49वीं समानांतर रेखा"
+      ],
+      "answer": 1,
+      "explanation": "The McMahon Line serves as the effective boundary line between India and China. / मैकमोहन रेखा भारत और चीन के बीच प्रभावी सीमा रेखा के रूप में कार्य करती है।"
+    },
+    {
+      "id": 43,
+      "question": "Which state in India is the largest producer of tea? / भारत में चाय का सबसे बड़ा उत्पादक राज्य कौन सा है?",
+      "options": [
+        "West Bengal / पश्चिम बंगाल",
+        "Assam / असम",
+        "Kerala / केरल",
+        "Tamil Nadu / तमिलनाडु"
+      ],
+      "answer": 1,
+      "explanation": "Assam accounts for over 50% of India's total tea production. / असम भारत के कुल चाय उत्पादन में 50% से अधिक का योगदान देता है।"
+    },
+    {
+      "id": 44,
+      "question": "Who was the author of the ancient book 'Arthashastra'? / प्राचीन पुस्तक 'अर्थशास्त्र' के लेखक कौन थे?",
+      "options": [
+        "Megasthenes / मेगस्थनीज",
+        "Chanakya (Kautilya) / चाणक्य (कौटिल्य)",
+        "Kalidasa / कालिदास",
+        "Banabhatta / बाणभट्ट"
+      ],
+      "answer": 1,
+      "explanation": "Chanakya (also known as Kautilya or Vishnugupta) wrote the treatise 'Arthashastra'. / चाणक्य (जिन्हें कौटिल्य या विष्णुगुप्त भी कहा जाता है) ने 'अर्थशास्त्र' ग्रंथ लिखा था।"
+    },
+    {
+      "id": 45,
+      "question": "Which gas is filled in electric bulbs to prevent oxidation of the filament? / फिलामेंट के ऑक्सीकरण को रोकने के लिए बिजली के बल्बों में कौन सी गैस भरी जाती है?",
+      "options": [
+        "Oxygen / ऑक्सीजन",
+        "Hydrogen / हाइड्रोजन",
+        "Argon or Nitrogen / ऑर्गन या नाइट्रोजन",
+        "Carbon Dioxide / कार्बन डाइऑक्साइड"
+      ],
+      "answer": 2,
+      "explanation": "Inert gases like Argon or Nitrogen are filled in bulbs to extend filament life. / फिलामेंट के जीवनकाल को बढ़ाने के लिए बल्बों में ऑर्गन या नाइट्रोजन जैसी अक्रिय गैसें भरी जाती हैं।"
+    },
+    {
+      "id": 46,
+      "question": "Where are the headquarters of ISRO located? / इसरो (ISRO) का मुख्यालय कहाँ स्थित है?",
+      "options": [
+        "Bengaluru / बेंगलुरु",
+        "Sriharikota / श्रीहरिकोटा",
+        "Thiruvananthapuram / तिरुवनंतपुरम",
+        "Hyderabad / हैदराबाद"
+      ],
+      "answer": 0,
+      "explanation": "The Indian Space Research Organisation (ISRO) is headquartered in Bengaluru, Karnataka. / भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) का मुख्यालय बेंगलुरु, कर्नाटक में स्थित है।"
+    },
+    {
+      "id": 47,
+      "question": "Who built the famous Khajuraho temples in Madhya Pradesh? / मध्य प्रदेश में प्रसिद्ध खजुराहो मंदिरों का निर्माण किसने करवाया था?",
+      "options": [
+        "Chola Dynasty / चोल राजवंश",
+        "Chandela Dynasty / चंदेल राजवंश",
+        "Rashtrakuta Dynasty / राष्ट्रकूट राजवंश",
+        "Maurya Dynasty / मौर्य राजवंश"
+      ],
+      "answer": 1,
+      "explanation": "The Khajuraho temples were built by the rulers of the Chandela dynasty between 950 and 1050 CE. / खजुराहो मंदिरों का निर्माण 950 से 1050 ईस्वी के बीच चंदेल राजवंश के शासकों द्वारा कराया गया था।"
+    },
+    {
+      "id": 48,
+      "question": "What is the age of retirement for a Judge of the Supreme Court of India? / भारत के सर्वोच्च न्यायालय के न्यायाधीश की सेवानिवृत्ति की आयु क्या है?",
+      "options": [
+        "60 years / 60 वर्ष",
+        "62 years / 62 वर्ष",
+        "65 years / 65 वर्ष",
+        "70 years / 70 वर्ष"
+      ],
+      "answer": 2,
+      "explanation": "Supreme Court judges hold office until they attain the age of 65 years. / सर्वोच्च न्यायालय के न्यायाधीश 65 वर्ष की आयु प्राप्त करने तक पद पर बने रहते हैं।"
+    },
+    {
+      "id": 49,
+      "question": "Which metal is liquid at room temperature? / कौन सी धातु कमरे के तापमान पर तरल होती है?",
+      "options": [
+        "Sodium / सोडियम",
+        "Mercury / पारा",
+        "Gallium / गैलियम",
+        "Lead / सीसा"
+      ],
+      "answer": 1,
+      "explanation": "Mercury (Hg) is the only metallic element that is liquid under standard conditions. / पारा (Hg) एकमात्र ऐसा धातु तत्व है जो मानक परिस्थितियों में तरल अवस्था में रहता है।"
+    },
+    {
+      "id": 50,
+      "question": "Where is the headquarters of the United Nations (UN) located? / संयुक्त राष्ट्र (UN) का मुख्यालय कहाँ स्थित है?",
+      "options": [
+        "Geneva, Switzerland / जेनेवा, स्विट्जरलैंड",
+        "New York, USA / न्यूयॉर्क, अमेरिका",
+        "Paris, France / पेरिस, फ्रांस",
+        "London, UK / लंदन, यूके"
+      ],
+      "answer": 1,
+      "explanation": "The UN headquarters is located in New York City, USA. / संयुक्त राष्ट्र का मुख्यालय न्यूयॉर्क शहर, अमेरिका में स्थित है।"
+    }
+  ]
+}
