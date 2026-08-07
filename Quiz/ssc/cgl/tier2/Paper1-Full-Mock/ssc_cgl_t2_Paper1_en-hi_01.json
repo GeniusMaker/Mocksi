@@ -1,18 +1,358 @@
-[
-  {
-    "id": 1,
-    "question": {
-      "en": "Sample Question in English?",
-      "hi": "????? ??? ????? ???????"
+{
+  "title": "SSC CGL Tier 2 Paper 1 - Full Mock / एसएससी सीजीएल टीयर 2 पेपर 1 - फुल मॉक",
+  "positiveMarks": 3,
+  "negativeMarks": 1,
+  "timeLimitMinutes": 150,
+  "questions": [
+    {
+      "id": 1,
+      "question": "If x + 1/x = 4, find the value of x⁵ + 1/x⁵. / यदि x + 1/x = 4 है, तो x⁵ + 1/x⁵ का मान ज्ञात कीजिए।",
+      "options": ["724", "736", "720", "750"],
+      "answer": 0,
+      "explanation": "x² + 1/x² = 14 and x³ + 1/x³ = 52. x⁵ + 1/x⁵ = (14 × 52) - 4 = 728 - 4 = 724. / x² + 1/x² = 14 और x³ + 1/x³ = 52। x⁵ + 1/x⁵ = (14 × 52) - 4 = 724।"
     },
-    "options": {
-      "en": ["Option A", "Option B", "Option C", "Option D"],
-      "hi": ["?????? A", "?????? B", "?????? C", "?????? D"]
+    {
+      "id": 2,
+      "question": "The present ages of A and B are in the ratio 5:7. Eight years ago, the ratio was 7:11. Find the present age of A. / A और B की वर्तमान आयु का अनुपात 5:7 है। आठ वर्ष पूर्व यह अनुपात 7:11 था। A की वर्तमान आयु ज्ञात कीजिए।",
+      "options": ["20 years / 20 वर्ष", "25 years / 25 वर्ष", "30 years / 30 वर्ष", "35 years / 35 वर्ष"],
+      "answer": 0,
+      "explanation": "Let present ages be 5x and 7x. (5x-8)/(7x-8) = 7/11 => 55x - 88 = 49x - 56 => 6x = 32 => x = 4. A's age = 5×4 = 20 years. / (5x-8)/(7x-8) = 7/11 हल करने पर x = 4, अतः A की आयु = 20 वर्ष।"
     },
-    "answer": 0,
-    "explanation": {
-      "en": "Explanation in English.",
-      "hi": "????? ??? ?????????"
+    {
+      "id": 3,
+      "question": "Which among the following is a non-volatile memory? / निम्नलिखित में से कौन सी एक नॉन-वोलेटाइल (गैर-वाष्पशील) मेमोरी है?",
+      "options": ["ROM", "RAM", "SRAM", "DRAM"],
+      "answer": 0,
+      "explanation": "ROM (Read Only Memory) retains its stored data even when power is turned off. / ROM (रीड ओनली मेमोरी) में पावर बंद होने पर भी डेटा सुरक्षित रहता है।"
+    },
+    {
+      "id": 4,
+      "question": "Which shortcut key is used to lock a Windows PC? / विंडोज पीसी (Windows PC) को लॉक करने के लिए किस शॉर्टकट कुंजी का उपयोग किया जाता है?",
+      "options": ["Win + L", "Win + D", "Win + R", "Win + E"],
+      "answer": 0,
+      "explanation": "Windows key + L immediately locks your computer. / Windows key + L कंप्यूटर को तुरंत लॉक कर देता है।"
+    },
+    {
+      "id": 5,
+      "question": "A sum becomes 3 times itself in 6 years at Compound Interest. In how many years will it become 27 times? / चक्रवर्द्धि ब्याज पर एक राशि 6 वर्षों में स्वयं की 3 गुनी हो जाती है। कितने वर्षों में यह 27 गुनी हो जाएगी?",
+      "options": ["18 years / 18 वर्ष", "12 years / 12 वर्ष", "24 years / 24 वर्ष", "15 years / 15 वर्ष"],
+      "answer": 0,
+      "explanation": "3¹ in 6 years => 3³ (27 times) in 3 × 6 = 18 years. / 3¹ -> 6 वर्ष => 3³ -> 3 × 6 = 18 वर्ष।"
+    },
+    {
+      "id": 6,
+      "question": "In how many ways can the letters of the word 'COMPUTER' be arranged? / 'COMPUTER' शब्द के अक्षरों को कितने अलग-अलग तरीकों से व्यवस्थित किया जा सकता है?",
+      "options": ["40320", "5040", "720", "362880"],
+      "answer": 0,
+      "explanation": "'COMPUTER' has 8 distinct letters. Total arrangements = 8! = 40320. / 'COMPUTER' में 8 अलग अक्षर हैं। कुल व्यवस्थाएँ = 8! = 40320।"
+    },
+    {
+      "id": 7,
+      "question": "What is the unit digit in 7¹⁰⁵? / 7¹⁰⁵ में इकाई का अंक क्या होगा?",
+      "options": ["7", "9", "3", "1"],
+      "answer": 0,
+      "explanation": "Cyclicity of 7 is 4. 105 ÷ 4 leaves remainder 1. 7¹ = 7. / 7 की चक्रीयता 4 होती है। 105 में 4 से भाग देने पर शेषफल 1 बचता है, अतः 7¹ = 7।"
+    },
+    {
+      "id": 8,
+      "question": "Who has the final authority to decide whether a bill is a Money Bill in India? / भारत में कोई विधेयक धन विधेयक है या नहीं, इसका निर्णय करने का अंतिम अधिकार किसके पास है?",
+      "options": ["Speaker of Lok Sabha / लोकसभा अध्यक्ष", "President / राष्ट्रपति", "Prime Minister / प्रधानमंत्री", "Finance Minister / वित्त मंत्री"],
+      "answer": 0,
+      "explanation": "The Speaker of Lok Sabha certifies whether a financial bill is a Money Bill under Article 110. / अनुच्छेद 110 के तहत लोकसभा अध्यक्ष यह प्रमाणित करते हैं कि कोई विधेयक धन विधेयक है या नहीं।"
+    },
+    {
+      "id": 9,
+      "question": "Select the synonym of 'METICULOUS'. / 'METICULOUS' का पर्यायवाची शब्द चुनें।",
+      "options": ["Careful / सावधान", "Careless / लापरवाह", "Rash / जल्दबाज़", "Sloppy / बेपरवाह"],
+      "answer": 0,
+      "explanation": "'Meticulous' means showing great attention to detail; very careful and precise. / 'Meticulous' का अर्थ अति सावधान या सूक्ष्म होता है।"
+    },
+    {
+      "id": 10,
+      "question": "Statements: All chairs are tables. Some tables are desks. Conclusion I: Some chairs are desks. Conclusion II: No chair is a desk. / कथन: सभी कुर्सियाँ मेज़ हैं। कुछ मेज़ डेस्क हैं। निष्कर्ष I: कुछ कुर्सियाँ डेस्क हैं। निष्कर्ष II: कोई कुर्सी डेस्क नहीं है।",
+      "options": ["Either I or II follows / या तो I या II अनुसरण करता है", "Only I follows / केवल I अनुसरण करता है", "Only II follows / केवल II अनुसरण करता है", "Neither follows / कोई अनुसरण नहीं करता"],
+      "answer": 0,
+      "explanation": "Complementary pair (Some + No) between Chair and Desk forms an Either-Or case. / पूरक जोड़ी (कुछ + कोई नहीं) 'या तो I या II' की स्थिति बनाती है।"
+    },
+    {
+      "id": 11,
+      "question": "What is the default file extension for Microsoft Word 2016 documents? / एमएस वर्ड 2016 दस्तावेज़ का डिफ़ॉल्ट फ़ाइल एक्सटेंशन क्या है?",
+      "options": [".docx", ".doc", ".txt", ".rtf"],
+      "answer": 0,
+      "explanation": "Microsoft Word 2007 and later versions use the .docx format by default. / एमएस वर्ड 2007 और उसके बाद के संस्करण डिफ़ॉल्ट रूप से .docx प्रारूप का उपयोग करते हैं।"
+    },
+    {
+      "id": 12,
+      "question": "A hemispherical bowl of internal radius 9 cm is full of liquid. This liquid is to be filled into cylindrical bottles of diameter 3 cm and height 4 cm. How many bottles are needed? / 9 सेमी आंतरिक त्रिज्या वाला एक अर्धगोलाकार कटोरा तरल से भरा है। इस तरल को 3 सेमी व्यास और 4 सेमी ऊंचाई वाली बेलनाकार बोतलों में भरा जाना है। कितनी बोतलों की आवश्यकता होगी?",
+      "options": ["54", "36", "48", "60"],
+      "answer": 0,
+      "explanation": "Volume of bowl = (2/3)π(9³) = 486π. Volume of bottle = π(1.5²)(4) = 9π. Bottles = 486π / 9π = 54. / कटोरी का आयतन = 486π, बोतल का आयतन = 9π। बोतलों की संख्या = 54।"
+    },
+    {
+      "id": 13,
+      "question": "Who was the Viceroy of India when the Vernacular Press Act was passed in 1878? / 1878 में वर्नाक्युलर प्रेस एक्ट पारित होने के समय भारत का वायसराय कौन था?",
+      "options": ["Lord Lytton / लॉर्ड लिटन", "Lord Ripon / लॉर्ड रिपन", "Lord Curzon / लॉर्ड कर्जन", "Lord Dufferin / लॉर्ड डफरिन"],
+      "answer": 0,
+      "explanation": "Lord Lytton enacted the Vernacular Press Act in 1878 to curtail Indian language press. / लॉर्ड लिटन ने भारतीय भाषा के समाचार पत्रों पर प्रतिबंध लगाने के लिए 1878 में यह अधिनियम लागू किया।"
+    },
+    {
+      "id": 14,
+      "question": "Convert the complex number (1 + i) to polar form. / सम्मिश्र संख्या (1 + i) को ध्रुवीय रूप (Polar form) में परिवर्तित करें।",
+      "options": ["√2(cos 45° + i sin 45°)", "2(cos 45° + i sin 45°)", "√2(cos 30° + i sin 30°)", "2(cos 60° + i sin 60°)"],
+      "answer": 0,
+      "explanation": "Modulus r = √(1²+1²) = √2. Argument θ = tan⁻¹(1/1) = 45°. Polar form = √2(cos 45° + i sin 45°). / मापांक r = √2 और कोणांक θ = 45°।"
+    },
+    {
+      "id": 15,
+      "question": "Which key is used to reload the current webpage in a web browser? / वेब ब्राउज़र में वर्तमान वेब पेज को रीलोड करने के लिए किस कुंजी का उपयोग किया जाता है?",
+      "options": ["F5", "F2", "F11", "F1"],
+      "answer": 0,
+      "explanation": "Pressing F5 or Ctrl+R reloads the webpage in almost all modern browsers. / F5 दबाने से लगभग सभी ब्राउज़रों में वेबपेज रीफ्रेश हो जाता है।"
+    },
+    {
+      "id": 16,
+      "question": "Find the variance of the given set of data: 2, 4, 6, 8, 10. / दिए गए आंकड़ों का प्रसरण (Variance) ज्ञात कीजिए: 2, 4, 6, 8, 10।",
+      "options": ["8", "10", "4", "2"],
+      "answer": 0,
+      "explanation": "Mean = 6. Squared deviations from mean = (16 + 4 + 0 + 4 + 16)/5 = 40/5 = 8. / माध्य = 6। प्रसरण = [(2-6)² + (4-6)² + (6-6)² + (8-6)² + (10-6)²]/5 = 40/5 = 8।"
+    },
+    {
+      "id": 17,
+      "question": "In a triangle ABC, the bisectors of angle B and angle C intersect at point O. If angle A = 70°, find angle BOC. / त्रिभुज ABC में, कोण B और कोण C के समद्विभाजक बिंदु O पर प्रतिच्छेद करते हैं। यदि कोण A = 70° है, तो कोण BOC ज्ञात कीजिए।",
+      "options": ["125°", "110°", "135°", "140°"],
+      "answer": 0,
+      "explanation": "Angle BOC = 90° + (A / 2) = 90° + 35° = 125°. / आंतरिक समद्विभाजक का कोण = 90° + A/2 = 90° + 35° = 125°।"
+    },
+    {
+      "id": 18,
+      "question": "One word substitution: 'A remedy for all diseases'. / 'सभी बीमारियों की एक दवा' के लिए एक शब्द।",
+      "options": ["Panacea / रामबाण", "Antidote / विषहारक", "Placebo / छद्म औषधि", "Antibiotic / प्रतिजैविक"],
+      "answer": 0,
+      "explanation": "A Panacea is a solution or remedy for all difficulties or diseases. / सभी रोगों का निवारण करने वाली दवा को रामबाण (Panacea) कहते हैं।"
+    },
+    {
+      "id": 19,
+      "question": "Select the correct antonym of 'OBSOLETE'. / 'OBSOLETE' का सही विलोम शब्द चुनें।",
+      "options": ["Contemporary / समकालीन/आधुनिक", "Outdated / पुराना", "Ancient / प्राचीन", "Archaic / आद्य"],
+      "answer": 0,
+      "explanation": "'Obsolete' means no longer produced or used; out of date. 'Contemporary' means modern/current. / 'Obsolete' का अर्थ अप्रचलित होता है, जिसका विलोम 'Contemporary' है।"
+    },
+    {
+      "id": 20,
+      "question": "Who invented the World Wide Web (WWW)? / वर्ल्ड वाइड वेब (WWW) का आविष्कार किसने किया था?",
+      "options": ["Tim Berners-Lee / टिम बर्नर्स-ली", "Bill Gates / बिल गेट्स", "Steve Jobs / स्टीव जॉब्स", "Alan Turing / एलन ट्यूरिंग"],
+      "answer": 0,
+      "explanation": "Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN. / टिम बर्नर्स-ली ने 1989 में CERN में काम करते हुए WWW का आविष्कार किया था।"
+    },
+    {
+      "id": 21,
+      "question": "In a race of 1000m, A beats B by 100m and B beats C by 100m. By how many meters does A beat C in the same race? / 1000 मीटर की दौड़ में A, B को 100 मीटर से हराता है और B, C को 100 मीटर से हराता है। उसी दौड़ में A, C को कितने मीटर से हराएगा?",
+      "options": ["190m", "200m", "180m", "210m"],
+      "answer": 0,
+      "explanation": "Ratio A:B = 1000:900, B:C = 1000:900 => A:C = 100:81. When A runs 1000m, C runs 810m. Difference = 190m. / A:B = 10:9 और B:C = 10:9 => A:C = 100:81। अतः अंतर = 190 मीटर।"
+    },
+    {
+      "id": 22,
+      "question": "In which layer of OSI model does IP (Internet Protocol) operate? / OSI मॉडल की किस परत में IP (इंटरनेट प्रोटोकॉल) कार्य करता है?",
+      "options": ["Network Layer / नेटवर्क लेयर", "Transport Layer / ट्रांसपोर्ट लेयर", "Data Link Layer / डेटा लिंक लेयर", "Application Layer / एप्लीकेशन लेयर"],
+      "answer": 0,
+      "explanation": "IP operates at Layer 3, which is the Network Layer of the OSI model. / IP मॉडल की तीसरी परत (नेटवर्क लेयर) पर कार्य करता है।"
+    },
+    {
+      "id": 23,
+      "question": "Select the misspelt word. / अशुद्ध वर्तनी वाला शब्द चुनें।",
+      "options": ["Manoeuvre", "Bureaucracy", "Hierarchy", "Questionare"],
+      "answer": 3,
+      "explanation": "The correct spelling is 'Questionnaire' (with double 'n'). / सही वर्तनी 'Questionnaire' है।"
+    },
+    {
+      "id": 24,
+      "question": "What is the sum of exterior angles of a regular 12-sided polygon? / एक सम 12-भुज के सभी बाह्य कोणों का योग कितना होता है?",
+      "options": ["360°", "180°", "720°", "1080°"],
+      "answer": 0,
+      "explanation": "The sum of exterior angles of ANY convex polygon is always 360°. / किसी भी बहुभुज के सभी बाह्य कोणों का योग हमेशा 360° होता है।"
+    },
+    {
+      "id": 25,
+      "question": "Which tax was replaced by Goods and Services Tax (GST) in India? / भारत में माल एवं सेवा कर (GST) द्वारा किस कर को प्रतिस्थापित किया गया था?",
+      "options": ["Value Added Tax (VAT) / मूल्य संवर्धित कर", "Income Tax / आयकर", "Corporate Tax / कॉर्पोरेट कर", "Customs Duty / सीमा शुल्क"],
+      "answer": 0,
+      "explanation": "GST subsumed several indirect taxes including VAT, Excise Duty, and Service Tax. / GST ने वैट, उत्पाद शुल्क और सेवा कर सहित कई अप्रत्यक्ष करों को समाप्त कर दिया।"
+    },
+    {
+      "id": 26,
+      "question": "Simplify: sin(90° - θ) cos θ + cos(90° - θ) sin θ / सरल कीजिए: sin(90° - θ) cos θ + cos(90° - θ) sin θ",
+      "options": ["1", "0", "sin 2θ", "cos 2θ"],
+      "answer": 0,
+      "explanation": "cos θ · cos θ + sin θ · sin θ = cos² θ + sin² θ = 1. / cos² θ + sin² θ = 1।"
+    },
+    {
+      "id": 27,
+      "question": "What is the term used for malicious software that demands payment to restore access to data? / उस हानिकारक सॉफ़्टवेयर के लिए क्या शब्द है जो डेटा तक पहुँच बहाल करने के लिए भुगतान की मांग करता है?",
+      "options": ["Ransomware / रैंसमवेयर", "Spyware / स्पाइवेयर", "Adware / एडवेयर", "Trojan / ट्रोजन"],
+      "answer": 0,
+      "explanation": "Ransomware encrypts files and demands a ransom for decryption. / रैंसमवेयर फ़ाइलों को एन्क्रिप्ट करता है और डिक्रिप्शन के लिए फिरौती मांगता है।"
+    },
+    {
+      "id": 28,
+      "question": "Spot the error: 'He has been studying in this college since three years.' / अशुद्धि पहचानें: 'He has been studying in this college since three years.'",
+      "options": ["since three years", "He has been", "studying in", "this college"],
+      "answer": 0,
+      "explanation": "Use 'for' instead of 'since' for a period or duration of time. / समय की अवधि (3 वर्ष) के लिए 'since' के स्थान पर 'for' का प्रयोग होगा।"
+    },
+    {
+      "id": 29,
+      "question": "Find the missing number in series: 7, 14, 28, 56, 112, ? / श्रृंखला में लुप्त संख्या ज्ञात कीजिए: 7, 14, 28, 56, 112, ?",
+      "options": ["224", "212", "196", "240"],
+      "answer": 0,
+      "explanation": "Pattern is ×2. 112 × 2 = 224. / प्रत्येक पद में 2 से गुणा किया जा रहा है।"
+    },
+    {
+      "id": 30,
+      "question": "Who was awarded the Nobel Prize in Physics for the discovery of the photoelectric effect? / प्रकाश वैद्युत प्रभाव की खोज के लिए भौतिकी में नोबेल पुरस्कार किसे दिया गया था?",
+      "options": ["Albert Einstein / अल्बर्ट आइंस्टीन", "Niels Bohr / नील्स बोह्र", "Max Planck / मैक्स प्लैंक", "Ernest Rutherford / अर्नेस्ट रदरफोर्ड"],
+      "answer": 0,
+      "explanation": "Albert Einstein won the 1921 Nobel Prize in Physics for his explanation of the Photoelectric Effect. / अल्बर्ट आइंस्टीन को प्रकाश वैद्युत प्रभाव की व्याख्या के लिए 1921 में नोबेल पुरस्कार मिला था।"
+    },
+    {
+      "id": 31,
+      "question": "If two dice are thrown simultaneously, what is the probability of getting a sum of 8? / यदि दो पासे एक साथ फेंके जाते हैं, तो दोनों का योग 8 आने की प्रायिकता क्या है?",
+      "options": ["5/36", "1/6", "7/36", "4/36"],
+      "answer": 0,
+      "explanation": "Favorable outcomes = (2,6), (3,5), (4,4), (5,3), (6,2) = 5 cases. Total outcomes = 36. Probability = 5/36. / अनुकूल परिस्थितियाँ = 5, कुल = 36। प्रायिकता = 5/36।"
+    },
+    {
+      "id": 32,
+      "question": "Which of the following is an ex-officio Chairman of NITI Aayog? / निम्नलिखित में से कौन नीति आयोग का पदेन अध्यक्ष होता है?",
+      "options": ["Prime Minister / प्रधानमंत्री", "President / राष्ट्रपति", "Finance Minister / वित्त मंत्री", "RBI Governor / आरबीआई गवर्नर"],
+      "answer": 0,
+      "explanation": "The Prime Minister of India serves as the ex-officio Chairman of NITI Aayog. / भारत के प्रधानमंत्री नीति आयोग के पदेन अध्यक्ष होते हैं।"
+    },
+    {
+      "id": 33,
+      "question": "Idiom meaning: 'To throw in the towel'. / 'To throw in the towel' का अर्थ क्या है?",
+      "options": ["To admit defeat / हार स्वीकार करना", "To clean the floor / फर्श साफ़ करना", "To fight back / पलटवार करना", "To take a bath / स्नान करना"],
+      "answer": 0,
+      "explanation": "'To throw in the towel' means to surrender or admit failure. / इसका अर्थ हार मान लेना या प्रयास बंद कर देना है।"
+    },
+    {
+      "id": 34,
+      "question": "In a group of 50 students, 30 play Cricket, 25 play Football, and 10 play both. How many play neither game? / 50 छात्रों के समूह में, 30 क्रिकेट खेलते हैं, 25 फुटबॉल खेलते हैं, और 10 दोनों खेलते हैं। कितने छात्र कोई भी खेल नहीं खेलते?",
+      "options": ["5", "10", "15", "0"],
+      "answer": 0,
+      "explanation": "Students playing at least one game = 30 + 25 - 10 = 45. Neither game = 50 - 45 = 5. / कम से कम एक खेल खेलने वाले = 45। कोई खेल न खेलने वाले = 50 - 45 = 5।"
+    },
+    {
+      "id": 35,
+      "question": "In MS Excel, which symbol is mandatory before entering a formula? / एमएस एक्सेल में, फॉर्मूला दर्ज करने से पहले कौन सा प्रतीक अनिवार्य है?",
+      "options": ["=", "@", "#", "$"],
+      "answer": 0,
+      "explanation": "All formulas in Microsoft Excel must begin with an equal sign (=). / एमएस एक्सेल में सभी फॉर्मूले बराबर के निशान (=) से शुरू होने चाहिए।"
+    },
+    {
+      "id": 36,
+      "question": "An article is sold at a discount of 20% and still earns a profit of 20%. If CP is Rs. 400, find MP. / एक वस्तु 20% छूट पर बेची जाती है और फिर भी 20% का लाभ होता है। यदि क्रय मूल्य 400 रुपये है, तो अंकित मूल्य ज्ञात कीजिए।",
+      "options": ["Rs. 600", "Rs. 500", "Rs. 550", "Rs. 650"],
+      "answer": 0,
+      "explanation": "MP/CP = (100 + Profit%)/(100 - Discount%) = 120/80 = 3/2. MP = (3/2) × 400 = Rs. 600. / MP/CP = 120/80 = 3/2। MP = 600 रुपये।"
+    },
+    {
+      "id": 37,
+      "question": "Which schedule of the Constitution deals with anti-defection law? / संविधान की कौन सी अनुसूची दल-बदल विरोधी कानून से संबंधित है?",
+      "options": ["10th Schedule / 10वीं अनुसूची", "9th Schedule / 9वीं अनुसूची", "11th Schedule / 11वीं अनुसूची", "8th Schedule / 8वीं अनुसूची"],
+      "answer": 0,
+      "explanation": "The 10th Schedule was added by the 52nd Amendment in 1985 to curb political defection. / 52वें संशोधन द्वारा 10वीं अनुसूची जोड़ी गई जो दल-बदल से संबंधित है।"
+    },
+    {
+      "id": 38,
+      "question": "Find the average speed of a car that travels the first half of distance at 40 km/h and second half at 60 km/h. / उस कार की औसत गति ज्ञात कीजिए जो दूरी का पहला आधा भाग 40 किमी/घंटा और दूसरा आधा भाग 60 किमी/घंटा की गति से तय करती है।",
+      "options": ["48 km/h", "50 km/h", "45 km/h", "52 km/h"],
+      "answer": 0,
+      "explanation": "Average Speed = 2xy / (x + y) = (2 × 40 × 60) / 100 = 48 km/h. / औसत चाल = (2 × 40 × 60) / 100 = 48 किमी/घंटा।"
+    },
+    {
+      "id": 39,
+      "question": "Which full form is correct for CPU? / सीपीयू (CPU) का सही पूर्ण रूप कौन सा है?",
+      "options": ["Central Processing Unit", "Central Program Unit", "Control Processing Unit", "Central Peripheral Unit"],
+      "answer": 0,
+      "explanation": "CPU stands for Central Processing Unit. / CPU का पूर्ण रूप सेंट्रल प्रोसेसिंग यूनिट है।"
+    },
+    {
+      "id": 40,
+      "question": "If sin A + cos A = √2 cos A, find tan A. / यदि sin A + cos A = √2 cos A है, तो tan A का मान ज्ञात कीजिए।",
+      "options": ["√2 - 1", "√2 + 1", "1", "1/√2"],
+      "answer": 0,
+      "explanation": "Divide both sides by cos A: tan A + 1 = √2 => tan A = √2 - 1. / दोनों पक्षों को cos A से भाग देने पर: tan A = √2 - 1।"
+    },
+    {
+      "id": 41,
+      "question": "Which article of the Indian Constitution prohibits Untouchability? / भारतीय संविधान का कौन सा अनुच्छेद अस्पृश्यता का उन्मूलन करता है?",
+      "options": ["Article 17 / अनुच्छेद 17", "Article 14 / अनुच्छेद 14", "Article 19 / अनुच्छेद 19", "Article 21 / अनुच्छेद 21"],
+      "answer": 0,
+      "explanation": "Article 17 abolishes Untouchability and forbids its practice in any form. / अनुच्छेद 17 अस्पृश्यता को समाप्त करता है।"
+    },
+    {
+      "id": 42,
+      "question": "Find the unit digit of (234)¹⁰⁰ + (234)¹⁰¹. / (234)¹⁰⁰ + (234)¹⁰¹ का इकाई अंक ज्ञात कीजिए।",
+      "options": ["0", "2", "4", "6"],
+      "answer": 0,
+      "explanation": "For 4: even power ends in 6, odd power ends in 4. Unit digit = 6 + 4 = 10 -> 0. / 4 की सम घात में इकाई अंक 6 और विषम में 4 होता है। 6 + 4 = 10 -> 0।"
+    },
+    {
+      "id": 43,
+      "question": "Convert into Active Voice: 'The song was sung by classical singers.' / एक्टिव वॉइस में बदलें: 'The song was sung by classical singers.'",
+      "options": ["Classical singers sang the song. / क्लासिकल सिंगर्स संग द सॉन्ग।", "Classical singers sing the song. / क्लासिकल सिंगर्स सिंग द सॉन्ग।", "Classical singers have sung the song. / क्लासिकल सिंगर्स हैव संग द सॉन्ग।", "Classical singers were singing the song. / क्लासिकल सिंगर्स वर सिंगिंग द सॉन्ग।"],
+      "answer": 0,
+      "explanation": "Simple past passive 'was sung' becomes simple past active 'sang'. / 'was sung' एक्टिव वॉइस में 'sang' बनेगा।"
+    },
+    {
+      "id": 44,
+      "question": "If the height of a cone is doubled and its radius remains constant, by what percentage does its volume increase? / यदि किसी शंकु की ऊंचाई दोगुनी कर दी जाए और त्रिज्या समान रहे, तो उसके आयतन में कितने प्रतिशत की वृद्धि होगी?",
+      "options": ["100%", "200%", "50%", "300%"],
+      "answer": 0,
+      "explanation": "Volume is directly proportional to height. If height doubles (h to 2h), volume doubles (100% increase). / आयतन ऊँचाई के समानुपाती है। ऊँचाई दोगुनी होने पर आयतन 100% बढ़ जाएगा।"
+    },
+    {
+      "id": 45,
+      "question": "Which computer memory is the fastest? / कौन सी कंप्यूटर मेमोरी सबसे तेज़ होती है?",
+      "options": ["Cache Memory / कैश मेमोरी", "RAM", "Hard Disk", "Optical Drive"],
+      "answer": 0,
+      "explanation": "CPU Registers and Cache memory operate directly at microprocessor speed, making them the fastest. / कैश मेमोरी सीपीयू के अति निकट होती है और सबसे तेज़ काम करती है।"
+    },
+    {
+      "id": 46,
+      "question": "In a right-angled triangle ABC, right-angled at B, if tan A = 1, find 2 sin A cos A. / एक समकोण त्रिभुज ABC में, जिसका कोण B समकोण है, यदि tan A = 1 है, तो 2 sin A cos A का मान ज्ञात कीजिए।",
+      "options": ["1", "0", "1/2", "2"],
+      "answer": 0,
+      "explanation": "tan A = 1 => A = 45°. 2 sin 45° cos 45° = 2 × (1/√2) × (1/√2) = 1. / A = 45°। 2 × (1/√2) × (1/√2) = 1।"
+    },
+    {
+      "id": 47,
+      "question": "Who was the founder of the Maurya Dynasty? / मौर्य वंश का संस्थापक कौन था?",
+      "options": ["Chandragupta Maurya / चंद्रगुप्त मौर्य", "Ashoka / अशोक", "Bindusara / बिन्दुसार", "Bimbisara / बिम्बिसार"],
+      "answer": 0,
+      "explanation": "Chandragupta Maurya established the Maurya Empire in 322 BCE with Chanakya's help. / चंद्रगुप्त मौर्य ने चाणक्य की सहायता से 322 ईसा पूर्व में मौर्य साम्राज्य की स्थापना की थी।"
+    },
+    {
+      "id": 48,
+      "question": "Select the synonym of 'FUTILE'. / 'FUTILE' का पर्यायवाची शब्द चुनें।",
+      "options": ["Pointless / व्यर्थ", "Useful / उपयोगी", "Fruitful / फलदायी", "Effective / प्रभावी"],
+      "answer": 0,
+      "explanation": "'Futile' means producing no useful result; pointless. / 'Futile' का अर्थ निरर्थक या निष्फल होता है।"
+    },
+    {
+      "id": 49,
+      "question": "Solve for x: log₂(x) + log₂(4) = 5 / x के लिए हल करें: log₂(x) + log₂(4) = 5",
+      "options": ["8", "16", "32", "4"],
+      "answer": 0,
+      "explanation": "log₂(4x) = 5 => 4x = 2⁵ = 32 => x = 8. / log₂(4x) = 5 => 4x = 32 => x = 8।"
+    },
+    {
+      "id": 50,
+      "question": "Which fundamental right cannot be suspended even during a National Emergency? / राष्ट्रीय आपातकाल के दौरान भी कौन सा मौलिक अधिकार निलंबित नहीं किया जा सकता?",
+      "options": ["Articles 20 and 21 / अनुच्छेद 20 और 21", "Articles 14 and 15 / अनुच्छेद 14 और 15", "Article 19 / अनुच्छेद 19", "Article 32 / अनुच्छेद 32"],
+      "answer": 0,
+      "explanation": "Articles 20 (protection in respect of conviction) and 21 (right to life) remain enforceable during Emergency. / अनुच्छेद 20 और 21 आपातकाल के दौरान भी निलंबित नहीं होते।"
     }
-  }
-]
+  ]
+}
