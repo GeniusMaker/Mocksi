@@ -1,18 +1,358 @@
-[
-  {
-    "id": 1,
-    "question": {
-      "en": "Sample Question in English?",
-      "hi": "????? ??? ????? ???????"
+{
+  "title": "SSC CHSL Tier 1 - General Awareness / एसएससी सीएचएसएल टीयर 1 - सामान्य जागरूकता",
+  "positiveMarks": 2,
+  "negativeMarks": 0.5,
+  "timeLimitMinutes": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who was the founder of the Imperial Chola Dynasty? / साम्राज्यवादी चोल वंश के संस्थापक कौन थे?",
+      "options": ["Vijayalaya / विजयालय", "Rajaraja I / राजराज प्रथम", "Rajendra I / राजेंद्र प्रथम", "Parantaka I / परांतक प्रथम"],
+      "answer": 0,
+      "explanation": "Vijayalaya established the Chola power in Tanjore around 850 CE. / विजयालय ने लगभग 850 ईस्वी में तंजौर में चोल सत्ता स्थापित की थी।"
     },
-    "options": {
-      "en": ["Option A", "Option B", "Option C", "Option D"],
-      "hi": ["?????? A", "?????? B", "?????? C", "?????? D"]
+    {
+      "id": 2,
+      "question": "Which classical dance form is associated with Rukmini Devi Arundale? / रुक्मिणी देवी अरुंडेल का संबंध किस शास्त्रीय नृत्य शैली से है?",
+      "options": ["Bharatanatyam / भरतनाट्यम", "Kathak / कथक", "Odissi / ओडिसी", "Manipuri / मणिपुरी"],
+      "answer": 0,
+      "explanation": "Rukmini Devi Arundale was a pioneer of Bharatanatyam and founder of Kalakshetra. / रुक्मिणी देवी अरुंडेल भरतनाट्यम की प्रतिपादक और कलाक्षेत्र की संस्थापिका थीं।"
     },
-    "answer": 0,
-    "explanation": {
-      "en": "Explanation in English.",
-      "hi": "????? ??? ?????????"
+    {
+      "id": 3,
+      "question": "What is the atomic number of Carbon? / कार्बन का परमाणु क्रमांक क्या है?",
+      "options": ["6", "12", "8", "14"],
+      "answer": 0,
+      "explanation": "Carbon has an atomic number of 6 and atomic mass of 12. / कार्बन का परमाणु क्रमांक 6 होता है।"
+    },
+    {
+      "id": 4,
+      "question": "In which state is the Hornbill Festival celebrated? / हॉर्नबिल महोत्सव किस राज्य में मनाया जाता है?",
+      "options": ["Nagaland / नागालैंड", "Manipur / मणिपुर", "Mizoram / मिजोरम", "Assam / असम"],
+      "answer": 0,
+      "explanation": "The Hornbill Festival is held annually in Nagaland from 1-10 December. / नागालैंड में प्रतिवर्ष 1 से 10 दिसंबर तक हॉर्नबिल महोत्सव का आयोजन किया जाता है।"
+    },
+    {
+      "id": 5,
+      "question": "Which Article deals with the Abolition of Untouchability? / कौन सा अनुच्छेद अस्पृश्यता के उन्मूलन से संबंधित है?",
+      "options": ["Article 17 / अनुच्छेद 17", "Article 14 / अनुच्छेद 14", "Article 19 / अनुच्छेद 19", "Article 21 / अनुच्छेद 21"],
+      "answer": 0,
+      "explanation": "Article 17 abolishes untouchability and forbids its practice in any form. / अनुच्छेद 17 अस्पृश्यता को समाप्त करता है।"
+    },
+    {
+      "id": 6,
+      "question": "Who authored the book 'My Experiments with Truth'? / 'सत्य के साथ मेरे प्रयोग' पुस्तक के लेखक कौन हैं?",
+      "options": ["Mahatma Gandhi / महात्मा गांधी", "Jawaharlal Nehru / जवाहरलाल नेहरू", "B.R. Ambedkar / बी.आर. अम्बेडकर", "Swami Vivekananda / स्वामी विवेकानंद"],
+      "answer": 0,
+      "explanation": "Mahatma Gandhi wrote his autobiography 'The Story of My Experiments with Truth'. / यह महात्मा गांधी की आत्मकथा है।"
+    },
+    {
+      "id": 7,
+      "question": "What is the commercial unit of electrical energy? / विद्युत ऊर्जा की व्यावसायिक इकाई क्या है?",
+      "options": ["Kilowatt-hour (kWh) / किलोवाट-घंटा", "Joule / जूल", "Watt / वाट", "Volt / वोल्ट"],
+      "answer": 0,
+      "explanation": "1 kilowatt-hour (1 unit) is equal to 3.6 × 10^6 Joules. / 1 किलोवाट-घंटा 3.6 × 10^6 जूल के बराबर होता है।"
+    },
+    {
+      "id": 8,
+      "question": "Which imaginary line passes almost halfway through India? / कौन सी काल्पनिक रेखा भारत के लगभग मध्य से होकर गुजरती है?",
+      "options": ["Tropic of Cancer / कर्क रेखा", "Equator / भूमध्य रेखा", "Tropic of Capricorn / मकर रेखा", "Prime Meridian / प्रधान मध्याह्न रेखा"],
+      "answer": 0,
+      "explanation": "Tropic of Cancer (23.5° N) passes through 8 Indian states. / कर्क रेखा भारत के 8 राज्यों से होकर गुजरती है।"
+    },
+    {
+      "id": 9,
+      "question": "Which organ in the human body secretes bile juice? / मानव शरीर में कौन सा अंग पित्त रस स्रावित करता है?",
+      "options": ["Liver / यकृत", "Gallbladder / पित्ताशय", "Pancreas / अग्न्याशय", "Stomach / पेट"],
+      "answer": 0,
+      "explanation": "Bile juice is secreted by the Liver and stored in the Gallbladder. / पित्त रस का स्राव यकृत करता है तथा यह पित्ताशय में जमा होता है।"
+    },
+    {
+      "id": 10,
+      "question": "Who was the Governor-General during the Partition of Bengal in 1905? / 1905 में बंगाल विभाजन के समय गवर्नर-जनरल कौन था?",
+      "options": ["Lord Curzon / लॉर्ड कर्जन", "Lord Minto / लॉर्ड मिंटो", "Lord Ripon / लॉर्ड रिपन", "Lord Hardinge / लॉर्ड हार्डिंग"],
+      "answer": 0,
+      "explanation": "Lord Curzon announced the partition of Bengal in 1905. / लॉर्ड कर्जन ने 1905 में बंगाल विभाजन की घोषणा की थी।"
+    },
+    {
+      "id": 11,
+      "question": "What is the SI unit of Force? / बल की SI इकाई क्या है?",
+      "options": ["Newton / न्यूटन", "Pascal / पास्कल", "Joule / जूल", "Watt / वाट"],
+      "answer": 0,
+      "explanation": "The SI unit of force is Newton (N = kg·m/s²). / बल की SI इकाई न्यूटन (N) है।"
+    },
+    {
+      "id": 12,
+      "question": "Where is the headquarters of UNESCO situated? / यूनेस्को (UNESCO) का मुख्यालय कहाँ स्थित है?",
+      "options": ["Paris, France / पेरिस, फ्रांस", "Geneva, Switzerland / जेनेवा, स्विट्जरलैंड", "New York, USA / न्यूयॉर्क, अमेरिका", "London, UK / लंदन, यूके"],
+      "answer": 0,
+      "explanation": "UNESCO headquarters is located in Paris, France. / यूनेस्को का मुख्यालय पेरिस, फ्रांस में है।"
+    },
+    {
+      "id": 13,
+      "question": "Which planet is known as the 'Morning Star' or 'Evening Star'? / किस ग्रह को 'भोर का तारा' या 'सांझ का तारा' कहा जाता है?",
+      "options": ["Venus / शुक्र", "Mars / मंगल", "Mercury / बुध", "Jupiter / बृहस्पति"],
+      "answer": 0,
+      "explanation": "Venus is the brightest planet visible in dawn and dusk. / शुक्र भोर और संध्या में दिखाई देने वाला सबसे चमकीला ग्रह है।"
+    },
+    {
+      "id": 14,
+      "question": "Who introduced the silver coin called 'Rupiya'? / 'रुपया' नामक चांदी का सिक्का किसने चलाया था?",
+      "options": ["Sher Shah Suri / शेरशाह सूरी", "Akbar / अकबर", "Alauddin Khalji / अलाउद्दीन खिलजी", "Iltutmish / इल्तुतमिश"],
+      "answer": 0,
+      "explanation": "Sher Shah Suri issued the silver Rupiya weighing 178 grains. / शेरशाह सूरी ने 178 ग्रेन वजन का चांदी का रुपया जारी किया था।"
+    },
+    {
+      "id": 15,
+      "question": "Which Vitamin deficiency causes Scurvy? / किस विटामिन की कमी से स्कर्वी रोग होता है?",
+      "options": ["Vitamin C / विटामिन C", "Vitamin A / विटामिन A", "Vitamin D / विटामिन D", "Vitamin B1 / विटामिन B1"],
+      "answer": 0,
+      "explanation": "Deficiency of Vitamin C (Ascorbic Acid) causes Scurvy. / विटामिन C की कमी से मसूड़ों से खून बहने वाला स्कर्वी रोग होता है।"
+    },
+    {
+      "id": 16,
+      "question": "In which state is the Loktak Lake located? / लोकतक झील किस राज्य में स्थित है?",
+      "options": ["Manipur / मणिपुर", "Meghalaya / मेघालय", "Assam / असम", "Tripura / त्रिपुरा"],
+      "answer": 0,
+      "explanation": "Loktak Lake is famous for floating phumdis in Manipur. / लोकतक झील मणिपुर में तैरते हुए फुमडी के लिए प्रसिद्ध है।"
+    },
+    {
+      "id": 17,
+      "question": "Which instrument is used to measure humidity in the air? / वायु में आर्द्रता मापने के लिए किस यंत्र का प्रयोग किया जाता है?",
+      "options": ["Hygrometer / हाइग्रोमीटर", "Hydrometer / हाइड्रोमीटर", "Barometer / बैरोमीटर", "Pyrometer / पायरोमीटर"],
+      "answer": 0,
+      "explanation": "A Hygrometer measures atmospheric relative humidity. / हाइग्रोमीटर वायुमंडलीय आर्द्रता को मापता है।"
+    },
+    {
+      "id": 18,
+      "question": "Who was the founder of the Brahmo Samaj? / ब्रह्म समाज के संस्थापक कौन थे?",
+      "options": ["Raja Ram Mohan Roy / राजा राममोहन राय", " स्वामी दयानंद", " स्वामी विवेकानंद", " केशव चंद्र सेन"],
+      "answer": 0,
+      "explanation": "Raja Ram Mohan Roy founded Brahmo Samaj in 1828. / राजा राममोहन राय ने 1828 में ब्रह्म समाज की स्थापना की थी।"
+    },
+    {
+      "id": 19,
+      "question": "Which fundamental right cannot be suspended even during Emergency? / आपातकाल के दौरान भी कौन सा मौलिक अधिकार निलंबित नहीं किया जा सकता?",
+      "options": ["Articles 20 & 21 / अनुच्छेद 20 और 21", "Article 19 / अनुच्छेद 19", "Article 14 / अनुच्छेद 14", "Article 32 / अनुच्छेद 32"],
+      "answer": 0,
+      "explanation": "Right to life and personal liberty (21) and protection against conviction (20) remain intact. / अनुच्छेद 20 और 21 को आपातकाल में भी निलंबित नहीं किया जा सकता।"
+    },
+    {
+      "id": 20,
+      "question": "What is the chemical formula of Washing Soda? / धावन सोडा का रासायनिक सूत्र क्या है?",
+      "options": ["Na2CO3·10H2O", "NaHCO3", "NaOH", "CaOCl2"],
+      "answer": 0,
+      "explanation": "Washing soda is hydrated Sodium Carbonate (Na2CO3·10H2O). / धावन सोडा हाइड्रेटेड सोडियम कार्बोनेट है।"
+    },
+    {
+      "id": 21,
+      "question": "Who was the first Law Minister of independent India? / स्वतंत्र भारत के प्रथम कानून मंत्री कौन थे?",
+      "options": ["Dr. B.R. Ambedkar / डॉ. बी.आर. अम्बेडकर", "Sardar Patel / सरदार पटेल", "Maulana Azad / मौलाना आजाद", "John Mathai / जॉन मथाई"],
+      "answer": 0,
+      "explanation": "Dr. B.R. Ambedkar served as India's first Law and Justice Minister. / डॉ. बी.आर. अम्बेडकर भारत के पहले कानून मंत्री थे।"
+    },
+    {
+      "id": 22,
+      "question": "Which city is known as the 'Silicon Valley of India'? / किस शहर को 'भारत की सिलिकॉन वैली' कहा जाता है?",
+      "options": ["Bengaluru / बेंगलुरु", "Hyderabad / हैदराबाद", "Pune / पुणे", "Chennai / चेन्नई"],
+      "answer": 0,
+      "explanation": "Bengaluru is called the Silicon Valley of India due to its IT industry. / आईटी उद्योग का गढ़ होने के कारण बेंगलुरु को सिलिकॉन वैली कहा जाता है।"
+    },
+    {
+      "id": 23,
+      "question": "The famous Khajuraho monuments were built by which dynasty? / प्रसिद्ध खजुराहो स्मारकों का निर्माण किस राजवंश ने करवाया था?",
+      "options": ["Chandela / चंदेल", "Paramara / परमार", "Chauhan / चौहान", "Rashtrakuta / राष्ट्रकूट"],
+      "answer": 0,
+      "explanation": "Chandela dynasty rulers built the temples in Khajuraho, MP. / खजुराहो के मंदिरों का निर्माण चंदेल शासकों ने कराया था।"
+    },
+    {
+      "id": 24,
+      "question": "What is the gas filled in electric bulbs? / बिजली के बल्ब में कौन सी गैस भरी जाती है?",
+      "options": ["Argon / ऑर्गन", "Hydrogen / हाइड्रोजन", "Oxygen / ऑक्सीजन", "Carbon Dioxide / कार्बन डाइऑक्साइड"],
+      "answer": 0,
+      "explanation": "Inert gases like Argon prevent filament oxidation. / अक्रिय गैस जैसे ऑर्गन फिलामेंट के ऑक्सीकरण को रोकती है।"
+    },
+    {
+      "id": 25,
+      "question": "Which schedule of the Indian Constitution contains the Anti-Defection Law? / भारतीय संविधान की कौन सी अनुसूची दल-बदल विरोधी कानून से संबंधित है?",
+      "options": ["Tenth Schedule / दसवीं अनुसूची", "Eighth Schedule / आठवीं अनुसूची", "Ninth Schedule / नौवीं अनुसूची", "Eleventh Schedule / ग्यारहवीं अनुसूची"],
+      "answer": 0,
+      "explanation": "Added by 52nd Amendment in 1985. / इसे 1985 के 52वें संशोधन द्वारा जोड़ा गया था।"
+    },
+    {
+      "id": 26,
+      "question": "Who was the author of 'Indika'? / 'इंडिका' के लेखक कौन थे?",
+      "options": ["Megasthenes / मेगस्थनीज", "Fahien / फाह्यान", "Hiuen Tsang / ह्वेनसांग", "Al-Biruni / अल-बिरूनी"],
+      "answer": 0,
+      "explanation": "Megasthenes was a Greek ambassador in Chandragupta Maurya's court. / मेगस्थनीज चंद्रगुप्त मौर्य के दरबार में यूनानी राजदूत था।"
+    },
+    {
+      "id": 27,
+      "question": "Which blood cell helps in blood clotting? / कौन सी रक्त कोशिकाएं रक्त का थक्का जमने में मदद करती हैं?",
+      "options": ["Platelets / प्लेटलेट्स", "RBC / लाल रक्त कोशिकाएं", "WBC / श्वेत रक्त कोशिकाएं", "Plasma / प्लाज्मा"],
+      "answer": 0,
+      "explanation": "Platelets (Thrombocytes) facilitate blood coagulation. / प्लेटलेट्स थक्का जमाने की प्रक्रिया में सहायता करते हैं।"
+    },
+    {
+      "id": 28,
+      "question": "Where is the Jim Corbett National Park situated? / जिम कॉर्बेट राष्ट्रीय उद्यान कहाँ स्थित है?",
+      "options": ["Uttarakhand / उत्तराखंड", "Himachal Pradesh / हिमाचल प्रदेश", "Assam / असम", "Madhya Pradesh / मध्य प्रदेश"],
+      "answer": 0,
+      "explanation": "Established in 1936 as Hailey National Park in Uttarakhand. / उत्तराखंड में स्थित भारत का पहला राष्ट्रीय उद्यान।"
+    },
+    {
+      "id": 29,
+      "question": "Which element is present in chlorophyll? / क्लोरोफिल में कौन सा तत्व मौजूद होता है?",
+      "options": ["Magnesium / मैग्नीशियम", "Iron / लोहा", "Calcium / कैल्शियम", "Sodium / सोडियम"],
+      "answer": 0,
+      "explanation": "Magnesium atom forms the center of the chlorophyll molecule. / क्लोरोफिल अणु के केंद्र में मैग्नीशियम होता है।"
+    },
+    {
+      "id": 30,
+      "question": "Who was the political guru of Mahatma Gandhi? / महात्मा गांधी के राजनीतिक गुरु कौन थे?",
+      "options": ["Gopal Krishna Gokhale / गोपाल कृष्ण गोखले", "Bal Gangadhar Tilak / बाल गंगाधर तिलक", "Dadabhai Naoroji / दादाभाई नौरोजी", "Lala Lajpat Rai / लाला लाजपत राय"],
+      "answer": 0,
+      "explanation": "Gokhale guided Gandhi on Indian socio-political issues. / गोखले ने गांधी जी को भारत की राजनीति से परिचित कराया था।"
+    },
+    {
+      "id": 31,
+      "question": "What is the speed of light in vacuum? / निर्वात में प्रकाश की गति क्या है?",
+      "options": ["3 × 10^8 m/s", "3 × 10^5 m/s", "3 × 10^6 m/s", "3 × 10^10 m/s"],
+      "answer": 0,
+      "explanation": "Light travels at approx 300,000 km/s in vacuum. / निर्वात में प्रकाश की चाल लगभग 3 लाख किमी/सेकंड होती है।"
+    },
+    {
+      "id": 32,
+      "question": "Who introduced the Ryotwari System in India? / भारत में रयतवाड़ी व्यवस्था किसने शुरू की थी?",
+      "options": ["Thomas Munro / थॉमस मुनरो", "Lord Cornwallis / लॉर्ड कॉर्नवालिस", "Warren Hastings / वारेन हेस्टिंग्स", "Lord Wellesley / लॉर्ड वेलेस्ली"],
+      "answer": 0,
+      "explanation": "Thomas Munro introduced Ryotwari system in Madras Presidency in 1820. / थॉमस मुनरो ने 1820 में मद्रास में रयतवाड़ी व्यवस्था लागू की थी।"
+    },
+    {
+      "id": 33,
+      "question": "Which enzyme digests proteins in the stomach? / पेट में प्रोटीन को पचाने वाला एंजाइम कौन सा है?",
+      "options": ["Pepsin / पेप्सिन", "Trypsin / ट्रिप्सिन", "Amylase / एमाइलेज", "Lipase / लाइपेज"],
+      "answer": 0,
+      "explanation": "Pepsin in gastric juice breaks down proteins. / गैस्ट्रिक जूस में मौजूद पेप्सिन प्रोटीन का पाचन करता है।"
+    },
+    {
+      "id": 34,
+      "question": "Which state has the lowest population density as per 2011 census? / 2011 की जनगणना के अनुसार सबसे कम जनसंख्या घनत्व वाला राज्य कौन सा है?",
+      "options": ["Arunachal Pradesh / अरुणाचल प्रदेश", "Sikkim / सिक्किम", "Mizoram / मिजोरम", "Nagaland / नागालैंड"],
+      "answer": 0,
+      "explanation": "Arunachal Pradesh has a density of 17 persons per sq km. / अरुणाचल प्रदेश का जनघनत्व केवल 17 व्यक्ति प्रति वर्ग किमी है।"
+    },
+    {
+      "id": 35,
+      "question": "What is the SI unit of sound intensity? / ध्वनि की तीव्रता की SI इकाई क्या है?",
+      "options": ["Watt per square meter / वाट प्रति वर्ग मीटर", "Decibel / डेसिबल", "Hertz / हर्ट्ज़", "Pascal / पास्कल"],
+      "answer": 0,
+      "explanation": "Watt/m² is SI unit; Decibel is practical unit for sound level. / SI इकाई वाट/वर्ग मीटर है; डेसिबल व्यावहारिक इकाई है।"
+    },
+    {
+      "id": 36,
+      "question": "Who founded the Servants of India Society? / सर्वेंट्स ऑफ इंडिया सोसाइटी की स्थापना किसने की थी?",
+      "options": ["Gopal Krishna Gokhale / गोपाल कृष्ण गोखले", "B.G. Tilak / बी.जी. तिलक", "Annie Besant / एनी बेसेंट", "Lala Lajpat Rai / लाला लाजपत राय"],
+      "answer": 0,
+      "explanation": "Gokhale founded it in 1905 in Pune. / गोखले ने 1905 में पुणे में इसकी स्थापना की थी।"
+    },
+    {
+      "id": 37,
+      "question": "Which acid is present in ant sting? / चींटी के डंक में कौन सा अम्ल मौजूद होता है?",
+      "options": ["Formic Acid (Methanoic Acid) / फॉर्मिक अम्ल", "Acetic Acid / एसिटिक अम्ल", "Citric Acid / साइट्रिक अम्ल", "Oxalic Acid / ऑक्जेलिक अम्ल"],
+      "answer": 0,
+      "explanation": "Formic acid causes pain and inflammation from ant bites. / चींटी के डंक से फॉर्मिक अम्ल (मेथेनॉइक अम्ल) निकलता है।"
+    },
+    {
+      "id": 38,
+      "question": "Which pass connects Srinagar to Leh? / कौन सा दर्रा श्रीनगर को लेह से जोड़ता है?",
+      "options": ["Zoji La / जोजिला दर्रा", "Nathu La / नाथूला दर्रा", "Shipki La / शिपकी ला", "Rohtang Pass / रोहतांग दर्रा"],
+      "answer": 0,
+      "explanation": "Zoji La pass in Ladakh connects Srinagar to Leh. / जोजिला दर्रा श्रीनगर और लेह को जोड़ता है।"
+    },
+    {
+      "id": 39,
+      "question": "Who was the Chairman of the Union Constitution Committee? / संघ संविधान समिति के अध्यक्ष कौन थे?",
+      "options": ["Jawaharlal Nehru / जवाहरलाल नेहरू", "B.R. Ambedkar / बी.आर. अम्बेडकर", "Sardar Patel / सरदार पटेल", "J.B. Kripalani / जे.बी. कृपलानी"],
+      "answer": 0,
+      "explanation": "Jawaharlal Nehru headed the Union Constitution Committee. / जवाहरलाल नेहरू संघ संविधान समिति के अध्यक्ष थे।"
+    },
+    {
+      "id": 40,
+      "question": "Which mirror is used as a rear-view mirror in vehicles? / वाहनों में साइड/पीछे देखने के लिए किस दर्पण का प्रयोग किया जाता है?",
+      "options": ["Convex Mirror / उत्तल दर्पण", "Concave Mirror / अवतल दर्पण", "Plane Mirror / समतल दर्पण", "Parabolic Mirror / परवलयिक दर्पण"],
+      "answer": 0,
+      "explanation": "Convex mirrors provide a wider field of view and erect images. / उत्तल दर्पण बड़ा दृश्य क्षेत्र और सीधा प्रतिबिंब प्रदान करते हैं।"
+    },
+    {
+      "id": 41,
+      "question": "Where is the headquarters of the Asian Development Bank (ADB)? / एशियाई विकास बैंक (ADB) का मुख्यालय कहाँ स्थित है?",
+      "options": ["Manila, Philippines / मनीला, फिलीपींस", "Tokyo, Japan / टोक्यो, जापान", "Beijing, China / बीजिंग, चीन", "Singapore / सिंगापुर"],
+      "answer": 0,
+      "explanation": "ADB headquarters is in Mandaluyong, Manila, Philippines. / ADB का मुख्यालय मनीला (फिलीपींस) में है।"
+    },
+    {
+      "id": 42,
+      "question": "Which ruler assumed the title of 'Vikramaditya'? / किस शासक ने 'विक्रमादित्य' की उपाधि धारण की थी?",
+      "options": ["Chandragupta II / चंद्रगुप्त द्वितीय", "Samudragupta / समुद्रगुप्त", "Chandragupta I / चंद्रगुप्त प्रथम", "Harshavardhana / हर्षवर्धन"],
+      "answer": 0,
+      "explanation": "Chandragupta II of the Gupta dynasty took the title Vikramaditya. / गुप्त शासक चंद्रगुप्त द्वितीय ने विक्रमादित्य की उपाधि ली।"
+    },
+    {
+      "id": 43,
+      "question": "What is the study of fungi called? / कवक के अध्ययन को क्या कहा जाता है?",
+      "options": ["Mycology / माइकोलॉजी", "Phycology / फाइकोलॉजी", "Virology / वायरोलॉजी", "Bacteriology / बैक्टीरियोलॉजी"],
+      "answer": 0,
+      "explanation": "Mycology is the branch of biology concerned with fungi. / कवकों का अध्ययन माइकोलॉजी कहलाता है।"
+    },
+    {
+      "id": 44,
+      "question": "In which year was the Reserve Bank of India nationalized? / भारतीय रिज़र्व बैंक का राष्ट्रीयकरण किस वर्ष हुआ था?",
+      "options": ["1949", "1935", "1947", "1950"],
+      "answer": 0,
+      "explanation": "RBI was established in 1935 and nationalized on 1 January 1949. / RBI का राष्ट्रीयकरण 1 जनवरी 1949 को हुआ था।"
+    },
+    {
+      "id": 45,
+      "question": "Which gas is released during photosynthesis? / प्रकाश संश्लेषण के दौरान कौन सी गैस निकलती है?",
+      "options": ["Oxygen / ऑक्सीजन", "Carbon Dioxide / कार्बन डाइऑक्साइड", "Nitrogen / नाइट्रोजन", "Methane / मीथेन"],
+      "answer": 0,
+      "explanation": "Plants absorb CO2 and release Oxygen during photosynthesis. / प्रकाश संश्लेषण में पौधे CO2 लेते हैं और ऑक्सीजन छोड़ते हैं।"
+    },
+    {
+      "id": 46,
+      "question": "Who was the first Indian to receive a Nobel Prize in Physics? / भौतिकी में नोबेल पुरस्कार पाने वाले पहले भारतीय कौन थे?",
+      "options": ["C.V. Raman / सी.वी. रमन", "Homi Bhabha / होमी भाभा", "S. Chandrasekhar / एस. चंद्रशेखर", "J.C. Bose / जे.सी. बोस"],
+      "answer": 0,
+      "explanation": "C.V. Raman won the Nobel Prize in 1930 for Raman Effect. / रमन प्रभाव के लिए सी.वी. रमन को 1930 में नोबेल मिला।"
+    },
+    {
+      "id": 47,
+      "question": "Which river is known as the 'Singi Khamban' in Tibet? / तिब्बत में किस नदी को 'सिंगी खंबन' (शेर का मुख) कहा जाता है?",
+      "options": ["Indus / सिंधु", "Brahmaputra / ब्रह्मपुत्र", "Sutlej / सतलुज", "Ganga / गंगा"],
+      "answer": 0,
+      "explanation": "The Indus river is called Singi Khamban in Tibetan language. / तिब्बती भाषा में सिंधु नदी को सिंगी खंबन कहते हैं।"
+    },
+    {
+      "id": 48,
+      "question": "Which constitutional amendment introduced Panchayati Raj System? / किस संविधान संशोधन द्वारा पंचायती राज व्यवस्था लागू की गई?",
+      "options": ["73rd Amendment / 73वां संशोधन", "74th Amendment / 74वां संशोधन", "42nd Amendment / 42वां संशोधन", "44th Amendment / 44वां संशोधन"],
+      "answer": 0,
+      "explanation": "73rd Constitutional Amendment Act 1992 added Schedule 11. / 73वें संशोधन द्वारा 11वीं अनुसूची जोड़ी गई।"
+    },
+    {
+      "id": 49,
+      "question": "Which organelle is called the 'Powerhouse of the Cell'? / किस कोशिकांग को 'कोशिका का शक्तिगृह' कहा जाता है?",
+      "options": ["Mitochondria / माइटोकॉन्ड्रिया", "Ribosome / राइबोसोम", "Lysosome / लाइसोसोम", "Nucleus / केंद्रक"],
+      "answer": 0,
+      "explanation": "Mitochondria generates ATP, the energy currency of the cell. / माइटोकॉन्ड्रिया ऊर्जा (ATP) का उत्पादन करता है।"
+    },
+    {
+      "id": 50,
+      "question": "Who founded the All India Muslim League in 1906? / 1906 में ऑल इंडिया मुस्लिम लीग की स्थापना किसने की थी?",
+      "options": ["Nawab Salimullah & Aga Khan / नवाब सलीमुल्लाह एवं आगा खान", "Syed Ahmed Khan / सैयद अहमद खान", "Muhammad Ali Jinnah / एम.ए. जिन्ना", "Liaquat Ali / लियाकत अली"],
+      "answer": 0,
+      "explanation": "Founded in Dhaka in December 1906 under leadership of Aga Khan and Salimullah. / 1906 में ढाका में मुस्लिम लीग की स्थापना हुई थी।"
     }
-  }
-]
+  ]
+}
