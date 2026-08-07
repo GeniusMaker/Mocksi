@@ -6,20 +6,24 @@
   "shuffle": false,
   "sources": [
     {
-      "section": "General Intelligence & Reasoning",
-      "file": "ssc/cgl/tier1/Reasoning/ssc_cgl_t1_Reasoning_en-hi_01.json"
+      "section": "General Intelligence & Reasoning / सामान्य बुद्धिमत्ता एवं तर्कशक्ति",
+      "file": "ssc/cgl/tier1/Reasoning/ssc_cgl_t1_Reasoning_en-hi_01.json",
+      "limitQuestions": 25
     },
     {
-      "section": "General Awareness",
-      "file": "ssc/cgl/tier1/Gen-Awareness/ssc_cgl_t1_GA_en-hi_01.json"
+      "section": "General Awareness / सामान्य जागरूकता",
+      "file": "ssc/cgl/tier1/Gen-Awareness/ssc_cgl_t1_GA_en-hi_01.json",
+      "limitQuestions": 25
     },
     {
-      "section": "Quantitative Aptitude",
-      "file": "ssc/cgl/tier1/Mathematical-Abilities/ssc_cgl_t1_Math_en-hi_01.json"
+      "section": "Quantitative Aptitude / मात्रात्मक रुझान",
+      "file": "ssc/cgl/tier1/Mathematical-Abilities/ssc_cgl_t1_Math_en-hi_01.json",
+      "limitQuestions": 25
     },
     {
-      "section": "English Language",
-      "file": "ssc/cgl/tier1/English-Language/ssc_cgl_t1_English_en-hi_01.json"
+      "section": "English Language / अंग्रेजी भाषा",
+      "file": "ssc/cgl/tier1/English-Language/ssc_cgl_t1_English_en-hi_01.json",
+      "limitQuestions": 25
     }
   ]
 }
