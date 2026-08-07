@@ -1,18 +1,608 @@
-[
-  {
-    "id": 1,
-    "question": {
-      "en": "Sample Question in English?",
-      "hi": "????? ??? ????? ???????"
+{
+  "title": "SSC MTS Session 1 - Numerical & Mathematical Ability / एसएससी एमटीएस सत्र 1 - संख्यात्मक और गणितीय क्षमता",
+  "positiveMarks": 3,
+  "negativeMarks": 0,
+  "timeLimitMinutes": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the HCF of 36 and 84? / 36 और 84 का म.स.प. (HCF) क्या है?",
+      "options": [
+        "6",
+        "12",
+        "18",
+        "24"
+      ],
+      "answer": 1,
+      "explanation": "36 = 12 × 3, 84 = 12 × 7. Highest Common Factor = 12. / 36 = 12 × 3, 84 = 12 × 7। महत्तम समापवर्तक = 12।"
     },
-    "options": {
-      "en": ["Option A", "Option B", "Option C", "Option D"],
-      "hi": ["?????? A", "?????? B", "?????? C", "?????? D"]
+    {
+      "id": 2,
+      "question": "If 20% of a number is 80, what is 50% of that number? / यदि किसी संख्या का 20% 80 है, तो उस संख्या का 50% क्या होगा?",
+      "options": [
+        "160",
+        "200",
+        "240",
+        "400"
+      ],
+      "answer": 1,
+      "explanation": "Number = (80 / 20) × 100 = 400. 50% of 400 = 200. / संख्या = (80 / 20) × 100 = 400। 400 का 50% = 200।"
     },
-    "answer": 0,
-    "explanation": {
-      "en": "Explanation in English.",
-      "hi": "????? ??? ?????????"
+    {
+      "id": 3,
+      "question": "Find the average of first five prime numbers. / प्रथम पांच अभाज्य संख्याओं का औसत ज्ञात कीजिए।",
+      "options": [
+        "5.0",
+        "5.6",
+        "6.0",
+        "6.2"
+      ],
+      "answer": 1,
+      "explanation": "First 5 prime numbers = 2, 3, 5, 7, 11. Sum = 28. Average = 28 / 5 = 5.6. / प्रथम 5 अभाज्य संख्याएँ = 2, 3, 5, 7, 11। योग = 28। औसत = 28 / 5 = 5.6।"
+    },
+    {
+      "id": 4,
+      "question": "A article is bought for Rs. 500 and sold for Rs. 600. Find the profit percentage. / एक वस्तु 500 रुपये में खरीदी जाती है और 600 रुपये में बेची जाती है। लाभ प्रतिशत ज्ञात कीजिए।",
+      "options": [
+        "10%",
+        "15%",
+        "20%",
+        "25%"
+      ],
+      "answer": 2,
+      "explanation": "Profit = 600 - 500 = 100. Profit % = (100 / 500) × 100 = 20%. / लाभ = 600 - 500 = 100। लाभ % = (100 / 500) × 100 = 20%।"
+    },
+    {
+      "id": 5,
+      "question": "Simplify: 45 + 15 ÷ 3 × 2 - 10 / सरल कीजिए: 45 + 15 ÷ 3 × 2 - 10",
+      "options": [
+        "45",
+        "30",
+        "35",
+        "50"
+      ],
+      "answer": 0,
+      "explanation": "Apply BODMAS: 15 ÷ 3 = 5; 5 × 2 = 10; 45 + 10 - 10 = 45. / BODMAS नियम लागू करें: 15 ÷ 3 = 5; 5 × 2 = 10; 45 + 10 - 10 = 45।"
+    },
+    {
+      "id": 6,
+      "question": "The ratio of two numbers is 3:4 and their sum is 140. Find the larger number. / दो संख्याओं का अनुपात 3:4 है और उनका योग 140 है। बड़ी संख्या ज्ञात कीजिए।",
+      "options": [
+        "60",
+        "70",
+        "80",
+        "90"
+      ],
+      "answer": 2,
+      "explanation": "Sum parts = 3 + 4 = 7. 1 part = 140 / 7 = 20. Larger number = 4 × 20 = 80. / कुल भाग = 3 + 4 = 7। 1 भाग = 140 / 7 = 20। बड़ी संख्या = 4 × 20 = 80।"
+    },
+    {
+      "id": 7,
+      "question": "Find the simple interest on Rs. 2000 at 5% per annum for 3 years. / 2000 रुपये पर 5% वार्षिक दर से 3 वर्ष का साधारण ब्याज ज्ञात कीजिए।",
+      "options": [
+        "Rs. 200",
+        "Rs. 300",
+        "Rs. 400",
+        "Rs. 500"
+      ],
+      "answer": 1,
+      "explanation": "SI = (P × R × T) / 100 = (2000 × 5 × 3) / 100 = 300. / साधारण ब्याज = (मूलधन × दर × समय) / 100 = (2000 × 5 × 3) / 100 = 300।"
+    },
+    {
+      "id": 8,
+      "question": "A train running at 60 km/h crosses a pole in 9 seconds. What is the length of the train? / 60 सेमी/घंटा की गति से चल रही एक ट्रेन 9 सेकंड में एक खंभे को पार करती है। ट्रेन की लंबाई क्या है?",
+      "options": [
+        "120 m",
+        "150 m",
+        "180 m",
+        "200 m"
+      ],
+      "answer": 1,
+      "explanation": "Speed in m/s = 60 × (5/18) = 50/3 m/s. Distance = Speed × Time = (50/3) × 9 = 150 m. / गति मीटर/सेकंड में = 60 × (5/18) = 50/3 मीटर/सेकंड। दूरी = गति × समय = (50/3) × 9 = 150 मीटर।"
+    },
+    {
+      "id": 9,
+      "question": "If A can complete a work in 10 days and B in 15 days, how long will they take together? / यदि A किसी काम को 10 दिनों में और B 15 दिनों में कर सकता है, तो वे मिलकर इसे कितने दिनों में पूरा करेंगे?",
+      "options": [
+        "5 days / 5 दिन",
+        "6 days / 6 दिन",
+        "8 days / 8 दिन",
+        "12 days / 12 दिन"
+      ],
+      "answer": 1,
+      "explanation": "Combined efficiency = (1/10) + (1/15) = 5/30 = 1/6. Total days = 6. / संयुक्त क्षमता = (1/10) + (1/15) = 5/30 = 1/6। कुल दिन = 6।"
+    },
+    {
+      "id": 10,
+      "question": "What is the area of a square whose perimeter is 48 cm? / उस वर्ग का क्षेत्रफल क्या होगा जिसका परिमाप 48 सेमी है?",
+      "options": [
+        "120 cm²",
+        "144 cm²",
+        "169 cm²",
+        "196 cm²"
+      ],
+      "answer": 1,
+      "explanation": "Side = 48 / 4 = 12 cm. Area = 12² = 144 cm². / भुजा = 48 / 4 = 12 सेमी। क्षेत्रफल = 12² = 144 वर्ग सेमी।"
+    },
+    {
+      "id": 11,
+      "question": "Find the compound interest on Rs. 10,000 at 10% per annum for 2 years compounded annually. / 10,000 रुपये पर 10% वार्षिक दर से 2 वर्ष का चक्रवृद्घि ब्याज ज्ञात कीजिए।",
+      "options": [
+        "Rs. 2000",
+        "Rs. 2100",
+        "Rs. 2200",
+        "Rs. 2500"
+      ],
+      "answer": 1,
+      "explanation": "Amount = 10000 × (1.1)² = 12100. CI = 12100 - 10000 = 2100. / मिश्रधन = 10000 × (1.1)² = 12100। चक्रवृद्धि ब्याज = 12100 - 10000 = 2100।"
+    },
+    {
+      "id": 12,
+      "question": "What value will come in place of question mark (?) in: √144 + √169 = ? / निम्नलिखित में प्रश्नचिह्न (?) के स्थान पर क्या मान आएगा: √144 + √169 = ?",
+      "options": [
+        "23",
+        "25",
+        "27",
+        "29"
+      ],
+      "answer": 1,
+      "explanation": "√144 = 12, √169 = 13. Sum = 12 + 13 = 25. / √144 = 12, √169 = 13। योग = 12 + 13 = 25।"
+    },
+    {
+      "id": 13,
+      "question": "If 12 men can build a wall in 6 days, how many days will 8 men take to build it? / यदि 12 आदमी किसी दीवार को 6 दिनों में बना सकते हैं, तो 8 आदमी उसे बनाने में कितने दिन लेंगे?",
+      "options": [
+        "7 days / 7 दिन",
+        "8 days / 8 दिन",
+        "9 days / 9 दिन",
+        "10 days / 10 दिन"
+      ],
+      "answer": 2,
+      "explanation": "M1 × D1 = M2 × D2 => 12 × 6 = 8 × D2 => D2 = 72 / 8 = 9 days. / M1 × D1 = M2 × D2 => 12 × 6 = 8 × D2 => D2 = 72 / 8 = 9 दिन।"
+    },
+    {
+      "id": 14,
+      "question": "The diameter of a circle is 14 cm. Find its circumference (π = 22/7). / एक वृत्त का व्यास 14 सेमी है। इसकी परिधि ज्ञात कीजिए (π = 22/7)।",
+      "options": [
+        "22 cm",
+        "44 cm",
+        "88 cm",
+        "154 cm"
+      ],
+      "answer": 1,
+      "explanation": "Circumference = π × d = (22/7) × 14 = 44 cm. / परिधि = π × d = (22/7) × 14 = 44 सेमी।"
+    },
+    {
+      "id": 15,
+      "question": "Express 3/5 as a percentage. / 3/5 को प्रतिशत में व्यक्त कीजिए।",
+      "options": [
+        "30%",
+        "50%",
+        "60%",
+        "75%"
+      ],
+      "answer": 2,
+      "explanation": "(3 / 5) × 100 = 60%. / (3 / 5) × 100 = 60%।"
+    },
+    {
+      "id": 16,
+      "question": "Find the median of the following numbers: 5, 2, 9, 1, 7. / निम्नलिखित संख्याओं की माध्यिका ज्ञात कीजिए: 5, 2, 9, 1, 7।",
+      "options": [
+        "2",
+        "5",
+        "7",
+        "9"
+      ],
+      "answer": 1,
+      "explanation": "Arranging in ascending order: 1, 2, 5, 7, 9. The middle number is 5. / आरोही क्रम में व्यवस्थित करने पर: 1, 2, 5, 7, 9। मध्य संख्या 5 है।"
+    },
+    {
+      "id": 17,
+      "question": "A shopkeeper offers two successive discounts of 10% and 20%. Find the single equivalent discount. / एक दुकानदार 10% और 20% की दो क्रमिक छूट प्रदान करता है। एकल समतुल्य छूट ज्ञात कीजिए।",
+      "options": [
+        "28%",
+        "30%",
+        "32%",
+        "25%"
+      ],
+      "answer": 0,
+      "explanation": "Equivalent discount = a + b - (ab / 100) = 10 + 20 - (200/100) = 28%. / समतुल्य छूट = a + b - (ab / 100) = 10 + 20 - (200/100) = 28%।"
+    },
+    {
+      "id": 18,
+      "question": "If x:y = 2:3 and y:z = 4:5, find x:z. / यदि x:y = 2:3 और y:z = 4:5 है, तो x:z ज्ञात कीजिए।",
+      "options": [
+        "8:15",
+        "2:5",
+        "6:15",
+        "8:10"
+      ],
+      "answer": 0,
+      "explanation": "x/z = (x/y) × (y/z) = (2/3) × (4/5) = 8/15. / x/z = (x/y) × (y/z) = (2/3) × (4/5) = 8/15।"
+    },
+    {
+      "id": 19,
+      "question": "Find the volume of a cube whose side length is 6 cm. / 6 सेमी भुजा वाले घन का आयतन ज्ञात कीजिए।",
+      "options": [
+        "36 cm³",
+        "144 cm³",
+        "216 cm³",
+        "256 cm³"
+      ],
+      "answer": 2,
+      "explanation": "Volume of cube = side³ = 6³ = 216 cm³. / घन का आयतन = भुजा³ = 6³ = 216 घन सेमी।"
+    },
+    {
+      "id": 20,
+      "question": "What is the smallest 3-digit prime number? / 3 अंकों की सबसे छोटी अभाज्य संख्या कौन सी है?",
+      "options": [
+        "101",
+        "103",
+        "107",
+        "109"
+      ],
+      "answer": 0,
+      "explanation": "101 is the smallest 3-digit prime number. / 101 तीन अंकों की सबसे छोटी अभाज्य संख्या है।"
+    },
+    {
+      "id": 21,
+      "question": "A cyclist covers 900 meters in 2 minutes 30 seconds. What is his speed in km/h? / एक साइकिल चालक 2 मिनट 30 सेकंड में 900 मीटर की दूरी तय करता है। उसकी गति किमी/घंटा में क्या है?",
+      "options": [
+        "18 km/h",
+        "21.6 km/h",
+        "25 km/h",
+        "14.4 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Time = 150 s. Speed = 900 / 150 = 6 m/s. Speed in km/h = 6 × (18/5) = 21.6 km/h. / समय = 150 सेकंड। गति = 900 / 150 = 6 मीटर/सेकंड। किमी/घंटा में गति = 6 × (18/5) = 21.6 किमी/घंटा।"
+    },
+    {
+      "id": 22,
+      "question": "If a dozen bananas cost Rs. 60, find the cost of 7 bananas. / यदि एक दर्जन केले का मूल्य 60 रुपये है, तो 7 केलों का मूल्य ज्ञात कीजिए।",
+      "options": [
+        "Rs. 30",
+        "Rs. 35",
+        "Rs. 40",
+        "Rs. 42"
+      ],
+      "answer": 1,
+      "explanation": "Cost of 1 banana = 60 / 12 = Rs. 5. Cost of 7 bananas = 7 × 5 = Rs. 35. / 1 केले का मूल्य = 60 / 12 = 5 रुपये। 7 केलों का मूल्य = 7 × 5 = 35 रुपये।"
+    },
+    {
+      "id": 23,
+      "question": "What is the LCM of 12, 18, and 24? / 12, 18 और 24 का ल.स.प. (LCM) क्या है?",
+      "options": [
+        "48",
+        "72",
+        "96",
+        "108"
+      ],
+      "answer": 1,
+      "explanation": "LCM(12, 18, 24) = 72. / 12, 18 और 24 का लघुत्तम समापवर्त्य = 72।"
+    },
+    {
+      "id": 24,
+      "question": "Find the value of (2³ × 3²). / (2³ × 3²) का मान ज्ञात कीजिए।",
+      "options": [
+        "36",
+        "48",
+        "72",
+        "108"
+      ],
+      "answer": 2,
+      "explanation": "2³ = 8, 3² = 9. 8 × 9 = 72. / 2³ = 8, 3² = 9। 8 × 9 = 72।"
+    },
+    {
+      "id": 25,
+      "question": "A man sells a watch for Rs. 1440 at a loss of 10%. What was the cost price? / एक व्यक्ति एक घड़ी को 10% की हानि पर 1440 रुपये में बेचता है। क्रय मूल्य क्या था?",
+      "options": [
+        "Rs. 1500",
+        "Rs. 1600",
+        "Rs. 1800",
+        "Rs. 2000"
+      ],
+      "answer": 1,
+      "explanation": "CP = SP / (1 - Loss%) = 1440 / 0.9 = Rs. 1600. / क्रय मूल्य = विक्रय मूल्य / (1 - हानि%) = 1440 / 0.9 = 1600 रुपये।"
+    },
+    {
+      "id": 26,
+      "question": "What is the third proportional to 4 and 12? / 4 और 12 का तृतीयानुपाती क्या है?",
+      "options": [
+        "24",
+        "36",
+        "48",
+        "16"
+      ],
+      "answer": 1,
+      "explanation": "4 : 12 :: 12 : x => 4x = 144 => x = 36. / 4 : 12 :: 12 : x => 4x = 144 => x = 36।"
+    },
+    {
+      "id": 27,
+      "question": "Find the average of all even numbers between 1 and 19. / 1 और 19 के बीच की सभी सम संख्याओं का औसत ज्ञात कीजिए।",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "answer": 1,
+      "explanation": "Even numbers = 2, 4, 6, ..., 18. Average = (First + Last)/2 = (2 + 18)/2 = 10. / सम संख्याएँ = 2, 4, 6, ..., 18। औसत = (प्रथम + अंतिम)/2 = (2 + 18)/2 = 10।"
+    },
+    {
+      "id": 28,
+      "question": "If 15% of a number is 45, what is the number? / यदि किसी संख्या का 15% 45 है, तो संख्या क्या है?",
+      "options": [
+        "250",
+        "300",
+        "350",
+        "400"
+      ],
+      "answer": 1,
+      "explanation": "Number = (45 / 15) × 100 = 300. / संख्या = (45 / 15) × 100 = 300।"
+    },
+    {
+      "id": 29,
+      "question": "A pipe can fill a tank in 4 hours. Another pipe can empty it in 6 hours. If both are open, how long will it take to fill the tank? / एक पाइप एक टंकी को 4 घंटे में भर सकता है। दूसरा पाइप इसे 6 घंटे में खाली कर सकता है। यदि दोनों खुले हों, तो टंकी को भरने में कितना समय लगेगा?",
+      "options": [
+        "8 hours / 8 घंटे",
+        "10 hours / 10 घंटे",
+        "12 hours / 12 घंटे",
+        "14 hours / 14 घंटे"
+      ],
+      "answer": 2,
+      "explanation": "Net rate = (1/4) - (1/6) = (3 - 2)/12 = 1/12. Time = 12 hours. / शुद्ध दर = (1/4) - (1/6) = (3 - 2)/12 = 1/12। समय = 12 घंटे।"
+    },
+    {
+      "id": 30,
+      "question": "Find the perimeter of a rectangle with length 15 cm and breadth 10 cm. / 15 सेमी लंबाई और 10 सेमी चौड़ाई वाले आयत का परिमाप ज्ञात कीजिए।",
+      "options": [
+        "45 cm",
+        "50 cm",
+        "60 cm",
+        "150 cm"
+      ],
+      "answer": 1,
+      "explanation": "Perimeter = 2 × (L + B) = 2 × (15 + 10) = 50 cm. / परिमाप = 2 × (लंबाई + चौड़ाई) = 2 × (15 + 10) = 50 सेमी।"
+    },
+    {
+      "id": 31,
+      "question": "Evaluate: 0.04 × 0.2 / मान ज्ञात कीजिए: 0.04 × 0.2",
+      "options": [
+        "0.8",
+        "0.08",
+        "0.008",
+        "0.0008"
+      ],
+      "answer": 2,
+      "explanation": "4 × 2 = 8. Total decimal places = 2 + 1 = 3. So 0.008. / 4 × 2 = 8। कुल दशमलव स्थान = 2 + 1 = 3। अत: 0.008।"
+    },
+    {
+      "id": 32,
+      "question": "A sum of money doubles itself in 8 years at simple interest. Find the rate of interest. / साधारण ब्याज पर कोई धनराशि 8 वर्षों में स्वयं की दोगुनी हो जाती है। ब्याज की दर ज्ञात कीजिए।",
+      "options": [
+        "10%",
+        "12.5%",
+        "15%",
+        "20%"
+      ],
+      "answer": 1,
+      "explanation": "Rate = (100 × (N - 1)) / Time = (100 × 1) / 8 = 12.5%. / दर = (100 × (N - 1)) / समय = (100 × 1) / 8 = 12.5%।"
+    },
+    {
+      "id": 33,
+      "question": "What is the mode of the dataset: 3, 5, 7, 3, 2, 3, 9, 5? / आंकड़े: 3, 5, 7, 3, 2, 3, 9, 5 का बहुलक क्या है?",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "2"
+      ],
+      "answer": 0,
+      "explanation": "3 occurs most frequently (3 times). / 3 सबसे अधिक बार (3 बार) आता है।"
+    },
+    {
+      "id": 34,
+      "question": "Find the diagonal of a rectangle of length 8 cm and width 6 cm. / 8 सेमी लंबाई और 6 सेमी चौड़ाई वाले आयत का विकर्ण ज्ञात कीजिए।",
+      "options": [
+        "10 cm",
+        "12 cm",
+        "14 cm",
+        "16 cm"
+      ],
+      "answer": 0,
+      "explanation": "Diagonal = √(8² + 6²) = √(64 + 36) = √100 = 10 cm. / विकर्ण = √(8² + 6²) = √(64 + 36) = √100 = 10 सेमी।"
+    },
+    {
+      "id": 35,
+      "question": "If x + 1/x = 4, find x² + 1/x². / यदि x + 1/x = 4 है, तो x² + 1/x² का मान ज्ञात कीजिए।",
+      "options": [
+        "12",
+        "14",
+        "16",
+        "18"
+      ],
+      "answer": 1,
+      "explanation": "x² + 1/x² = (x + 1/x)² - 2 = 4² - 2 = 14. / x² + 1/x² = (x + 1/x)² - 2 = 4² - 2 = 14।"
+    },
+    {
+      "id": 36,
+      "question": "By selling a shirt for Rs. 450, a trader loses 10%. At what price should he sell it to gain 20%? / एक कमीज को 450 रुपये में बेचने पर एक व्यापारी को 10% की हानि होती है। 20% का लाभ प्राप्त करने के लिए उसे इसे किस मूल्य पर बेचना चाहिए?",
+      "options": [
+        "Rs. 500",
+        "Rs. 540",
+        "Rs. 600",
+        "Rs. 650"
+      ],
+      "answer": 2,
+      "explanation": "CP = 450 / 0.9 = 500. New SP = 500 × 1.2 = Rs. 600. / क्रय मूल्य = 450 / 0.9 = 500। नया विक्रय मूल्य = 500 × 1.2 = 600 रुपये।"
+    },
+    {
+      "id": 37,
+      "question": "What is the angle sum of a heptagon (7-sided polygon)? / एक सप्तभुज (7 पक्षों वाला बहुभुज) के कोणों का योग क्या होता है?",
+      "options": [
+        "720°",
+        "900°",
+        "1080°",
+        "1260°"
+      ],
+      "answer": 1,
+      "explanation": "Sum = (n - 2) × 180° = (7 - 2) × 180° = 900°. / योग = (n - 2) × 180° = (7 - 2) × 180° = 900°।"
+    },
+    {
+      "id": 38,
+      "question": "A boat goes 12 km downstream in 1 hour and returns in 2 hours. What is the speed of stream? / एक नाव धारा के अनुकूल 12 किमी की दूरी 1 घंटे में तय करती है और 2 घंटे में वापस लौटती है। धारा की गति क्या है?",
+      "options": [
+        "2 km/h",
+        "3 km/h",
+        "4 km/h",
+        "6 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Downstream speed (u) = 12 km/h. Upstream speed (v) = 6 km/h. Stream speed = (u - v)/2 = (12 - 6)/2 = 3 km/h. / अनुकूल गति (u) = 12 किमी/घंटा। प्रतिकूल गति (v) = 6 किमी/घंटा। धारा की गति = (u - v)/2 = (12 - 6)/2 = 3 किमी/घंटा।"
+    },
+    {
+      "id": 39,
+      "question": "What number must be added to each term of ratio 2:5 so that it becomes 5:6? / 2:5 के अनुपात के प्रत्येक पद में कौन सी संख्या जोड़ी जानी चाहिए ताकि यह 5:6 हो जाए?",
+      "options": [
+        "13",
+        "11",
+        "7",
+        "15"
+      ],
+      "answer": 0,
+      "explanation": "(2 + x)/(5 + x) = 5/6 => 12 + 6x = 25 + 5x => x = 13. / (2 + x)/(5 + x) = 5/6 => 12 + 6x = 25 + 5x => x = 13।"
+    },
+    {
+      "id": 40,
+      "question": "Find the total surface area of a sphere of radius 7 cm (π = 22/7). / 7 सेमी त्रिज्या वाले एक गोले का कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए (π = 22/7)।",
+      "options": [
+        "154 cm²",
+        "308 cm²",
+        "616 cm²",
+        "1232 cm²"
+      ],
+      "answer": 2,
+      "explanation": "TSA = 4πr² = 4 × (22/7) × 7 × 7 = 616 cm². / कुल पृष्ठीय क्षेत्रफल = 4πr² = 4 × (22/7) × 7 × 7 = 616 वर्ग सेमी।"
+    },
+    {
+      "id": 41,
+      "question": "A car covers 200 km in 4 hours. What is its speed in m/s? / एक कार 4 घंटे में 200 किमी की दूरी तय करती है। इसकी गति m/s में क्या है?",
+      "options": [
+        "12.5 m/s",
+        "13.88 m/s",
+        "15 m/s",
+        "20 m/s"
+      ],
+      "answer": 1,
+      "explanation": "Speed = 200 / 4 = 50 km/h. In m/s = 50 × (5/18) = 250 / 18 ≈ 13.88 m/s. / गति = 200 / 4 = 50 किमी/घंटा। m/s में = 50 × (5/18) = 250 / 18 ≈ 13.88 m/s।"
+    },
+    {
+      "id": 42,
+      "question": "The marked price of an item is Rs. 800 and sold for Rs. 680. Find discount percentage. / एक वस्तु का अंकित मूल्य 800 रुपये है और इसे 680 रुपये में बेचा जाता है। छूट प्रतिशत ज्ञात कीजिए।",
+      "options": [
+        "12%",
+        "15%",
+        "18%",
+        "20%"
+      ],
+      "answer": 1,
+      "explanation": "Discount = 800 - 680 = 120. Discount % = (120 / 800) × 100 = 15%. / छूट = 800 - 680 = 120। छूट % = (120 / 800) × 100 = 15%।"
+    },
+    {
+      "id": 43,
+      "question": "What is the square root of 0.0009? / 0.0009 का वर्गमूल क्या है?",
+      "options": [
+        "0.3",
+        "0.03",
+        "0.003",
+        "0.0003"
+      ],
+      "answer": 1,
+      "explanation": "√(0.0009) = √(9 / 10000) = 3 / 100 = 0.03. / √(0.0009) = √(9 / 10000) = 3 / 100 = 0.03।"
+    },
+    {
+      "id": 44,
+      "question": "If 8 workers can finish a work in 12 days, how many extra workers are needed to finish it in 8 days? / यदि 8 मजदूर किसी काम को 12 दिनों में पूरा कर सकते हैं, तो उसी काम को 8 दिनों में पूरा करने के लिए कितने अतिरिक्त मजदूरों की आवश्यकता होगी?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 1,
+      "explanation": "8 × 12 = Total workers × 8 => Total workers = 12. Extra workers = 12 - 8 = 4. / 8 × 12 = कुल मजदूर × 8 => कुल मजदूर = 12। अतिरिक्त मजदूर = 12 - 8 = 4।"
+    },
+    {
+      "id": 45,
+      "question": "The sum of three consecutive odd numbers is 51. What is the middle number? / तीन क्रमागत विषम संख्याओं का योग 51 है। मध्य संख्या क्या है?",
+      "options": [
+        "15",
+        "17",
+        "19",
+        "21"
+      ],
+      "answer": 1,
+      "explanation": "Middle number = Sum / 3 = 51 / 3 = 17. / मध्य संख्या = योग / 3 = 51 / 3 = 17।"
+    },
+    {
+      "id": 46,
+      "question": "What principal gives an interest of Rs. 180 in 2 years at 6% p.a. simple interest? / कौन सा मूलधन 6% वार्षिक साधारण ब्याज की दर से 2 वर्षों में 180 रुपये का ब्याज देगा?",
+      "options": [
+        "Rs. 1200",
+        "Rs. 1500",
+        "Rs. 1800",
+        "Rs. 2000"
+      ],
+      "answer": 1,
+      "explanation": "P = (SI × 100) / (R × T) = (180 × 100) / (6 × 2) = 18000 / 12 = Rs. 1500. / मूलधन = (ब्याज × 100) / (दर × समय) = (180 × 100) / (6 × 2) = 18000 / 12 = 1500 रुपये।"
+    },
+    {
+      "id": 47,
+      "question": "If the ratio of ages of A and B is 4:5 and the sum of their ages is 36 years, find B's age. / यदि A और B की आयु का अनुपात 4:5 है और उनकी आयु का योग 36 वर्ष है, तो B की आयु ज्ञात कीजिए।",
+      "options": [
+        "16 years / 16 वर्ष",
+        "20 years / 20 वर्ष",
+        "24 years / 24 वर्ष",
+        "25 years / 25 वर्ष"
+      ],
+      "answer": 1,
+      "explanation": "Sum parts = 9. 1 part = 36/9 = 4 years. B's age = 5 × 4 = 20 years. / कुल भाग = 9। 1 भाग = 36/9 = 4 वर्ष। B की आयु = 5 × 4 = 20 वर्ष।"
+    },
+    {
+      "id": 48,
+      "question": "What is 12.5% expressed as a fraction in simplest form? / 12.5% को सरलतम रूप में भिन्न के रूप में क्या लिखा जाएगा?",
+      "options": [
+        "1/4",
+        "1/6",
+        "1/8",
+        "1/10"
+      ],
+      "answer": 2,
+      "explanation": "12.5 / 100 = 125 / 1000 = 1 / 8. / 12.5 / 100 = 125 / 1000 = 1 / 8।"
+    },
+    {
+      "id": 49,
+      "question": "A cylinder has height 10 cm and base radius 7 cm. Find its curved surface area (π = 22/7). / एक बेलन की ऊँचाई 10 सेमी और आधार त्रिज्या 7 सेमी है। इसका वक्र पृष्ठीय क्षेत्रफल ज्ञात कीजिए (π = 22/7)।",
+      "options": [
+        "220 cm²",
+        "440 cm²",
+        "660 cm²",
+        "880 cm²"
+      ],
+      "answer": 1,
+      "explanation": "CSA = 2πrh = 2 × (22/7) × 7 × 10 = 440 cm². / वक्र पृष्ठीय क्षेत्रफल = 2πrh = 2 × (22/7) × 7 × 10 = 440 वर्ग सेमी।"
+    },
+    {
+      "id": 50,
+      "question": "Find the average speed if a man travels from A to B at 30 km/h and returns at 20 km/h. / यदि कोई व्यक्ति A से B तक 30 किमी/घंटा की गति से जाता है और 20 किमी/घंटा की गति से वापस आता है, तो औसत गति ज्ञात कीजिए।",
+      "options": [
+        "24 km/h",
+        "25 km/h",
+        "26 km/h",
+        "27 km/h"
+      ],
+      "answer": 0,
+      "explanation": "Average Speed = (2xy) / (x + y) = (2 × 30 × 20) / (30 + 20) = 1200 / 50 = 24 km/h. / औसत गति = (2xy) / (x + y) = (2 × 30 × 20) / (30 + 20) = 1200 / 50 = 24 किमी/घंटा।"
     }
-  }
-]
+  ]
+}
